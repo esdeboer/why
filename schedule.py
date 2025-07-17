@@ -51,6 +51,7 @@ def createfrabxml(xml):
         title = e.find("title", wikins).text
         title = title.removeprefix('Session:')
         ET.SubElement(eventelement, "title").text = title
+        ET.SubElement(eventelement, "track").text = "Self Organized Session"
         # print(title)
         body = e.find("revision", wikins).find("text", wikins).text
         content = body.partition("}}")
@@ -68,6 +69,9 @@ def createfrabxml(xml):
                 ET.SubElement(eventelement, "url").text = line.removeprefix("|Has website=")
             elif line.startswith("|Has language"):
                 ET.SubElement(eventelement, "language").text = line.removeprefix("|Has language=")
+            elif line.startswith("|Is organized by"):
+                persons = ET.SubElement(eventelement,"persons")
+                ET.SubElement(persons, "person").text = line.removeprefix("|Is organized by=")
             # print(line)
 
         # print(description)
