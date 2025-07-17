@@ -45,7 +45,7 @@ def createfrabxml(xml):
     ET.SubElement(conference, "logo").text = "https://cfp.why2025.org/media/why2025/img/logo_yz1ryVf.png"
     ET.SubElement(conference, "time_zone_name").text = "Europe/Amsterdam"
 
-    eventsbydate = dict()
+    eventsbydateandroom = dict()
     for e in xml.findall("page", wikins):
         eventelement = ET.Element("event")
         title = e.find("title", wikins).text
@@ -86,6 +86,7 @@ def createfrabxml(xml):
         for e in events:
             event = eventelement.__copy__()
             time = ""
+            room = "undetermined"
             for line in e.splitlines():
                 if line.startswith("|Has start time"):
                     time = line.removeprefix("|Has start time=")
@@ -94,22 +95,26 @@ def createfrabxml(xml):
                 elif line.startswith("|Has duration"):
                     ET.SubElement(event, "duration").text = strftime("%H:%M", gmtime(
                         int(line.removeprefix("|Has duration=")) * 60))
+                elif line.startswith("|Has session location"):
+                    room = line.removeprefix("|Has session location=")
+
             guid = title
             if len(events) > 1:
                 guid = title + time
-
             event.set("guid", str(uuid5(uuidnamespace, guid)))
-            eventsbydate.setdefault(time[0:10], []).append(event)
 
-        for date in sorted(eventsbydate.keys()):
-            day = ET.SubElement(schedule, "day")
-            day.set("date", date)
-            room = ET.SubElement(day, "room")
-            room.set("name", "undetermined")
-            room.set("guid", str(uuid5(uuidnamespace, room.get("name"))))
+            eventsbydateandroom.setdefault(time[0:10], dict()).setdefault(room,[]).append(event)
 
-            for event in eventsbydate[date]:
-                room.append(event)
+        for date in sorted(eventsbydateandroom.keys()):
+            for roomname in sorted(eventsbydateandroom[date].keys()):
+                day = ET.SubElement(schedule, "day")
+                day.set("date", date)
+                room = ET.SubElement(day, "room")
+                room.set("name", roomname)
+                room.set("guid", str(uuid5(uuidnamespace, roomname)))
+
+                for event in eventsbydateandroom[date][roomname]:
+                    room.append(event)
 
         # Todo no date
 
