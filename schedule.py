@@ -93,7 +93,7 @@ def createfrabxml(xml):
     tree = ET.ElementTree(schedule)
 
     ET.indent(tree)
-    ET.dump(schedule)
+    # ET.dump(schedule)
 
     return tree
 
@@ -137,6 +137,6 @@ if __name__ == '__main__':
     wiki_xml = ET.fromstring(wiki_xml)
     #
     result = createfrabxml(wiki_xml)
-    result.write("merged.xml")
+    result.write("public/sessions_schedule.xml")
 
     # print(result)
