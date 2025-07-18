@@ -92,6 +92,19 @@ def createfrabxml(xml):
         if extrainfo.isspace != "":
             description = extrainfo + "\n" + description
         description = description.strip()
+
+        # add sessions without an event to midnight day after last day to show them to the user
+        if len(events) == 0:
+            event = eventelement.__copy__()
+            time = "2025-08-13T00:00:00"
+            ET.SubElement(event, "date").text = time
+            ET.SubElement(event, "time").text = time[11:16]
+            ET.SubElement(event, "duration").text = "01:00"
+            event.set("guid", str(uuid5(uuidnamespace, title)))
+            description = "Generated time to make session visible, might need an actual date and time" + "\n" + description
+            ET.SubElement(event, "description").text = description.strip()
+            eventsbydateandroom.setdefault(time[0:10], dict()).setdefault("undetermined",[]).append(event)
+
         ET.SubElement(eventelement, "description").text = description
 
         for e in events:
@@ -168,7 +181,7 @@ if __name__ == '__main__':
     sessionsxml = ET.fromstring(sessionsxml)
 
     result = createfrabxml(sessionsxml)
-    result.write("public/sessions_schedule.xml","utf-8",True)
+    result.write("public/sessions.xml","utf-8",True)
 
     # file = open("schedule.xml")
     # whyxml = ET.fromstring(file.read())
