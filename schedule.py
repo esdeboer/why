@@ -103,6 +103,7 @@ def createfrabxml(xml):
             event.set("guid", str(uuid5(uuidnamespace, title)))
             description = "Generated time to make session visible, might need an actual date and time" + "\n" + description
             ET.SubElement(event, "description").text = description.strip()
+            checkevent(event)
             eventsbydateandroom.setdefault(time[0:10], dict()).setdefault("undetermined",[]).append(event)
 
         ET.SubElement(eventelement, "description").text = description
@@ -124,11 +125,15 @@ def createfrabxml(xml):
                 elif line.startswith("|Has subtitle"):
                     ET.SubElement(event, "subtitle").text = line.removeprefix("|Has subtitle=")
 
+            if event.find("duration") == None:
+                ET.SubElement(event, "duration").text = "00:10"
+                event.find("title").text = ("Missing duration, check with organiser, dummy 10 minutes added" + "\n" + description).strip()
+
             guid = title
             if len(events) > 1:
                 guid = title + time
             event.set("guid", str(uuid5(uuidnamespace, guid)))
-
+            checkevent(event)
             eventsbydateandroom.setdefault(time[0:10], dict()).setdefault(room,[]).append(event)
 
     for date in sorted(eventsbydateandroom.keys()):
@@ -147,6 +152,10 @@ def createfrabxml(xml):
     tree = ET.ElementTree(schedule)
     ET.indent(tree)
     return tree
+
+def checkevent(event):
+    if (event.get("guid").isspace()) or (event.find("title").text.isspace()) or  (event.find("time") == None) or  (event.find("duration") == None) :
+        raise Exception("Invalid event, some attributes are missing." + ET.tostring(event, encoding='unicode'))
 
 
 def mergexml(schedule,sessions):
