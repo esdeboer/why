@@ -44,6 +44,7 @@ def createfrabxml(xml):
     # <timeslot_duration>00:05</timeslot_duration>
     ET.SubElement(conference, "logo").text = "https://cfp.why2025.org/media/why2025/img/logo_yz1ryVf.png"
     ET.SubElement(conference, "time_zone_name").text = "Europe/Amsterdam"
+    ET.SubElement(conference, "track").set("name","Self Organized Sessions")
 
     eventsbydateandroom = dict()
     for e in xml.findall("page", wikins):
@@ -119,16 +120,16 @@ def createfrabxml(xml):
 
             eventsbydateandroom.setdefault(time[0:10], dict()).setdefault(room,[]).append(event)
 
-        for date in sorted(eventsbydateandroom.keys()):
-            for roomname in sorted(eventsbydateandroom[date].keys()):
-                day = ET.SubElement(schedule, "day")
-                day.set("date", date)
-                room = ET.SubElement(day, "room")
-                room.set("name", roomname)
-                room.set("guid", str(uuid5(uuidnamespace, roomname)))
+    for date in sorted(eventsbydateandroom.keys()):
+        day = ET.SubElement(schedule, "day")
+        day.set("date", date)
+        for roomname in sorted(eventsbydateandroom[date].keys()):
+            room = ET.SubElement(day, "room")
+            room.set("name", roomname)
+            room.set("guid", str(uuid5(uuidnamespace, roomname)))
 
-                for event in eventsbydateandroom[date][roomname]:
-                    room.append(event)
+            for event in eventsbydateandroom[date][roomname]:
+                room.append(event)
 
         # Todo no date
 
