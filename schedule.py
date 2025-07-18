@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as ET
+from datetime import datetime
 from urllib import request, parse
 from time import gmtime, strftime
 from uuid import UUID, uuid5
@@ -96,7 +97,7 @@ def createfrabxml(xml):
         # add sessions without an event to midnight day after last day to show them to the user
         if len(events) == 0:
             event = eventelement.__copy__()
-            time = "2025-08-13T00:00:00"
+            time = "2025-08-13T00:00:00Z"
             ET.SubElement(event, "date").text = time
             ET.SubElement(event, "time").text = time[11:16]
             ET.SubElement(event, "duration").text = "01:00"
@@ -154,8 +155,11 @@ def createfrabxml(xml):
     return tree
 
 def checkevent(event):
-    if (event.get("guid").isspace()) or (event.find("title").text.isspace()) or  (event.find("time") == None) or  (event.find("duration") == None) :
+    date = event.find("date")
+    if (event.get("guid").isspace()) or (event.find("title").text.isspace()) or  (date == None) or  (event.find("duration") == None) :
         raise Exception("Invalid event, some attributes are missing." + ET.tostring(event, encoding='unicode'))
+    if datetime.fromisoformat(date.text).tzinfo == None:
+        raise Exception("Invalid event, date has no timezone" + ET.tostring(event, encoding='unicode'))
 
 
 def mergexml(schedule,sessions):
