@@ -51,13 +51,15 @@ def createfrabxml(xml):
         title = e.find("title", wikins).text
         title = title.removeprefix('Session:')
         ET.SubElement(eventelement, "title").text = title
-        ET.SubElement(eventelement, "track").text = "Self Organized Session"
+        ET.SubElement(eventelement, "track").text = "Self Organized Sessions"
         # print(title)
         body = e.find("revision", wikins).find("text", wikins).text
         content = body.partition("}}")
         description = content[2].strip()
         # print(content[0])
         session = content[0].removeprefix('{{Session').strip()
+
+        extrainfo = ""
 
         # todo multiline things?
         for line in session.splitlines():
@@ -67,14 +69,18 @@ def createfrabxml(xml):
                 ET.SubElement(eventelement, "type").text = line.removeprefix("|Has session type=")
             elif line.startswith("|Has website"):
                 ET.SubElement(eventelement, "url").text = line.removeprefix("|Has website=")
-            elif line.startswith("|Has language"):
-                ET.SubElement(eventelement, "language").text = line.removeprefix("|Has language=")
+            elif line.startswith("|Held in language"):
+                ET.SubElement(eventelement, "language").text = line.removeprefix("|Held in language=")[0:2]
             elif line.startswith("|Is organized by"):
                 persons = ET.SubElement(eventelement,"persons")
                 ET.SubElement(persons, "person").text = line.removeprefix("|Is organized by=")
-            # print(line)
+            elif line.startswith("|Is for kids"):
+                extrainfo = "Is for kids " + extrainfo + line.removeprefix("|Is for kids=")
+            elif line.startswith("|Has tags"):
+                extrainfo = extrainfo + "\n tags:" + line.removeprefix("|Has tags=")
+            elif line.startswith("|Has keywords"):
+                extrainfo = extrainfo + "\n keywords: " + line.removeprefix("|Has keywords=")
 
-        # print(description)
         events = []
 
         while description.startswith('{{Event'):
@@ -84,6 +90,8 @@ def createfrabxml(xml):
             # print(events)
             description = descriptions[2].strip()
             # print(description)
+
+        description = extrainfo + "\n" + description
 
         ET.SubElement(eventelement, "description").text = description
 
@@ -101,6 +109,8 @@ def createfrabxml(xml):
                         int(line.removeprefix("|Has duration=")) * 60))
                 elif line.startswith("|Has session location"):
                     room = line.removeprefix("|Has session location=")
+                elif line.startswith("|Has subtitle"):
+                    ET.SubElement(event, "subtitle").text = line.removeprefix("|Has subtitle=")
 
             guid = title
             if len(events) > 1:
