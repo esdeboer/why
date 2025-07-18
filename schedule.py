@@ -8,11 +8,11 @@ uuidnamespace = UUID("0e9a6798-b290-45bf-a8a8-7483a53d0fab")
 
 def loadsessions():
     req = request.Request("https://wiki.why2025.org/Special:Export", data="title=Special%3AExport&catname=session&addcat=Add&pages=&curonly=1&wpDownload=1&wpEditToken=%2B%5C".encode())
-    resp = request.urlopen(req)
-    t = resp.read().decode("utf-8")
+    with request.urlopen(req) as response:
+        xml = response.read().decode("utf-8")
 
     sessions = ""
-    for line in t.splitlines():
+    for line in xml.splitlines():
         if line.startswith('Session:'):
             if line.find("</textarea>") != -1:
                 sessions = sessions + "Session:FHB:_Kefir_Making"
@@ -29,8 +29,9 @@ def loadsessions():
 
     data = parse.urlencode(formdata).encode()
     req = request.Request("https://wiki.why2025.org/Special:Export",data)
-    resp = request.urlopen(req)
-    return resp.read().decode("utf-8")
+    with request.urlopen(req) as response:
+        xml = response.read().decode("utf-8")
+    return xml
 
 def createfrabxml(xml):
     schedule = ET.Element("schedule")
@@ -53,11 +54,9 @@ def createfrabxml(xml):
         title = title.removeprefix('Session:')
         ET.SubElement(eventelement, "title").text = title
         ET.SubElement(eventelement, "track").text = "Self Organized Sessions"
-        # print(title)
         body = e.find("revision", wikins).find("text", wikins).text
         content = body.partition("}}")
         description = content[2].strip()
-        # print(content[0])
         session = content[0].removeprefix('{{Session').strip()
 
         extrainfo = ""
@@ -86,14 +85,13 @@ def createfrabxml(xml):
 
         while description.startswith('{{Event'):
             descriptions = description.partition("}}")
-            # print(description[0])
             events.append(descriptions[0])
-            # print(events)
             description = descriptions[2].strip()
-            # print(description)
 
-        description = extrainfo + "\n" + description
-
+        extrainfo = extrainfo.strip()
+        if extrainfo.isspace != "":
+            description = extrainfo + "\n" + description
+        description = description.strip()
         ET.SubElement(eventelement, "description").text = description
 
         for e in events:
@@ -133,27 +131,54 @@ def createfrabxml(xml):
 
         # Todo no date
 
-        # print(events)
-
-    # print(xml.findall("page",wiki_namespace))
     tree = ET.ElementTree(schedule)
-
     ET.indent(tree)
-    # ET.dump(schedule)
+    return tree
 
+
+def mergexml(schedule,sessions):
+    conference = schedule.find("conference")
+    title = conference.find("title")
+    title.text = title.text + " with Self Organized Sessions"
+    conference.append(sessions.find("conference").find("track"))
+
+    daysinsessions = sessions.findall("day")
+    daysinschedule = schedule.findall("day")
+
+    for day in daysinsessions:
+        date = day.get("date")
+        dayinschedule = [x for x in daysinschedule if x.get("date") == date]
+
+        if len(dayinschedule) == 1:
+            dayinschedule[0].extend(day.findall("room"))
+        else:
+            schedule.append(day)
+
+    tree = ET.ElementTree(schedule)
+    ET.indent(tree,"    ")
     return tree
 
 
 if __name__ == '__main__':
-    # file1 = open("WHY2025+wiki.xml")
-    # sessionsxml = ET.fromstring(file1.read())
-    # file1.close()
+    # file = open("WHY2025+wiki.xml")
+    # sessionsxml = ET.fromstring(file.read())
+    # file.close()
 
     sessionsxml = loadsessions()
     sessionsxml = ET.fromstring(sessionsxml)
 
     result = createfrabxml(sessionsxml)
-    result.write("public/sessions_schedule.xml")
+    result.write("public/sessions_schedule.xml","utf-8",True)
+
+    # file = open("schedule.xml")
+    # whyxml = ET.fromstring(file.read())
+    # file.close()
+
+    with request.urlopen("https://cfp.why2025.org/why2025/schedule/export/schedule.xml") as response:
+        whyxml = ET.fromstring(response.read().decode("utf-8"))
+
+    merged = mergexml(whyxml,result)
+    merged.write("public/merged.xml","utf-8",True)
 
     # ET.dump(result)
 
