@@ -101,7 +101,7 @@ def createfrabxml(xml):
             ET.SubElement(event, "date").text = time
             ET.SubElement(event, "time").text = time[11:16]
             ET.SubElement(event, "duration").text = "01:00"
-            event.set("guid", str(uuid5(uuidnamespace, title)))
+            event.set("guid", str(uuid5(uuidnamespace, title + "1")))
             description = "Generated time to make session visible, might need an actual date and time" + "\n" + description
             ET.SubElement(event, "description").text = description.strip()
             checkevent(event)
@@ -109,11 +109,11 @@ def createfrabxml(xml):
 
         ET.SubElement(eventelement, "description").text = description
 
-        for e in events:
+        for i in range(len(events)):
             event = eventelement.__copy__()
             time = ""
             room = "undetermined"
-            for line in e.splitlines():
+            for line in events[i].splitlines():
                 if line.startswith("|Has start time"):
                     time = line.removeprefix("|Has start time=")
                     ET.SubElement(event, "date").text = time
@@ -126,13 +126,15 @@ def createfrabxml(xml):
                 elif line.startswith("|Has subtitle"):
                     ET.SubElement(event, "subtitle").text = line.removeprefix("|Has subtitle=")
 
-            if event.find("duration") == None:
+            if event.find("duration") is None:
                 ET.SubElement(event, "duration").text = "00:10"
-                event.find("title").text = ("Missing duration, check with organiser, dummy 10 minutes added" + "\n" + description).strip()
+                event.find("description").text = ("Missing duration, check with organiser, dummy 10 minutes added" + "\n" + description).strip()
 
-            guid = title
-            if len(events) > 1:
-                guid = title + time
+            if event.find("date") is None:
+                ET.SubElement(event, "date").text = "2025-08-13T00:00:00Z"
+                event.find("description").text = ("Missing date, check with organiser, event put at last day" + "\n" + description).strip()
+
+            guid = title + str(i)
             event.set("guid", str(uuid5(uuidnamespace, guid)))
             checkevent(event)
             eventsbydateandroom.setdefault(time[0:10], dict()).setdefault(room,[]).append(event)
@@ -156,7 +158,8 @@ def createfrabxml(xml):
 
 def checkevent(event):
     date = event.find("date")
-    if (event.get("guid").isspace()) or (event.find("title").text.isspace()) or  (date == None) or  (event.find("duration") == None) :
+    if (event.get("guid").isspace() or event.find("title").text.isspace()
+            or date is None or event.find("duration") is None):
         raise Exception("Invalid event, some attributes are missing." + ET.tostring(event, encoding='unicode'))
     if datetime.fromisoformat(date.text).tzinfo == None:
         raise Exception("Invalid event, date has no timezone" + ET.tostring(event, encoding='unicode'))
