@@ -118,7 +118,10 @@ def createfrabxml(xml):
             for line in events[i].splitlines():
                 if line.startswith("|Has start time"):
                     time = line.removeprefix("|Has start time=")
-                    timewithzone = datetime.fromisoformat(time).astimezone(timezone)
+                    timewithzone = datetime.fromisoformat(time)
+                    if timewithzone.tzinfo is None:
+                        timewithzone = timewithzone.replace(tzinfo=timezone)
+                    timewithzone.astimezone(timezone)
                     ET.SubElement(event, "date").text = str(timewithzone)
                     ET.SubElement(event, "start").text = timewithzone.strftime("%H:%M")
                 elif line.startswith("|Has duration"):
