@@ -1,3 +1,4 @@
+import sys
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from urllib import request, parse
@@ -8,6 +9,7 @@ from zoneinfo import ZoneInfo
 wikins = {'': 'http://www.mediawiki.org/xml/export-0.11/'}
 uuidnamespace = UUID("0e9a6798-b290-45bf-a8a8-7483a53d0fab")
 timezone = ZoneInfo("Europe/Amsterdam")
+warnings = False
 
 def loadsessions():
     req = request.Request("https://wiki.why2025.org/Special:Export", data="title=Special%3AExport&catname=session&addcat=Add&pages=&curonly=1&wpDownload=1&wpEditToken=%2B%5C".encode())
@@ -37,6 +39,7 @@ def loadsessions():
     return xml
 
 def createfrabxml(xml):
+    global warnings
     schedule = ET.Element("schedule")
     conference = ET.SubElement(schedule, "conference")
     ET.SubElement(conference, "title").text = "WHY2025 Self Organized Sessions"
@@ -106,7 +109,7 @@ def createfrabxml(xml):
             event.set("guid", str(uuid5(uuidnamespace, title + "1")))
             description = "Generated time to make session visible, might need an actual date and time" + "\n" + description
             ET.SubElement(event, "description").text = description.strip()
-            checkevent(event)
+            validevent(event)
             eventsbydateandroom.setdefault(time[0:10], dict()).setdefault("undetermined",[]).append(event)
 
         ET.SubElement(eventelement, "description").text = description
@@ -118,7 +121,12 @@ def createfrabxml(xml):
             for line in events[i].splitlines():
                 if line.startswith("|Has start time"):
                     time = line.removeprefix("|Has start time=")
-                    timewithzone = datetime.fromisoformat(time)
+                    try:
+                        timewithzone = datetime.fromisoformat(time)
+                    except ValueError as e:
+                        warnings = True
+                        print("Invalid event, has wrong formatted start time: " + title + " " + line)
+                        continue
                     if timewithzone.tzinfo is None:
                         timewithzone = timewithzone.replace(tzinfo=timezone)
                     timewithzone.astimezone(timezone)
@@ -142,8 +150,8 @@ def createfrabxml(xml):
 
             guid = title + str(i)
             event.set("guid", str(uuid5(uuidnamespace, guid)))
-            checkevent(event)
-            eventsbydateandroom.setdefault(time[0:10], dict()).setdefault(room,[]).append(event)
+            if validevent(event):
+                eventsbydateandroom.setdefault(time[0:10], dict()).setdefault(room,[]).append(event)
 
     for date in sorted(eventsbydateandroom.keys()):
         day = ET.SubElement(schedule, "day")
@@ -162,14 +170,20 @@ def createfrabxml(xml):
     ET.indent(tree)
     return tree
 
-def checkevent(event):
+
+def validevent(event):
+    global warnings
     date = event.find("date")
     if (event.get("guid").isspace() or event.find("title").text.isspace()
             or date is None or event.find("duration") is None):
-        raise Exception("Invalid event, some attributes are missing." + ET.tostring(event, encoding='unicode'))
-    if datetime.fromisoformat(date.text).tzinfo == None:
-        raise Exception("Invalid event, date has no timezone" + ET.tostring(event, encoding='unicode'))
-
+        print("Invalid event, some attributes are missing." + ET.tostring(event, encoding='unicode'))
+        warnings = True
+        return False
+    if datetime.fromisoformat(date.text).tzinfo is None:
+        print("Invalid event, date has no timezone" + ET.tostring(event, encoding='unicode'))
+        warnings = True
+        return False
+    return True
 
 def mergexml(schedule,sessions):
     conference = schedule.find("conference")
@@ -214,6 +228,9 @@ if __name__ == '__main__':
 
     merged = mergexml(whyxml,result)
     merged.write("public/merged.xml","utf-8",True)
+
+    if warnings:
+        sys.exit(137)
 
     # ET.dump(result)
 

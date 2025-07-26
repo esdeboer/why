@@ -12,3 +12,6 @@ create-pages:
   before_script: []
   script:
     - python schedule.py
+  allow_failure:
+    exit_codes: # User defined exit code
+      - 137
