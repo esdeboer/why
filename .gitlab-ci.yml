@@ -1,20 +1,13 @@
 # The Docker image that will be used to build your app
 image: python:3-alpine
-
 create-pages:
-  stage: build
+  pages: true
   rules:
     # This ensures that only pushes to the default branch will trigger
     # a pages deploy
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
   script:
-    - python schedule.py
+    - python schedule.py || warn_only
   allow_failure:
     exit_codes: # User defined exit code
       - 137
-
-deploy-pages:
-  stage: deploy
-  pages: true
-  script:
-    - ls
