@@ -7,7 +7,4 @@ create-pages:
     # a pages deploy
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
   script:
-    - python schedule.py || warn_only
-  allow_failure:
-    exit_codes: # User defined exit code
-      - 137
+    - python schedule.py

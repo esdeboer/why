@@ -229,8 +229,8 @@ if __name__ == '__main__':
     merged = mergexml(whyxml,result)
     merged.write("public/merged.xml","utf-8",True)
 
-    if warnings:
-        sys.exit(137)
+    # if warnings:
+    #     sys.exit(137)
 
     # ET.dump(result)
 
