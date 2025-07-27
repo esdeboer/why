@@ -16,3 +16,5 @@ create-pages:
 deploy-pages:
   stage: deploy
   pages: true
+  script:
+    - ls
