@@ -1,6 +1,6 @@
 import sys
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, time, timedelta
 from urllib import request, parse
 from time import gmtime, strftime
 from uuid import UUID, uuid5
@@ -10,6 +10,7 @@ wikins = {'': 'http://www.mediawiki.org/xml/export-0.11/'}
 uuidnamespace = UUID("0e9a6798-b290-45bf-a8a8-7483a53d0fab")
 timezone = ZoneInfo("Europe/Amsterdam")
 warnings = False
+formatstring = '%Y-%m-%dT%H:%M:%S%:z'
 
 def loadsessions():
     req = request.Request("https://wiki.why2025.org/Special:Export", data="title=Special%3AExport&catname=session&addcat=Add&pages=&curonly=1&wpDownload=1&wpEditToken=%2B%5C".encode())
@@ -102,27 +103,27 @@ def createfrabxml(xml):
         # add sessions without an event to midnight day after last day to show them to the user
         if len(events) == 0:
             event = eventelement.__copy__()
-            time = "2025-08-13T00:00:00+02:00"
-            ET.SubElement(event, "date").text = time
-            ET.SubElement(event, "time").text = time[11:16]
+            starttime = "2025-08-13T00:00:00+02:00"
+            ET.SubElement(event, "date").text = starttime
+            ET.SubElement(event, "time").text = starttime[11:16]
             ET.SubElement(event, "duration").text = "01:00"
             event.set("guid", str(uuid5(uuidnamespace, title + "1")))
             description = "Generated time to make session visible, might need an actual date and time" + "\n" + description
             ET.SubElement(event, "description").text = description.strip()
             validevent(event)
-            eventsbydateandroom.setdefault(time[0:10], dict()).setdefault("undetermined",[]).append(event)
+            eventsbydateandroom.setdefault(starttime[0:10], dict()).setdefault("undetermined",[]).append(event)
 
         ET.SubElement(eventelement, "description").text = description
 
         for i in range(len(events)):
             event = eventelement.__copy__()
-            time = ""
+            starttime = ""
             room = "undetermined"
             for line in events[i].splitlines():
                 if line.startswith("|Has start time"):
-                    time = line.removeprefix("|Has start time=")
+                    starttime = line.removeprefix("|Has start time=")
                     try:
-                        timewithzone = datetime.fromisoformat(time)
+                        timewithzone = datetime.fromisoformat(starttime)
                     except ValueError as e:
                         warnings = True
                         print("Invalid event, has wrong formatted start time: " + title + " " + line)
@@ -130,7 +131,7 @@ def createfrabxml(xml):
                     if timewithzone.tzinfo is None:
                         timewithzone = timewithzone.replace(tzinfo=timezone)
                     timewithzone.astimezone(timezone)
-                    ET.SubElement(event, "date").text = str(timewithzone)
+                    ET.SubElement(event, "date").text =  timewithzone.strftime(formatstring)
                     ET.SubElement(event, "start").text = timewithzone.strftime("%H:%M")
                 elif line.startswith("|Has duration"):
                     ET.SubElement(event, "duration").text = strftime("%H:%M", gmtime(
@@ -145,13 +146,15 @@ def createfrabxml(xml):
                 event.find("description").text = ("Missing duration, check with organiser, dummy 10 minutes added" + "\n" + description).strip()
 
             if event.find("date") is None:
-                ET.SubElement(event, "date").text = "2025-08-13T00:00:00Z"
+                ET.SubElement(event, "date").text = "2025-08-13T00:00:00+02:00"
                 event.find("description").text = ("Missing date, check with organiser, event put at last day" + "\n" + description).strip()
 
             guid = title + str(i)
             event.set("guid", str(uuid5(uuidnamespace, guid)))
             if validevent(event):
-                eventsbydateandroom.setdefault(time[0:10], dict()).setdefault(room,[]).append(event)
+                eventsbydateandroom.setdefault(starttime[0:10], dict()).setdefault(room,[]).append(event)
+
+    schedulejson = []
 
     for date in sorted(eventsbydateandroom.keys()):
         day = ET.SubElement(schedule, "day")
