@@ -1,6 +1,7 @@
 # The Docker image that will be used to build your app
 image: python:3-alpine
 create-pages:
+  stage: deploy
   pages:
     # The folder that contains the files to be exposed at the Page URL
     publish: public
