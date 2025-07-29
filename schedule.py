@@ -81,12 +81,16 @@ def createfrabxml(xml):
             elif line.startswith("|Is organized by"):
                 persons = ET.SubElement(eventelement,"persons")
                 ET.SubElement(persons, "person").text = line.removeprefix("|Is organized by=")
-            elif line.startswith("|Is for kids"):
-                extrainfo = "Is for kids " + extrainfo + line.removeprefix("|Is for kids=")
+            elif line.startswith("|Has signup") and line.removeprefix("|Has signup=") == "Yes":
+                extrainfo = "\nNeeds signup" + extrainfo
+            elif line.startswith("|Is for kids") and line.removeprefix("|Is for kids=") == "Yes":
+                extrainfo = "\nIs for kids" + extrainfo
+            elif line.startswith("|Is for age range"):
+                extrainfo = extrainfo + "\nAge range: " + line.removeprefix("|Is for age range=")
             elif line.startswith("|Has tags"):
-                extrainfo = extrainfo + "\n tags:" + line.removeprefix("|Has tags=")
+                extrainfo = extrainfo + "\ntags:" + line.removeprefix("|Has tags=")
             elif line.startswith("|Has keywords"):
-                extrainfo = extrainfo + "\n keywords: " + line.removeprefix("|Has keywords=")
+                extrainfo = extrainfo + "\nkeywords: " + line.removeprefix("|Has keywords=")
 
         events = []
 
@@ -250,7 +254,7 @@ if __name__ == '__main__':
     # whyxml = ET.fromstring(file.read())
     # file.close()
 
-    with request.urlopen("https://cfp.why2025.org/why2025/schedule/export/schedule.xml") as response:
+    with request.urlopen("https://program.why2025.org/why2025/schedule/export/schedule.xml") as response:
         whyxml = ET.fromstring(response.read().decode("utf-8"))
 
     merged = mergexml(whyxml,result)
