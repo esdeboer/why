@@ -114,8 +114,8 @@ def createfrabxml(xml):
             event.set("guid", str(uuid5(uuidnamespace, title + "1")))
             description = "Generated time to make session visible, might need an actual date and time" + "\n" + description
             ET.SubElement(event, "description").text = description.strip()
-            validevent(event)
-            eventsbydateandroom.setdefault(starttime[0:10], dict()).setdefault("undetermined",[]).append(event)
+            if validevent(event):
+                eventsbydateandroom.setdefault(starttime[0:10], dict()).setdefault("undetermined",[]).append(event)
 
         ET.SubElement(eventelement, "description").text = description
 
@@ -131,7 +131,8 @@ def createfrabxml(xml):
                     except ValueError as e:
                         warnings = True
                         print("Invalid event, has wrong formatted start time: " + title + " " + line)
-                        continue
+                        starttime = "2025-08-13T00:00:00+02:00"
+                        timewithzone = datetime.fromisoformat(starttime)
                     if timewithzone.tzinfo is None:
                         timewithzone = timewithzone.replace(tzinfo=timezone)
                     timewithzone.astimezone(timezone)
