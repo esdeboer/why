@@ -111,7 +111,7 @@ def createfrabxml(xml):
             ET.SubElement(event, "date").text = starttime
             ET.SubElement(event, "time").text = starttime[11:16]
             ET.SubElement(event, "duration").text = "01:00"
-            event.set("guid", str(uuid5(uuidnamespace, title + "1")))
+            event.set("guid", str(uuid5(uuidnamespace, title + "0")))
             description = "Generated time to make session visible, might need an actual date and time" + "\n" + description
             ET.SubElement(event, "description").text = description.strip()
             if validevent(event):
