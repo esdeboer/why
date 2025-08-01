@@ -174,23 +174,23 @@ def createfrabxml(xml):
                 duration = event.find("duration").text
                 url = event.find("url")
                 type = event.find("type")
-                language = event.find("language")
-                speakers = event.find("persons")
+                # language = event.find("language")
+                # speakers = event.find("persons")
 
 
                 schedulejson.append({
                     "id": event.get("guid"),
                     "title": event.find("title").text,
                     "description": event.find("description").text,
-                    "date": event.find("date").text,
+                    # "date": event.find("date").text,
                     "start": event.find("date").text,
                     "end": (datetime.fromisoformat(event.find("date").text) +  timedelta(hours=int(duration[0:2])) + timedelta(minutes=int(duration[3:6]))).strftime(formatstring),
                     "room": roomname,
                     "url": url.text if url is not None else "",
                     "type": type.text if type is not None else "",
-                    "language": language.text if language is not None else "",
-                    "speakers": speakers.text if speakers is not None else "",
-                    "trackColor": "#B03BBF"
+                    # "language": language.text if language is not None else "",
+                    # "speakers": speakers.text if speakers is not None else "",
+                    # "trackColor": "#B03BBF"
                 })
 
         # Todo no date
