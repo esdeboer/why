@@ -1,0 +1,1489 @@
+<?xml version='1.0' encoding='utf-8'?>
+<schedule>
+  <conference>
+    <title>WHY2025 Self Organized Sessions</title>
+    <acronym>why2025</acronym>
+    <start>2025-08-08</start>
+    <end>2025-08-12</end>
+    <days>5</days>
+    <base_url>https://cfp.why2025.org</base_url>
+    <logo>https://cfp.why2025.org/media/why2025/img/logo_yz1ryVf.png</logo>
+    <time_zone_name>Europe/Amsterdam</time_zone_name>
+    <track name="Self Organized Sessions" />
+  </conference>
+  <day date="2025-07-21">
+    <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
+      <event guid="b8010a71-9138-59e9-ba12-1d60922e1cc8">
+        <title>STRIDE into Healthcare: Threat Modeling with AAPS and OpenAPS</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Join us for a practical, hands-on workshop focused on threat modeling in the healthcare space — specifically targeting open-source medical devices like the Android Artificial Pancreas System (AAPS) and OpenAPS.</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Volock</person>
+        </persons>
+        <description>Join us for a practical, hands-on workshop focused on threat modeling in the healthcare space — specifically targeting open-source medical devices like the Android Artificial Pancreas System (AAPS) and OpenAPS. Whether you're a hacker, healthcare professional, or security researcher, this session will boost your ability to think critically about medical device risks from both engineering and cybersecurity perspectives.
+
+We'll explore a blended approach using tools like Attack Trees, INCLUDESNODIRT and STRIDE uncover potential failure points, attack surfaces, and security weaknesses in real-world scenarios. Participants will work together to collaboratively model threats, identify risks, and (if time allows) see if mitigations exist today. The insights generated will be shared back with the OpenAPS community to help improve real-world patient safety.
+No prior threat modeling experience is required — just bring your curiosity and a willingness to tinker with one of the most fascinating intersections of healthcare and cybersecurity. By the end, you’ll walk away with new skills, a structured threat modeling mindset, and a deeper appreciation of why cybersecurity in healthcare truly matters.</description>
+        <date>2025-07-21T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
+  </day>
+  <day date="2025-08-04">
+    <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
+      <event guid="a5d8d94a-3b5c-5b27-801a-8e82edc8b333">
+        <title>Z-CERT Podcast Recording: Zet ‘m op</title>
+        <track>Self Organized Sessions</track>
+        <abstract>A recording session of the Z-CERT podcast with the theme: Communities</abstract>
+        <url>https://z-cert.nl/actueel/podcast</url>
+        <type>Other</type>
+        <persons>
+          <person>Nelusthenerd</person>
+        </persons>
+        <description>During WHY2025 we will record a special of our podcast. The central theme of this episode will be: Communities. 
+And you can be there during the recording of this episode!</description>
+        <date>2025-08-04T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>03:00</duration>
+      </event>
+    </room>
+    <room name="Village:TechInc" guid="d6a86999-ee66-5630-8d7d-a1668aedb668">
+      <event guid="a877aa49-6782-593f-9f27-5ff6cdf95581">
+        <title>Transmasc meetup</title>
+        <track>Self Organized Sessions</track>
+        <abstract>transmasc meetup</abstract>
+        <type>Meeting</type>
+        <persons>
+          <person>Li0n</person>
+        </persons>
+        <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406</description>
+        <subtitle>day 1</subtitle>
+        <date>2025-08-04T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
+  </day>
+  <day date="2025-08-05">
+    <room name="Village:TechInc" guid="d6a86999-ee66-5630-8d7d-a1668aedb668">
+      <event guid="53edd6ac-b620-5ead-af31-0aafbfd9b53a">
+        <title>Transmasc meetup</title>
+        <track>Self Organized Sessions</track>
+        <abstract>transmasc meetup</abstract>
+        <type>Meeting</type>
+        <persons>
+          <person>Li0n</person>
+        </persons>
+        <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406</description>
+        <subtitle>day 2</subtitle>
+        <date>2025-08-05T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
+  </day>
+  <day date="2025-08-07">
+    <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
+      <event guid="0e6312ec-4271-5527-a9d9-826c8de1a0a2">
+        <title>SUMMALAJNENS SAUNASESSION</title>
+        <track>Self Organized Sessions</track>
+        <abstract>We listen to the infamous sauna playlist containing the finest bangers from our beloved Finland</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Summalajnen</person>
+        </persons>
+        <language>fi</language>
+        <description>Age range: 18+
+ONLY BANGERS</description>
+        <date>2025-08-07T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+      </event>
+    </room>
+  </day>
+  <day date="2025-08-08">
+    <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">
+      <event guid="f6c91348-6ecc-57ca-9031-7d247c0fcc37">
+        <title>FHB: Kefir Making</title>
+        <track>Self Organized Sessions</track>
+        <abstract>At this workshop you will learn how to make your own kefir ferments using the kefir grain culture</abstract>
+        <url>foodhackingbase.org</url>
+        <type>Workshop</type>
+        <language>en</language>
+        <description>Needs signup
+Age range: Aimed at adults but supervised kids welcome.
+At this workshop you will learn how to make your own kefir ferments using the kefir grain culture. We will explain basic concepts of probiotic, prebiotic and biofilm based polycultures and why it is good to consume foods “labeled” by these terms. You will prepare your own kefir culture, based on the working manual and take it with you so you will be ready to brew wherever you decide hopefully “positively infecting” your local hackerspace. This time we will also try to make at least as a demonstration a "kefir cake" and base for probiotic kefir drink, depending on how much time we will have.</description>
+        <date>2025-08-08T14:20:00+02:00</date>
+        <start>14:20</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Hardware Hacking Area" guid="2358bed6-9a09-5a7c-898a-ded151f3398a">
+      <event guid="fc065a67-a125-57d6-b064-c2af5897c855">
+        <title>Creating Artistic PCBs in Kicad</title>
+        <track>Self Organized Sessions</track>
+        <abstract>For this workshop, we will look at the various ways to incorporate custom artwork into your PCB design. Conversation is informal, all questions are welcome!</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Drc3p0</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+== Workshop Description ==
+For this workshop, we will look at the various ways to incorporate custom artwork into your PCB design.&lt;br&gt;
+Conversation is informal, all questions are welcome!  
+
+Workshop given by DRC.
+&lt;br&gt;
+&lt;br&gt;
+[[File:HHA_WHY_logo.png|center|300px]]  
+  
+== Complete Hardware Hacking Area Village Schedule == 
+Workshops are all free to attend.&lt;br&gt;
+The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
+[[File:WHY_HHA_schedule.png|720px]]
+  
+== Location of Hardware Hacking Area Village == 
+[[File:HHA_map_WHY.jpg|720px]]</description>
+        <date>2025-08-08T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="870d51bc-602b-55f1-89c7-9a97153fc4e7">
+        <title>SMD Duck Soldering workshop</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Learn SMD soldering by making a duck</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Arne</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+== Workshop Description ==
+Learn SMD soldering by making a duck.&lt;br&gt;
+&lt;br&gt;
+Workshop given by Arne.&lt;br&gt;
+&lt;br&gt;
+Materials cost: €10
+&lt;br&gt;
+&lt;br&gt;
+[[File:HHA_WHY_logo.png|center|300px]]  
+  
+== Complete Hardware Hacking Area Village Schedule == 
+Workshops are all free to attend.&lt;br&gt;
+The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
+[[File:WHY_HHA_schedule.png|720px]]
+  
+== Location of Hardware Hacking Area Village == 
+[[File:HHA_map_WHY.jpg|720px]]</description>
+        <date>2025-08-08T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Pancake" guid="52612cea-1526-511d-bb5c-7c56b1d19fad">
+      <event guid="2a447fd1-0b53-5702-a216-1d8b3c28584c">
+        <title>Eat pancakes, Sleep, Hack, Repeat</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Join us for some free pancakes and 'gezelligheid' at the Pancake village.</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Distels</person>
+        </persons>
+        <description>Age range: All ages
+==== We'll be baking pancakes every main event day from 16:00 - 18:00, Bring Your Own Plate! ====
+
+Please drop by and have a pancake! We're providing the camp with as much pancakes we can physically bake, as long as our supplies last ;-)
+
+The Pancake village will be right next to the (main) Andromeda track.
+
+'''BYOP''' (Bring your own plate) and enjoy some pancakes with us!</description>
+        <subtitle>Pancake Time!</subtitle>
+        <date>2025-08-08T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Quantum" guid="84cd96e6-841c-587b-b609-65149ceb3ec1">
+      <event guid="3420b4a4-7721-5ed6-8c73-fc7e95a2b0ff">
+        <title>Quantum Game Intro</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Introduction to Quantum Game Functions</abstract>
+        <type>Hands-On</type>
+        <description>Age range: All ages</description>
+        <date>2025-08-08T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
+    <room name="Village:Øl Telecom" guid="9d7f244c-7f35-5948-b0fd-2f8c5e9537dd">
+      <event guid="30b50f2d-a379-5dcf-a603-29a54a6173a2">
+        <title>Stargazing</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Stargazing meetup - bring your own telescope or look through the telescopes that are onsite. SESSION ONLY HAPPENS WITH CLEAR ENOUGH WEATHER (of course)</abstract>
+        <type>Outside</type>
+        <persons>
+          <person>Aetios</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: Aimed at adults but supervised kids welcome.
+Let's go stargazing! More info to come :)</description>
+        <date>2025-08-08T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
+      <event guid="b08cd997-f4d6-5b99-b217-27176db03f3c">
+        <title>Craft beer brewing!</title>
+        <track>Self Organized Sessions</track>
+        <abstract>We brew our own beer the first day and drink it later</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>AcL</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: Aimed at adults but supervised kids welcome.
+Have you ever been curious about the process behind this amazing drink called beer or do you just like beer in general? We will be brewing a SMaSH (single malt and single hop) beer on site on Day 1 and then enjoy the product on Day 4 on wards.
+
+Beer is brewed using a brewing system and then later served through a cold tap. Make sure to bring some type of container suitable for beer consumption, as there will be a tap available during the brewing session!
+
+Location is close to the Sauna/Salmiakki.</description>
+        <date>2025-08-08T18:00:00+02:00</date>
+        <start>18:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+  </day>
+  <day date="2025-08-09">
+    <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
+      <event guid="dcb58d79-2038-53b5-87af-6ae22483941c">
+        <title>MTB Rides</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>Apex</person>
+        </persons>
+        <description />
+        <subtitle>Noord-Scharwoude</subtitle>
+        <date>2025-08-09T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+      </event>
+    </room>
+    <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
+      <event guid="facd9967-eb29-5832-af66-f888d80e5a49">
+        <title>How to get a new TV without paying. Phishing panels for the win!</title>
+        <track>Self Organized Sessions</track>
+        <abstract>How to get a new TV without paying. Phishing panels for the win!</abstract>
+        <type>Talk</type>
+        <persons>
+          <person>Cyb0rg42</person>
+        </persons>
+        <description>This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. 
+The second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.</description>
+        <date>2025-08-09T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="e2ff0891-8a50-5ac9-ace3-4ec07706000c">
+        <title>Onderzoek levering mifi-routers (hardware hacking)</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Bij de levering van Mifi devices doet zich een vreemde situatie voor. Met behulp van hardware-hacking probeer ik te bevestigen of te ontkrachten of er werkelijk iets speelt.</abstract>
+        <type>Talk</type>
+        <persons>
+          <person>NebulaH</person>
+        </persons>
+        <language>nl</language>
+        <description>Needs signup
+Age range: Aimed at adults but supervised kids welcome.
+Bij de levering van Mifi devices doet zich een vreemde situatie voor. Met behulp van hardware-hacking probeer ik te bevestigen of te ontkrachten of er werkelijk iets speelt.
+Deze talk zal in het Nederlands gegeven worden en is primair voor DutchPicknick-ers. Anderen zijn ook welkom, maar de exacte tijd moet nog even bepaald worden. Zit je niet in DutchPicknick, meldt je vooraf even bij ons village.</description>
+        <date>2025-08-09T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>00:45</duration>
+      </event>
+    </room>
+    <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
+      <event guid="80836f77-2119-59d9-93a7-bacfa5419fd3">
+        <title>Past Presentation Cinema</title>
+        <track>Self Organized Sessions</track>
+        <abstract>A rotating library of past presentations to watch.</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Nelusthenerd</person>
+        </persons>
+        <description />
+        <date>2025-08-09T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>03:00</duration>
+      </event>
+    </room>
+    <room name="Village:Hardware Hacking Area" guid="2358bed6-9a09-5a7c-898a-ded151f3398a">
+      <event guid="c3f09cae-5561-58e7-bfdd-20eaa5e579a3">
+        <title>KiCad for Beginners</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Learn to make your own PCBs with KiCad, a free and open source tool that anyone can learn.  For total beginners.</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Cpresser</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+== Workshop Description ==
+Learn to make your own PCBs with KiCad, a free and open source tool that anyone can learn.  For total beginners.  
+
+Workshop given by crpesser
+&lt;br&gt;
+&lt;br&gt;
+[[File:HHA_WHY_logo.png|center|300px]]  
+  
+== Complete Hardware Hacking Area Village Schedule == 
+Workshops are all free to attend.&lt;br&gt;
+The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
+[[File:WHY_HHA_schedule.png|720px]]
+  
+== Location of Hardware Hacking Area Village == 
+[[File:HHA_map_WHY.jpg|720px]]</description>
+        <date>2025-08-09T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="5ccbf243-6e97-54ac-8e13-8a54d61ab85b">
+        <title>IoT with Arduino Cloud: Beginner-Friendly Workshop</title>
+        <track>Self Organized Sessions</track>
+        <abstract>IoT with Arduino Cloud. For total beginners.</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Tdr112</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+== Workshop Description ==
+IoT with Arduino Cloud. For total beginners.  
+
+Workshop given by Jeffrey Roe.  
+
+Materials cost: €25
+&lt;br&gt;
+&lt;br&gt;
+[[File:HHA_WHY_logo.png|center|300px]]  
+  
+== Complete Hardware Hacking Area Village Schedule == 
+Workshops are all free to attend.&lt;br&gt;
+The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
+[[File:WHY_HHA_schedule.png|720px]]
+  
+== Location of Hardware Hacking Area Village == 
+[[File:HHA_map_WHY.jpg|720px]]</description>
+        <date>2025-08-09T17:30:00+02:00</date>
+        <start>17:30</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Pancake" guid="52612cea-1526-511d-bb5c-7c56b1d19fad">
+      <event guid="4bd9bdbb-3013-5e62-852d-f29190a7c62c">
+        <title>Eat pancakes, Sleep, Hack, Repeat</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Join us for some free pancakes and 'gezelligheid' at the Pancake village.</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Distels</person>
+        </persons>
+        <description>Age range: All ages
+==== We'll be baking pancakes every main event day from 16:00 - 18:00, Bring Your Own Plate! ====
+
+Please drop by and have a pancake! We're providing the camp with as much pancakes we can physically bake, as long as our supplies last ;-)
+
+The Pancake village will be right next to the (main) Andromeda track.
+
+'''BYOP''' (Bring your own plate) and enjoy some pancakes with us!</description>
+        <subtitle>Pancake Time!</subtitle>
+        <date>2025-08-09T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="b55f43fa-6211-5da5-ba50-5bcde9cac339">
+        <title>Vinyl Cutting &amp; Arts &amp; Crafts</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Join me in the Pancake village for some relaxing arts &amp; crafts, come decorate a small bag or byo thing to decorate with heat transfer vinyl. All are welcome to join, kids only under supervision of the parental unit(s) ;-)</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>Distels</person>
+        </persons>
+        <description>Age range: All ages
+== Heat Transfer Vinyl Cutting &amp; Arts &amp; Crafts ==
+I'm bringing my small transfer press and vinyl cutter (a Brother Scan 'N Cut, not something self-built unfortunately...) and several little bags (made from an assortment of upcycled fabrics) to decorate.
+
+* '''Please note:''' All materials (Heat transfer vinyl, bags, fabric, etc.) come from my personal stash, a small donation to help cover material costs is very much appreciated - just leave whatever feels fair to you!
+* '''Concerning kids:''' Kids are welcome! But '''only''' with parents or adult supervision. Any unattended 'free-range' children will be politely redirected back to their designated adult faster than you can say "where did I put that child?". ;-)
+
+
+If you're interested, drop by '''Pancake village'''! You're welcome to create or bring a design and decorate your shirt, bag, or whatever you want. 
+
+If you'd like to use my equipment, I do ask that you:
+* Respect the WHY2025 code of conduct "Be excellent to each other!" and be mindful about your designs: [[Code_of_Conduct]]
+* Decorate at your own risk - once pressed, you '''cannot remove''' the vinyl and might have to live with imperfections. But hey, you've made something custom and unique! ;-)
+* Be very careful with the transfer press - it gets '''HOT!''' (130-160°C). Kids cannot use the press without supervision!
+* Only press cotton, polyester/cotton blends or nylon items! Other fabrics generally don't play nice with the heat and could melt or won't work with the vinyl I'm bringing. When in doubt, ask me to check the fabric label first so we can adjust the temperature accordingly.
+
+=== Practical info ===
+* I'll be around most of the time, but if you don't see me, ask around Pancake village for '''Distels''' or poke me on IRC
+* I'll bring small bags (for dice, card decks, or small knick-knacks) and fabric that you can decorate and, if you like, hand-sew into something. Or you can bring your own items to decorate. 
+* As long the items are 100% cotton, a polyester/cotton blend, polyester or nylon, it'll work with the vinyl I'm bringing.
+* You can bring your own design files in SVG, PNG or JPG format, GIMP works fine for this, and we can try to convert those to .fcm with varying success. 
+* Simple designs in SVG or PNG with thick lines and black/white work best. Unfortunately .FCM is Brother proprietary and my plotter works only with these files
+* Please please please... don't hack (or break) my setup. I will probably keep everything offline but USB sticks can do damage too ;-)
+* Your design needs to be mirrored, especially if you're using text. Unless you like it backwards ;-)
+* I will '''try''' to provide a laptop or pc on which to convert designs from .PNG/.SVG to .FCM or to make small adjustments before cutting
+
+=== Other stuff I'm probably bringing ===
+* Assorted yarn, crochet/knitting needles and other fiberart related stuff
+* Random craft supplies (paper, glue, scissors, colored pencils, etc.)
+* Hand-sewing supplies 
+
+=== Tips if you want to decorate a shirt  ===
+* I'm not bringing any blanco shirts since I cannot predict your size and don't have a stock, but you can get some at the local shops: Zeeman, Action and HEMA have, not too expensive, T-shirts and aren't too far from our campsite (check [[Facilities]]). 
+
+Join me for some relaxing old-school arts and crafts. You are welcome!</description>
+        <subtitle>You are free to join (fri/sat/sun/mon) between 10:00 and 16:00</subtitle>
+        <date>2025-08-09T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>06:00</duration>
+      </event>
+    </room>
+    <room name="Village:Quantum" guid="84cd96e6-841c-587b-b609-65149ceb3ec1">
+      <event guid="07b7411c-0104-59ef-85ac-cdec92d21f0c">
+        <title>Quantum programming</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Quantum programming</abstract>
+        <type>Hands-On</type>
+        <description />
+        <date>2025-08-09T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="aa90c64d-6cfa-5c5a-8bdf-0c2b5a7d6606">
+        <title>Quantum Computers: The ultimate hacking machines</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Quantum Computers: The ultimate hacking machines</abstract>
+        <type>Talk</type>
+        <description>Age range: All ages</description>
+        <date>2025-08-09T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="3bfe9dd4-37c4-58c6-8911-10213e79987f">
+        <title>Quantum Game UnJam</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Quantum Game UnJam</abstract>
+        <type>Hands-On</type>
+        <description>Age range: All ages</description>
+        <date>2025-08-09T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+      </event>
+      <event guid="c6168c49-f110-539a-8275-a41a31da5f6e">
+        <title>Quantum Game UnJam</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Quantum Game UnJam</abstract>
+        <type>Hands-On</type>
+        <description>Age range: All ages</description>
+        <date>2025-08-09T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="fd33faf5-c7ed-56b3-b973-51862e5f6f34">
+        <title>Yiquan training</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Yiquan training</abstract>
+        <type>Other</type>
+        <description>Age range: All ages</description>
+        <date>2025-08-09T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
+    <room name="Village:SSH (Spanish Speaking Hackers)" guid="cf6602e5-4ed2-5ac5-9fdb-98fccd895f79">
+      <event guid="895c1116-247d-5ad3-bf52-ff2a2ede2d75">
+        <title>Movie-night</title>
+        <track>Self Organized Sessions</track>
+        <abstract>We plan to project some cool films with English subtitles (when available). Check SSH village wiki page for the latest updates.</abstract>
+        <type>Movie</type>
+        <url>https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Movie_nights</url>
+        <persons>
+          <person>Pauloba</person>
+        </persons>
+        <description>keywords: movie-screening
+tags:movie-screening
+🍿 WHAT: We will project cool films with English subtitles (when available) and make popcorn kernels explode applying heat to make them edible and delicious.
+
+🍿 WHERE: SSH village.
+
+🍿 WHEN: https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Movie_nights
+
+🍿 WHY: Yes, WHY 2025</description>
+        <subtitle>Movie night</subtitle>
+        <date>2025-08-09T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Yolocation" guid="0146cfb4-fa38-5326-a457-25f67bbafbf1">
+      <event guid="65e0dbf8-5282-50da-ab23-c3f86c0f63b6">
+        <title>Yolocation: How to pop up a virtualisation infrastructure on a lawn</title>
+        <track>Self Organized Sessions</track>
+        <abstract>This session wil give a tour around the Yolocation datacenter infrastructure</abstract>
+        <type>Guided tour</type>
+        <persons>
+          <person>GraPghaST</person>
+        </persons>
+        <description />
+        <date>2025-08-09T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+      </event>
+    </room>
+    <room name="Village:Øl Telecom" guid="9d7f244c-7f35-5948-b0fd-2f8c5e9537dd">
+      <event guid="eca3a244-673f-5c82-80be-81ddff062a06">
+        <title>Stargazing</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Stargazing meetup - bring your own telescope or look through the telescopes that are onsite. SESSION ONLY HAPPENS WITH CLEAR ENOUGH WEATHER (of course)</abstract>
+        <type>Outside</type>
+        <persons>
+          <person>Aetios</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: Aimed at adults but supervised kids welcome.
+Let's go stargazing! More info to come :)</description>
+        <date>2025-08-09T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+  </day>
+  <day date="2025-08-10">
+    <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
+      <event guid="1992e8ca-fa20-559f-a056-da9f234038cc">
+        <title>MTB Rides</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>Apex</person>
+        </persons>
+        <description />
+        <subtitle>Schoorl (Midden)</subtitle>
+        <date>2025-08-10T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
+      <event guid="3f7c933f-dfde-5599-b30a-50dd7d8c469f">
+        <title>Past Presentation Cinema</title>
+        <track>Self Organized Sessions</track>
+        <abstract>A rotating library of past presentations to watch.</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Nelusthenerd</person>
+        </persons>
+        <description />
+        <date>2025-08-10T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>03:00</duration>
+      </event>
+    </room>
+    <room name="Village:Hardware Hacking Area" guid="2358bed6-9a09-5a7c-898a-ded151f3398a">
+      <event guid="24332a0d-f302-53c1-80ef-0e5aac9189c7">
+        <title>Build Your Own Air Quality Sensor</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Build Your Own Air Quality Sensor</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Tdr112</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+== Workshop Description ==
+Build Your Own Air Quality Sensor  
+
+Workshop given by Jeffrey Roe  
+
+Materials cost: €60
+&lt;br&gt;
+&lt;br&gt;
+[[File:HHA_WHY_logo.png|center|300px]]  
+  
+== Complete Hardware Hacking Area Village Schedule == 
+Workshops are all free to attend.&lt;br&gt;
+The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
+[[File:WHY_HHA_schedule.png|720px]]
+  
+== Location of Hardware Hacking Area Village == 
+[[File:HHA_map_WHY.jpg|720px]]</description>
+        <date>2025-08-10T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Milliways" guid="05615f30-19b9-52e9-8665-82e6853d0aa5">
+      <event guid="22e21fd9-5956-51ef-80e2-39d8c9f8b03e">
+        <title>Milliways' Whiskyleaks</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Milliways' famous Whiskyleaks event; Self organizing, repeating, turned into a legend. Many bottles arrive, none leave.</abstract>
+        <url>https://wiki.milliways.info/index.php?title=WHY_2025</url>
+        <persons>
+          <person>Obsidian</person>
+        </persons>
+        <description>Milliways' famous Whiskyleaks event; Self organizing, repeating, turned into a legend. Many bottles arrive, none leave. Bring a bottle of your favourite whisky (or other spirits) and share it with other passionate drinkers. If you can’t bring a bottle, come along - bring one next time!</description>
+        <date>2025-08-10T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>03:00</duration>
+      </event>
+    </room>
+    <room name="Village:Pancake" guid="52612cea-1526-511d-bb5c-7c56b1d19fad">
+      <event guid="82996347-5893-5bfe-9612-38170f3fe47b">
+        <title>Eat pancakes, Sleep, Hack, Repeat</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Join us for some free pancakes and 'gezelligheid' at the Pancake village.</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Distels</person>
+        </persons>
+        <description>Age range: All ages
+==== We'll be baking pancakes every main event day from 16:00 - 18:00, Bring Your Own Plate! ====
+
+Please drop by and have a pancake! We're providing the camp with as much pancakes we can physically bake, as long as our supplies last ;-)
+
+The Pancake village will be right next to the (main) Andromeda track.
+
+'''BYOP''' (Bring your own plate) and enjoy some pancakes with us!</description>
+        <subtitle>Pancake Time!</subtitle>
+        <date>2025-08-10T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Quantum" guid="84cd96e6-841c-587b-b609-65149ceb3ec1">
+      <event guid="f99b2807-36b9-5c00-8b55-68ea104b2cd7">
+        <title>Quantum programming</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Quantum programming</abstract>
+        <type>Hands-On</type>
+        <description />
+        <date>2025-08-10T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="93d63ef1-8008-5cb8-bb32-a87cd7c8ee21">
+        <title>Talk + AMA: Quantum Computers and Cryptography</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Talk + AMA: Quantum Computers and Cryptography</abstract>
+        <type>Talk</type>
+        <description>Age range: All ages</description>
+        <date>2025-08-10T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
+    <room name="Village:SSH (Spanish Speaking Hackers)" guid="cf6602e5-4ed2-5ac5-9fdb-98fccd895f79">
+      <event guid="977701cb-4015-53c8-a48c-6de3e6b4c7ec">
+        <title>Videogame-tournament</title>
+        <track>Self Organized Sessions</track>
+        <abstract>We are bringing a raspi with retropie to play Neo Geo Puzzle Money Exchanger and Super Mario Kart battle mode. Check SSH village wiki page for the latest updates.</abstract>
+        <type>Game</type>
+        <url>https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Videogame_tournament</url>
+        <persons>
+          <person>Pauloba</person>
+        </persons>
+        <description>keywords: videogames
+tags:videogames
+👾 WHAT: We are bringing a raspi with retro pie, game controllers and a projector to play:
+ 🟡 [https://www.youtube.com/watch?v=7ahz87n4oEA Neo Geo Puzzle Money Exchanger]
+ 🚗 [https://www.youtube.com/watch?v=fj-t0fkIiIw Super Mario Kart battle mode]
+
+👾 WHERE: Milliways or SSH village (Projector to be tested on site).
+
+👾 WHEN: https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Videogame_tournament
+
+👾 WHY: Why not?</description>
+        <subtitle>Videogame tournament</subtitle>
+        <date>2025-08-10T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Øl Telecom" guid="9d7f244c-7f35-5948-b0fd-2f8c5e9537dd">
+      <event guid="ffe92218-8814-578e-bab5-41566940d0e0">
+        <title>Stargazing</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Stargazing meetup - bring your own telescope or look through the telescopes that are onsite. SESSION ONLY HAPPENS WITH CLEAR ENOUGH WEATHER (of course)</abstract>
+        <type>Outside</type>
+        <persons>
+          <person>Aetios</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: Aimed at adults but supervised kids welcome.
+Let's go stargazing! More info to come :)</description>
+        <date>2025-08-10T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+  </day>
+  <day date="2025-08-11">
+    <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
+      <event guid="5832e552-fd06-5148-8014-ad0d96b644db">
+        <title>MTB Rides</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>Apex</person>
+        </persons>
+        <description />
+        <subtitle>Schoorl (Zuid)</subtitle>
+        <date>2025-08-11T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
+      <event guid="ffbedd9d-737c-544c-8b6c-2343d9fe93c8">
+        <title>Past Presentation Cinema</title>
+        <track>Self Organized Sessions</track>
+        <abstract>A rotating library of past presentations to watch.</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Nelusthenerd</person>
+        </persons>
+        <description />
+        <date>2025-08-11T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>03:00</duration>
+      </event>
+    </room>
+    <room name="Village:Hardware Hacking Area" guid="2358bed6-9a09-5a7c-898a-ded151f3398a">
+      <event guid="5524d6f2-b109-5b63-9eb0-e3b7ed452795">
+        <title>Sensing the World Around you with EMF! Solder Workshop (duplicate session)</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Solder a beautiful board that makes wonderful sounds as you send the world of EMF all around us.  For total beginners.</abstract>
+        <url>https://darcyneal.com/emf-explorer-badge/</url>
+        <type>Workshop</type>
+        <persons>
+          <person>Drc3p0</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+== Workshop Description ==
+The EMF Explorer Badge is an electromagnetic field sensing circuit that lets you listen to the world of hidden electromagnetic frequencies around you. Learn more about the electronics world by exploring the sounds they make! The EMF badge also serves as a piece of wearable art and can be worn on a lanyard for extra bling.  
+  
+Through-hole soldering required for this workshop. This kit is designed for everyone and is accessible to all skill levels. Adult assistance required for youth who are new to soldering.  
+
+Workshop given by DRC.  
+
+Materials cost: €10 - €25
+&lt;br&gt;
+&lt;br&gt;
+[[File:HHA_WHY_logo.png|center|300px]]  
+  
+== Complete Hardware Hacking Area Village Schedule == 
+Workshops are all free to attend.&lt;br&gt;
+The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
+[[File:WHY_HHA_schedule.png|720px]]
+  
+== Location of Hardware Hacking Area Village == 
+[[File:HHA_map_WHY.jpg|720px]]</description>
+        <date>2025-08-11T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="610acfdd-e519-5503-8677-06fb0d913c56">
+        <title>Repair and Rework Circuits</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Learn to repair and rework circuits</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Cpresser</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+== Workshop Description ==
+Learn to repair and rework circuits.  
+
+Workshop given by cpresser.
+&lt;br&gt;
+&lt;br&gt;
+[[File:HHA_WHY_logo.png|center|300px]]  
+  
+== Complete Hardware Hacking Area Village Schedule == 
+Workshops are all free to attend.&lt;br&gt;
+The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
+[[File:WHY_HHA_schedule.png|720px]]
+  
+== Location of Hardware Hacking Area Village == 
+[[File:HHA_map_WHY.jpg|720px]]</description>
+        <date>2025-08-11T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="3c52004f-c34a-5701-80ae-a1027aca3c91">
+        <title>Build Your Own Satellite Ground Station</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Build and program your ground station and antenna to receive data from space.  For beginners.</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Tdr112</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+== Workshop Description ==
+Are you fascinated by space and want to learn how to receive data from satellites and weather probes? In this TinyGS station workshop, you’ll build and program your ground station and antenna to receive data from space. This hands-on, beginner-friendly workshop is perfect for anyone interested in radio, electronics, IOT, antenna design, and space exploration.
+TinyGS is an open community-run network of ground stations distributed around the world to receive and operate LoRa satellites, weather probes, and other flying objects, using cheap and versatile modules. With a TinyGS ground station, you can receive data from a variety of sources, such as CubeSats.
+During the workshop, you’ll learn how to build and program a TinyGS ground station and a quarter-wave ground plane antenna. No prior experience is required.  
+  
+Workshop given by Jeffrey Roe.  
+
+Materials cost: €80
+&lt;br&gt;
+&lt;br&gt;
+[[File:HHA_WHY_logo.png|center|300px]]  
+  
+== Complete Hardware Hacking Area Village Schedule == 
+Workshops are all free to attend.&lt;br&gt;
+The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
+[[File:WHY_HHA_schedule.png|720px]]
+  
+== Location of Hardware Hacking Area Village == 
+[[File:HHA_map_WHY.jpg|720px]]</description>
+        <date>2025-08-11T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="2b1e61ee-eabf-5e27-b11d-35aeefe8993c">
+        <title>Solder a Pathlighter Badge</title>
+        <track>Self Organized Sessions</track>
+        <abstract>For this workshop, we will solder a glow club pathlighter badge, which will help to illuminate your pathway at night! Don't get lost in the dark! Join the glow club so you can travel safely through the night.  For total beginners.</abstract>
+        <url>https://darcyneal.com/pathlighter-pcb/</url>
+        <type>Workshop</type>
+        <persons>
+          <person>Drc3p0</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+== Workshop Description == 
+The Pathlighter PCB, initially known as the Glow Club PCB, is a wearable piece of PCB art crafted for the community.
+It serves a dual purpose: as a practical tool for teaching about LEDs and soldering, and as a creative demonstration of using a PCB’s foundational layers to craft a unique art piece. Designed to be worn on a lanyard, the Pathlighter PCB acts as a beacon, lighting up the night and ensuring safety for its wearers.  
+  
+This innovative PCB made its debut in an electronics education group and has since been featured in soldering workshops at ToorCamp 2022 and Chaos Communication Camp ’23. Its design is particularly well-suited for larger events where workshop demand often outstrips available resources. The Pathlighter PCB’s efficient design allows newcomers to complete their project in approximately 20 minutes. This swift completion rate creates a “revolving door” dynamic in the workshop, allowing for a continuous flow of participants and maximizing educational outreach.  
+  
+Having been taught to over 450 students so far, the Pathlighter PCB workshop has been a delightful experience to teach students how to solder and to earn a unique wearable art piece. Each participant not only learns valuable skills but also becomes an honorary member of the Glow Club. May we all shine brighter together through these shared experiences.  
+  
+Workshop given by DRC  
+
+Materials cost: €10 - €15
+&lt;br&gt;
+&lt;br&gt;
+[[File:HHA_WHY_logo.png|center|300px]]  
+  
+== Complete Hardware Hacking Area Village Schedule == 
+Workshops are all free to attend.&lt;br&gt;
+The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
+[[File:WHY_HHA_schedule.png|720px]]
+  
+== Location of Hardware Hacking Area Village == 
+[[File:HHA_map_WHY.jpg|720px]]</description>
+        <date>2025-08-11T18:30:00+02:00</date>
+        <start>18:30</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="0db7bc21-451a-50d2-b298-2b12e7fd3879">
+        <title>Synth Meetup</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Let's get together and geek out over synths. Bring a synth, if you like. We can make music, sound, and noise!</abstract>
+        <type>Meeting</type>
+        <persons>
+          <person>Maltman23</person>
+        </persons>
+        <description>Age range: All ages
+[[File:SynthCollage.jpg|left|300px]]  
+
+Let's get together and geek out over music synthesizers, music synthesis, making sound, and creating music. Hardware, software - anything goes! All are welcome to come and talk synths, play synths, share projects, learn, and share. Some attendees have made their own synths at WHY - please bring them! Please feel free to bring any synth or sound-making device.  
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+[[File:HHA_WHY_logo.png|center|300px]]  
+  
+== Complete Hardware Hacking Area Village Schedule == 
+Workshops are all free to attend.&lt;br&gt;
+The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
+[[File:WHY_HHA_schedule.png|720px]]
+  
+== Location of Hardware Hacking Area Village == 
+[[File:HHA_map_WHY.jpg|720px]]</description>
+        <date>2025-08-11T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Pancake" guid="52612cea-1526-511d-bb5c-7c56b1d19fad">
+      <event guid="e4c58c1c-d859-5a8d-8ef7-39e1e1e06b64">
+        <title>Eat pancakes, Sleep, Hack, Repeat</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Join us for some free pancakes and 'gezelligheid' at the Pancake village.</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Distels</person>
+        </persons>
+        <description>Age range: All ages
+==== We'll be baking pancakes every main event day from 16:00 - 18:00, Bring Your Own Plate! ====
+
+Please drop by and have a pancake! We're providing the camp with as much pancakes we can physically bake, as long as our supplies last ;-)
+
+The Pancake village will be right next to the (main) Andromeda track.
+
+'''BYOP''' (Bring your own plate) and enjoy some pancakes with us!</description>
+        <subtitle>Pancake Time!</subtitle>
+        <date>2025-08-11T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Quantum" guid="84cd96e6-841c-587b-b609-65149ceb3ec1">
+      <event guid="99b274ea-ed86-5a0b-8f99-04c40f4c8afc">
+        <title>Introduction to Quantum</title>
+        <track>Self Organized Sessions</track>
+        <type>Talk</type>
+        <description />
+        <date>2025-08-11T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="c040814d-b88f-55d4-8409-891840e55c34">
+        <title>WIQD</title>
+        <track>Self Organized Sessions</track>
+        <abstract>WIQD</abstract>
+        <type>Talk</type>
+        <description>Age range: All ages</description>
+        <date>2025-08-11T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="47409f40-3997-5404-befe-1d8fb88cb949">
+        <title>Tiq Taq Toe Finale</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Tiq Taq Toe Finale</abstract>
+        <type>Game</type>
+        <description>Age range: All ages</description>
+        <date>2025-08-11T19:00:00+02:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="b5b89561-8776-56ca-ba94-53a7709e03bb">
+        <title>Yiquan training</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Yiquan training</abstract>
+        <type>Other</type>
+        <description>Age range: All ages</description>
+        <date>2025-08-11T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
+    <room name="Village:Øl Telecom" guid="9d7f244c-7f35-5948-b0fd-2f8c5e9537dd">
+      <event guid="555cd6ce-7342-5e7c-bc76-9d3711b5ad7f">
+        <title>Stargazing</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Stargazing meetup - bring your own telescope or look through the telescopes that are onsite. SESSION ONLY HAPPENS WITH CLEAR ENOUGH WEATHER (of course)</abstract>
+        <type>Outside</type>
+        <persons>
+          <person>Aetios</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: Aimed at adults but supervised kids welcome.
+Let's go stargazing! More info to come :)</description>
+        <date>2025-08-11T23:00:00+02:00</date>
+        <start>23:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+  </day>
+  <day date="2025-08-12">
+    <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
+      <event guid="55ffd24a-967b-5324-8035-bf75b54fcf9d">
+        <title>MTB Rides</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>Apex</person>
+        </persons>
+        <description />
+        <subtitle>Schoorl (Noord)</subtitle>
+        <date>2025-08-12T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Hardware Hacking Area" guid="2358bed6-9a09-5a7c-898a-ded151f3398a">
+      <event guid="f9ffecbc-30d5-53c5-aa5a-70895006aaa5">
+        <title>SMD Duck Soldering workshop</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Learn SMD soldering by making a duck</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Arne</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+== Workshop Description ==
+Learn SMD soldering by making a duck.&lt;br&gt;
+&lt;br&gt;
+Workshop given by Arne.&lt;br&gt;
+&lt;br&gt;
+Materials cost: €10
+&lt;br&gt;
+&lt;br&gt;
+[[File:HHA_WHY_logo.png|center|300px]]  
+  
+== Complete Hardware Hacking Area Village Schedule == 
+Workshops are all free to attend.&lt;br&gt;
+The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
+[[File:WHY_HHA_schedule.png|720px]]
+  
+== Location of Hardware Hacking Area Village == 
+[[File:HHA_map_WHY.jpg|720px]]</description>
+        <date>2025-08-12T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="e94d1044-0ed5-56cf-83bd-4b18f8aa653a">
+        <title>Stonehenge Soldering Challenge</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Increase and test your soldering skills with this challenge in the shape of Stonehenge</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Cpresser</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+== Workshop Description ==
+Increase and test your soldering skills with this challenge in the shape of Stonehenge.&lt;br&gt;
+&lt;br&gt;
+Workshop given by cpresser.&lt;br&gt;
+&lt;br&gt;
+Materials cost: €5 to €10&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+[[File:HHA_WHY_logo.png|center|300px]]  
+  
+== Complete Hardware Hacking Area Village Schedule == 
+Workshops are all free to attend.&lt;br&gt;
+The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
+[[File:WHY_HHA_schedule.png|720px]]
+  
+== Location of Hardware Hacking Area Village == 
+[[File:HHA_map_WHY.jpg|720px]]</description>
+        <date>2025-08-12T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Quantum" guid="84cd96e6-841c-587b-b609-65149ceb3ec1">
+      <event guid="c9dcb88f-7213-52d8-a702-f5c3530b8c4b">
+        <title>Quantum programming</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Quantum programming</abstract>
+        <type>Hands-On</type>
+        <description />
+        <date>2025-08-12T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
+    <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
+      <event guid="d3955452-461d-5b0f-96e0-3e3ac7dbad7a">
+        <title>Healthcare Meetup: For those working for or in healthcare</title>
+        <track>Self Organized Sessions</track>
+        <abstract>For people working for healthcare, in healthcare or have a intrest in healthcare</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Nelusthenerd</person>
+        </persons>
+        <description>Missing duration, check with organiser, dummy 10 minutes added</description>
+        <date>2025-08-12T19:30:00+02:00</date>
+        <start>19:30</start>
+        <duration>00:10</duration>
+      </event>
+    </room>
+  </day>
+  <day date="2025-08-13">
+    <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
+      <event guid="1a67a64a-534f-5c2e-800b-dc6aa69cf4b5">
+        <title>MTB Rides</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>Apex</person>
+        </persons>
+        <description />
+        <subtitle>Noord-Scharwoude</subtitle>
+        <date>2025-08-13T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+      </event>
+    </room>
+    <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
+      <event guid="897e31d2-0794-5452-a2ca-e3f15ee2e1a0">
+        <title>Whiskyleaks</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Tasting and discussing nice single malt whisky, and other information security related stuff, in good company. At least once during the event, but (most) probably every evening.</abstract>
+        <type>whiskyleaks</type>
+        <persons>
+          <person>Quux</person>
+        </persons>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time</description>
+      </event>
+      <event guid="26d98063-11e6-5f28-baca-760baec27742">
+        <title>Mini RopeJam</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Informal rope event for people to tie, be tied, or just watch</abstract>
+        <persons>
+          <person>Pez</person>
+        </persons>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+This would be in addition to the [official schedule rope jam https://program.why2025.org/why2025/talk/NVCRLH/] on the Sunday.
+
+A rope jam is an open, unstructured space for tying, practicing, or learning together. You can come alone, with a partner, or in a small group. Attendees are encouraged to: self tie, seek others to tie with, be tied by, switch with, observe or talk rope with.
+
+These self organised rope jams will be ad-hoc throughout the weekend (you're also free to come tie any time).
+The schedule will be on the whiteboard in our village.</description>
+      </event>
+      <event guid="0e1208e3-9e07-594a-add8-ac0e6a224ab2">
+        <title>Desk-a-thon</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Hack our desk for fun and profit; Self organizing, repeating</abstract>
+        <type />
+        <persons>
+          <person>Chalcy0n</person>
+        </persons>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+The main idea is to see if anybody could hack our automated desk and let it do crazy things!</description>
+      </event>
+      <event guid="bffc1262-6ca3-5e1a-88ae-a2cd1c84fc6e">
+        <title>Build Your Own Meshtastic Pager (One That Doesn’t Explode)</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Build Meshtastic Pager</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>.r03n.</person>
+        </persons>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+We're gonna build a non exploding buzzer working on the Meshtastic network</description>
+      </event>
+      <event guid="b16b6e3f-9d4c-517f-9963-c63d2a892528">
+        <title>KiCad workshop featuring the Fab lib</title>
+        <track>Self Organized Sessions</track>
+        <abstract>KiCad workshop featuring the Fab lib</abstract>
+        <url>https://gitlab.fabcloud.org/pub/libraries/electronics/kicad</url>
+        <type>Workshop</type>
+        <persons>
+          <person>Kris, Henk</person>
+        </persons>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time</description>
+      </event>
+      <event guid="4ca18855-d001-5086-934a-bb54e744c128">
+        <title>Play the Pinball machine and set a High Score</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Pinball gaming as in 1973</abstract>
+        <type>Game</type>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Ongoing (when available) in the Back to the 80s Village.
+You may play on this Bally 1973 Monte Carlo pinball machine, with max. 4 players.</description>
+      </event>
+      <event guid="f8f03903-a769-5929-8133-d14a38a91dea">
+        <title>Batik T-Shirts</title>
+        <track>Self Organized Sessions</track>
+        <abstract>You will create your own wonderful batik t-shirts. Everybody is welcome (kids, grown-ups, aliens, whatever)</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>DrScream</person>
+        </persons>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Is for kids
+= About =
+
+[[File:Hippybatik.jpg|frame]]
+
+We will create some wonderful batik t-shirts during the camp. Everybody is welcome - it could be a kids session but we also have t-shirts for grown ups.
+We've done some batik sessions on other camps in the past but somehow lost focus the last years. So this is a revival :-)
+
+= What do we provide =
+
+We've special organic batik color, binding threads and lot's of white t-shirts. But feel free to bring your own t-shirt - everything is possible! This session is provided for free, feel free to donate at the camp side.
+
+* ~40 kids t-shirts in different sizes (5y-14y)
+* ~40 grown up shirts in different sizes (M-3XL)
+* ~40 fitted grown up shirts in different sizes (S-XXL)</description>
+      </event>
+      <event guid="5f594ad2-33bc-5ecc-bcc8-ec81abb49af6">
+        <title>FHB:Kimchi making</title>
+        <track>Self Organized Sessions</track>
+        <language>nl</language>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time</description>
+      </event>
+      <event guid="eed855bc-bf50-5a93-9a12-4014b0855aa9">
+        <title>Board gaming - Star Wars Imperial Assault Skirmish</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Fun miniature boardgame</abstract>
+        <type>Game</type>
+        <language>en</language>
+        <description>Age range: All ages
+Fun 1v1 game sessions for new and experienced players. Hands-on guidance for players who wish for it. Premade lists for easy start with your favorite characters from Star wars. Can host multiple head-to-head games simultaneously.</description>
+        <subtitle>Daily and TBA on-site daily</subtitle>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <start>00:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="0cb1b6db-3476-5164-a5fa-fe731db8c3b5">
+        <title>FREE BIRD HOUR</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Listen to "Lynyrd Skynyrd - Free Bird" for one hour.</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Coral</person>
+        </persons>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 18+
+We are listening to to "Lynyrd Skynyrd - Free Bird" for one hour on loop, which is about 6.7 times.
+
+That's it.
+
+Bring a camping chair, get your drink of choice and enjoy one hour of peak dad rock.</description>
+      </event>
+      <event guid="8ef00831-b73b-55f8-a603-a209df46f4e4">
+        <title>Morse Code LED Blinker</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Solder and code your own blinky PCB to spell your name in Morse - encoded in packets of photons, transmitted at light speed. Old-school tech that fits in the palm of your hand.</abstract>
+        <url>https://github.com/leandroebner/Morse-Code-LED-Blinker</url>
+        <type>Workshop</type>
+        <persons>
+          <person>DM8LE</person>
+        </persons>
+        <language>de</language>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: Aimed at adults but supervised kids welcome.
+Bored of talks? Burnt out on pixels? Swing by and solder.
+Participants can assemble and program their very own blinky PCB — a tiny circuit that flashes their name in Morse. Whether you're new to electronics or just need a break from abstract systems talk, this project hits the sweet spot: tactile, nerdy, and extremely satisfying. And yes, you get to take it home.
+
+More infos TBA!</description>
+      </event>
+      <event guid="f4e6d87d-ef18-5e20-9e11-3906ffdee61f">
+        <title>Fuzzing 5G NR FTW!</title>
+        <track>Self Organized Sessions</track>
+        <abstract>I want to share my adventures developing a over the air fuzzer for 5G gNBs (basestations)</abstract>
+        <type>Talk</type>
+        <persons>
+          <person>Juliosddr</person>
+        </persons>
+        <language>en</language>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: Aimed at adults but supervised kids welcome.
+This is an ongoing project of mine that is not yet ready for the spotlight but i would like to start sharing with interested people.  
+
+If you are interested in cellular security, wireless communications, SDR, 5G and so on, please let me know via email ot telegram (same username).</description>
+      </event>
+      <event guid="ae314efd-0a37-5c33-aa84-87ebc4b4b41d">
+        <title>Rust tutorial and Port Scanner</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Rust tutorial and how to build a port scanner</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <type>Hands-On</type>
+        <language>en</language>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 16+</description>
+      </event>
+      <event guid="c19abe1c-da5a-5b08-9ae3-3f32bf2165a5">
+        <title>Forget all your previous instructions</title>
+        <track>Self Organized Sessions</track>
+        <abstract>We will discuss security vulnerabilities of LLMs</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <type>Talk</type>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 16+</description>
+      </event>
+      <event guid="7df19638-4f0b-5ff2-9c53-96d2d913b6ef">
+        <title>Pwn Workshop</title>
+        <track>Self Organized Sessions</track>
+        <abstract>This is a 2 part workshop on reverse engineering and binary exploitation</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 16+</description>
+      </event>
+      <event guid="747e80a2-f6d1-5582-985b-dc264f8794cb">
+        <title>Hollywood-Style Smartlock Attack</title>
+        <track>Self Organized Sessions</track>
+        <abstract>This talk will discuss novel attacks on smartlocks</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 16+</description>
+      </event>
+      <event guid="b7a09954-e7d3-5ea6-ae88-3e8c6bd25c3e">
+        <title>Man your ships! Kubernetes Security, Attacks (and a Bit of Networking)</title>
+        <track>Self Organized Sessions</track>
+        <abstract>This talk will present simple hacking techniques for containers in kubernetes.</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 16+</description>
+      </event>
+      <event guid="78f7f8bd-4aca-59e1-8c31-6658b06f67aa">
+        <title>How to (not) ace a Cyber Incident Response case</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Talk about cyber incident response.</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 16+</description>
+      </event>
+      <event guid="ec488fed-fd2d-5392-ae59-69b64b795f93">
+        <title>How to Become a Red Teamer</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Talk about experiences as a red teamer.</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <type>Talk</type>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 16+</description>
+      </event>
+      <event guid="7b1abf20-4176-5fc3-9c3f-82991964aeb1">
+        <title>Hacky Hunting!</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Discuss threat hunting techniques and stories.</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 16+</description>
+      </event>
+      <event guid="ff777060-7627-55f6-bdc6-221bd9fb1526">
+        <title>Fuzz Testing in Go (for Funz and Profit)</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Go tutorial with a focus on the development of fuzzing tools</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <type>Hands-On</type>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 16+</description>
+      </event>
+      <event guid="89122339-c673-54fd-a280-a2e443122b1e">
+        <title>KubeVenom</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Talk about presenting a tool for hacking kubernetes and cloud environments</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <type>Talk</type>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 16+</description>
+      </event>
+      <event guid="702fe6d5-5649-5d9e-bec1-bca819342efd">
+        <title>Beer exchange</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Share your local beers with others</abstract>
+        <type>Meeting</type>
+        <persons>
+          <person>Marlur</person>
+        </persons>
+        <language>en</language>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 18+
+Beer Exchange at Our Village – Share What You Love!
+
+At the Camp, people from all over the world come together — and many of us share a passion for great beer.
+Local brews often reflect the character of a place, but some are so small-scale you’ll never find them online or in shops.
+
+That’s why we’re hosting a beer exchange in our village!
+
+Bring a few special beers from your hometown — the quirky, the rare, the traditional — and swap them with fellow enthusiasts.
+Let’s share stories, flavors, and maybe even organize a casual tasting session together.
+
+This is your chance to discover beers you'd never find outside your region — unless you're here, at this Camp.
+
+---- Timeslots will follow ----</description>
+      </event>
+    </room>
+  </day>
+</schedule>
