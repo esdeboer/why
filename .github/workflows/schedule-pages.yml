@@ -5,7 +5,7 @@ on:
     branches: ["scheduleChanges"]
   
   schedule:
-    - cron: '5/15 10-22 * * *' # every hour
+    - cron: '5 10-22/1 * * *' # every hour
  
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -40,17 +40,17 @@ jobs:
         id: changes
         run: echo "changed=$(git status --porcelain | wc -l)" >> $GITHUB_OUTPUT
       - name: Commit schedule
-        if: steps.changes.outputs.changed == 1
+        if: steps.changes.outputs.changed  != 0
         uses: stefanzweifel/git-auto-commit-action@v6
       - name: Setup Pages
-        if: steps.changes.outputs.changed == 1
+        if: steps.changes.outputs.changed != 0
         uses: actions/configure-pages@v5
       - name: Upload artifact
-        if: steps.changes.outputs.changed == 1
+        if: steps.changes.outputs.changed != 0
         uses: actions/upload-pages-artifact@v3
         with:
           path: './public'
       - name: Deploy to GitHub Pages
-        if: steps.changes.outputs.changed == 1
+        if: steps.changes.outputs.changed != 0
         id: deployment
         uses: actions/deploy-pages@v4
