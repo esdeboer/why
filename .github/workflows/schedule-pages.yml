@@ -5,7 +5,7 @@ on:
     branches: ["scheduleChanges"]
   
   schedule:
-    - cron: '5 10-22/1 * * *' # every hour
+    - cron: '5/15 10-22 * * *' # every hour
  
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
