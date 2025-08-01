@@ -114,9 +114,17 @@ ONLY BANGERS</description>
         <language>en</language>
         <description>Needs signup
 Age range: Aimed at adults but supervised kids welcome.
-At this workshop you will learn how to make your own kefir ferments using the kefir grain culture. We will explain basic concepts of probiotic, prebiotic and biofilm based polycultures and why it is good to consume foods “labeled” by these terms. You will prepare your own kefir culture, based on the working manual and take it with you so you will be ready to brew wherever you decide hopefully “positively infecting” your local hackerspace. This time we will also try to make at least as a demonstration a "kefir cake" and base for probiotic kefir drink, depending on how much time we will have.</description>
-        <date>2025-08-08T14:20:00+02:00</date>
-        <start>14:20</start>
+[https://dud-poll.inf.tu-dresden.de/kefir_why2025/ To secure spot on this workshop please sign in here].
+
+[https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form Workshop manual is shared here].
+
+This is hands on workshop during which you will learn how to make, harvest and continue to prepare [https://en.wikipedia.org/wiki/Kefir kefir] using kefir grain culture which you will walk away with if you don't defend yourself too hard. We will explain basic concepts of probiotic, prebiotic and biofilm based polycultures and why it is good to consume foods “labeled” by these terms. You will prepare your own kefir culture, based on the  [https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form working manual] and take it with you so you will be ready to brew wherever you decide hopefully “positively infecting” your local hackerspace. We will make at least one recipe together, either "kefir cake" or kefir smoked paprika spread, if we have time we may do a base for probiotic kefir drink using kefir whey.
+
+We will demonstrate how to make a new batch of kefir and how to harvest the old one, you will than do it by yourself. The main aim of this workshop is for the participants to understand the principles behind the milk fermentation with kefir culture and not to be afraid to just do it. Combined with the practical experience which I provide you will be able to take care properly about your kefir culture which is the key for your successful long term fermentation adventures! Don't worry too much about loosing a batch or two, that happens from time to time, keeping the "mother culture" happy is the important part. As usually there will be tasters, cultures sharing, manuals and various hints how to use the products in alternative ways making for example probiotic drinks from whey, kefir cheese spreads, kefir cake et cetera. I can be also your troubleshooting help if you need it. 
+
+This workshop is donation based no one turned away for lack of funds, if you can chip in around 10€, that would be great but it is up to you.</description>
+        <date>2025-08-08T14:00:00+02:00</date>
+        <start>14:00</start>
         <duration>02:00</duration>
       </event>
     </room>
@@ -255,6 +263,20 @@ Location is close to the Sauna/Salmiakki.</description>
         <start>18:00</start>
         <duration>02:00</duration>
       </event>
+      <event guid="c4bc4514-bf3a-59fd-af8a-199e140b770e">
+        <title>Password Cracking - the basics</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Passwords are not dead yet, learn how to crack them!</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>Android7</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: Aimed at adults but supervised kids welcome.</description>
+        <date>2025-08-08T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+      </event>
     </room>
   </day>
   <day date="2025-08-09">
@@ -305,6 +327,33 @@ Deze talk zal in het Nederlands gegeven worden en is primair voor DutchPicknick-
         <date>2025-08-09T13:00:00+02:00</date>
         <start>13:00</start>
         <duration>00:45</duration>
+      </event>
+    </room>
+    <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">
+      <event guid="accb50d8-097f-55b7-b8a7-b95a6069b9c9">
+        <title>FHB:Kimchi making</title>
+        <track>Self Organized Sessions</track>
+        <abstract>This is hands on workshop where your learn how to prepare Korean kimchi</abstract>
+        <url>https://foodhackingbase.org/index.php?title=FHB@WHY2025/kimchi_making&amp;action=edit&amp;redlink=1</url>
+        <type>Workshop</type>
+        <persons>
+          <person>Algoldor</person>
+        </persons>
+        <language>en</language>
+        <description>Needs signup
+Age range: Aimed at adults but supervised kids welcome.
+[https://dud-poll.inf.tu-dresden.de/kimchi_making_why2025/ To secure spot on this workshop please sign in here.]
+
+[https://foodhackingbase.org/wiki/Recipe:Traditional_Kimchi_making_manual Workshop manual is shared here.]
+
+This is hands on workshop where your learn how to prepare Korean [http://en.wikipedia.org/wiki/Kimchi 김치 (kimchi)]. You will do at least two types of kimchies based on wild/spontaneous fermentation. We will see what type of nice vegetables we will get. Highly likely we will do cabbage kimchi (배추 김치) and then either radish, topinambur or turnip kimchi.
+
+The preparation of vegetable ferments in Korea, called [https://en.wikipedia.org/wiki/Kimchi “kimchies”], is an ancient fermentation skill based on spontaneous fermentation (naturally occurring lactic acid producing bacteria among the others) and variety of ingredients added. This workshop is a hands-on experience that reviews the basics of Korean kimchi making and today's preparation styles. We will go through the main topics which are salt to vegetables and liquid ratio and when to apply it and how. This one is crucial. We will explain the importance of the effect of ginger, garlic and spicy pepper and their roles in preventing unwanted microbial development. Part of this workshop is tasting of kimchi samples so you get idea what should your results taste like. You will be leaving with jar of kimchi and knowledge how to make your own.
+
+This workshop is based on "donation at your will no one turned away for lack of funds". Part of the workshop benefits goes towards fhb budget and hopefully larger part towards [[User:Algoldor|Algoldor's]] pocket to cover participation costs at WHY 2025 event and if some extras are accumulated, then towards current and future fermentation projects.</description>
+        <date>2025-08-09T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
       </event>
     </room>
     <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
@@ -1260,15 +1309,6 @@ We've special organic batik color, binding threads and lot's of white t-shirts. 
 * ~40 kids t-shirts in different sizes (5y-14y)
 * ~40 grown up shirts in different sizes (M-3XL)
 * ~40 fitted grown up shirts in different sizes (S-XXL)</description>
-      </event>
-      <event guid="5f594ad2-33bc-5ecc-bcc8-ec81abb49af6">
-        <title>FHB:Kimchi making</title>
-        <track>Self Organized Sessions</track>
-        <language>nl</language>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time</description>
       </event>
       <event guid="eed855bc-bf50-5a93-9a12-4014b0855aa9">
         <title>Board gaming - Star Wars Imperial Assault Skirmish</title>
