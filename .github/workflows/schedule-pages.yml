@@ -34,11 +34,7 @@ jobs:
         run: |
           python schedule.py
       - name: Commit schedule
-        run: |
-          git config --global user.name 'Eric de Boer'
-          git config --global user.email 'esdeboer@users.noreply.github.com'
-          git commit -am "Schedule update"
-          git push
+      - uses: stefanzweifel/git-auto-commit-action@v6
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
