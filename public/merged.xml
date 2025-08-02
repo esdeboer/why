@@ -1077,26 +1077,26 @@ Finally, it can feel abrasive to step out and impose demands on local government
             </event>
             <event guid="807653e7-43d3-57d8-834a-8ffb5e556bf5" id="103">
                 <room>Andromeda</room>
-                <title>The EU Just Made Product Security Mandatory — Now What?</title>
+                <title>The EU Just Made Product Security Mandatory: Now What?</title>
                 <subtitle />
                 <type>Talk (50 minutes)</type>
                 <date>2025-08-09T11:00:00+02:00</date>
                 <start>11:00</start>
                 <duration>00:50</duration>
-                <abstract>As of August 1st, 2025, the EU’s Radio Equipment Directive enforces new cybersecurity requirements. For the first time, broad categories of everyday devices — not just critical infrastructure or niche tech — must meet mandatory security standards. This talk breaks down how we got here, why it matters, and what’s breaking in the process. We’ll look at the political and technical hurdles in rolling this out, what it means for manufacturers, and how it connects to the looming Cyber Resilience Act.</abstract>
+                <abstract>As of August 1st, 2025, the EU’s Radio Equipment Directive enforces new cybersecurity requirements. For the first time, broad categories of everyday devices , not just critical infrastructure or niche tech, must meet mandatory security standards. This talk breaks down how we got here, why it matters, and what’s breaking in the process. We’ll look at the political and technical hurdles in rolling this out, what it means for manufacturers, and how it connects to the looming Cyber Resilience Act.</abstract>
                 <slug>why2025-103-the-eu-just-made-product-security-mandatory-now-what</slug>
                 <track>The square hole</track>
                 <persons>
                     <person id="130">Piet De Vaere</person>
                 </persons>
                 <language>en</language>
-                <description>On August 1st, 2025, three new cybersecurity requirements under the EU’s Radio Equipment Directive (RED) officially kicked in. This is the first time the EU has imposed hard security requirements on a wide range of everyday consumer products — think routers, smart watches, toys with a Wi-Fi chip, and more. This part of RED is often called RED/DA (Delegated Act), and it's a big deal: security is no longer optional.
+                <description>On August 1st, 2025, three new cybersecurity requirements under the EU’s Radio Equipment Directive (RED) officially kicked in. This is the first time the EU has imposed hard security requirements on a wide range of everyday consumer products. Think routers, smart watches, toys with a Wi-Fi chip, and more. This part of RED is often called RED DA (Delegated Act), and it's a big deal: security is no longer optional.
 
-In this talk, we'll unpack what RED/DA is actually about — how it came to be, why it was pushed through before the upcoming Cyber Resilience Act (CRA), and how that sequencing leads to some strange and messy overlaps between the two. Spoiler: it’s a political and regulatory patchwork.
+In this talk, we'll unpack what RED DA is actually about: how it came to be, why it was pushed through before the upcoming Cyber Resilience Act (CRA), and how that sequencing leads to some strange and messy overlaps between the two. Spoiler: it’s a political and regulatory patchwork.
 
-We’ll look at how standardization efforts around RED/DA have developed, but also at how many manufacturers are still figuring out how best to comply, while market surveillance authorities are navigating their own challenges — often working with limited tools, guidance, or resources.
+We’ll look at how standardization efforts around RED DA have developed, but also at how many manufacturers are still figuring out how best to comply, while market surveillance authorities are navigating their own challenges, often working with limited tools, guidance, or resources.
 
-On top of all this, the reality is, RED/DA is just a warm-up for the main event: the Cyber Resilience Act. We’ll take a look at what CRA brings to the table, what the current state of standardization looks like there, and what kinds of challenges are already popping up on the horizon. If you’re building, selling, or securing connected products in the EU — or just curious about how regulation is reshaping product security — this talk will give you a clear picture of what’s going on and what’s coming next.</description>
+On top of all this, the reality is, RED/DA is just a warm-up for the main event: the Cyber Resilience Act. We’ll take a look at what CRA brings to the table, what the current state of standardization looks like there, and what kinds of challenges are already popping up on the horizon. If you’re building, selling, or securing connected products in the EU, or just curious about how regulation is reshaping product security, this talk will give you a clear picture of what’s going on and what’s coming next.</description>
                 <recording>
                     <license />
                     <optout>false</optout>
@@ -3657,22 +3657,22 @@ Finally, let's discuss user-based security with locked-down IMAP, PGP signatures
                 <date>2025-08-10T21:35:00+02:00</date>
                 <start>21:35</start>
                 <duration>00:25</duration>
-                <abstract>Smart devices are deeply embedded in the physical world—they can see, hear, and control things around us, often with zero real limits. When they’re hacked, it’s not just your data on the line—it’s your safety, privacy, and environment. In this talk, I’ll share some new ideas for putting a layer of access control between these devices and the real world, so we stop giving them a blank check.</abstract>
+                <abstract>Smart devices are deeply embedded in the physical world: they can see, hear, and control things around us, often with zero real limits. When they’re hacked, it’s not just your data on the line; it’s your safety, privacy, and environment. In this talk, I’ll share some new ideas for putting a layer of access control between these devices and the real world, so we stop giving them a blank check.</abstract>
                 <slug>why2025-104-who-gave-the-toaster-root-access-to-the-physical-world</slug>
                 <track>Wonderful creations</track>
                 <persons>
                     <person id="130">Piet De Vaere</person>
                 </persons>
                 <language>en</language>
-                <description>These days, “smart” devices aren’t just watching and listening—they can act on the physical world, often with zero meaningful limits. They unlock doors, adjust thermostats, steer vacuums, and record what’s going on around us 24/7. When these devices get compromised—and many do—it’s not just boring data on the line. It’s your safety, privacy, and physical space.
+                <description>These days, “smart” devices aren’t just watching and listening: they can act on the physical world, often with zero meaningful limits. They unlock doors, adjust thermostats, steer vacuums, and record what’s going on around us 24/7. When these devices get compromised, and many do, it’s not just boring data on the line. It’s your safety, privacy, and physical space.
 
 The problem? We’ve handed out root access to the physical world like candy. Any device can sense or actuate whenever it wants. There's no layered control, no boundaries between software and the real world. If malware gets in, it gets full access to your home, office, or anything else the device is wired into.
 
-In this talk, I’ll show how we can fix that by treating _sensing and actuation as privileges_—not defaults. Instead of giving every device free rein over what it can hear or control, we can build mechanisms that require software to explicitly request—and be granted—access to the physical world. That access can be temporary, conditional, or denied altogether.
+In this talk, I’ll show how we can fix that by treating _sensing and actuation as privileges_,not defaults. Instead of giving every device free rein over what it can hear or control, we can build mechanisms that require software to explicitly request, and be granted, access to the physical world. That access can be temporary, conditional, or denied altogether.
 
-We'll look at how to physically separate sensors and actuators from the software stack so that even if a device is compromised, it can’t automatically reach into your environment. We'll also explore approaches that enforce forgetfulness—ensuring that standby devices like smart speakers can’t quietly hoard data or leak it when compromised. If nothing relevant to the device's task happened, nothing should be remembered.
+We'll look at how to physically separate sensors and actuators from the software stack so that even if a device is compromised, it can’t automatically reach into your environment. We'll also explore approaches that enforce forgetfulness: ensuring that standby devices like smart speakers can’t quietly hoard data or leak it when compromised. If nothing relevant to the device's task happened, nothing should be remembered.
 
-The goal is simple: to take back control from black-box devices and start designing systems where physical-world access isn’t assumed—it’s earned.</description>
+The goal is simple: to take back control from black-box devices and start designing systems where physical-world access isn’t assumed, it’s earned.</description>
                 <recording>
                     <license />
                     <optout>false</optout>
