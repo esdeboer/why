@@ -5236,6 +5236,39 @@ Location: next to Party Area Terrace</description>
                 <duration>02:00</duration>
             </event>
         </room>
+        <room name="Village:Back to the 80s Party" guid="62564f9a-530f-5d06-baa9-6cf3691119b3">
+            <event guid="e95a6e02-f6a0-5f27-8980-61b01f8dba58">
+                <title>Kraftwerk and Craftwork</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Learn more about the German techno-critic band "Kraftwerk" and craft your own album art!</abstract>
+                <type>Workshop</type>
+                <persons>
+                    <person>FunnyF, Derek</person>
+                </persons>
+                <description>Age range: 16+
+Come and join us at the Back to the 80s party village for some Kraftwerk and Craftwork! This workshop consists of two parts. First we'll dive into the interesting lyrics of the German music group Kraftwerk. Inspired by this band, we'll then do some crafting! You can make your own album cover, for your own imaginary (techno-critical?) band :)</description>
+                <date>2025-08-10T15:30:00+02:00</date>
+                <start>15:30</start>
+                <duration>01:30</duration>
+            </event>
+        </room>
+        <room name="Village:Cyber Saiyan" guid="75b22f81-5315-5708-bc13-88aa1dd38fb4">
+            <event guid="bec4af29-7911-5a46-a8a0-ce7b18248d56">
+                <title>Python3-based editors in Burp Suite</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Learn how to easily code r/w editors for Burp Suite</abstract>
+                <url>https://hackademy.agarri.fr/freebies</url>
+                <type>Talk</type>
+                <persons>
+                    <person>Nico</person>
+                </persons>
+                <language>en</language>
+                <description>This talk covers the Burp Suite extensions Piper and Scalpel. [[User:Nico|Nico]] will show how to use them in order to easily view and modify some data encrypted with AES-ECB.</description>
+                <date>2025-08-10T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>00:30</duration>
+            </event>
+        </room>
         <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">
             <event guid="6a83107a-5d58-517c-937c-ea315f3b4b9b">
                 <title>FHB:Cheese Rendezvous</title>
