@@ -60,6 +60,16 @@
     "type": "Workshop"
   },
   {
+    "id": "06c5bf6a-86c4-5949-bbfb-c8b188236493",
+    "title": "FHB:Cheese Rendezvous",
+    "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\n[https://dud-poll.inf.tu-dresden.de/cheese1_why/ To secure spot on the Session I. (Day 1, FRI 18h00) please sign in here]\n\n[https://dud-poll.inf.tu-dresden.de/cheese2_why/ To secure spot on the Session 2. (Day 3, SUN 19h00) please sign in here.]\n\n\nEach cheese tasting session is open to 25 people max, please do sign in advance, you can just show up before the event but we are very likely going to be full for this one (like three times overbooked). If you can bring cheese which you made by yourself that would be great! Of course some specific local or extraordinary cheese/s or other related condiments like sun dried tomatoes, good quality olives, mustards, wine all would be appreciated. If you are bringing cheese please do label it well with at least it's name and type of milk used, your nick or name/contact would come handy too. The best would be of course to add short description to our wiki (please check the sample). Still please sign in in advance! FHB will be getting some high quality cheeses to offer basic selection with other samples surrounding it plus some basic condiments. Note that due to the interest in previous years we are going to run two sessions, each one lasting for about two hours or bit over.\n\nThis event is based on '''donation at your will no one turned away for lack of funds'''.\n\nSo lets meet all together again enjoying these lovely creations! Here you can find cheeses which are going to be present, please do add your ones and keep in mind that good half of the cheeses will be not listed here, they will just appear and they are worth of your attention!\n\nTo add your own cheese, add it to the wiki below\n\n[https://foodhackingbase.org/wiki/FHB@WHY2025/Cheese_Rendezvous Click here for a list of cheeses]",
+    "start": "2025-08-08T18:00:00+02:00",
+    "end": "2025-08-08T20:00:00+02:00",
+    "room": "Village:Food Hacking Base",
+    "url": "https://foodhackingbase.org/wiki/FHB@WHY2025/Cheese_Rendezvous",
+    "type": "Tasting"
+  },
+  {
     "id": "fc065a67-a125-57d6-b064-c2af5897c855",
     "title": "Creating Artistic PCBs in Kicad",
     "description": "Age range: All ages\n== Workshop Description ==\nFor this workshop, we will look at the various ways to incorporate custom artwork into your PCB design.<br>\nConversation is informal, all questions are welcome!  \n\nWorkshop given by DRC.\n<br>\n<br>\n[[File:HHA_WHY_logo.png|center|300px]]  \n  \n== Complete Hardware Hacking Area Village Schedule == \nWorkshops are all free to attend.<br>\nThe prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.<br><br>\n[[File:WHY_HHA_schedule.png|720px]]\n  \n== Location of Hardware Hacking Area Village == \n[[File:HHA_map_WHY.jpg|720px]]",
@@ -282,7 +292,7 @@
   {
     "id": "895c1116-247d-5ad3-bf52-ff2a2ede2d75",
     "title": "Movie-night",
-    "description": "keywords: movie-screening\ntags:movie-screening\n\ud83c\udf7f WHAT: We will project cool films with English subtitles (when available) and make popcorn kernels explode applying heat to make them edible and delicious.\n\n\ud83c\udf7f WHERE: SSH village.\n\n\ud83c\udf7f WHEN: https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Movie_nights\n\n\ud83c\udf7f WHY: Yes, WHY 2025",
+    "description": "keywords: movie-screening\ntags:movie-screening\n\u26a0\ufe0f\u26a0\ufe0f We do not own a lot of chairs, if you want to join and be comfortable: bring your own chair.\n\n\ud83c\udf7f WHAT: We will project cool films with English subtitles (when available) and make popcorn kernels explode applying heat to make them edible and delicious.\n\n\ud83c\udf7f WHERE: SSH village.\n\n\ud83c\udf7f WHEN: https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Movie_nights\n\n\ud83c\udf7f WHY: Yes, WHY 2025",
     "start": "2025-08-09T21:00:00+02:00",
     "end": "2025-08-09T23:00:00+02:00",
     "room": "Village:SSH (Spanish Speaking Hackers)",
@@ -308,6 +318,16 @@
     "room": "Camp entrance",
     "url": "",
     "type": "Hands-On"
+  },
+  {
+    "id": "6a83107a-5d58-517c-937c-ea315f3b4b9b",
+    "title": "FHB:Cheese Rendezvous",
+    "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\n[https://dud-poll.inf.tu-dresden.de/cheese1_why/ To secure spot on the Session I. (Day 1, FRI 18h00) please sign in here]\n\n[https://dud-poll.inf.tu-dresden.de/cheese2_why/ To secure spot on the Session 2. (Day 3, SUN 19h00) please sign in here.]\n\n\nEach cheese tasting session is open to 25 people max, please do sign in advance, you can just show up before the event but we are very likely going to be full for this one (like three times overbooked). If you can bring cheese which you made by yourself that would be great! Of course some specific local or extraordinary cheese/s or other related condiments like sun dried tomatoes, good quality olives, mustards, wine all would be appreciated. If you are bringing cheese please do label it well with at least it's name and type of milk used, your nick or name/contact would come handy too. The best would be of course to add short description to our wiki (please check the sample). Still please sign in in advance! FHB will be getting some high quality cheeses to offer basic selection with other samples surrounding it plus some basic condiments. Note that due to the interest in previous years we are going to run two sessions, each one lasting for about two hours or bit over.\n\nThis event is based on '''donation at your will no one turned away for lack of funds'''.\n\nSo lets meet all together again enjoying these lovely creations! Here you can find cheeses which are going to be present, please do add your ones and keep in mind that good half of the cheeses will be not listed here, they will just appear and they are worth of your attention!\n\nTo add your own cheese, add it to the wiki below\n\n[https://foodhackingbase.org/wiki/FHB@WHY2025/Cheese_Rendezvous Click here for a list of cheeses]",
+    "start": "2025-08-10T19:00:00+02:00",
+    "end": "2025-08-10T21:00:00+02:00",
+    "room": "Village:Food Hacking Base",
+    "url": "https://foodhackingbase.org/wiki/FHB@WHY2025/Cheese_Rendezvous",
+    "type": "Tasting"
   },
   {
     "id": "3f7c933f-dfde-5599-b30a-50dd7d8c469f",
