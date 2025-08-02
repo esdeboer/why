@@ -11,26 +11,6 @@
     <time_zone_name>Europe/Amsterdam</time_zone_name>
     <track name="Self Organized Sessions" />
   </conference>
-  <day date="2025-07-21">
-    <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
-      <event guid="b8010a71-9138-59e9-ba12-1d60922e1cc8">
-        <title>STRIDE into Healthcare: Threat Modeling with AAPS and OpenAPS</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Join us for a practical, hands-on workshop focused on threat modeling in the healthcare space — specifically targeting open-source medical devices like the Android Artificial Pancreas System (AAPS) and OpenAPS.</abstract>
-        <type>Workshop</type>
-        <persons>
-          <person>Volock</person>
-        </persons>
-        <description>Join us for a practical, hands-on workshop focused on threat modeling in the healthcare space — specifically targeting open-source medical devices like the Android Artificial Pancreas System (AAPS) and OpenAPS. Whether you're a hacker, healthcare professional, or security researcher, this session will boost your ability to think critically about medical device risks from both engineering and cybersecurity perspectives.
-
-We'll explore a blended approach using tools like Attack Trees, INCLUDESNODIRT and STRIDE uncover potential failure points, attack surfaces, and security weaknesses in real-world scenarios. Participants will work together to collaboratively model threats, identify risks, and (if time allows) see if mitigations exist today. The insights generated will be shared back with the OpenAPS community to help improve real-world patient safety.
-No prior threat modeling experience is required — just bring your curiosity and a willingness to tinker with one of the most fascinating intersections of healthcare and cybersecurity. By the end, you’ll walk away with new skills, a structured threat modeling mindset, and a deeper appreciation of why cybersecurity in healthcare truly matters.</description>
-        <date>2025-07-21T16:30:00+02:00</date>
-        <start>16:30</start>
-        <duration>01:00</duration>
-      </event>
-    </room>
-  </day>
   <day date="2025-08-04">
     <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
       <event guid="a5d8d94a-3b5c-5b27-801a-8e82edc8b333">
@@ -461,6 +441,22 @@ To see and/or add your Chips/Crisps go to [https://foodhackingbase.org/wiki/FHB@
         <date>2025-08-09T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>03:00</duration>
+      </event>
+      <event guid="b8010a71-9138-59e9-ba12-1d60922e1cc8">
+        <title>STRIDE into Healthcare: Threat Modeling with AAPS and OpenAPS</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Join us for a practical, hands-on workshop focused on threat modeling in the healthcare space — specifically targeting open-source medical devices like the Android Artificial Pancreas System (AAPS) and OpenAPS.</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Volock</person>
+        </persons>
+        <description>Join us for a practical, hands-on workshop focused on threat modeling in the healthcare space — specifically targeting open-source medical devices like the Android Artificial Pancreas System (AAPS) and OpenAPS. Whether you're a hacker, healthcare professional, or security researcher, this session will boost your ability to think critically about medical device risks from both engineering and cybersecurity perspectives.
+
+We'll explore a blended approach using tools like Attack Trees, INCLUDESNODIRT and STRIDE uncover potential failure points, attack surfaces, and security weaknesses in real-world scenarios. Participants will work together to collaboratively model threats, identify risks, and (if time allows) see if mitigations exist today. The insights generated will be shared back with the OpenAPS community to help improve real-world patient safety.
+No prior threat modeling experience is required — just bring your curiosity and a willingness to tinker with one of the most fascinating intersections of healthcare and cybersecurity. By the end, you’ll walk away with new skills, a structured threat modeling mindset, and a deeper appreciation of why cybersecurity in healthcare truly matters.</description>
+        <date>2025-08-09T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>01:00</duration>
       </event>
     </room>
     <room name="Village:Hardware Hacking Area" guid="2358bed6-9a09-5a7c-898a-ded151f3398a">
@@ -1040,11 +1036,19 @@ The prices in the yellow boxes are the materials costs for participating in the 
         <language>en</language>
         <description>Age range: All ages
 == Workshop Description ==
-Learn to repair and rework circuits.  
+[[File:IKEA-LANESPELARE-Controller-PCB-825x510.jpg|thumb]]
+&lt;br&gt;
+'''Learn to repair and rework circuits!'''
+* We will practice to un-solder and re-solder components
+* Both SMD- and conventional Through-Hole-Components
+** You will notice that - contrary to popular belief - SMD components are easier to work with
+* Please bring your own ~~trash~~board to practice on
+** I will bring some broken PCBs as well
+* If you prefer your own tools, bring them (soldering iron, tweezers, flux, ...)
+* If you got time, watch/skip through this video before: https://media.ccc.de/v/gpn22-317-42-tricks-frs-smd-lten-nummer-23-wird-sie-berraschen-
 
-Workshop given by cpresser.
 &lt;br&gt;
-&lt;br&gt;
+&lt;hr&gt;
 [[File:HHA_WHY_logo.png|center|300px]]  
   
 == Complete Hardware Hacking Area Village Schedule == 

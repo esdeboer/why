@@ -1,15 +1,5 @@
 [
   {
-    "id": "b8010a71-9138-59e9-ba12-1d60922e1cc8",
-    "title": "STRIDE into Healthcare: Threat Modeling with AAPS and OpenAPS",
-    "description": "Join us for a practical, hands-on workshop focused on threat modeling in the healthcare space \u2014 specifically targeting open-source medical devices like the Android Artificial Pancreas System (AAPS) and OpenAPS. Whether you're a hacker, healthcare professional, or security researcher, this session will boost your ability to think critically about medical device risks from both engineering and cybersecurity perspectives.\n\nWe'll explore a blended approach using tools like Attack Trees, INCLUDESNODIRT and STRIDE uncover potential failure points, attack surfaces, and security weaknesses in real-world scenarios. Participants will work together to collaboratively model threats, identify risks, and (if time allows) see if mitigations exist today. The insights generated will be shared back with the OpenAPS community to help improve real-world patient safety.\nNo prior threat modeling experience is required \u2014 just bring your curiosity and a willingness to tinker with one of the most fascinating intersections of healthcare and cybersecurity. By the end, you\u2019ll walk away with new skills, a structured threat modeling mindset, and a deeper appreciation of why cybersecurity in healthcare truly matters.",
-    "start": "2025-07-21T16:30:00+02:00",
-    "end": "2025-07-21T17:30:00+02:00",
-    "room": "Village:HackTheHealth",
-    "url": "",
-    "type": "Workshop"
-  },
-  {
     "id": "a5d8d94a-3b5c-5b27-801a-8e82edc8b333",
     "title": "Z-CERT Podcast Recording: Zet \u2018m op",
     "description": "During WHY2025 we will record a special of our podcast. The central theme of this episode will be: Communities. \nAnd you can be there during the recording of this episode!",
@@ -208,6 +198,16 @@
     "room": "Village:HackTheHealth",
     "url": "",
     "type": "Other"
+  },
+  {
+    "id": "b8010a71-9138-59e9-ba12-1d60922e1cc8",
+    "title": "STRIDE into Healthcare: Threat Modeling with AAPS and OpenAPS",
+    "description": "Join us for a practical, hands-on workshop focused on threat modeling in the healthcare space \u2014 specifically targeting open-source medical devices like the Android Artificial Pancreas System (AAPS) and OpenAPS. Whether you're a hacker, healthcare professional, or security researcher, this session will boost your ability to think critically about medical device risks from both engineering and cybersecurity perspectives.\n\nWe'll explore a blended approach using tools like Attack Trees, INCLUDESNODIRT and STRIDE uncover potential failure points, attack surfaces, and security weaknesses in real-world scenarios. Participants will work together to collaboratively model threats, identify risks, and (if time allows) see if mitigations exist today. The insights generated will be shared back with the OpenAPS community to help improve real-world patient safety.\nNo prior threat modeling experience is required \u2014 just bring your curiosity and a willingness to tinker with one of the most fascinating intersections of healthcare and cybersecurity. By the end, you\u2019ll walk away with new skills, a structured threat modeling mindset, and a deeper appreciation of why cybersecurity in healthcare truly matters.",
+    "start": "2025-08-09T16:30:00+02:00",
+    "end": "2025-08-09T17:30:00+02:00",
+    "room": "Village:HackTheHealth",
+    "url": "",
+    "type": "Workshop"
   },
   {
     "id": "c3f09cae-5561-58e7-bfdd-20eaa5e579a3",
@@ -472,7 +472,7 @@
   {
     "id": "610acfdd-e519-5503-8677-06fb0d913c56",
     "title": "Repair and Rework Circuits",
-    "description": "Age range: All ages\n== Workshop Description ==\nLearn to repair and rework circuits.  \n\nWorkshop given by cpresser.\n<br>\n<br>\n[[File:HHA_WHY_logo.png|center|300px]]  \n  \n== Complete Hardware Hacking Area Village Schedule == \nWorkshops are all free to attend.<br>\nThe prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.<br><br>\n[[File:WHY_HHA_schedule.png|720px]]\n  \n== Location of Hardware Hacking Area Village == \n[[File:HHA_map_WHY.jpg|720px]]",
+    "description": "Age range: All ages\n== Workshop Description ==\n[[File:IKEA-LANESPELARE-Controller-PCB-825x510.jpg|thumb]]\n<br>\n'''Learn to repair and rework circuits!'''\n* We will practice to un-solder and re-solder components\n* Both SMD- and conventional Through-Hole-Components\n** You will notice that - contrary to popular belief - SMD components are easier to work with\n* Please bring your own ~~trash~~board to practice on\n** I will bring some broken PCBs as well\n* If you prefer your own tools, bring them (soldering iron, tweezers, flux, ...)\n* If you got time, watch/skip through this video before: https://media.ccc.de/v/gpn22-317-42-tricks-frs-smd-lten-nummer-23-wird-sie-berraschen-\n\n<br>\n<hr>\n[[File:HHA_WHY_logo.png|center|300px]]  \n  \n== Complete Hardware Hacking Area Village Schedule == \nWorkshops are all free to attend.<br>\nThe prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.<br><br>\n[[File:WHY_HHA_schedule.png|720px]]\n  \n== Location of Hardware Hacking Area Village == \n[[File:HHA_map_WHY.jpg|720px]]",
     "start": "2025-08-11T14:00:00+02:00",
     "end": "2025-08-11T15:00:00+02:00",
     "room": "Village:Hardware Hacking Area",
