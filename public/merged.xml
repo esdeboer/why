@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>1.0 - Sputnik</version>
+    <version>1.2 - Vanguard</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -48,6 +48,80 @@ Location: next to Party Area Terrace</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/LPHBYF/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/LPHBYF/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Milliways" guid="eb651150-1d5a-5bc3-b395-246b71acd2c7">
+            <event guid="4c4f6dc4-0301-5934-ba4a-ee196e9632f8" id="313">
+                <room>Milliways</room>
+                <title>Milliways Meeting</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-07T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>01:00</duration>
+                <abstract>Want to find out how we run our village? How you can help either with our events or kitchen? Get your latest news on the goings on? Join us for our daily Village-Orga meeting!</abstract>
+                <slug>why2025-313-0-milliways-meeting</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/DN8NTU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/DN8NTU/feedback/</feedback_url>
+            </event>
+            <event guid="cb4df687-4ca2-5b34-8647-f8c18cb253f4" id="314">
+                <room>Milliways</room>
+                <title>Welcome to Milliways!</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-07T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>01:00</duration>
+                <abstract>First camp? Confused about where to go or what to do? How does the kitchen work and what is Milliways anyway? Come get a tour of the village, find out what we're about and how to get involved here!</abstract>
+                <slug>why2025-314-0-welcome-to-milliways</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/ZS7W8R/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/ZS7W8R/feedback/</feedback_url>
+            </event>
+            <event guid="974f4a71-b391-545a-9af4-6ca5e5d36d7b" id="315">
+                <room>Milliways</room>
+                <title>TBD</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-07T20:30:00+02:00</date>
+                <start>20:30</start>
+                <duration>02:30</duration>
+                <abstract>Your event here?</abstract>
+                <slug>why2025-315-0-tbd</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/MFFTGH/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/MFFTGH/feedback/</feedback_url>
             </event>
         </room>
         <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
@@ -734,7 +808,136 @@ The workshop is entirely "lab mode" and there is no sexual content, but it remai
                 <feedback_url>https://program.why2025.org/why2025/talk/BPD8GN/feedback/</feedback_url>
             </event>
         </room>
+        <room name="Electronics (Hardware Hacking Village)" guid="f34b47c5-4fd1-5f07-bc6f-b9a576b1338a">
+            <event guid="b4284cee-1a1c-5e19-9c37-aacada6b9377" id="321">
+                <room>Electronics (Hardware Hacking Village)</room>
+                <title>Creating Artistic PCBs in Kicad</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-08T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>02:00</duration>
+                <abstract>For this workshop, we will look at the various ways to incorporate custom artwork into your PCB design. Conversation is informal, all questions are welcome!
+
+Workshop given by DRC.</abstract>
+                <slug>why2025-321-creating-artistic-pcbs-in-kicad</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/WDUGZC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/WDUGZC/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="FamilyZone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
+            <event guid="f35fce4d-01c7-5ed7-b604-88992d4d58a9" id="353">
+                <room>FamilyZone</room>
+                <title>Scavenger hunt</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-08T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>02:00</duration>
+                <abstract>This Scavenger hunt will lead kids and parents alike over the field</abstract>
+                <slug>why2025-353-scavenger-hunt</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/EscapeRoom-ScavengerHunt](https://wiki.why2025.org/Team:Family/EscapeRoom-ScavengerHunt)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CHZCZT/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CHZCZT/feedback/</feedback_url>
+            </event>
+            <event guid="6b9b6075-0bdf-5610-b5b1-0e7a08b474c1" id="352">
+                <room>FamilyZone</room>
+                <title>Gamenight</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-08T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>01:00</duration>
+                <abstract>For kids ~8-16 – Let’s play some Escape Room,  Weerwolven or Live Stratego, or something else we feel like.</abstract>
+                <slug>why2025-352-0-gamenight</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/XX97KC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/XX97KC/feedback/</feedback_url>
+            </event>
+            <event guid="2d0e9938-c013-5ba6-9312-d1cf9b9c9a88" id="357">
+                <room>FamilyZone</room>
+                <title>Black-light-painting</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-08T22:00:00+02:00</date>
+                <start>22:00</start>
+                <duration>01:30</duration>
+                <abstract>This night-time workshop involves working with fluorescent colors under black light. Participants paint in a darkened room in which only the colors and contours are visible through UV light.</abstract>
+                <slug>why2025-357-0-black-light-painting</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/black-light-painting](https://wiki.why2025.org/Team:Family/black-light-painting)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/KZBAQU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/KZBAQU/feedback/</feedback_url>
+            </event>
+        </room>
         <room name="Party Stage" guid="561b70ba-f1d5-5f92-bcde-7f056905df90">
+            <event guid="27dfba3e-09a7-5aec-be10-5a23adc92e6f" id="70">
+                <room>Party Stage</room>
+                <title>Gasman's ZX Spectrum Chiptune Phenomenon</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-08T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>01:00</duration>
+                <abstract>Demo scene legend and ZX Spectrum rockstar Gasman transports you back to the 1980s with uplifting chiptune melodies, electrifying keytar solos, and quirky songs about robots, love and jetpacks.</abstract>
+                <slug>why2025-70-gasman-s-zx-spectrum-chiptune-phenomenon</slug>
+                <track>Entertainment</track>
+                <logo>/media/why2025/submissions/PZPWXF/gasman-diggerdiggerbee-comp_bcZ70gw.jpg</logo>
+                <persons>
+                    <person id="96">Gasman</person>
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/PZPWXF/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/PZPWXF/feedback/</feedback_url>
+            </event>
             <event guid="3549c492-902b-5a2a-b157-bd9168fbad43" id="290">
                 <room>Party Stage</room>
                 <title>Sad But Tribute — The Ultimate Metallica Experience</title>
@@ -819,6 +1022,342 @@ Location: next to Party Area Terrace</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/BS99M8/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/BS99M8/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="KaraokeBar" guid="ba1c3697-c910-5d69-ae05-0435a54c466d">
+            <event guid="7662339f-e0be-5b42-b574-da562d1a6345" id="311">
+                <room>KaraokeBar</room>
+                <title>WHY jamsession</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-08T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>03:00</duration>
+                <abstract>Join the WHY jamsession! A small backline is provided, as are various instruments (including a drum kit). There is no preconceived plan, just bring your gear and your personality and let's see where we go.</abstract>
+                <slug>why2025-311-0-why-jamsession</slug>
+                <track>Entertainment</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>All genres, instruments and experience levels are welcome!</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/9NBX9S/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/9NBX9S/feedback/</feedback_url>
+            </event>
+            <event guid="c15752d0-5f8c-51b4-b94c-02f77813dfe9" id="328">
+                <room>KaraokeBar</room>
+                <title>Karaoke</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-08T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>05:00</duration>
+                <abstract>Join us for a chaotic, joy-filled session of Karaoke where your inner rockstar, pop icon, or metalhead gets the stage.</abstract>
+                <slug>why2025-328-0-karaoke</slug>
+                <track>Entertainment</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>No experience required, just enthusiasm (and maybe some liquid courage). Whether you’re in it to win it or just here for the vibes, everyone’s welcome. Expect classics, surprises, and that one person who really nails "Bohemian Rhapsody."</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CQV7HD/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CQV7HD/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Milliways" guid="eb651150-1d5a-5bc3-b395-246b71acd2c7">
+            <event guid="111f4d24-ae4b-5c0d-9c9d-327878fa16d9" id="313">
+                <room>Milliways</room>
+                <title>Milliways Meeting</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-08T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>01:00</duration>
+                <abstract>Want to find out how we run our village? How you can help either with our events or kitchen? Get your latest news on the goings on? Join us for our daily Village-Orga meeting!</abstract>
+                <slug>why2025-313-1-milliways-meeting</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/DN8NTU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/DN8NTU/feedback/</feedback_url>
+            </event>
+            <event guid="827bd576-4158-5d5c-896d-a026eaa2b124" id="314">
+                <room>Milliways</room>
+                <title>Welcome to Milliways!</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-08T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>01:00</duration>
+                <abstract>First camp? Confused about where to go or what to do? How does the kitchen work and what is Milliways anyway? Come get a tour of the village, find out what we're about and how to get involved here!</abstract>
+                <slug>why2025-314-1-welcome-to-milliways</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/ZS7W8R/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/ZS7W8R/feedback/</feedback_url>
+            </event>
+            <event guid="9991eeab-9d09-5f8f-aeb7-b40008645f3f" id="315">
+                <room>Milliways</room>
+                <title>TBD</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-08T20:30:00+02:00</date>
+                <start>20:30</start>
+                <duration>02:30</duration>
+                <abstract>Your event here?</abstract>
+                <slug>why2025-315-1-tbd</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/MFFTGH/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/MFFTGH/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="D42D Workshop Tent" guid="22148081-9c0f-59fd-aea5-46a3f97bdecb">
+            <event guid="a1ca6ac8-b0f2-53dd-9d86-fefa90ba3f17" id="340">
+                <room>D42D Workshop Tent</room>
+                <title>Energy Hacking Demo</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-08T11:00:00+02:00</date>
+                <start>11:00</start>
+                <duration>00:55</duration>
+                <abstract>The energy transition is in full progress. The gird is getting busier and switching from a centralized generation model to a decentralized model where every house can be a power plant too.</abstract>
+                <slug>why2025-340-0-energy-hacking-demo</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Hamza Tafsi and Alexandros Tokatlis (DIVD)
+Making the grid smart is part of the solution, but present its owns set of challenges, because by controlling and manipulating a lot of small consumers or producers at the same time, an attacker can still have a large effect on the grid.
+DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.
+In this talk they will show you how they attack smart energy systems using a Honeywell Smart Thermostat as an example device.
+After the presentation the presenters will stick around the D42D area/cluster where there will be plenty of devices for you to try and hack and maybe even earn your own CVE.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/9QFMN3/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/9QFMN3/feedback/</feedback_url>
+            </event>
+            <event guid="62b00eac-b23a-5b75-be7e-e11c9a67cc3f" id="341">
+                <room>D42D Workshop Tent</room>
+                <title>Hackshield</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-08T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>00:55</duration>
+                <abstract>Hackshield Future Cyber Heroes (https://joinhackshield.com) is a program, run by DIVD.Academy that aims to educate kids between 8 and 12 years to train them to become Agents Against cybercrime and thus prevent victims of cybercrime.</abstract>
+                <slug>why2025-341-0-hackshield</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Astrid Oosenbrug and others
+On WHY 2025 we will give 5 hack shield lessons of about 55 minutes in which you will be trained to become a Agent, or will experience the training to become and Agent so you can give this training at you local school and become a volunteer.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/T3WKWQ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/T3WKWQ/feedback/</feedback_url>
+            </event>
+            <event guid="3c1e36d4-4547-59af-b7ed-eb95e766301d" id="343">
+                <room>D42D Workshop Tent</room>
+                <title>Hacking together an infrastructure in Azure Cloud with Defender, Policy, and Pain</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-08T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>00:30</duration>
+                <abstract>Hi, my name is Ahmed and I convert ideas into Azure bills for a living. The environments I put together need to adhere to stringent security and compliance demands. Over the years I have learned a lot (especially how not to do it) and it these session I want to transfer that knowledge to you.</abstract>
+                <slug>why2025-343-0-hacking-together-an-infrastructure-in-azure-cloud-with-defender-policy-and-pain</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Ahmed Hussien</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/7GGDDF/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/7GGDDF/feedback/</feedback_url>
+            </event>
+            <event guid="52ae5f93-37e7-5e8e-8399-0e62612c4254" id="342">
+                <room>D42D Workshop Tent</room>
+                <title>Needleworking Workshop</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-08T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>02:00</duration>
+                <abstract>&lt;Watch this space&gt;</abstract>
+                <slug>why2025-342-0-needleworking-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Bianca Kremer and Annet Bronsema</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/J3Y3QK/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/J3Y3QK/feedback/</feedback_url>
+            </event>
+            <event guid="3887101b-cc29-5099-b404-683788d96141" id="344">
+                <room>D42D Workshop Tent</room>
+                <title>Beginner hacker workshop using OWASP juice shop</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-08T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>02:30</duration>
+                <abstract>Ever wanted to participate in a CTF, but no experience? No problem. Using OWASP’s Juice Shop (https://owasp.org/www-project-juice-shop/) we have set up a safe environment and the support to take you first steps in hacking. Don’t forget to bring you own laptop and a willingness to learn and you’ll be fine.</abstract>
+                <slug>why2025-344-0-beginner-hacker-workshop-using-owasp-juice-shop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Timothy Kriek</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/J9K8D7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/J9K8D7/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Serendiep" guid="9b897dbb-9ccc-533a-9406-3a037ed2534c">
+            <event guid="5d463c59-7c09-5214-a66a-6658f89c071f" id="330">
+                <room>Serendiep</room>
+                <title>RF workshop</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-08T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>02:00</duration>
+                <abstract>During WHY2025 PE1BMC will bring a lot of equipment en experiments to experience the magic of microwaves. Bring your own project, think about experiments and let us see if we can do some hands-on work in the FabLab of Serendiep.</abstract>
+                <slug>why2025-330-0-rf-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/HTSHBP/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/HTSHBP/feedback/</feedback_url>
+            </event>
+            <event guid="bbc11e84-772a-53a6-93e4-69fb419f3710" id="331">
+                <room>Serendiep</room>
+                <title>The Phenomenal Labyrinth</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-08T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>04:00</duration>
+                <abstract>Embark on a journey of discovery and find your way through a labyrinth in the hold of a cargo ship.</abstract>
+                <slug>why2025-331-0-the-phenomenal-labyrinth</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>A collection of interactive installations connects art with (complex) science. Theories and model systems from the natural sciences, philosophy, linguistics and more are at the base of intriguing images, sounds and texts that you yourself produce. Or is it the other way around?
+Caution: The access to the labyrinth is at your own risk. Wear comfortable clothes. High heels are not recommended. Children have to be supervised at all times. Unfortunately the Labyrinth is not accessile to wheelchair users.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/WHXXFU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/WHXXFU/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Serendiep Fablab" guid="078b1b00-f5c6-5615-8587-00d9749150e9">
+            <event guid="79350e74-0c18-5658-a6ec-334bb9a74087" id="329">
+                <room>Serendiep Fablab</room>
+                <title>FabLab</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-08T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>04:00</duration>
+                <abstract>Use the vinyl cutter, 3D printer, sewing machine, soldering iron, milling machine or (if we get it to work) the lasercutter at Serendiep to make whatever you want</abstract>
+                <slug>why2025-329-0-fablab</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/98WUMC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/98WUMC/feedback/</feedback_url>
             </event>
         </room>
         <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">
@@ -2617,6 +3156,34 @@ After WHY2025, you can keep programming your Battlesnake to complete more levels
                 <url>https://program.why2025.org/why2025/talk/C3FUSF/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/C3FUSF/feedback/</feedback_url>
             </event>
+            <event guid="7c555947-cd89-53f4-879c-5160ea5c861b" id="195">
+                <room>Workshop Euclid</room>
+                <title>Bring Your Badge to Life and personalize it to your taste.</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-09T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>02:00</duration>
+                <abstract>Unlock your WHY2025 badge's potential!  
+This workshop guides you through setting up the necessary toolchain and programming your badge's MCU, screen, keyboard, and sensors. Learn hands-on how to customize its behavior, display information, and interact with your environment.  
+No prior experience needed, just a curious mind!</abstract>
+                <slug>why2025-195-bring-your-badge-to-life-and-personalize-it-to-your-taste</slug>
+                <track>Yearn for a better future</track>
+                <persons>
+                    <person id="210">Joram Agten</person>
+                </persons>
+                <language>en</language>
+                <description>Here will be a short description of things you can install beforehand.  
+This is still to be defined.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/JUDNBW/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/JUDNBW/feedback/</feedback_url>
+            </event>
         </room>
         <room name="Workshop Giotto" guid="296e1eed-b1f8-5fe1-bb1f-4084c5d6f346">
             <event guid="9097cbe0-dffc-5013-87f8-cf4891cace26" id="17">
@@ -2668,30 +3235,6 @@ After WHY2025, you can keep programming your Battlesnake to complete more levels
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/HDUH8R/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/HDUH8R/feedback/</feedback_url>
-            </event>
-            <event guid="0306f036-d4e4-51f4-85ae-c95c987fbd2b" id="97">
-                <room>Workshop Giotto</room>
-                <title>TTP’s 4 TTP – Tactics, Techniques, and Procedures for Talking To People</title>
-                <subtitle />
-                <type>Workshops (90 minutes)</type>
-                <date>2025-08-09T17:00:00+02:00</date>
-                <start>17:00</start>
-                <duration>01:30</duration>
-                <abstract>Communication is an underrated skill. To get things done within cybersecurity, we need to be able to convey complex concepts to people without the same technical knowledge or background. But differences in experience, neurology, and cultural contexts creates potential for good ideas to get lost in misunderstandings. This workshop introduces a MITRE-inspired, neurodivergent-lead approach to teach ways to frame problems, information, and solutions in ways more suited to your audience.</abstract>
-                <slug>why2025-97-ttp-s-4-ttp-tactics-techniques-and-procedures-for-talking-to-people</slug>
-                <track>Yearn for a better future</track>
-                <persons>
-                    <person id="128">Marina Bochenkova</person>
-                </persons>
-                <language>en</language>
-                <recording>
-                    <license />
-                    <optout>false</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/RD7DET/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/RD7DET/feedback/</feedback_url>
             </event>
             <event guid="dedcf2e5-e8d4-5a2f-8a68-c6e5129a3a16" id="123">
                 <room>Workshop Giotto</room>
@@ -2805,13 +3348,67 @@ The workshop is free, but if you would like to partake in the hands-on aspects o
                 <url>https://program.why2025.org/why2025/talk/79XX8B/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/79XX8B/feedback/</feedback_url>
             </event>
+            <event guid="62e54148-6970-5d23-b841-c1f674b2493b" id="323">
+                <room>Electronics (Hardware Hacking Village)</room>
+                <title>KiCad for Beginners</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-09T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>02:00</duration>
+                <abstract>Learn to make your own PCBs with KiCad, a free and open source tool that anyone can learn. For total beginners.
+
+Workshop given by crpesser</abstract>
+                <slug>why2025-323-kicad-for-beginners</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/UGCRAK/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/UGCRAK/feedback/</feedback_url>
+            </event>
+            <event guid="8df071de-9fb0-5e48-957e-b9c53c17b232" id="322">
+                <room>Electronics (Hardware Hacking Village)</room>
+                <title>IoT with Arduino Cloud: Beginner-Friendly Workshop</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-09T17:30:00+02:00</date>
+                <start>17:30</start>
+                <duration>02:00</duration>
+                <abstract>IoT with Arduino Cloud. For total beginners.
+
+Workshop given by Jeffrey Roe.
+
+Materials cost: €25</abstract>
+                <slug>why2025-322-iot-with-arduino-cloud-beginner-friendly-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/NNMMG3/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/NNMMG3/feedback/</feedback_url>
+            </event>
             <event guid="d78e3c42-7018-5638-a6a3-8f676cfc7240" id="136">
                 <room>Electronics (Hardware Hacking Village)</room>
                 <title>Digital Music Synthesis/Solder workshop with ArduTouch music synthesizer kit</title>
                 <subtitle />
                 <type>Workshop (180 minutes)</type>
-                <date>2025-08-09T17:00:00+02:00</date>
-                <start>17:00</start>
+                <date>2025-08-09T20:00:00+02:00</date>
+                <start>20:00</start>
                 <duration>02:30</duration>
                 <abstract>_Anyone can learn to solder!_  
 _And anyone can learn to make music, sound (and noise!) with computer chips!_  
@@ -2858,6 +3455,118 @@ _Arduino software runs on Windows, MacOS and Linux._</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/RYSVSH/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/RYSVSH/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="FamilyZone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
+            <event guid="839459fb-fe68-5c1f-8eb5-00c47ea103ab" id="362">
+                <room>FamilyZone</room>
+                <title>Soap-molding</title>
+                <subtitle />
+                <type>Workshop (180 minutes)</type>
+                <date>2025-08-09T09:00:00+02:00</date>
+                <start>09:00</start>
+                <duration>02:00</duration>
+                <abstract>A creative workshop in which children design their own soaps with bright colors and fragrances and playfully immerse themselves in the world of soap making.</abstract>
+                <slug>why2025-362-0-soap-molding</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/soap-molding](https://wiki.why2025.org/Team:Family/soap-molding)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/3M3YXS/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/3M3YXS/feedback/</feedback_url>
+            </event>
+            <event guid="e8a5651c-4ff5-5ca6-8011-d96a20fbcaf4" id="355">
+                <room>FamilyZone</room>
+                <title>T-shirt workshop</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-09T11:00:00+02:00</date>
+                <start>11:00</start>
+                <duration>02:00</duration>
+                <abstract>Kids can create their own design (as vector images, on their own/parents laptop) to be cut from coloured vinyl and be heat pressed on a shirt. Or they can create a full color image which can be sublimated (heat transferred) to a shirt.</abstract>
+                <slug>why2025-355-t-shirt-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>We will do one coler designs and why-Logos in vinyl from svg. You can choose ready to use designs or create your own ones, preferrably with Inkscape. 
+Or you can draw a full color picture on paper. We will scan it and transfer it on a shirt. 
+Bring your own shirt or bag (any color cotton for vinyl, white and at least 75% polyester for full color). We will probably have a few spare ones, too. 
+
+[https://wiki.why2025.org/Team:Family/T-shirt_workshop](https://wiki.why2025.org/Team:Family/T-shirt_workshop)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/F7LSNY/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/F7LSNY/feedback/</feedback_url>
+            </event>
+            <event guid="d75fd356-97f8-5267-ae5a-fc1b65d27e3f" id="358">
+                <room>FamilyZone</room>
+                <title>Bottle rockets</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-09T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>02:00</duration>
+                <abstract>Each kid gets to design and build their own rocket using a recycled soda bottle. They can paint it, decorate it, and make it uniquely theirs. Once the rockets are ready, we’ll head outside and launch a few together for a fun and exciting blast-off!!</abstract>
+                <slug>why2025-358-bottle-rockets</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/bottle_rockets](https://wiki.why2025.org/Team:Family/bottle_rockets)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/73RZLK/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/73RZLK/feedback/</feedback_url>
+            </event>
+            <event guid="9dcd789e-44e6-5a83-9cc5-33e40c2a7259" id="350">
+                <room>FamilyZone</room>
+                <title>CTF-junior: Cyberbrain the game</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-09T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>02:00</duration>
+                <abstract>What is Cyberbrain? 
+Cyberbrain is an exciting game where you learn about computer code and secret messages! You can solve puzzles and collect digital flags. 🎮</abstract>
+                <slug>why2025-350-ctf-junior-cyberbrain-the-game</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>How does it work? 
+Solve riddles, collect flags, and become a cyber hero! 
+
+This CTF is being developed by Stichting Cyberbrein. 
+
+[https://wiki.why2025.org/Team:Family/CTF-junior](https://wiki.why2025.org/Team:Family/CTF-junior)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/MRSEAE/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/MRSEAE/feedback/</feedback_url>
             </event>
         </room>
         <room name="Party Stage" guid="561b70ba-f1d5-5f92-bcde-7f056905df90">
@@ -2998,6 +3707,378 @@ Location: next to Party Area Terrace</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/GBSWAQ/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/GBSWAQ/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="KaraokeBar" guid="ba1c3697-c910-5d69-ae05-0435a54c466d">
+            <event guid="698fba93-fdb1-5942-8d31-409844f8eed7" id="328">
+                <room>KaraokeBar</room>
+                <title>Karaoke</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-09T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>05:00</duration>
+                <abstract>Join us for a chaotic, joy-filled session of Karaoke where your inner rockstar, pop icon, or metalhead gets the stage.</abstract>
+                <slug>why2025-328-1-karaoke</slug>
+                <track>Entertainment</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>No experience required, just enthusiasm (and maybe some liquid courage). Whether you’re in it to win it or just here for the vibes, everyone’s welcome. Expect classics, surprises, and that one person who really nails "Bohemian Rhapsody."</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CQV7HD/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CQV7HD/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Milliways" guid="eb651150-1d5a-5bc3-b395-246b71acd2c7">
+            <event guid="3c32f3b8-7f3f-575b-8f04-93856ea5726f" id="313">
+                <room>Milliways</room>
+                <title>Milliways Meeting</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-09T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>01:00</duration>
+                <abstract>Want to find out how we run our village? How you can help either with our events or kitchen? Get your latest news on the goings on? Join us for our daily Village-Orga meeting!</abstract>
+                <slug>why2025-313-2-milliways-meeting</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/DN8NTU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/DN8NTU/feedback/</feedback_url>
+            </event>
+            <event guid="d6b21215-1711-5478-9ea8-8088f53dd10d" id="133">
+                <room>Milliways</room>
+                <title>Phrack 40th Anniversary Release Party</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-09T20:30:00+02:00</date>
+                <start>20:30</start>
+                <duration>02:00</duration>
+                <abstract>Join us at Milliways Dome for the Phrack 40th Anniversary Release Party! Celebrate four decades of hacker culture with beers, snacks, and exclusive zine drops. Meet the minds behind the madness, swap war stories, and raise a glass to the underground. No suits, no sales pitches—just raw signal and real people. #Phrack40 #Milliways #WHY2025</abstract>
+                <slug>why2025-133-phrack-40th-anniversary-release-party</slug>
+                <track>Wonderful creations</track>
+                <persons>
+                    <person id="157">Phrack Staff</person>
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CMKNWN/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CMKNWN/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="D42D Workshop Tent" guid="22148081-9c0f-59fd-aea5-46a3f97bdecb">
+            <event guid="a30fdc1a-3377-500b-bb4a-1bc53b9438a5" id="342">
+                <room>D42D Workshop Tent</room>
+                <title>Needleworking Workshop</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-09T09:00:00+02:00</date>
+                <start>09:00</start>
+                <duration>02:00</duration>
+                <abstract>&lt;Watch this space&gt;</abstract>
+                <slug>why2025-342-1-needleworking-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Bianca Kremer and Annet Bronsema</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/J3Y3QK/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/J3Y3QK/feedback/</feedback_url>
+            </event>
+            <event guid="57cfa24b-b111-50a9-95f3-961799e2d85c" id="340">
+                <room>D42D Workshop Tent</room>
+                <title>Energy Hacking Demo</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-09T11:00:00+02:00</date>
+                <start>11:00</start>
+                <duration>00:55</duration>
+                <abstract>The energy transition is in full progress. The gird is getting busier and switching from a centralized generation model to a decentralized model where every house can be a power plant too.</abstract>
+                <slug>why2025-340-1-energy-hacking-demo</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Hamza Tafsi and Alexandros Tokatlis (DIVD)
+Making the grid smart is part of the solution, but present its owns set of challenges, because by controlling and manipulating a lot of small consumers or producers at the same time, an attacker can still have a large effect on the grid.
+DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.
+In this talk they will show you how they attack smart energy systems using a Honeywell Smart Thermostat as an example device.
+After the presentation the presenters will stick around the D42D area/cluster where there will be plenty of devices for you to try and hack and maybe even earn your own CVE.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/9QFMN3/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/9QFMN3/feedback/</feedback_url>
+            </event>
+            <event guid="893329a0-85c6-5694-8096-d6dae25a5093" id="341">
+                <room>D42D Workshop Tent</room>
+                <title>Hackshield</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-09T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>00:55</duration>
+                <abstract>Hackshield Future Cyber Heroes (https://joinhackshield.com) is a program, run by DIVD.Academy that aims to educate kids between 8 and 12 years to train them to become Agents Against cybercrime and thus prevent victims of cybercrime.</abstract>
+                <slug>why2025-341-1-hackshield</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Astrid Oosenbrug and others
+On WHY 2025 we will give 5 hack shield lessons of about 55 minutes in which you will be trained to become a Agent, or will experience the training to become and Agent so you can give this training at you local school and become a volunteer.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/T3WKWQ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/T3WKWQ/feedback/</feedback_url>
+            </event>
+            <event guid="d6d47246-05a8-5d2d-9c3d-e05f19e9a5f4" id="343">
+                <room>D42D Workshop Tent</room>
+                <title>Hacking together an infrastructure in Azure Cloud with Defender, Policy, and Pain</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-09T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>00:30</duration>
+                <abstract>Hi, my name is Ahmed and I convert ideas into Azure bills for a living. The environments I put together need to adhere to stringent security and compliance demands. Over the years I have learned a lot (especially how not to do it) and it these session I want to transfer that knowledge to you.</abstract>
+                <slug>why2025-343-1-hacking-together-an-infrastructure-in-azure-cloud-with-defender-policy-and-pain</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Ahmed Hussien</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/7GGDDF/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/7GGDDF/feedback/</feedback_url>
+            </event>
+            <event guid="391548fc-657c-53b1-a76e-3db56759d31c" id="339">
+                <room>D42D Workshop Tent</room>
+                <title>Paracord workshop</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-09T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>00:30</duration>
+                <abstract>Make your own paracord keyring or bracelet. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord bracelet or keyring.</abstract>
+                <slug>why2025-339-0-paracord-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Bernard Edelenbos (offered by Falco Networks)
+There are approximately 8 sets of material available per workshop, please register for the workshop on the flipover sheet in/near the D42D workshop tent.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/TEZJH7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/TEZJH7/feedback/</feedback_url>
+            </event>
+            <event guid="85adb047-a36a-50d6-98d7-8250dc8e0b2a" id="345">
+                <room>D42D Workshop Tent</room>
+                <title>Build Your Own Meshtastic Pager (One That Doesn’t Explode)</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-09T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>02:00</duration>
+                <abstract>Meshtastic (https://meshtastic.org/) is "An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices” you can use for your IoT or other connected devices or, e.g. to build a pager that will work even when all other communication networks are down.</abstract>
+                <slug>why2025-345-0-build-your-own-meshtastic-pager-one-that-doesn-t-explode</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Jeroen Ellermeijer
+In this workshop, sponsored by DIVD, you will be building your own Mashtastic pager with decent components that, unlike some devices from certain dubious sources from certain countries, will not explode (we hope, but won't guarantee).
+ 
+All parts will be available in limited supply in the tent at a pay what you want/can policy, if there are any proceeds they will go to DIVD.
+Please bring your own laptop if you can to flash and configure the device.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/WALGW9/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/WALGW9/feedback/</feedback_url>
+            </event>
+            <event guid="ae49f5c1-c76e-5fa9-b335-46ec1a3bb7ee" id="346">
+                <room>D42D Workshop Tent</room>
+                <title>Hacker nostalgia</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-09T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>00:25</duration>
+                <abstract>De VPRO bewaarde krantenknipsels over hacken, hackers en computercriminaliteit en die heb ik uit de prullenbak kunnen redden. Titels als "Veel te veel hitsige nerds of What the Hack", "De eigentijdse misdadiger gebruikt een beeldscherm" en "Koernikova-computervirus komt uit Sneek" inspireerden me om deze "Hacker nostalgie" te geven die toeschouwers gegarandeerd "oud" of "jong" zal laten voelen.</abstract>
+                <slug>why2025-346-0-hacker-nostalgia</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Milton Vermeiren</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/SVXVWC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/SVXVWC/feedback/</feedback_url>
+            </event>
+            <event guid="2e597c28-f6db-5973-b87b-4c2f18b00a68" id="347">
+                <room>D42D Workshop Tent</room>
+                <title>I’ve been in cybersecurity for over 25 years, Ask Me Anything</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-09T21:00:00+02:00</date>
+                <start>21:00</start>
+                <duration>00:50</duration>
+                <abstract>I've been in cybersecurity for over 25 years now, back when it was still called information security. Ask Me Anything.
+Let's face it, I'm an infosec dinosaur, and this is your chance to ask me anything.</abstract>
+                <slug>why2025-347-i-ve-been-in-cybersecurity-for-over-25-years-ask-me-anything</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Frank Breedijk
+
+I started my career in security by subscribing to HackTic and trying and reading stuff, and I even got caught once. The one day my then manager showed up and asked me: "What do you know about firewalls?", and just like that I was responsible for security of a datacenter company.
+Since then I worked as a security officer, was the head of a commercial Security Operations Center, a security consultant (for a short time), a security officer and now a CISO and fought DDoS attacks and traced criminals.
+Furthermore I've been at DIVD from the start where I founded the csirt, acted as crisis manager, worked on some prominent cases and started "Het Nederlands Security meldpunt" to force our government into action.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/MFFJVL/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/MFFJVL/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Serendiep" guid="9b897dbb-9ccc-533a-9406-3a037ed2534c">
+            <event guid="c87a83e1-0f58-5363-9ad8-5545f807174a" id="331">
+                <room>Serendiep</room>
+                <title>The Phenomenal Labyrinth</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-09T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>04:00</duration>
+                <abstract>Embark on a journey of discovery and find your way through a labyrinth in the hold of a cargo ship.</abstract>
+                <slug>why2025-331-1-the-phenomenal-labyrinth</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>A collection of interactive installations connects art with (complex) science. Theories and model systems from the natural sciences, philosophy, linguistics and more are at the base of intriguing images, sounds and texts that you yourself produce. Or is it the other way around?
+Caution: The access to the labyrinth is at your own risk. Wear comfortable clothes. High heels are not recommended. Children have to be supervised at all times. Unfortunately the Labyrinth is not accessile to wheelchair users.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/WHXXFU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/WHXXFU/feedback/</feedback_url>
+            </event>
+            <event guid="6bb24b5f-64bf-5f2c-b550-8e62d635bcd2" id="332">
+                <room>Serendiep</room>
+                <title>Fail Mode: Present your epic fails</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-09T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>02:00</duration>
+                <abstract>The horrible moment when the magic smoke escapes, the bright white light flashes, the sound of breaking glass fills the room… It makes a great story in time! Come and share your epic fails with other makers and enjoy the amazing mistakes others have made.</abstract>
+                <slug>why2025-332-fail-mode-present-your-epic-fails</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/Y9WTGE/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/Y9WTGE/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Serendiep Fablab" guid="078b1b00-f5c6-5615-8587-00d9749150e9">
+            <event guid="c131e7ce-a1f3-5459-989b-4f5ac185ef04" id="329">
+                <room>Serendiep Fablab</room>
+                <title>FabLab</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-09T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>04:00</duration>
+                <abstract>Use the vinyl cutter, 3D printer, sewing machine, soldering iron, milling machine or (if we get it to work) the lasercutter at Serendiep to make whatever you want</abstract>
+                <slug>why2025-329-1-fablab</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/98WUMC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/98WUMC/feedback/</feedback_url>
             </event>
         </room>
         <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
@@ -3551,6 +4632,41 @@ In this talk, we will demonstrate how we could have generated power outages usin
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/AREWXH/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/AREWXH/feedback/</feedback_url>
+            </event>
+            <event guid="9912f5b9-8ecc-556a-a03f-b87abd049d9d" id="270">
+                <room>Andromeda</room>
+                <title>Dries Depoorter</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-10T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>00:50</duration>
+                <abstract>Belgian creative technologist and artist Dries Depoorter, based in Ghent, creates thought-provoking work about technology, surveillance, AI and social media in a playful way that makes people laugh while delivering serious messages in an accessible way. His projects explore digital culture that can inspire marketers: privacy challenges, artificial intelligence applications, surveillance and authentic social media projects.</abstract>
+                <slug>why2025-270-dries-depoorter</slug>
+                <track>Wonderful creations</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>With his unique background in electronics and digital innovation, Dries has become a voice for forward-thinking brands and marketing professionals looking to navigate today's complex digital landscape. His artistic approach can directly inspire brands to think differently and develop original marketing concepts that stand out. Through his work, Dries demonstrates how combining creativity with technological insight creates viral moments.
+
+His award-winning "Die With Me" app, accessible only when a user's phone battery drops below 5%, demonstrates how scarcity and unique user experiences can create powerful engagement. On Black Friday, he doubles the price of his app instead of offering discounts, showing brands how breaking marketing rules can create attention. 
+
+In his viral project "The Follower," Dries leverages open cameras and AI to reveal the reality behind curated Instagram moments—offering marketers an unfiltered look at consumer behavior and content creation.
+
+Meanwhile, "The Flemish Scrollers" uses AI to automatically identify politicians using smartphones during parliamentary sessions, highlighting how technology can create accountability and transparency in public spaces.
+
+Dries has exhibited at prestigious venues including the Barbican in London, Art Basel, Mutek Festival in Montreal,ZKM, Bozar, WIRED and Ars Electronica.
+
+As a speaker, he's shared insights with innovative organizations including TEDx, MoMA, SXSW, Chanel, Adidas, Samsung, Deloitte, KBC and Adobe.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/XMMXBC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/XMMXBC/feedback/</feedback_url>
             </event>
             <event guid="6d2fe9bb-0397-5fc5-8dc9-2a5b7dab8324" id="230">
                 <room>Andromeda</room>
@@ -5052,6 +6168,203 @@ _Arduino software runs on Windows, MacOS and Linux (any version is fine):_
                 <url>https://program.why2025.org/why2025/talk/KY88NS/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/KY88NS/feedback/</feedback_url>
             </event>
+            <event guid="0fe35a3e-8cca-59e2-8770-86aea2ec8f98" id="319">
+                <room>Electronics (Hardware Hacking Village)</room>
+                <title>Build Your Own Air Quality Sensor</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-10T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>02:00</duration>
+                <abstract>Build Your Own Air Quality Sensor
+
+Workshop given by Jeffrey Roe
+
+Materials cost: €60</abstract>
+                <slug>why2025-319-build-your-own-air-quality-sensor</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/BRETVX/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/BRETVX/feedback/</feedback_url>
+            </event>
+            <event guid="13f21a11-9417-5162-971f-498190a85e31" id="138">
+                <room>Electronics (Hardware Hacking Village)</room>
+                <title>LED Strips Everywhere for Everyone!</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-10T21:30:00+02:00</date>
+                <start>21:30</start>
+                <duration>01:30</duration>
+                <abstract>_Learn how to program and light up LED strips._  
+It's super easy and fun to make your life trippy and beautiful.  
+**For total beginners.**  
+Make your life trippy and beautiful!</abstract>
+                <slug>why2025-138-led-strips-everywhere-for-everyone</slug>
+                <track>Villages</track>
+                <logo>/media/why2025/submissions/NKZWRM/35C3_LEDstrip_tunnel_w_LED_strip_demo_58F8Kfu.jpg</logo>
+                <persons>
+                    <person id="158">Mitch</person>
+                </persons>
+                <language>en</language>
+                <description>LED strips have become really inexpensive. And many people have created easy methods of controlling the color and brightness of individual LEDs in LED strips. This workshop will show you a couple of easy and fun ways to control LED strips, and to make them do what you want. I'll show you everything you need to know to use existing Arduino programs -- and how to hack Arduino programs -- to control the colors in your world with LED strips.  
+  
+**Workshop Itinerary:**  
+* Intro to color theory and Red-Green-Blue _(RGB)_ LEDs  
+* Brief intro to Arduino  
+* How to use an Arduino to control an LED strip  
+* Some demos of programs you can download for free  
+
+**Materials cost:**  
+The workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have materials for **€20**.  
+  
+_**Optional:** Bring your laptop if you want to go home with the free Arduino software installed on it._
+_Arduino software runs on Windows, MacOS and Linux (any version is fine):_  
+[Arduino software](https://www.arduino.cc/en/software)</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/NKZWRM/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/NKZWRM/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="FamilyZone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
+            <event guid="0322bc7c-6e41-54b7-b793-4f8207f1f36c" id="356">
+                <room>FamilyZone</room>
+                <title>WeevilEyeSoldering</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-10T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>02:00</duration>
+                <abstract>A kids intro to soldering.
+Have you ever seen a weevil? With this very simple soldering kit, we want to celebrate this amazing beetle. The kit is a very easy-to-build kit with through-hole components, specifically aimed at beginners. It has only a few parts, so even small children can easily assemble it. Once assembled, the red LED "eyes" will light up brighter or dimmer depending on how much light falls on the photo sensor.</abstract>
+                <slug>why2025-356-weevileyesoldering</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/WeevilEyeSoldering](https://wiki.why2025.org/Team:Family/WeevilEyeSoldering)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/XCGGPG/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/XCGGPG/feedback/</feedback_url>
+            </event>
+            <event guid="1b95ddc1-39f3-589e-8b3c-69afc4bfeaa5" id="360">
+                <room>FamilyZone</room>
+                <title>Contraption makers</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-10T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>02:00</duration>
+                <abstract>Lets make some simple rube goldberg machines, show some simple principles to build them like: - using a slope - using a lever - using a screw - using an anchor then split kids in groups (5-8 per table) and ask them to solve a simple puzzle (like put a ball in the goal) using as many steps they can imagine.</abstract>
+                <slug>why2025-360-contraption-makers</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/contraption_makers](https://wiki.why2025.org/Team:Family/contraption_makers)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/VUVHC3/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/VUVHC3/feedback/</feedback_url>
+            </event>
+            <event guid="1972a8d0-986c-58f5-bbe5-7cafa347b99d" id="361">
+                <room>FamilyZone</room>
+                <title>Popcorn</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-10T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>02:00</duration>
+                <abstract>Hack the corn, we show you how to make a delicious treat from a simple corn kernel. I guess, you already know!</abstract>
+                <slug>why2025-361-popcorn</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/popcorn](https://wiki.why2025.org/Team:Family/popcorn)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/GJZZRC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/GJZZRC/feedback/</feedback_url>
+            </event>
+            <event guid="82b32d6d-10c4-5b25-91b8-f71d5d91b96c" id="352">
+                <room>FamilyZone</room>
+                <title>Gamenight</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-10T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>01:00</duration>
+                <abstract>For kids ~8-16 – Let’s play some Escape Room,  Weerwolven or Live Stratego, or something else we feel like.</abstract>
+                <slug>why2025-352-1-gamenight</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/XX97KC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/XX97KC/feedback/</feedback_url>
+            </event>
+            <event guid="e3146228-caab-5d1a-9ddd-b05806e629f6" id="357">
+                <room>FamilyZone</room>
+                <title>Black-light-painting</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-10T22:00:00+02:00</date>
+                <start>22:00</start>
+                <duration>01:30</duration>
+                <abstract>This night-time workshop involves working with fluorescent colors under black light. Participants paint in a darkened room in which only the colors and contours are visible through UV light.</abstract>
+                <slug>why2025-357-1-black-light-painting</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/black-light-painting](https://wiki.why2025.org/Team:Family/black-light-painting)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/KZBAQU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/KZBAQU/feedback/</feedback_url>
+            </event>
         </room>
         <room name="Party Stage" guid="561b70ba-f1d5-5f92-bcde-7f056905df90">
             <event guid="9490e7be-534b-5f22-b592-9e04775a4cbc" id="310">
@@ -5220,6 +6533,400 @@ Location: next to Party Area Terrace</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/QNKNQS/feedback/</feedback_url>
             </event>
         </room>
+        <room name="KaraokeBar" guid="ba1c3697-c910-5d69-ae05-0435a54c466d">
+            <event guid="533cf577-837b-586c-b278-2580be4c4eb0" id="311">
+                <room>KaraokeBar</room>
+                <title>WHY jamsession</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-10T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>03:00</duration>
+                <abstract>Join the WHY jamsession! A small backline is provided, as are various instruments (including a drum kit). There is no preconceived plan, just bring your gear and your personality and let's see where we go.</abstract>
+                <slug>why2025-311-1-why-jamsession</slug>
+                <track>Entertainment</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>All genres, instruments and experience levels are welcome!</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/9NBX9S/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/9NBX9S/feedback/</feedback_url>
+            </event>
+            <event guid="1af393c7-7181-5ed0-a872-ad41220fde80" id="328">
+                <room>KaraokeBar</room>
+                <title>Karaoke</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-10T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>05:00</duration>
+                <abstract>Join us for a chaotic, joy-filled session of Karaoke where your inner rockstar, pop icon, or metalhead gets the stage.</abstract>
+                <slug>why2025-328-2-karaoke</slug>
+                <track>Entertainment</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>No experience required, just enthusiasm (and maybe some liquid courage). Whether you’re in it to win it or just here for the vibes, everyone’s welcome. Expect classics, surprises, and that one person who really nails "Bohemian Rhapsody."</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CQV7HD/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CQV7HD/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Milliways" guid="eb651150-1d5a-5bc3-b395-246b71acd2c7">
+            <event guid="0165d286-8aa9-5fe2-95f8-3161d0f78d8f" id="313">
+                <room>Milliways</room>
+                <title>Milliways Meeting</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-10T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>01:00</duration>
+                <abstract>Want to find out how we run our village? How you can help either with our events or kitchen? Get your latest news on the goings on? Join us for our daily Village-Orga meeting!</abstract>
+                <slug>why2025-313-3-milliways-meeting</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/DN8NTU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/DN8NTU/feedback/</feedback_url>
+            </event>
+            <event guid="cedb7302-7414-5867-bcec-201dfa02cd97" id="316">
+                <room>Milliways</room>
+                <title>Whiskyleaks</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-10T20:30:00+02:00</date>
+                <start>20:30</start>
+                <duration>02:30</duration>
+                <abstract>Milliways' famous Whiskyleaks event; Self organizing, repeating, turned into a legend. Many bottles arrive, none leave. Bring a bottle of your favourite whisky (or other spirits) and share it with other passionate drinkers. If you can’t bring a bottle, come along - bring one next time! We will start in the evening, the more exact time will appear here eventually.</abstract>
+                <slug>why2025-316-whiskyleaks</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/PTE3VT/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/PTE3VT/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="D42D Workshop Tent" guid="22148081-9c0f-59fd-aea5-46a3f97bdecb">
+            <event guid="89007a68-873f-5c3a-ab69-7b0f6a7136a5" id="339">
+                <room>D42D Workshop Tent</room>
+                <title>Paracord workshop</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-10T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>00:30</duration>
+                <abstract>Make your own paracord keyring or bracelet. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord bracelet or keyring.</abstract>
+                <slug>why2025-339-1-paracord-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Bernard Edelenbos (offered by Falco Networks)
+There are approximately 8 sets of material available per workshop, please register for the workshop on the flipover sheet in/near the D42D workshop tent.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/TEZJH7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/TEZJH7/feedback/</feedback_url>
+            </event>
+            <event guid="88c340d8-87f3-545f-9748-56926328b0b7" id="340">
+                <room>D42D Workshop Tent</room>
+                <title>Energy Hacking Demo</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-10T11:00:00+02:00</date>
+                <start>11:00</start>
+                <duration>00:50</duration>
+                <abstract>The energy transition is in full progress. The gird is getting busier and switching from a centralized generation model to a decentralized model where every house can be a power plant too.</abstract>
+                <slug>why2025-340-2-energy-hacking-demo</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Hamza Tafsi and Alexandros Tokatlis (DIVD)
+Making the grid smart is part of the solution, but present its owns set of challenges, because by controlling and manipulating a lot of small consumers or producers at the same time, an attacker can still have a large effect on the grid.
+DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.
+In this talk they will show you how they attack smart energy systems using a Honeywell Smart Thermostat as an example device.
+After the presentation the presenters will stick around the D42D area/cluster where there will be plenty of devices for you to try and hack and maybe even earn your own CVE.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/9QFMN3/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/9QFMN3/feedback/</feedback_url>
+            </event>
+            <event guid="43f48efd-6983-579d-b8e4-0a794a779c0f" id="341">
+                <room>D42D Workshop Tent</room>
+                <title>Hackshield</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-10T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>00:55</duration>
+                <abstract>Hackshield Future Cyber Heroes (https://joinhackshield.com) is a program, run by DIVD.Academy that aims to educate kids between 8 and 12 years to train them to become Agents Against cybercrime and thus prevent victims of cybercrime.</abstract>
+                <slug>why2025-341-2-hackshield</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Astrid Oosenbrug and others
+On WHY 2025 we will give 5 hack shield lessons of about 55 minutes in which you will be trained to become a Agent, or will experience the training to become and Agent so you can give this training at you local school and become a volunteer.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/T3WKWQ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/T3WKWQ/feedback/</feedback_url>
+            </event>
+            <event guid="27097d79-6788-5e87-92b3-04f4679a0ede" id="343">
+                <room>D42D Workshop Tent</room>
+                <title>Hacking together an infrastructure in Azure Cloud with Defender, Policy, and Pain</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-10T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>00:30</duration>
+                <abstract>Hi, my name is Ahmed and I convert ideas into Azure bills for a living. The environments I put together need to adhere to stringent security and compliance demands. Over the years I have learned a lot (especially how not to do it) and it these session I want to transfer that knowledge to you.</abstract>
+                <slug>why2025-343-2-hacking-together-an-infrastructure-in-azure-cloud-with-defender-policy-and-pain</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Ahmed Hussien</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/7GGDDF/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/7GGDDF/feedback/</feedback_url>
+            </event>
+            <event guid="cc397246-ac5e-592e-b8e4-8d914e281534" id="344">
+                <room>D42D Workshop Tent</room>
+                <title>Beginner hacker workshop using OWASP juice shop</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-10T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>02:30</duration>
+                <abstract>Ever wanted to participate in a CTF, but no experience? No problem. Using OWASP’s Juice Shop (https://owasp.org/www-project-juice-shop/) we have set up a safe environment and the support to take you first steps in hacking. Don’t forget to bring you own laptop and a willingness to learn and you’ll be fine.</abstract>
+                <slug>why2025-344-1-beginner-hacker-workshop-using-owasp-juice-shop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Timothy Kriek</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/J9K8D7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/J9K8D7/feedback/</feedback_url>
+            </event>
+            <event guid="a4228624-a888-5fac-b739-5622fb5e1d68" id="339">
+                <room>D42D Workshop Tent</room>
+                <title>Paracord workshop</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-10T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>00:30</duration>
+                <abstract>Make your own paracord keyring or bracelet. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord bracelet or keyring.</abstract>
+                <slug>why2025-339-2-paracord-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Bernard Edelenbos (offered by Falco Networks)
+There are approximately 8 sets of material available per workshop, please register for the workshop on the flipover sheet in/near the D42D workshop tent.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/TEZJH7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/TEZJH7/feedback/</feedback_url>
+            </event>
+            <event guid="7fbbc169-c1dd-51cb-9f9c-27e82e0e7027" id="345">
+                <room>D42D Workshop Tent</room>
+                <title>Build Your Own Meshtastic Pager (One That Doesn’t Explode)</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-10T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>02:00</duration>
+                <abstract>Meshtastic (https://meshtastic.org/) is "An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices” you can use for your IoT or other connected devices or, e.g. to build a pager that will work even when all other communication networks are down.</abstract>
+                <slug>why2025-345-1-build-your-own-meshtastic-pager-one-that-doesn-t-explode</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Jeroen Ellermeijer
+In this workshop, sponsored by DIVD, you will be building your own Mashtastic pager with decent components that, unlike some devices from certain dubious sources from certain countries, will not explode (we hope, but won't guarantee).
+ 
+All parts will be available in limited supply in the tent at a pay what you want/can policy, if there are any proceeds they will go to DIVD.
+Please bring your own laptop if you can to flash and configure the device.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/WALGW9/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/WALGW9/feedback/</feedback_url>
+            </event>
+            <event guid="09c62961-ad71-5915-9e07-fd9c8a9ea152" id="348">
+                <room>D42D Workshop Tent</room>
+                <title>The Pubquiz</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-10T23:15:00+02:00</date>
+                <start>23:15</start>
+                <duration>02:00</duration>
+                <abstract>It is tradition for the Area42 crew to present a Pubquiz, but this year Roxane took over (thank you very much).</abstract>
+                <slug>why2025-348-the-pubquiz</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Roxane Kortland
+hat means that I have no way of predicting what the topics will be or if you can win anything, but I still have to writ this text here. The only think I know that it will be fun, bring something to connect to intimater (phone/tablet, laptop), create your own team or join or form a team on the spot and let’s have some fun!</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/LRCA3Z/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/LRCA3Z/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Serendiep" guid="9b897dbb-9ccc-533a-9406-3a037ed2534c">
+            <event guid="da7bd3ae-2ef4-50b7-b722-b19175f8ea00" id="330">
+                <room>Serendiep</room>
+                <title>RF workshop</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-10T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>02:00</duration>
+                <abstract>During WHY2025 PE1BMC will bring a lot of equipment en experiments to experience the magic of microwaves. Bring your own project, think about experiments and let us see if we can do some hands-on work in the FabLab of Serendiep.</abstract>
+                <slug>why2025-330-1-rf-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/HTSHBP/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/HTSHBP/feedback/</feedback_url>
+            </event>
+            <event guid="247f5fc1-d911-5472-95cf-b58f5e7dbfbd" id="331">
+                <room>Serendiep</room>
+                <title>The Phenomenal Labyrinth</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-10T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>04:00</duration>
+                <abstract>Embark on a journey of discovery and find your way through a labyrinth in the hold of a cargo ship.</abstract>
+                <slug>why2025-331-2-the-phenomenal-labyrinth</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>A collection of interactive installations connects art with (complex) science. Theories and model systems from the natural sciences, philosophy, linguistics and more are at the base of intriguing images, sounds and texts that you yourself produce. Or is it the other way around?
+Caution: The access to the labyrinth is at your own risk. Wear comfortable clothes. High heels are not recommended. Children have to be supervised at all times. Unfortunately the Labyrinth is not accessile to wheelchair users.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/WHXXFU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/WHXXFU/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Serendiep Fablab" guid="078b1b00-f5c6-5615-8587-00d9749150e9">
+            <event guid="41d4eb79-2ab3-57e9-b18b-7f1fc5535a85" id="329">
+                <room>Serendiep Fablab</room>
+                <title>FabLab</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-10T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>04:00</duration>
+                <abstract>Use the vinyl cutter, 3D printer, sewing machine, soldering iron, milling machine or (if we get it to work) the lasercutter at Serendiep to make whatever you want</abstract>
+                <slug>why2025-329-2-fablab</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/98WUMC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/98WUMC/feedback/</feedback_url>
+            </event>
+        </room>
         <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
             <event guid="1992e8ca-fa20-559f-a056-da9f234038cc">
                 <title>MTB Rides</title>
@@ -5250,6 +6957,28 @@ Come and join us at the Back to the 80s party village for some Kraftwerk and Cra
                 <date>2025-08-10T15:30:00+02:00</date>
                 <start>15:30</start>
                 <duration>01:30</duration>
+            </event>
+        </room>
+        <room name="Village:Brittany Fairies" guid="1ac8b50c-bcfd-5f14-8571-c0149f9a09e6">
+            <event guid="2be61ca3-52a9-5d21-816f-e44866d0f59f">
+                <title>Alpha137: the mini-project</title>
+                <track>Self Organized Sessions</track>
+                <abstract>How a single number (137!) became a mathematical and fun quest.</abstract>
+                <url>éé.net/alpha137</url>
+                <type>Discussion</type>
+                <persons>
+                    <person>Gadget MCS</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: All ages
+How a single number (137!) became a math and funny quest.
+- Live demo on DM15C calculator and HP15 Simulator
+- Fundamental constants, maths and more.
+- Informal discussion and Q&amp;A
+- Bonus: free stickers for participants !</description>
+                <date>2025-08-10T11:00:00+02:00</date>
+                <start>11:00</start>
+                <duration>00:30</duration>
             </event>
         </room>
         <room name="Village:Cyber Saiyan" guid="75b22f81-5315-5708-bc13-88aa1dd38fb4">
@@ -6318,34 +8047,29 @@ This presentation will touch:
                 <url>https://program.why2025.org/why2025/talk/XVET7C/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/XVET7C/feedback/</feedback_url>
             </event>
-            <event guid="a5834c8e-26f5-514d-8e1d-900646c17ba5" id="263">
+            <event guid="d39aa077-4e69-5587-be7a-f661fe13b6e2" id="318">
                 <room>Cassiopeia</room>
-                <title>Containing the Horror — A Critique on Docker &amp; Co</title>
+                <title>Reverse Engineering Life: Afterparty</title>
                 <subtitle />
                 <type>Talk (50 minutes)</type>
                 <date>2025-08-11T15:00:00+02:00</date>
                 <start>15:00</start>
                 <duration>00:50</duration>
-                <abstract>For a good decade now, containerisation has been a popular solution: Addressing issues such as security, fault tolerance, and scalability, it has turned into a mainstay in IT. Though with a technology that ubiquitous, it does deserve investigation whether it has been put to good use or rather pressed into service.</abstract>
-                <slug>why2025-263-containing-the-horror-a-critique-on-docker-co</slug>
+                <abstract>Afterparty for "Reverse Engineering Life: A teardown of the DNA source code of a whole bacterium". Q&amp;A and some bonus content.</abstract>
+                <slug>why2025-318-reverse-engineering-life-afterparty</slug>
                 <track>The square hole</track>
                 <persons>
-                    <person id="251">Stephan Hohmann</person>
+                    <person id="51">bert hubert</person>
                 </persons>
                 <language>en</language>
-                <description>This talk includes a brief history of container solutions while challenging a number of common assumptions. While geared at a more seasoned audience, the presentation is very much from the perspective of the ‘plumbing layers,’ which comes with the discussion of many core concepts of Docker/OCI. Hence this should be beginner-friendly to a degree.
-
-Mild audience participation is to be expected; may contain traces of DevOps.
-
-Keywords: containers; cloud; linux; docker; oci; kubernetes</description>
                 <recording>
                     <license />
                     <optout>false</optout>
                 </recording>
                 <links />
                 <attachments />
-                <url>https://program.why2025.org/why2025/talk/MREBV9/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/MREBV9/feedback/</feedback_url>
+                <url>https://program.why2025.org/why2025/talk/A8LMHV/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/A8LMHV/feedback/</feedback_url>
             </event>
             <event guid="98e3f8e4-021f-5fbb-bf32-0964cd277cf6" id="118">
                 <room>Cassiopeia</room>
@@ -6659,30 +8383,34 @@ Our goal was to do vulnerability research, but we ran out of time for that. By s
                 <url>https://program.why2025.org/why2025/talk/DJKYA7/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/DJKYA7/feedback/</feedback_url>
             </event>
-            <event guid="5674cf4a-b6a6-5911-9b01-7643a26f8371" id="275">
+            <event guid="a5834c8e-26f5-514d-8e1d-900646c17ba5" id="263">
                 <room>Delphinus</room>
-                <title>Lightning Talks</title>
+                <title>Containing the Horror — A Critique on Docker &amp; Co</title>
                 <subtitle />
                 <type>Talk (50 minutes)</type>
                 <date>2025-08-11T15:00:00+02:00</date>
                 <start>15:00</start>
                 <duration>00:50</duration>
-                <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
-                <slug>why2025-275-2-lightning-talks</slug>
+                <abstract>For a good decade now, containerisation has been a popular solution: Addressing issues such as security, fault tolerance, and scalability, it has turned into a mainstay in IT. Though with a technology that ubiquitous, it does deserve investigation whether it has been put to good use or rather pressed into service.</abstract>
+                <slug>why2025-263-containing-the-horror-a-critique-on-docker-co</slug>
                 <track>The square hole</track>
                 <persons>
-                    
+                    <person id="251">Stephan Hohmann</person>
                 </persons>
                 <language>en</language>
-                <description>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki.Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</description>
+                <description>This talk includes a brief history of container solutions while challenging a number of common assumptions. While geared at a more seasoned audience, the presentation is very much from the perspective of the ‘plumbing layers,’ which comes with the discussion of many core concepts of Docker/OCI. Hence this should be beginner-friendly to a degree.
+
+Mild audience participation is to be expected; may contain traces of DevOps.
+
+Keywords: containers; cloud; linux; docker; oci; kubernetes</description>
                 <recording>
                     <license />
                     <optout>false</optout>
                 </recording>
                 <links />
                 <attachments />
-                <url>https://program.why2025.org/why2025/talk/EFJTHQ/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/EFJTHQ/feedback/</feedback_url>
+                <url>https://program.why2025.org/why2025/talk/MREBV9/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/MREBV9/feedback/</feedback_url>
             </event>
             <event guid="754f92d1-4e06-5bde-947a-db5e187c6cf6" id="192">
                 <room>Delphinus</room>
@@ -6826,6 +8554,41 @@ In this presentation, we will be looking into the ethics of bass playing. And th
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/EPLPXJ/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/EPLPXJ/feedback/</feedback_url>
+            </event>
+            <event guid="693d62bf-500c-58e6-9557-80fa3a685a12" id="312">
+                <room>Delphinus</room>
+                <title>Offworld Voyage: Can Training for Mars Exploration Also Address Human Adaptation to Climate Bio-devastation on Earth?</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-11T21:00:00+02:00</date>
+                <start>21:00</start>
+                <duration>00:50</duration>
+                <abstract>This talk will present the design philosophy behind Offworld Voyage, a decentralized science initiative that develops ecologically sustainable training habitats for use in simulated Mars surface exploration missions - while also solving for adaptation to extreme climate change on Earth.</abstract>
+                <slug>why2025-312-offworld-voyage-can-training-for-mars-exploration-also-address-human-adaptation-to-climate-bio-devastation-on-earth</slug>
+                <track>Yearn for a better future</track>
+                <logo>/media/why2025/submissions/ZDE7NN/IMG_3177_E01wdoG.jpeg</logo>
+                <persons>
+                    <person id="302">Scott Beibin</person>
+                    <person id="412">Elizabeth Jane Cole</person>
+                </persons>
+                <language>en</language>
+                <description>The Offworld Voyage M.A.R.S. Tesseract Space Analog Simulation Habitats were designed with a zero waste ethos for minimal environmental impact by inventor Scott Beibin and visual wizard Michael Flood. The modular and portable structures of the habitats include: a bio-dome for cultivating organic vegan plant-based and fungi-based nutrition sources, autonomous power production, advanced waste reclamation, a science laboratory for experimentation and research, a space medicine bay, a fabrication lab for prototyping and repair, facilities for fitness and creativity as well as a kitchen and living quarters.
+ 
+Mission immersions incorporate a vision of the future when space has become accessible to all through the use of emerging ecologically sustainable appropriate technologies enabled by new types of egalitarian economic structures and coordination methods.
+ 
+Crew activities include EVA explorations in pressurized space suits outfitted with bio-sensors, 3D printed construction using regolith, utilization of open source communications tools, cooperative governance exercises and the practice of mutual aid and consensus decision making in mission planning, problem-solving and self-sufficiency challenges in the face of extreme resource scarcity, simulated time-delayed communications and experiments to analyze the effects of isolation on astronauts during offworld missions.
+ 
+The inaugural mission for the M.A.R.S. Tesseract habitats will occur in a remote desert location in the near future. It will include the founders of the project, Scott Beibin and Elizabeth Jane Cole, who are both alumni of the Mars Desert Research Station (Mission 286) and core committee members of the Journal for Space Analog Research.
+ 
+Future plans for the project include the development of pressurized facilities and closed loop systems, as well as development of public goods including hardware and software for Space Analog Research and S.T.E.A.M based educational programs.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/ZDE7NN/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/ZDE7NN/feedback/</feedback_url>
             </event>
         </room>
         <room name="Workshop Euclid" guid="9ccda66b-ad22-535b-be0b-986061963bed">
@@ -7055,47 +8818,226 @@ Sessions will be given in dutch but we can accommodate english participants.</de
             </event>
         </room>
         <room name="Electronics (Hardware Hacking Village)" guid="f34b47c5-4fd1-5f07-bc6f-b9a576b1338a">
-            <event guid="13f21a11-9417-5162-971f-498190a85e31" id="138">
+            <event guid="6b778ce4-4218-51f2-95d1-56a512b0f02d" id="325">
                 <room>Electronics (Hardware Hacking Village)</room>
-                <title>LED Strips Everywhere for Everyone!</title>
+                <title>Sensing the World Around you with EMF!</title>
                 <subtitle />
-                <type>Workshops (90 minutes)</type>
-                <date>2025-08-11T21:30:00+02:00</date>
-                <start>21:30</start>
-                <duration>01:30</duration>
-                <abstract>_Learn how to program and light up LED strips._  
-It's super easy and fun to make your life trippy and beautiful.  
-**For total beginners.**  
-Make your life trippy and beautiful!</abstract>
-                <slug>why2025-138-led-strips-everywhere-for-everyone</slug>
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-11T11:30:00+02:00</date>
+                <start>11:30</start>
+                <duration>02:00</duration>
+                <abstract>Solder a beautiful board that makes wonderful sounds as you send the world of EMF all around us. For total beginners.</abstract>
+                <slug>why2025-325-sensing-the-world-around-you-with-emf</slug>
                 <track>Villages</track>
-                <logo>/media/why2025/submissions/NKZWRM/35C3_LEDstrip_tunnel_w_LED_strip_demo_58F8Kfu.jpg</logo>
                 <persons>
-                    <person id="158">Mitch</person>
+                    
                 </persons>
                 <language>en</language>
-                <description>LED strips have become really inexpensive. And many people have created easy methods of controlling the color and brightness of individual LEDs in LED strips. This workshop will show you a couple of easy and fun ways to control LED strips, and to make them do what you want. I'll show you everything you need to know to use existing Arduino programs -- and how to hack Arduino programs -- to control the colors in your world with LED strips.  
-  
-**Workshop Itinerary:**  
-* Intro to color theory and Red-Green-Blue _(RGB)_ LEDs  
-* Brief intro to Arduino  
-* How to use an Arduino to control an LED strip  
-* Some demos of programs you can download for free  
+                <description>The EMF Explorer Badge is an electromagnetic field sensing circuit that lets you listen to the world of hidden electromagnetic frequencies around you. Learn more about the electronics world by exploring the sounds they make! The EMF badge also serves as a piece of wearable art and can be worn on a lanyard for extra bling.
 
-**Materials cost:**  
-The workshop is free, but if you would like to partake in the hands-on aspects of the workshop, Mitch will have materials for **€20**.  
-  
-_**Optional:** Bring your laptop if you want to go home with the free Arduino software installed on it._
-_Arduino software runs on Windows, MacOS and Linux (any version is fine):_  
-[Arduino software](https://www.arduino.cc/en/software)</description>
+Through-hole soldering required for this workshop. This kit is designed for everyone and is accessible to all skill levels. Adult assistance required for youth who are new to soldering.
+
+Workshop given by DRC.
+
+Materials cost: €10 - €25</description>
                 <recording>
                     <license />
-                    <optout>false</optout>
+                    <optout>true</optout>
                 </recording>
                 <links />
                 <attachments />
-                <url>https://program.why2025.org/why2025/talk/NKZWRM/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/NKZWRM/feedback/</feedback_url>
+                <url>https://program.why2025.org/why2025/talk/KBEQ7X/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/KBEQ7X/feedback/</feedback_url>
+            </event>
+            <event guid="59311d2c-5aa3-557a-9cfd-1a8c893934ff" id="324">
+                <room>Electronics (Hardware Hacking Village)</room>
+                <title>Repair and Rework Circuits</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-11T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>01:00</duration>
+                <abstract>Learn to repair and rework circuits.
+
+Workshop given by cpresser.</abstract>
+                <slug>why2025-324-repair-and-rework-circuits</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/PAZLNE/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/PAZLNE/feedback/</feedback_url>
+            </event>
+            <event guid="5122fc38-c085-5833-9b83-58e098cdff9a" id="320">
+                <room>Electronics (Hardware Hacking Village)</room>
+                <title>Build Your Own Satellite Ground Station</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-11T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>02:00</duration>
+                <abstract>Build and program your ground station and antenna to receive data from space. For beginners.</abstract>
+                <slug>why2025-320-build-your-own-satellite-ground-station</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Are you fascinated by space and want to learn how to receive data from satellites and weather probes? In this TinyGS station workshop, you’ll build and program your ground station and antenna to receive data from space. This hands-on, beginner-friendly workshop is perfect for anyone interested in radio, electronics, IOT, antenna design, and space exploration. TinyGS is an open community-run network of ground stations distributed around the world to receive and operate LoRa satellites, weather probes, and other flying objects, using cheap and versatile modules. With a TinyGS ground station, you can receive data from a variety of sources, such as CubeSats. During the workshop, you’ll learn how to build and program a TinyGS ground station and a quarter-wave ground plane antenna. No prior experience is required.
+
+Workshop given by Jeffrey Roe.
+
+Materials cost: €80</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/KMTSDG/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/KMTSDG/feedback/</feedback_url>
+            </event>
+            <event guid="3e8d9d04-7b13-5f8a-8342-5421b6092718" id="326">
+                <room>Electronics (Hardware Hacking Village)</room>
+                <title>Solder a Pathlighter Badge</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-11T18:30:00+02:00</date>
+                <start>18:30</start>
+                <duration>02:00</duration>
+                <abstract>For this workshop, we will solder a glow club pathlighter badge, which will help to illuminate your pathway at night! Don't get lost in the dark! Join the glow club so you can travel safely through the night. For total beginners.</abstract>
+                <slug>why2025-326-solder-a-pathlighter-badge</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>The Pathlighter PCB, initially known as the Glow Club PCB, is a wearable piece of PCB art crafted for the community. It serves a dual purpose: as a practical tool for teaching about LEDs and soldering, and as a creative demonstration of using a PCB’s foundational layers to craft a unique art piece. Designed to be worn on a lanyard, the Pathlighter PCB acts as a beacon, lighting up the night and ensuring safety for its wearers.
+
+This innovative PCB made its debut in an electronics education group and has since been featured in soldering workshops at ToorCamp 2022 and Chaos Communication Camp ’23. Its design is particularly well-suited for larger events where workshop demand often outstrips available resources. The Pathlighter PCB’s efficient design allows newcomers to complete their project in approximately 20 minutes. This swift completion rate creates a “revolving door” dynamic in the workshop, allowing for a continuous flow of participants and maximizing educational outreach.
+
+Having been taught to over 450 students so far, the Pathlighter PCB workshop has been a delightful experience to teach students how to solder and to earn a unique wearable art piece. Each participant not only learns valuable skills but also becomes an honorary member of the Glow Club. May we all shine brighter together through these shared experiences.
+
+Workshop given by DRC
+
+Materials cost: €10 - €15</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/9STBVA/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/9STBVA/feedback/</feedback_url>
+            </event>
+            <event guid="bfa94504-f94a-59d7-bf02-2e7a6f9f810c" id="327">
+                <room>Electronics (Hardware Hacking Village)</room>
+                <title>Synth Meetup</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T21:00:00+02:00</date>
+                <start>21:00</start>
+                <duration>02:00</duration>
+                <abstract>Let's get together and geek out over music synthesizers, music synthesis, making sound, and creating music.</abstract>
+                <slug>why2025-327-synth-meetup</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Hardware, software - anything goes! All are welcome to come and talk synths, play synths, share projects, learn, and share. Some attendees have made their own synths at WHY - please bring them! Please feel free to bring any synth or sound-making device.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/M8XFYJ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/M8XFYJ/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="FamilyZone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
+            <event guid="4680de1f-c5f0-547e-9de9-62914d4bf0c2" id="362">
+                <room>FamilyZone</room>
+                <title>Soap-molding</title>
+                <subtitle />
+                <type>Workshop (180 minutes)</type>
+                <date>2025-08-11T09:00:00+02:00</date>
+                <start>09:00</start>
+                <duration>03:00</duration>
+                <abstract>A creative workshop in which children design their own soaps with bright colors and fragrances and playfully immerse themselves in the world of soap making.</abstract>
+                <slug>why2025-362-1-soap-molding</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/soap-molding](https://wiki.why2025.org/Team:Family/soap-molding)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/3M3YXS/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/3M3YXS/feedback/</feedback_url>
+            </event>
+            <event guid="11475044-0b4a-56db-beea-6df48c696581" id="359">
+                <room>FamilyZone</room>
+                <title>Brushboots</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-11T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>02:00</duration>
+                <abstract>lets create simple robots from old electric toothbrushes. (we will also have a bunch of vibrating motors, batteries, battery holders and switches for anyone not bringing their old toothbrush)</abstract>
+                <slug>why2025-359-brushboots</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/brushboots](https://wiki.why2025.org/Team:Family/brushboots)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/JKR3BZ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/JKR3BZ/feedback/</feedback_url>
+            </event>
+            <event guid="bc04a416-46ea-596d-b12e-e9d6f34e595b" id="351">
+                <room>FamilyZone</room>
+                <title>KidsDisco</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>01:00</duration>
+                <abstract>Kids Disco – An awesome opportunity to show off your Blacklight shirts.</abstract>
+                <slug>why2025-351-kidsdisco</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/Disco](https://wiki.why2025.org/Team:Family/Disco)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/97NBAT/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/97NBAT/feedback/</feedback_url>
             </event>
         </room>
         <room name="Party Stage" guid="561b70ba-f1d5-5f92-bcde-7f056905df90">
@@ -7180,7 +9122,7 @@ _Arduino software runs on Windows, MacOS and Linux (any version is fine):_
                 <type>Entertainment</type>
                 <date>2025-08-11T23:00:00+02:00</date>
                 <start>23:00</start>
-                <duration>1:05:00</duration>
+                <duration>05:00</duration>
                 <abstract>Each night concludes with a Silent Disco in the Party Area. Various DJs will keep the dancefloor alive into the early hours, pick up your headphones and choose your channel.</abstract>
                 <slug>why2025-301-silent-disco-with-dj-luna-dj-sjors</slug>
                 <track>Entertainment</track>
@@ -7225,6 +9167,472 @@ Location: next to Party Area Terrace</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/SEYTWK/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/SEYTWK/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="KaraokeBar" guid="ba1c3697-c910-5d69-ae05-0435a54c466d">
+            <event guid="8ee7e7de-bf1e-5479-b08c-0c179315ddce" id="311">
+                <room>KaraokeBar</room>
+                <title>WHY jamsession</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>03:00</duration>
+                <abstract>Join the WHY jamsession! A small backline is provided, as are various instruments (including a drum kit). There is no preconceived plan, just bring your gear and your personality and let's see where we go.</abstract>
+                <slug>why2025-311-2-why-jamsession</slug>
+                <track>Entertainment</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>All genres, instruments and experience levels are welcome!</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/9NBX9S/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/9NBX9S/feedback/</feedback_url>
+            </event>
+            <event guid="daa73bed-3a36-586c-b9d9-61fa4c0c1937" id="328">
+                <room>KaraokeBar</room>
+                <title>Karaoke</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>05:00</duration>
+                <abstract>Join us for a chaotic, joy-filled session of Karaoke where your inner rockstar, pop icon, or metalhead gets the stage.</abstract>
+                <slug>why2025-328-3-karaoke</slug>
+                <track>Entertainment</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>No experience required, just enthusiasm (and maybe some liquid courage). Whether you’re in it to win it or just here for the vibes, everyone’s welcome. Expect classics, surprises, and that one person who really nails "Bohemian Rhapsody."</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CQV7HD/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CQV7HD/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Milliways" guid="eb651150-1d5a-5bc3-b395-246b71acd2c7">
+            <event guid="079329d7-35d2-5b95-a84b-dc0faddc2da6" id="313">
+                <room>Milliways</room>
+                <title>Milliways Meeting</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>01:00</duration>
+                <abstract>Want to find out how we run our village? How you can help either with our events or kitchen? Get your latest news on the goings on? Join us for our daily Village-Orga meeting!</abstract>
+                <slug>why2025-313-4-milliways-meeting</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/DN8NTU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/DN8NTU/feedback/</feedback_url>
+            </event>
+            <event guid="b37ffb0c-0c8f-5598-a845-1ecadec505f0" id="317">
+                <room>Milliways</room>
+                <title>SSH Retro Games</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T20:30:00+02:00</date>
+                <start>20:30</start>
+                <duration>02:30</duration>
+                <abstract>Your event here?</abstract>
+                <slug>why2025-317-ssh-retro-games</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/VFKZXY/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/VFKZXY/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="D42D Workshop Tent" guid="22148081-9c0f-59fd-aea5-46a3f97bdecb">
+            <event guid="2ad104c2-5cad-5091-af6c-bfc7e389bc01" id="339">
+                <room>D42D Workshop Tent</room>
+                <title>Paracord workshop</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-11T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>00:30</duration>
+                <abstract>Make your own paracord keyring or bracelet. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord bracelet or keyring.</abstract>
+                <slug>why2025-339-3-paracord-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Bernard Edelenbos (offered by Falco Networks)
+There are approximately 8 sets of material available per workshop, please register for the workshop on the flipover sheet in/near the D42D workshop tent.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/TEZJH7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/TEZJH7/feedback/</feedback_url>
+            </event>
+            <event guid="ccfc3801-f7fc-5f1e-8012-18553183e4f9" id="340">
+                <room>D42D Workshop Tent</room>
+                <title>Energy Hacking Demo</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-11T11:00:00+02:00</date>
+                <start>11:00</start>
+                <duration>00:50</duration>
+                <abstract>The energy transition is in full progress. The gird is getting busier and switching from a centralized generation model to a decentralized model where every house can be a power plant too.</abstract>
+                <slug>why2025-340-3-energy-hacking-demo</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Hamza Tafsi and Alexandros Tokatlis (DIVD)
+Making the grid smart is part of the solution, but present its owns set of challenges, because by controlling and manipulating a lot of small consumers or producers at the same time, an attacker can still have a large effect on the grid.
+DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.
+In this talk they will show you how they attack smart energy systems using a Honeywell Smart Thermostat as an example device.
+After the presentation the presenters will stick around the D42D area/cluster where there will be plenty of devices for you to try and hack and maybe even earn your own CVE.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/9QFMN3/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/9QFMN3/feedback/</feedback_url>
+            </event>
+            <event guid="fc1603e2-b24f-5f95-80c0-43f8273dc5b9" id="341">
+                <room>D42D Workshop Tent</room>
+                <title>Hackshield</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-11T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>00:55</duration>
+                <abstract>Hackshield Future Cyber Heroes (https://joinhackshield.com) is a program, run by DIVD.Academy that aims to educate kids between 8 and 12 years to train them to become Agents Against cybercrime and thus prevent victims of cybercrime.</abstract>
+                <slug>why2025-341-3-hackshield</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Astrid Oosenbrug and others
+On WHY 2025 we will give 5 hack shield lessons of about 55 minutes in which you will be trained to become a Agent, or will experience the training to become and Agent so you can give this training at you local school and become a volunteer.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/T3WKWQ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/T3WKWQ/feedback/</feedback_url>
+            </event>
+            <event guid="7c270329-e9ce-5756-9989-6f42f0ca17a9" id="343">
+                <room>D42D Workshop Tent</room>
+                <title>Hacking together an infrastructure in Azure Cloud with Defender, Policy, and Pain</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-11T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>00:30</duration>
+                <abstract>Hi, my name is Ahmed and I convert ideas into Azure bills for a living. The environments I put together need to adhere to stringent security and compliance demands. Over the years I have learned a lot (especially how not to do it) and it these session I want to transfer that knowledge to you.</abstract>
+                <slug>why2025-343-3-hacking-together-an-infrastructure-in-azure-cloud-with-defender-policy-and-pain</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Ahmed Hussien</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/7GGDDF/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/7GGDDF/feedback/</feedback_url>
+            </event>
+            <event guid="d74d7dd8-3fec-5e8a-bfe9-b8d41d7a3ca9" id="342">
+                <room>D42D Workshop Tent</room>
+                <title>Needleworking Workshop</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-11T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>02:00</duration>
+                <abstract>&lt;Watch this space&gt;</abstract>
+                <slug>why2025-342-2-needleworking-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Bianca Kremer and Annet Bronsema</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/J3Y3QK/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/J3Y3QK/feedback/</feedback_url>
+            </event>
+            <event guid="06e225bf-2381-5020-b7ba-990cdcf5cbe0" id="349">
+                <room>D42D Workshop Tent</room>
+                <title>Tagology workshop</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-11T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>00:25</duration>
+                <abstract>Tagology (https://cvth.nl/tagology.html) is a universal language that uses the representation of bits as pixels to communicate. In this 25 minute workshop Chris will explain and teach. And, you will do some things too.</abstract>
+                <slug>why2025-349-tagology-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Chris van ’t Hof</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/7HMAJX/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/7HMAJX/feedback/</feedback_url>
+            </event>
+            <event guid="25c001f2-ddf0-5c38-a11a-b3478b96454f" id="346">
+                <room>D42D Workshop Tent</room>
+                <title>Hacker nostalgia</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-11T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>00:25</duration>
+                <abstract>De VPRO bewaarde krantenknipsels over hacken, hackers en computercriminaliteit en die heb ik uit de prullenbak kunnen redden. Titels als "Veel te veel hitsige nerds of What the Hack", "De eigentijdse misdadiger gebruikt een beeldscherm" en "Koernikova-computervirus komt uit Sneek" inspireerden me om deze "Hacker nostalgie" te geven die toeschouwers gegarandeerd "oud" of "jong" zal laten voelen.</abstract>
+                <slug>why2025-346-1-hacker-nostalgia</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Milton Vermeiren</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/SVXVWC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/SVXVWC/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Serendiep" guid="9b897dbb-9ccc-533a-9406-3a037ed2534c">
+            <event guid="68c13968-eb6a-5cfc-8f58-8f51b368ffd2" id="333">
+                <room>Serendiep</room>
+                <title>Workshop freesewing</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-11T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>02:00</duration>
+                <abstract>Get to know the Freesewing system for making your own custom clothes that actually fit! And while you are at it, take your first steps on a sewing machine and make a tie-on hip pocket.</abstract>
+                <slug>why2025-333-0-workshop-freesewing</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>by Lexander &amp; Astrochickie</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/PCXPCF/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/PCXPCF/feedback/</feedback_url>
+            </event>
+            <event guid="4e8f1adb-c19c-5e74-b8a6-11958089c8eb" id="331">
+                <room>Serendiep</room>
+                <title>The Phenomenal Labyrinth</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>04:00</duration>
+                <abstract>Embark on a journey of discovery and find your way through a labyrinth in the hold of a cargo ship.</abstract>
+                <slug>why2025-331-3-the-phenomenal-labyrinth</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>A collection of interactive installations connects art with (complex) science. Theories and model systems from the natural sciences, philosophy, linguistics and more are at the base of intriguing images, sounds and texts that you yourself produce. Or is it the other way around?
+Caution: The access to the labyrinth is at your own risk. Wear comfortable clothes. High heels are not recommended. Children have to be supervised at all times. Unfortunately the Labyrinth is not accessile to wheelchair users.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/WHXXFU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/WHXXFU/feedback/</feedback_url>
+            </event>
+            <event guid="08cd011a-fff0-5eb2-ac6a-941a7945cc32" id="334">
+                <room>Serendiep</room>
+                <title>Reverse engineering an EV charger station</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-11T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>00:30</duration>
+                <abstract>After buying an old EV charging station that only worked with proprietry software and tags, we have figured out how to get the station to work with any RFID tag to charge any car.</abstract>
+                <slug>why2025-334-reverse-engineering-an-ev-charger-station</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>In this lecture we will show the puzzles we had to solve and their solutions.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/7Z7YYY/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/7Z7YYY/feedback/</feedback_url>
+            </event>
+            <event guid="9d66d29d-60cc-5ddf-972d-af620ce5b3bd" id="336">
+                <room>Serendiep</room>
+                <title>Building a blockly interface to control a robot arm</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-11T20:40:00+02:00</date>
+                <start>20:40</start>
+                <duration>00:30</duration>
+                <abstract>Robot arms get written off and are often available for their scrap metal prices. But them what? Use DOS on Windows 95 to get it to move? No way! We built a Blockly interface in which anyone can program the robot.</abstract>
+                <slug>why2025-336-building-a-blockly-interface-to-control-a-robot-arm</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By Fablab Amersfoort</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/BDWDWC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/BDWDWC/feedback/</feedback_url>
+            </event>
+            <event guid="e5277cc1-f14e-5788-b58c-40091923b508" id="338">
+                <room>Serendiep</room>
+                <title>A brief Introduction to Microwave Technology</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-11T21:20:00+02:00</date>
+                <start>21:20</start>
+                <duration>00:30</duration>
+                <abstract>Since the beginning of the “radio” era we have been exploring a part of the Electromagnetic Spectrum. Due to recent developments we are able to extend the practical use of the spectrum to far over 100 GHz.</abstract>
+                <slug>why2025-338-a-brief-introduction-to-microwave-technology</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Altough the same “rules” apply, when we raise the frequency, we have to take a lot more phenomena into account. That is why “Microwave Technology” is often considered as “black art”, but it is fun!! During this talk I will take you into the fascinating world of cm and mm waves. A true 122 GHz setup will be demonstrated.
+
+By PE1BMC</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/XKCERK/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/XKCERK/feedback/</feedback_url>
+            </event>
+            <event guid="24a31d0f-8bdd-5a18-8996-448bd6e522a2" id="337">
+                <room>Serendiep</room>
+                <title>How assembly turns vintage Sanyo computers into a musical instrument</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-11T22:00:00+02:00</date>
+                <start>22:00</start>
+                <duration>00:30</duration>
+                <abstract>I love my Sanyo MBC-555 computer from 1983. It’s a NOT-so-IBM-compatible 8088 PC. It has no real ROM-BIOS and a very inconvenient VRAM mapping. It shipped with MS-DOS 1.25, Sanyo BASIC and DEBUG.COM. That got me into 8088 assembly programming back in the days (1993).</abstract>
+                <slug>why2025-337-how-assembly-turns-vintage-sanyo-computers-into-a-musical-instrument</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By Rick Companje</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/XCAC8Y/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/XCAC8Y/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Serendiep Fablab" guid="078b1b00-f5c6-5615-8587-00d9749150e9">
+            <event guid="52916f34-dc5c-569b-bd7e-c800575f7e23" id="329">
+                <room>Serendiep Fablab</room>
+                <title>FabLab</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-11T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>04:00</duration>
+                <abstract>Use the vinyl cutter, 3D printer, sewing machine, soldering iron, milling machine or (if we get it to work) the lasercutter at Serendiep to make whatever you want</abstract>
+                <slug>why2025-329-3-fablab</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/98WUMC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/98WUMC/feedback/</feedback_url>
             </event>
         </room>
         <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
@@ -7879,8 +10287,58 @@ This talk is for hackers, tinkerers, and developers who’ve ever relied on `sle
                 <url>https://program.why2025.org/why2025/talk/NZRWGU/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/NZRWGU/feedback/</feedback_url>
             </event>
+            <event guid="0f7eae69-4fa2-5763-b958-2cb5c532edfc" id="275">
+                <room>Cassiopeia</room>
+                <title>Lightning Talks</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-12T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>00:50</duration>
+                <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
+                <slug>why2025-275-3-lightning-talks</slug>
+                <track>The square hole</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki.Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/EFJTHQ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/EFJTHQ/feedback/</feedback_url>
+            </event>
         </room>
         <room name="Delphinus" guid="fec936b1-677b-5651-ab21-30727f668d08">
+            <event guid="5674cf4a-b6a6-5911-9b01-7643a26f8371" id="275">
+                <room>Delphinus</room>
+                <title>Lightning Talks</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-12T11:00:00+02:00</date>
+                <start>11:00</start>
+                <duration>00:50</duration>
+                <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
+                <slug>why2025-275-2-lightning-talks</slug>
+                <track>The square hole</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki.Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/EFJTHQ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/EFJTHQ/feedback/</feedback_url>
+            </event>
             <event guid="22910224-8795-5a06-9b48-c0eeb352decf" id="80">
                 <room>Delphinus</room>
                 <title>The Neuroscience of Psychedelics</title>
@@ -8081,6 +10539,248 @@ The workshop will be about finding ways to still use all this Energy, which was 
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/GADUHS/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/GADUHS/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="FamilyZone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
+            <event guid="17621e5a-570d-5a69-b5e1-df93eaada181" id="354">
+                <room>FamilyZone</room>
+                <title>Glittertattoo</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-12T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>02:00</duration>
+                <abstract>Kids (and adults) can get glitter tattoo's. Much fun!</abstract>
+                <slug>why2025-354-glittertattoo</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/Glittertattoo](https://wiki.why2025.org/Team:Family/Glittertattoo)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/ZXCER8/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/ZXCER8/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Milliways" guid="eb651150-1d5a-5bc3-b395-246b71acd2c7">
+            <event guid="edb61b69-fc4a-5053-84be-0cb4e838daf9" id="313">
+                <room>Milliways</room>
+                <title>Milliways Meeting</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-12T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>01:00</duration>
+                <abstract>Want to find out how we run our village? How you can help either with our events or kitchen? Get your latest news on the goings on? Join us for our daily Village-Orga meeting!</abstract>
+                <slug>why2025-313-5-milliways-meeting</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/DN8NTU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/DN8NTU/feedback/</feedback_url>
+            </event>
+            <event guid="55213896-8636-557c-9611-155ba2f6e3a3" id="315">
+                <room>Milliways</room>
+                <title>TBD</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-12T20:30:00+02:00</date>
+                <start>20:30</start>
+                <duration>02:30</duration>
+                <abstract>Your event here?</abstract>
+                <slug>why2025-315-2-tbd</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/MFFTGH/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/MFFTGH/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="D42D Workshop Tent" guid="22148081-9c0f-59fd-aea5-46a3f97bdecb">
+            <event guid="f677d94f-ce8e-5c7b-b9f9-54abfe4cea62" id="340">
+                <room>D42D Workshop Tent</room>
+                <title>Energy Hacking Demo</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-12T11:00:00+02:00</date>
+                <start>11:00</start>
+                <duration>00:50</duration>
+                <abstract>The energy transition is in full progress. The gird is getting busier and switching from a centralized generation model to a decentralized model where every house can be a power plant too.</abstract>
+                <slug>why2025-340-4-energy-hacking-demo</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Hamza Tafsi and Alexandros Tokatlis (DIVD)
+Making the grid smart is part of the solution, but present its owns set of challenges, because by controlling and manipulating a lot of small consumers or producers at the same time, an attacker can still have a large effect on the grid.
+DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.
+In this talk they will show you how they attack smart energy systems using a Honeywell Smart Thermostat as an example device.
+After the presentation the presenters will stick around the D42D area/cluster where there will be plenty of devices for you to try and hack and maybe even earn your own CVE.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/9QFMN3/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/9QFMN3/feedback/</feedback_url>
+            </event>
+            <event guid="d277d277-abf9-5e39-a771-331a89b4de6a" id="341">
+                <room>D42D Workshop Tent</room>
+                <title>Hackshield</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-12T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>00:55</duration>
+                <abstract>Hackshield Future Cyber Heroes (https://joinhackshield.com) is a program, run by DIVD.Academy that aims to educate kids between 8 and 12 years to train them to become Agents Against cybercrime and thus prevent victims of cybercrime.</abstract>
+                <slug>why2025-341-4-hackshield</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Astrid Oosenbrug and others
+On WHY 2025 we will give 5 hack shield lessons of about 55 minutes in which you will be trained to become a Agent, or will experience the training to become and Agent so you can give this training at you local school and become a volunteer.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/T3WKWQ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/T3WKWQ/feedback/</feedback_url>
+            </event>
+            <event guid="25939442-48da-57be-9e52-a752381a2a67" id="345">
+                <room>D42D Workshop Tent</room>
+                <title>Build Your Own Meshtastic Pager (One That Doesn’t Explode)</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-12T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>02:00</duration>
+                <abstract>Meshtastic (https://meshtastic.org/) is "An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices” you can use for your IoT or other connected devices or, e.g. to build a pager that will work even when all other communication networks are down.</abstract>
+                <slug>why2025-345-2-build-your-own-meshtastic-pager-one-that-doesn-t-explode</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Jeroen Ellermeijer
+In this workshop, sponsored by DIVD, you will be building your own Mashtastic pager with decent components that, unlike some devices from certain dubious sources from certain countries, will not explode (we hope, but won't guarantee).
+ 
+All parts will be available in limited supply in the tent at a pay what you want/can policy, if there are any proceeds they will go to DIVD.
+Please bring your own laptop if you can to flash and configure the device.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/WALGW9/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/WALGW9/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Serendiep" guid="9b897dbb-9ccc-533a-9406-3a037ed2534c">
+            <event guid="a89b5735-88e9-512a-8e60-fb4b228fd669" id="333">
+                <room>Serendiep</room>
+                <title>Workshop freesewing</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-12T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>02:00</duration>
+                <abstract>Get to know the Freesewing system for making your own custom clothes that actually fit! And while you are at it, take your first steps on a sewing machine and make a tie-on hip pocket.</abstract>
+                <slug>why2025-333-1-workshop-freesewing</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>by Lexander &amp; Astrochickie</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/PCXPCF/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/PCXPCF/feedback/</feedback_url>
+            </event>
+            <event guid="07d82e2c-a45f-5266-894a-81873c0e673b" id="331">
+                <room>Serendiep</room>
+                <title>The Phenomenal Labyrinth</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-12T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>04:00</duration>
+                <abstract>Embark on a journey of discovery and find your way through a labyrinth in the hold of a cargo ship.</abstract>
+                <slug>why2025-331-4-the-phenomenal-labyrinth</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>A collection of interactive installations connects art with (complex) science. Theories and model systems from the natural sciences, philosophy, linguistics and more are at the base of intriguing images, sounds and texts that you yourself produce. Or is it the other way around?
+Caution: The access to the labyrinth is at your own risk. Wear comfortable clothes. High heels are not recommended. Children have to be supervised at all times. Unfortunately the Labyrinth is not accessile to wheelchair users.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/WHXXFU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/WHXXFU/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Serendiep Fablab" guid="078b1b00-f5c6-5615-8587-00d9749150e9">
+            <event guid="2c199252-4594-5502-872e-a58f455aeafc" id="329">
+                <room>Serendiep Fablab</room>
+                <title>FabLab</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-12T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>04:00</duration>
+                <abstract>Use the vinyl cutter, 3D printer, sewing machine, soldering iron, milling machine or (if we get it to work) the lasercutter at Serendiep to make whatever you want</abstract>
+                <slug>why2025-329-4-fablab</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/98WUMC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/98WUMC/feedback/</feedback_url>
             </event>
         </room>
         <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
