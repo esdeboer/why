@@ -769,14 +769,14 @@ From the furious thrash of *Kill ’Em All* to the stadium anthems of *The Black
             </event>
             <event guid="f17daf71-2627-5cb8-9d05-60244a493ac2" id="298">
                 <room>Party Stage</room>
-                <title>Silent Disco with DJ Luna</title>
+                <title>Silent Disco with DJ Luna &amp; DJ Sjors</title>
                 <subtitle />
                 <type>Entertainment</type>
                 <date>2025-08-08T23:00:00+02:00</date>
                 <start>23:00</start>
                 <duration>05:00</duration>
-                <abstract>Each night concludes with a Silent Disco in the Party Area. DJs Luna and Julian will keep the dancefloor alive into the early hours, pick up your headphones and choose your channel.</abstract>
-                <slug>why2025-298-silent-disco-with-dj-luna</slug>
+                <abstract>Each night concludes with a Silent Disco in the Party Area. Various DJs will keep the dancefloor alive into the early hours, pick up your headphones and choose your channel.</abstract>
+                <slug>why2025-298-silent-disco-with-dj-luna-dj-sjors</slug>
                 <track>Entertainment</track>
                 <persons>
                     
@@ -1077,7 +1077,7 @@ Finally, it can feel abrasive to step out and impose demands on local government
             </event>
             <event guid="807653e7-43d3-57d8-834a-8ffb5e556bf5" id="103">
                 <room>Andromeda</room>
-                <title>The EU Just Made Product Security Mandatory: Now What?</title>
+                <title>The EU Just Made Product Security Mandatory — Now What?</title>
                 <subtitle />
                 <type>Talk (50 minutes)</type>
                 <date>2025-08-09T11:00:00+02:00</date>
@@ -5122,14 +5122,14 @@ In addition to his classical experience with orchestras, Reyn is also a producer
             </event>
             <event guid="63fbb21e-80e5-5d78-b9d4-52be1b2f48bc" id="300">
                 <room>Party Stage</room>
-                <title>Silent Disco with DJ Homski</title>
+                <title>Silent Disco with DJ Homski &amp; DJ MadTiXx</title>
                 <subtitle />
                 <type>Entertainment</type>
                 <date>2025-08-10T23:00:00+02:00</date>
                 <start>23:00</start>
                 <duration>05:00</duration>
                 <abstract>Each night concludes with a Silent Disco in the Party Area. Various DJs will keep the dancefloor alive into the early hours, pick up your headphones and choose your channel.</abstract>
-                <slug>why2025-300-silent-disco-with-dj-homski</slug>
+                <slug>why2025-300-silent-disco-with-dj-homski-dj-madtixx</slug>
                 <track>Entertainment</track>
                 <persons>
                     
@@ -7127,14 +7127,14 @@ _Arduino software runs on Windows, MacOS and Linux (any version is fine):_
             </event>
             <event guid="7601b6c2-b46e-5cc9-86fa-4d5bd295bc33" id="301">
                 <room>Party Stage</room>
-                <title>Silent Disco with DJ Luna</title>
+                <title>Silent Disco with DJ Luna &amp; DJ Sjors</title>
                 <subtitle />
                 <type>Entertainment</type>
                 <date>2025-08-11T23:00:00+02:00</date>
                 <start>23:00</start>
                 <duration>1:05:00</duration>
-                <abstract>Each night concludes with a Silent Disco in the Party Area. DJs Luna and Julian will keep the dancefloor alive into the early hours, pick up your headphones and choose your channel.</abstract>
-                <slug>why2025-301-silent-disco-with-dj-luna</slug>
+                <abstract>Each night concludes with a Silent Disco in the Party Area. Various DJs will keep the dancefloor alive into the early hours, pick up your headphones and choose your channel.</abstract>
+                <slug>why2025-301-silent-disco-with-dj-luna-dj-sjors</slug>
                 <track>Entertainment</track>
                 <persons>
                     
