@@ -629,15 +629,18 @@ Join me for some relaxing old-school arts and crafts. You are welcome!</descript
       <event guid="895c1116-247d-5ad3-bf52-ff2a2ede2d75">
         <title>Movie-night</title>
         <track>Self Organized Sessions</track>
-        <abstract>We plan to project some cool films with English subtitles (when available). Check SSH village wiki page for the latest updates.</abstract>
+        <language>ES</language>
+        <abstract>Film projection with English subs + free popcorn. FIFO: if you arrive and there's no popcorn, best luck next camp.</abstract>
         <type>Movie</type>
-        <url>https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Movie_nights</url>
+        <url>https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Schedule</url>
         <persons>
           <person>Pauloba</person>
         </persons>
-        <description>keywords: movie-screening
-tags:movie-screening
+        <type>Movie</type>
+        <description>Age range: All ages
 ⚠️⚠️ We do not own a lot of chairs, if you want to join and be comfortable: bring your own chair.
+
+⚠️⚠️ I'm bringing 2kg of kernel corns, popcorn delivery will be FIFO (no refills, be mindful of other campers opportunity too).
 
 🍿 WHAT: We will project cool films with English subtitles (when available) and make popcorn kernels explode applying heat to make them edible and delicious.
 
@@ -829,17 +832,20 @@ The Pancake village will be right next to the (main) Andromeda track.
       <event guid="977701cb-4015-53c8-a48c-6de3e6b4c7ec">
         <title>Videogame-tournament</title>
         <track>Self Organized Sessions</track>
-        <abstract>We are bringing a raspi with retropie to play Neo Geo Puzzle Money Exchanger and Super Mario Kart battle mode. Check SSH village wiki page for the latest updates.</abstract>
+        <language>EN</language>
         <type>Game</type>
-        <url>https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Videogame_tournament</url>
+        <abstract>We are bringing retro games. We'll play Puzzle Money Exchanger (Neo Geo).</abstract>
+        <type>Game</type>
+        <url>https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Schedule</url>
         <persons>
           <person>Pauloba</person>
         </persons>
-        <description>keywords: videogames
+        <description>Age range: All ages
+keywords: videogames
 tags:videogames
-👾 WHAT: We are bringing a raspi with retro pie, game controllers and a projector to play:
- 🟡 [https://www.youtube.com/watch?v=7ahz87n4oEA Neo Geo Puzzle Money Exchanger]
- 🚗 [https://www.youtube.com/watch?v=fj-t0fkIiIw Super Mario Kart battle mode]
+👾 WHAT: We are bringing retro games + game controllers + a projector to play:
+
+🟡 [https://www.youtube.com/watch?v=7ahz87n4oEA Neo Geo Puzzle Money Exchanger]
 
 👾 WHERE: Milliways or SSH village (Projector to be tested on site).
 

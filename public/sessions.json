@@ -292,11 +292,11 @@
   {
     "id": "895c1116-247d-5ad3-bf52-ff2a2ede2d75",
     "title": "Movie-night",
-    "description": "keywords: movie-screening\ntags:movie-screening\n\u26a0\ufe0f\u26a0\ufe0f We do not own a lot of chairs, if you want to join and be comfortable: bring your own chair.\n\n\ud83c\udf7f WHAT: We will project cool films with English subtitles (when available) and make popcorn kernels explode applying heat to make them edible and delicious.\n\n\ud83c\udf7f WHERE: SSH village.\n\n\ud83c\udf7f WHEN: https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Movie_nights\n\n\ud83c\udf7f WHY: Yes, WHY 2025",
+    "description": "Age range: All ages\n\u26a0\ufe0f\u26a0\ufe0f We do not own a lot of chairs, if you want to join and be comfortable: bring your own chair.\n\n\u26a0\ufe0f\u26a0\ufe0f I'm bringing 2kg of kernel corns, popcorn delivery will be FIFO (no refills, be mindful of other campers opportunity too).\n\n\ud83c\udf7f WHAT: We will project cool films with English subtitles (when available) and make popcorn kernels explode applying heat to make them edible and delicious.\n\n\ud83c\udf7f WHERE: SSH village.\n\n\ud83c\udf7f WHEN: https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Movie_nights\n\n\ud83c\udf7f WHY: Yes, WHY 2025",
     "start": "2025-08-09T21:00:00+02:00",
     "end": "2025-08-09T23:00:00+02:00",
     "room": "Village:SSH (Spanish Speaking Hackers)",
-    "url": "https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Movie_nights",
+    "url": "https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Schedule",
     "type": "Movie"
   },
   {
@@ -392,11 +392,11 @@
   {
     "id": "977701cb-4015-53c8-a48c-6de3e6b4c7ec",
     "title": "Videogame-tournament",
-    "description": "keywords: videogames\ntags:videogames\n\ud83d\udc7e WHAT: We are bringing a raspi with retro pie, game controllers and a projector to play:\n \ud83d\udfe1 [https://www.youtube.com/watch?v=7ahz87n4oEA Neo Geo Puzzle Money Exchanger]\n \ud83d\ude97 [https://www.youtube.com/watch?v=fj-t0fkIiIw Super Mario Kart battle mode]\n\n\ud83d\udc7e WHERE: Milliways or SSH village (Projector to be tested on site).\n\n\ud83d\udc7e WHEN: https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Videogame_tournament\n\n\ud83d\udc7e WHY: Why not?",
+    "description": "Age range: All ages\nkeywords: videogames\ntags:videogames\n\ud83d\udc7e WHAT: We are bringing retro games + game controllers + a projector to play:\n\n\ud83d\udfe1 [https://www.youtube.com/watch?v=7ahz87n4oEA Neo Geo Puzzle Money Exchanger]\n\n\ud83d\udc7e WHERE: Milliways or SSH village (Projector to be tested on site).\n\n\ud83d\udc7e WHEN: https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Videogame_tournament\n\n\ud83d\udc7e WHY: Why not?",
     "start": "2025-08-10T21:00:00+02:00",
     "end": "2025-08-10T23:00:00+02:00",
     "room": "Village:SSH (Spanish Speaking Hackers)",
-    "url": "https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Videogame_tournament",
+    "url": "https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Schedule",
     "type": "Game"
   },
   {

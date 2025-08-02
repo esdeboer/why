@@ -1857,7 +1857,7 @@ Checkout https://github.com/gappuser/qryptr and https://qryptr.com</description>
                 <date>2025-08-09T12:35:00+02:00</date>
                 <start>12:35</start>
                 <duration>00:25</duration>
-                <abstract>Let's learn about L2 isolation with VLANs and dive into basic network architecture with OPNsense. After playing a bit with IPv4, let's discuss unicorn-issues IPv6 for your homelab-ing. Then expanding with WireGuard for simple inter-machine networks. Continuing, we will take a look into Linux network namespaces and a few tricks you can do with your systems to bypass "security" - and also how to defend against it.</abstract>
+                <abstract>Let's learn about L2 isolation with VLANs and dive into basic network architecture with OPNsense. After playing a bit with IPv4, let's discuss unicorn-issues IPv6 for your homelab-ing. Then expanding with WireGuard for simple inter-machine networks. Finally, we will take a look into a few tricks you can do with your systems to bypass "security"(-by-obscurity) and also how to defend against it.</abstract>
                 <slug>why2025-193-networking-your-linux-machines</slug>
                 <track>The square hole</track>
                 <persons>
@@ -1867,7 +1867,7 @@ Checkout https://github.com/gappuser/qryptr and https://qryptr.com</description>
                 <description>This talk will discuss the security considerations one should make for their own network at home. The first step, to achieve network segmentation, is the use of VLANs - but how do they work? Then advancing into isolated networks using OPNsene and how to configure routing between them (in a more or less scalable way, purely based on experience).
 After breaking up (with) your networks, we will take a look into IPv6 troubles you'll likely encounter when you begin applying more strict rulesets onto your network and start leaving NAT-ting behind you. This will also include a quick summary of the most important IPv6-terms you'll need.
 Instead of exposing your services publicly, one can also establish site-to-site (S2S) links with well-known parties, so we will take a quick look into getting WireGuard up and running - once again with some pitfalls you may encounter.
-In the end, we will take a brief detour into Linux namespaces for networking and learn how one could exploit one of my own mistakes (DNS-based routing without application of source-ip filtering).</description>
+In the end, we will take a brief detour into how one could exploit one of my own mistakes (DNS-based routing without application of source-ip filtering).</description>
                 <recording>
                     <license />
                     <optout>false</optout>
@@ -3309,15 +3309,18 @@ Join me for some relaxing old-school arts and crafts. You are welcome!</descript
             <event guid="895c1116-247d-5ad3-bf52-ff2a2ede2d75">
                 <title>Movie-night</title>
                 <track>Self Organized Sessions</track>
-                <abstract>We plan to project some cool films with English subtitles (when available). Check SSH village wiki page for the latest updates.</abstract>
+                <language>ES</language>
+                <abstract>Film projection with English subs + free popcorn. FIFO: if you arrive and there's no popcorn, best luck next camp.</abstract>
                 <type>Movie</type>
-                <url>https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Movie_nights</url>
+                <url>https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Schedule</url>
                 <persons>
                     <person>Pauloba</person>
                 </persons>
-                <description>keywords: movie-screening
-tags:movie-screening
+                <type>Movie</type>
+                <description>Age range: All ages
 ⚠️⚠️ We do not own a lot of chairs, if you want to join and be comfortable: bring your own chair.
+
+⚠️⚠️ I'm bringing 2kg of kernel corns, popcorn delivery will be FIFO (no refills, be mindful of other campers opportunity too).
 
 🍿 WHAT: We will project cool films with English subtitles (when available) and make popcorn kernels explode applying heat to make them edible and delicious.
 
@@ -5316,17 +5319,20 @@ The Pancake village will be right next to the (main) Andromeda track.
             <event guid="977701cb-4015-53c8-a48c-6de3e6b4c7ec">
                 <title>Videogame-tournament</title>
                 <track>Self Organized Sessions</track>
-                <abstract>We are bringing a raspi with retropie to play Neo Geo Puzzle Money Exchanger and Super Mario Kart battle mode. Check SSH village wiki page for the latest updates.</abstract>
+                <language>EN</language>
                 <type>Game</type>
-                <url>https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Videogame_tournament</url>
+                <abstract>We are bringing retro games. We'll play Puzzle Money Exchanger (Neo Geo).</abstract>
+                <type>Game</type>
+                <url>https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Schedule</url>
                 <persons>
                     <person>Pauloba</person>
                 </persons>
-                <description>keywords: videogames
+                <description>Age range: All ages
+keywords: videogames
 tags:videogames
-👾 WHAT: We are bringing a raspi with retro pie, game controllers and a projector to play:
- 🟡 [https://www.youtube.com/watch?v=7ahz87n4oEA Neo Geo Puzzle Money Exchanger]
- 🚗 [https://www.youtube.com/watch?v=fj-t0fkIiIw Super Mario Kart battle mode]
+👾 WHAT: We are bringing retro games + game controllers + a projector to play:
+
+🟡 [https://www.youtube.com/watch?v=7ahz87n4oEA Neo Geo Puzzle Money Exchanger]
 
 👾 WHERE: Milliways or SSH village (Projector to be tested on site).
 
