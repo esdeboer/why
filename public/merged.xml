@@ -976,6 +976,29 @@ The Pancake village will be right next to the (main) Andromeda track.
                 <duration>01:00</duration>
             </event>
         </room>
+        <room name="Village:Øl Telecom" guid="9d7f244c-7f35-5948-b0fd-2f8c5e9537dd">
+            <event guid="30b50f2d-a379-5dcf-a603-29a54a6173a2">
+                <title>Stargazing</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Stargazing meetup - bring your own telescope or look through the telescopes that are onsite. SESSION ONLY HAPPENS WITH CLEAR ENOUGH WEATHER (of course)</abstract>
+                <type>Outside</type>
+                <persons>
+                    <person>Aetios</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: Aimed at adults but supervised kids welcome.
+Let's go stargazing! 
+On good nights I'll have two telescopes and a pair of binoculars set up, as well as some books about stargazing. 
+
+The moon phase is full or near full. It's a nice sight. 
+Other than that we can look at some nice clusters or Saturn which is rising relatively early in the night now. 
+
+If you have your own telescope, bring it too! Let's check out each other's gear.</description>
+                <date>2025-08-08T23:00:00+02:00</date>
+                <start>23:00</start>
+                <duration>02:00</duration>
+            </event>
+        </room>
         <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
             <event guid="b08cd997-f4d6-5b99-b217-27176db03f3c">
                 <title>Craft beer brewing!</title>
@@ -3350,6 +3373,29 @@ Join me for some relaxing old-school arts and crafts. You are welcome!</descript
                 <duration>00:30</duration>
             </event>
         </room>
+        <room name="Village:Øl Telecom" guid="9d7f244c-7f35-5948-b0fd-2f8c5e9537dd">
+            <event guid="eca3a244-673f-5c82-80be-81ddff062a06">
+                <title>Stargazing</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Stargazing meetup - bring your own telescope or look through the telescopes that are onsite. SESSION ONLY HAPPENS WITH CLEAR ENOUGH WEATHER (of course)</abstract>
+                <type>Outside</type>
+                <persons>
+                    <person>Aetios</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: Aimed at adults but supervised kids welcome.
+Let's go stargazing! 
+On good nights I'll have two telescopes and a pair of binoculars set up, as well as some books about stargazing. 
+
+The moon phase is full or near full. It's a nice sight. 
+Other than that we can look at some nice clusters or Saturn which is rising relatively early in the night now. 
+
+If you have your own telescope, bring it too! Let's check out each other's gear.</description>
+                <date>2025-08-09T23:00:00+02:00</date>
+                <start>23:00</start>
+                <duration>02:00</duration>
+            </event>
+        </room>
     </day>
     <day index="4" date="2025-08-10" start="2025-08-10T04:00:00+02:00" end="2025-08-11T03:59:00+02:00">
         <room name="Andromeda" guid="d046f302-efcc-5cea-b2e4-e4f4f8a9c6ba">
@@ -5342,6 +5388,29 @@ tags:videogames
                 <subtitle>Videogame tournament</subtitle>
                 <date>2025-08-10T21:00:00+02:00</date>
                 <start>21:00</start>
+                <duration>02:00</duration>
+            </event>
+        </room>
+        <room name="Village:Øl Telecom" guid="9d7f244c-7f35-5948-b0fd-2f8c5e9537dd">
+            <event guid="ffe92218-8814-578e-bab5-41566940d0e0">
+                <title>Stargazing</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Stargazing meetup - bring your own telescope or look through the telescopes that are onsite. SESSION ONLY HAPPENS WITH CLEAR ENOUGH WEATHER (of course)</abstract>
+                <type>Outside</type>
+                <persons>
+                    <person>Aetios</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: Aimed at adults but supervised kids welcome.
+Let's go stargazing! 
+On good nights I'll have two telescopes and a pair of binoculars set up, as well as some books about stargazing. 
+
+The moon phase is full or near full. It's a nice sight. 
+Other than that we can look at some nice clusters or Saturn which is rising relatively early in the night now. 
+
+If you have your own telescope, bring it too! Let's check out each other's gear.</description>
+                <date>2025-08-10T23:00:00+02:00</date>
+                <start>23:00</start>
                 <duration>02:00</duration>
             </event>
         </room>
@@ -7411,6 +7480,29 @@ The Pancake village will be right next to the (main) Andromeda track.
                 <duration>01:00</duration>
             </event>
         </room>
+        <room name="Village:Øl Telecom" guid="9d7f244c-7f35-5948-b0fd-2f8c5e9537dd">
+            <event guid="555cd6ce-7342-5e7c-bc76-9d3711b5ad7f">
+                <title>Stargazing</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Stargazing meetup - bring your own telescope or look through the telescopes that are onsite. SESSION ONLY HAPPENS WITH CLEAR ENOUGH WEATHER (of course)</abstract>
+                <type>Outside</type>
+                <persons>
+                    <person>Aetios</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: Aimed at adults but supervised kids welcome.
+Let's go stargazing! 
+On good nights I'll have two telescopes and a pair of binoculars set up, as well as some books about stargazing. 
+
+The moon phase is full or near full. It's a nice sight. 
+Other than that we can look at some nice clusters or Saturn which is rising relatively early in the night now. 
+
+If you have your own telescope, bring it too! Let's check out each other's gear.</description>
+                <date>2025-08-11T23:00:00+02:00</date>
+                <start>23:00</start>
+                <duration>02:00</duration>
+            </event>
+        </room>
     </day>
     <day index="6" date="2025-08-12" start="2025-08-12T04:00:00+02:00" end="2025-08-13T03:59:00+02:00">
         <room name="Andromeda" guid="d046f302-efcc-5cea-b2e4-e4f4f8a9c6ba">
@@ -8432,50 +8524,6 @@ Age range: 16+</description>
                 <duration>01:00</duration>
                 <description>Generated time to make session visible, might need an actual date and time
 Age range: 16+</description>
-            </event>
-            <event guid="30b50f2d-a379-5dcf-a603-29a54a6173a2">
-                <title>Stargazing</title>
-                <track>Self Organized Sessions</track>
-                <abstract>Stargazing meetup - bring your own telescope or look through the telescopes that are onsite. SESSION ONLY HAPPENS WITH CLEAR ENOUGH WEATHER (of course)</abstract>
-                <type>Outside</type>
-                <persons>
-                    <person>Aetios</person>
-                </persons>
-                <language>en</language>
-                <date>2025-08-13T00:00:00+02:00</date>
-                <time>00:00</time>
-                <duration>01:00</duration>
-                <description>Generated time to make session visible, might need an actual date and time
-Age range: Aimed at adults but supervised kids welcome.
-Let's go stargazing! 
-On good nights I'll have two telescopes and a pair of binoculars set up, as well as some books about stargazing. 
-
-The moon phase is full or near full. It's a nice sight. 
-Other than that we can look at some nice clusters or Saturn which is rising relatively early in the night now. 
-
-If you have your own telescope, bring it too! Let's check out each other's gear. 
-
-
-{{Event
-|Has start time=2025-08-08 23:00:00
-|Has duration=120
-|Has session location=Village:Øl Telecom
-}}
-{{Event
-|Has start time=2025-08-09 23:00:00
-|Has duration=120
-|Has session location=Village:Øl Telecom
-}}
-{{Event
-|Has start time=2025-08-10 23:00:00
-|Has duration=120
-|Has session location=Village:Øl Telecom
-}}
-{{Event
-|Has start time=2025-08-11 23:00:00
-|Has duration=120
-|Has session location=Village:Øl Telecom
-}}</description>
             </event>
             <event guid="1256d744-6061-5744-859e-a13abc747e36">
                 <title>Beer exchange</title>
