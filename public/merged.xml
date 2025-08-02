@@ -708,7 +708,7 @@ ongoing developments and how you can participate.</abstract>
                 <date>2025-08-08T20:00:00+02:00</date>
                 <start>20:00</start>
                 <duration>02:00</duration>
-                <abstract>Instructor @DoodleMe, @KnottyLola and will take you through some of the most basic concepts of Japanese rope bondage (Shibari). This is an 18+ workshop. Bring blanket &amp; rope if you have it.</abstract>
+                <abstract>Instructor @DoodleMe, @KnottyLola and team will take you through some of the most basic concepts of Japanese rope bondage (Shibari). This is an 18+ workshop. Bring blanket &amp; rope if you have it.</abstract>
                 <slug>why2025-69-shibari-101-rope-bondage-for-beginners</slug>
                 <track>The square hole</track>
                 <logo>/media/why2025/submissions/BPD8GN/ChatGPT_Image_Jul_28_2025_at_08_15_50_AM_ddxwEcB.png</logo>
@@ -828,6 +828,9 @@ Location: next to Party Area Terrace</description>
                 <abstract>At this workshop you will learn how to make your own kefir ferments using the kefir grain culture</abstract>
                 <url>foodhackingbase.org</url>
                 <type>Workshop</type>
+                <persons>
+                    <person>Algoldor</person>
+                </persons>
                 <language>en</language>
                 <description>Needs signup
 Age range: Aimed at adults but supervised kids welcome.
@@ -3048,6 +3051,27 @@ This tasting event is based on "donation at your will no one turned away for lac
 For a list of ciders go to [[https://foodhackingbase.org/wiki/FHB@WHY2025/cider_flows|the food hacking base page of this session]]</description>
                 <date>2025-08-09T18:30:00+02:00</date>
                 <start>18:30</start>
+                <duration>02:00</duration>
+            </event>
+            <event guid="1ea55f29-1d42-55de-8a05-90515eaa2618">
+                <title>FHB:Chips &amp; Crisps</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Chips/Crisps tasting</abstract>
+                <url>https://foodhackingbase.org/wiki/FHB@WHY2025/chips_crisps</url>
+                <type>Tasting</type>
+                <persons>
+                    <person>Jeti</person>
+                </persons>
+                <language>en</language>
+                <description>Needs signup
+Age range: All ages
+[https://dud-poll.inf.tu-dresden.de/chipsAndcrips/][https://dud-poll.inf.tu-dresden.de/chipsAndcrips/ To secure spot on the Session. (Day 4, 16h30) please sign in here.]
+
+The core idea is to get home made and commercial chips&amp;crisps of high quality and as many varieties and flavours into one spot at same time as possible and then just enjoy. Below are suggestions how could we do it.
+
+To see and/or add your Chips/Crisps go to [https://foodhackingbase.org/wiki/FHB@WHY2025/chips_crisps| List of Chips/Crisps]</description>
+                <date>2025-08-09T16:30:00+02:00</date>
+                <start>16:30</start>
                 <duration>02:00</duration>
             </event>
         </room>
