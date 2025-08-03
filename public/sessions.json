@@ -40,6 +40,16 @@
     "type": "Other"
   },
   {
+    "id": "e2ff0891-8a50-5ac9-ace3-4ec07706000c",
+    "title": "Onderzoek levering mifi-routers (hardware hacking)",
+    "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\nBij de levering van Mifi devices doet zich een vreemde situatie voor. Met behulp van hardware-hacking probeer ik te bevestigen of te ontkrachten of er werkelijk iets speelt.\nDeze talk zal in het Nederlands gegeven worden en is primair voor DutchPicknick-ers. Anderen zijn ook welkom, maar de exacte tijd moet nog even bepaald worden. Zit je niet in DutchPicknick, meldt je vooraf even bij ons village.",
+    "start": "2025-08-08T12:00:00+02:00",
+    "end": "2025-08-08T12:45:00+02:00",
+    "room": "Village:Dutch Picknick",
+    "url": "",
+    "type": "Talk"
+  },
+  {
     "id": "f6c91348-6ecc-57ca-9031-7d247c0fcc37",
     "title": "FHB: Kefir Making",
     "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\n[https://dud-poll.inf.tu-dresden.de/kefir_why2025/ To secure spot on this workshop please sign in here].\n\n[https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form Workshop manual is shared here].\n\nThis is hands on workshop during which you will learn how to make, harvest and continue to prepare [https://en.wikipedia.org/wiki/Kefir kefir] using kefir grain culture which you will walk away with if you don't defend yourself too hard. We will explain basic concepts of probiotic, prebiotic and biofilm based polycultures and why it is good to consume foods \u201clabeled\u201d by these terms. You will prepare your own kefir culture, based on the  [https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form working manual] and take it with you so you will be ready to brew wherever you decide hopefully \u201cpositively infecting\u201d your local hackerspace. We will make at least one recipe together, either \"kefir cake\" or kefir smoked paprika spread, if we have time we may do a base for probiotic kefir drink using kefir whey.\n\nWe will demonstrate how to make a new batch of kefir and how to harvest the old one, you will than do it by yourself. The main aim of this workshop is for the participants to understand the principles behind the milk fermentation with kefir culture and not to be afraid to just do it. Combined with the practical experience which I provide you will be able to take care properly about your kefir culture which is the key for your successful long term fermentation adventures! Don't worry too much about loosing a batch or two, that happens from time to time, keeping the \"mother culture\" happy is the important part. As usually there will be tasters, cultures sharing, manuals and various hints how to use the products in alternative ways making for example probiotic drinks from whey, kefir cheese spreads, kefir cake et cetera. I can be also your troubleshooting help if you need it. \n\nThis workshop is donation based no one turned away for lack of funds, if you can chip in around 10\u20ac, that would be great but it is up to you.",
@@ -145,16 +155,6 @@
     "description": "This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. \nThe second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75\" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.",
     "start": "2025-08-09T14:00:00+02:00",
     "end": "2025-08-09T15:00:00+02:00",
-    "room": "Village:Dutch Picknick",
-    "url": "",
-    "type": "Talk"
-  },
-  {
-    "id": "e2ff0891-8a50-5ac9-ace3-4ec07706000c",
-    "title": "Onderzoek levering mifi-routers (hardware hacking)",
-    "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\nBij de levering van Mifi devices doet zich een vreemde situatie voor. Met behulp van hardware-hacking probeer ik te bevestigen of te ontkrachten of er werkelijk iets speelt.\nDeze talk zal in het Nederlands gegeven worden en is primair voor DutchPicknick-ers. Anderen zijn ook welkom, maar de exacte tijd moet nog even bepaald worden. Zit je niet in DutchPicknick, meldt je vooraf even bij ons village.",
-    "start": "2025-08-09T13:00:00+02:00",
-    "end": "2025-08-09T13:45:00+02:00",
     "room": "Village:Dutch Picknick",
     "url": "",
     "type": "Talk"

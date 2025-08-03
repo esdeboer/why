@@ -84,6 +84,25 @@ ONLY BANGERS</description>
     </room>
   </day>
   <day date="2025-08-08">
+    <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
+      <event guid="e2ff0891-8a50-5ac9-ace3-4ec07706000c">
+        <title>Onderzoek levering mifi-routers (hardware hacking)</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Bij de levering van Mifi devices doet zich een vreemde situatie voor. Met behulp van hardware-hacking probeer ik te bevestigen of te ontkrachten of er werkelijk iets speelt.</abstract>
+        <type>Talk</type>
+        <persons>
+          <person>NebulaH</person>
+        </persons>
+        <language>nl</language>
+        <description>Needs signup
+Age range: Aimed at adults but supervised kids welcome.
+Bij de levering van Mifi devices doet zich een vreemde situatie voor. Met behulp van hardware-hacking probeer ik te bevestigen of te ontkrachten of er werkelijk iets speelt.
+Deze talk zal in het Nederlands gegeven worden en is primair voor DutchPicknick-ers. Anderen zijn ook welkom, maar de exacte tijd moet nog even bepaald worden. Zit je niet in DutchPicknick, meldt je vooraf even bij ons village.</description>
+        <date>2025-08-08T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>00:45</duration>
+      </event>
+    </room>
     <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">
       <event guid="f6c91348-6ecc-57ca-9031-7d247c0fcc37">
         <title>FHB: Kefir Making</title>
@@ -329,23 +348,6 @@ The second part of the presentation includes a live demo of a phishing panel. Us
         <date>2025-08-09T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>01:00</duration>
-      </event>
-      <event guid="e2ff0891-8a50-5ac9-ace3-4ec07706000c">
-        <title>Onderzoek levering mifi-routers (hardware hacking)</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Bij de levering van Mifi devices doet zich een vreemde situatie voor. Met behulp van hardware-hacking probeer ik te bevestigen of te ontkrachten of er werkelijk iets speelt.</abstract>
-        <type>Talk</type>
-        <persons>
-          <person>NebulaH</person>
-        </persons>
-        <language>nl</language>
-        <description>Needs signup
-Age range: Aimed at adults but supervised kids welcome.
-Bij de levering van Mifi devices doet zich een vreemde situatie voor. Met behulp van hardware-hacking probeer ik te bevestigen of te ontkrachten of er werkelijk iets speelt.
-Deze talk zal in het Nederlands gegeven worden en is primair voor DutchPicknick-ers. Anderen zijn ook welkom, maar de exacte tijd moet nog even bepaald worden. Zit je niet in DutchPicknick, meldt je vooraf even bij ons village.</description>
-        <date>2025-08-09T13:00:00+02:00</date>
-        <start>13:00</start>
-        <duration>00:45</duration>
       </event>
     </room>
     <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">
