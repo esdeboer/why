@@ -360,6 +360,16 @@
     "type": "Discussion"
   },
   {
+    "id": "351cba5d-b709-53c3-b2b6-ad91ae01248a",
+    "title": "Aspie & Disability Survival Kit (with Lou)",
+    "description": "Age range: All ages\nHow we designed our disability cards to make daily life easier.\n- Card design + real-life feedback\n- Open discussion on accessibility and neurodiversity\n- Sharing tools, resources and tips",
+    "start": "2025-08-10T11:00:00+02:00",
+    "end": "2025-08-10T11:30:00+02:00",
+    "room": "Village:Brittany Fairies",
+    "url": "",
+    "type": "Discussion"
+  },
+  {
     "id": "bec4af29-7911-5a46-a8a0-ce7b18248d56",
     "title": "Python3-based editors in Burp Suite",
     "description": "This talk covers the Burp Suite extensions Piper and Scalpel. [[User:Nico|Nico]] will show how to use them in order to easily view and modify some data encrypted with AES-ECB.",

@@ -7006,6 +7006,24 @@ How a single number (137!) became a math and funny quest.
                 <start>11:00</start>
                 <duration>00:30</duration>
             </event>
+            <event guid="351cba5d-b709-53c3-b2b6-ad91ae01248a">
+                <title>Aspie &amp; Disability Survival Kit (with Lou)</title>
+                <track>Self Organized Sessions</track>
+                <abstract>How we designed our disability cards to make daily life easier.</abstract>
+                <type>Discussion</type>
+                <persons>
+                    <person>Gadget MCS</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: All ages
+How we designed our disability cards to make daily life easier.
+- Card design + real-life feedback
+- Open discussion on accessibility and neurodiversity
+- Sharing tools, resources and tips</description>
+                <date>2025-08-10T11:00:00+02:00</date>
+                <start>11:00</start>
+                <duration>00:30</duration>
+            </event>
         </room>
         <room name="Village:Cyber Saiyan" guid="75b22f81-5315-5708-bc13-88aa1dd38fb4">
             <event guid="bec4af29-7911-5a46-a8a0-ce7b18248d56">
