@@ -1399,12 +1399,26 @@ The prices in the yellow boxes are the materials costs for participating in the 
         <language>en</language>
         <description>Age range: All ages
 == Workshop Description ==
+[[File:Stonehenge.png]]
 Increase and test your soldering skills with this challenge in the shape of Stonehenge.&lt;br&gt;
-&lt;br&gt;
+* Prior soldering experience helps, but is not mandatory
+* The components are mounted in an unorthodox way making this a unique challenge
+* Kit includes
+** Empty PCB
+** A 3D-printed multipurpose base
+*** Nice base to display the finished board
+*** Store components during assembly
+*** Protect the finished board for transport by placing it upside down
+** All the components including some spares
+* Because this is a last-minute-project, some things are not perfect
+** There is no software yet to actually light up the LEDs (help wanted, will most likely change during the event)
+** The Microcontroller has not been verified to work yet
+
+  * Materials cost: €5 to €10
+
 Workshop given by cpresser.&lt;br&gt;
 &lt;br&gt;
-Materials cost: €5 to €10&lt;br&gt;
-&lt;br&gt;
+&lt;hr&gt;
 &lt;br&gt;
 [[File:HHA_WHY_logo.png|center|300px]]  
   
