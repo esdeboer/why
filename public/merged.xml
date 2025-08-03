@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>1.2 - Vanguard</version>
+    <version>1.3 - Luna</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -2613,31 +2613,6 @@ Finally, we'll have a look at the frameworks and tools that allow you to get you
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/CVDBWH/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/CVDBWH/feedback/</feedback_url>
-            </event>
-            <event guid="05f8b243-d83b-5241-96ee-b611aa535299" id="170">
-                <room>Cassiopeia</room>
-                <title>Crypto(graphy) 101</title>
-                <subtitle />
-                <type>Talk (50 minutes)</type>
-                <date>2025-08-09T19:00:00+02:00</date>
-                <start>19:00</start>
-                <duration>00:50</duration>
-                <abstract>Everybody talks about cryptography, but only a few understand what it means. This interactive session will explain the very basics of cryptography and will leave the attendants with more confidence why to use cryptography.</abstract>
-                <slug>why2025-170-crypto-graphy-101</slug>
-                <track>Hacking</track>
-                <persons>
-                    <person id="187">Dirk Maij</person>
-                </persons>
-                <language>en</language>
-                <description>Many talks mentioned cryptography somewhere along the presentation and everybody just nods. But how many people actually know the insights of cryptography? Why some things work and some things don't? During this talk I will explain the difference between encoding and encryption, the most common uses of cryptography, the difference between synchronous and asynchronous encryption, hashes. I will include some history and some future developments like quantum and why we call cryptocoin cryptocoin. In a slow pace, scratching the surface for uninitiated, but the scratches will go deep enough for more initiated to get some more background.</description>
-                <recording>
-                    <license />
-                    <optout>false</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/7P3ZYV/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/7P3ZYV/feedback/</feedback_url>
             </event>
             <event guid="1767d550-ff6b-5c51-824b-b67616d29e27" id="219">
                 <room>Cassiopeia</room>
@@ -5815,7 +5790,7 @@ Expect deep technical insights, practical lessons from years of experimentation,
             </event>
         </room>
         <room name="Workshop Euclid" guid="9ccda66b-ad22-535b-be0b-986061963bed">
-            <event guid="41772656-de86-5de2-a43c-fd85e2771078" id="62">
+            <event guid="495eb4ca-f26a-5f32-a0ef-ca6746c93bd3" id="62">
                 <room>Workshop Euclid</room>
                 <title>Sew your own Plush Tetrapod</title>
                 <subtitle />
@@ -5824,7 +5799,7 @@ Expect deep technical insights, practical lessons from years of experimentation,
                 <start>10:00</start>
                 <duration>02:00</duration>
                 <abstract>A workshop in which you can construct your own huggable plush sea defence structure</abstract>
-                <slug>why2025-62-0-sew-your-own-plush-tetrapod</slug>
+                <slug>why2025-62-sew-your-own-plush-tetrapod</slug>
                 <track>The square hole</track>
                 <logo>/media/why2025/submissions/QH8SS9/finished_NIleYtS.jpeg</logo>
                 <persons>
@@ -5905,7 +5880,7 @@ Every Sunday evening between 7-9 pm we have a live broadcast from another place 
             </event>
         </room>
         <room name="Workshop Giotto" guid="296e1eed-b1f8-5fe1-bb1f-4084c5d6f346">
-            <event guid="1db4ac84-31b7-526f-8989-b24690933062" id="162">
+            <event guid="391f6c34-3af3-58ee-8811-c42487044bd2" id="162">
                 <room>Workshop Giotto</room>
                 <title>Hacking Perfumery — Design Your Scented Future</title>
                 <subtitle />
@@ -5914,7 +5889,7 @@ Every Sunday evening between 7-9 pm we have a live broadcast from another place 
                 <start>10:00</start>
                 <duration>01:30</duration>
                 <abstract>What if we could harness the power of perfumery for a better future? In this workshop, we’ll show you how to hack the world of perfume using simple tools, shared knowledge, and a bit of help from AI. You’ll leave with your own small perfume and maybe some new ideas about how smell connects to how we see the world.</abstract>
-                <slug>why2025-162-0-hacking-perfumery-design-your-scented-future</slug>
+                <slug>why2025-162-hacking-perfumery-design-your-scented-future</slug>
                 <track>Yearn for a better future</track>
                 <logo>/media/why2025/submissions/VYTNWT/Perfume_Bottle_Design_May_10_2025_nyaeYE4.png</logo>
                 <persons>
@@ -8023,32 +7998,30 @@ In this talk I will show how a sneaky specification detail allows us to program 
                 <url>https://program.why2025.org/why2025/talk/NK7YTF/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/NK7YTF/feedback/</feedback_url>
             </event>
-            <event guid="d7177814-554d-582a-b635-96736c291ce6" id="47">
+            <event guid="05f8b243-d83b-5241-96ee-b611aa535299" id="170">
                 <room>Cassiopeia</room>
-                <title>Weakpass</title>
+                <title>Crypto(graphy) 101</title>
                 <subtitle />
                 <type>Talk (50 minutes)</type>
                 <date>2025-08-11T12:00:00+02:00</date>
                 <start>12:00</start>
                 <duration>00:50</duration>
-                <abstract>The story of the Weakpass project, from its origins to its evolution and impact. It will showcase practical use cases and tools built around Weakpass, focusing on applications like password cracking and testing.</abstract>
-                <slug>why2025-47-1-weakpass</slug>
-                <track>Wonderful creations</track>
-                <logo>/media/why2025/submissions/WQVFUN/1_1_WJaN54o.png</logo>
+                <abstract>Everybody talks about cryptography, but only a few understand what it means. This interactive session will explain the very basics of cryptography and will leave the attendants with more confidence why to use cryptography.</abstract>
+                <slug>why2025-170-crypto-graphy-101</slug>
+                <track>Hacking</track>
                 <persons>
-                    <person id="66">Steph</person>
-                    <person id="73">Alyona</person>
+                    <person id="187">Dirk Maij</person>
                 </persons>
                 <language>en</language>
-                <description>During this talk, I will present the story of the Weakpass project and the tools that were developed as part of it. Additionally, I will demonstrate how these tools have been utilized in various contexts, such as password cracking and automatic account password strength checks. The discussion will explore practical applications and the impact of these tools on enhancing security practices.</description>
+                <description>Many talks mentioned cryptography somewhere along the presentation and everybody just nods. But how many people actually know the insights of cryptography? Why some things work and some things don't? During this talk I will explain the difference between encoding and encryption, the most common uses of cryptography, the difference between synchronous and asynchronous encryption, hashes. I will include some history and some future developments like quantum and why we call cryptocoin cryptocoin. In a slow pace, scratching the surface for uninitiated, but the scratches will go deep enough for more initiated to get some more background.</description>
                 <recording>
                     <license />
-                    <optout>true</optout>
+                    <optout>false</optout>
                 </recording>
                 <links />
                 <attachments />
-                <url>https://program.why2025.org/why2025/talk/WQVFUN/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/WQVFUN/feedback/</feedback_url>
+                <url>https://program.why2025.org/why2025/talk/7P3ZYV/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/7P3ZYV/feedback/</feedback_url>
             </event>
             <event guid="ad19d388-2d06-5784-882b-b77588596bb4" id="258">
                 <room>Cassiopeia</room>
@@ -8343,7 +8316,7 @@ I actually have little answers at all, iI wish I knew. I do however have a desir
                 <url>https://program.why2025.org/why2025/talk/TFRMSB/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/TFRMSB/feedback/</feedback_url>
             </event>
-            <event guid="bc665eeb-3d2e-5141-b5ed-2cb05e95e4f3" id="47">
+            <event guid="b720309e-d6fc-542c-81a9-ee308907e459" id="47">
                 <room>Delphinus</room>
                 <title>Weakpass</title>
                 <subtitle />
@@ -8352,7 +8325,7 @@ I actually have little answers at all, iI wish I knew. I do however have a desir
                 <start>11:00</start>
                 <duration>00:50</duration>
                 <abstract>The story of the Weakpass project, from its origins to its evolution and impact. It will showcase practical use cases and tools built around Weakpass, focusing on applications like password cracking and testing.</abstract>
-                <slug>why2025-47-0-weakpass</slug>
+                <slug>why2025-47-weakpass</slug>
                 <track>Wonderful creations</track>
                 <logo>/media/why2025/submissions/WQVFUN/1_1_WJaN54o.png</logo>
                 <persons>
