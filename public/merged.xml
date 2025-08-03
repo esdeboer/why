@@ -4255,9 +4255,32 @@ No prior threat modeling experience is required — just bring your curiosity an
                 <language>en</language>
                 <description>Age range: All ages
 == Workshop Description ==
-Learn to make your own PCBs with KiCad, a free and open source tool that anyone can learn.  For total beginners.  
+[[File:KiCad-Logo.svg.png|thumb]]
+Learn to make your own PCBs with **KiCad**, a free and open source tool that anyone can learn.  
+* Bring your own computer, ideally also a mouse
+* Please install KiCad9 before the workshop
+** KiCad8 or even KiCad7 are also acceptable if your distro does not have KiCad9
+** Linux users can also go for a FlatPak install of KiCad
+** Most distros have extra packages for the library, sometimes they are not installed automatically. Make sure you have them as well (does not apply to Windows or Mac users)
+*** kicad-symbols
+*** kicad-footprints
+*** kicad-packages3D
+* The workshop consist of 15-20 minutes introduction and demo, then you will replicate the demo
+** A handout will help you to remember all the steps
+** Experienced KiCad users will be there to answer all your questions
+** At the end of the workshop you will have designed a functional PCB 
+* It will teach you how to
+** create a schematic drawing
+** assign physical components (footprints)
+** place them on the board
+** layout (routing) of the board
+** ordering
+** and various bit and tricks
+* It will not include electronics design stuff. We focus on the usage of the software
 
-Workshop given by crpesser
+The handout for the workshop can be found here: https://gitlab.com/evils/kicad-workshop/-/blob/main/handout.pdf (you don't need to prepare it, I will bring plenty of copies)
+
+Workshop given by cpresser
 &lt;br&gt;
 &lt;br&gt;
 [[File:HHA_WHY_logo.png|center|300px]]  
