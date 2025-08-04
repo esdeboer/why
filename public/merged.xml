@@ -186,6 +186,7 @@ Here's the story and of course all the beautiful blunders we've made.</abstract>
                 <persons>
                     <person id="243">Nancy Beers</person>
                     <person id="258">Ad</person>
+                    <person id="167">Chantal Stekelenburg</person>
                 </persons>
                 <language>en</language>
                 <description>We would love to share the story about the only podcast about a hackercamp in the UNIVERSE!
@@ -498,7 +499,9 @@ The goal is to share actionable takeaways and lessons learned, helping others an
                 <date>2025-08-08T20:00:00+02:00</date>
                 <start>20:00</start>
                 <duration>02:00</duration>
-                <abstract>The classic Jeopardy! format, but now with hacker answers... can you give the right questions to them? You can join as a team or enjoy it from the audience!</abstract>
+                <abstract>The classic Jeopardy! format, but now with hacker answers... can you give the right questions to them? You can join as a team or enjoy it from the audience!
+
+Sign your team up (max 3 people) at jeopardy@why2025.org</abstract>
                 <slug>why2025-36-hacker-jeopardy-round-1</slug>
                 <track>Hacking</track>
                 <persons>
@@ -2662,7 +2665,9 @@ This isn't just a rant (though there will be rants). It's a call to stop playing
                 <date>2025-08-09T21:00:00+02:00</date>
                 <start>21:00</start>
                 <duration>02:00</duration>
-                <abstract>The classic Jeopardy! format, but now with hacker answers... can you give the right questions to them? You can join as a team or enjoy it from the audience!</abstract>
+                <abstract>The classic Jeopardy! format, but now with hacker answers... can you give the right questions to them? You can join as a team or enjoy it from the audience!
+
+Sign your team up (max 3 people) at jeopardy@why2025.org</abstract>
                 <slug>why2025-287-hacker-jeopardy-round-2</slug>
                 <track>Hacking</track>
                 <persons>
@@ -3111,7 +3116,9 @@ After WHY2025, you can keep programming your Battlesnake to complete more levels
                 <date>2025-08-09T16:00:00+02:00</date>
                 <start>16:00</start>
                 <duration>01:30</duration>
-                <abstract>Enter your Battlesnake into this battle royale and win prizes (maybe?)! Program your own Battlesnake in any language you like and watch it battle other people's snakes. Fun, low-stakes competitive programming for every experience level.</abstract>
+                <abstract>Enter your Battlesnake into this battle royale and win prizes (maybe?)! Program your own Battlesnake in any language you like and watch it battle other people's snakes. Fun, low-stakes competitive programming for every experience level.
+
+[Register here](https://wiki.why2025.org/User_talk:Synon)! 30 p max capacity.</abstract>
                 <slug>why2025-12-battlesnake-tournament</slug>
                 <track>The square hole</track>
                 <logo>/media/why2025/submissions/UMQ9R3/battlesnake_bgvuMCY.png</logo>
@@ -3119,7 +3126,9 @@ After WHY2025, you can keep programming your Battlesnake to complete more levels
                     <person id="29">Pauline Vos</person>
                 </persons>
                 <language>en</language>
-                <description>So how does it work? Simply create a battlesnake on play.battlesnake.com and enter the tournament. Create it from scratch or using one of many starter repos available for different languages. To run your snake, run it as a server, expose it (e.g. through ngrok), and the game will send you API requests. The responses you send will determine how well your snake does!</description>
+                <description>So how does it work? Simply create a battlesnake on play.battlesnake.com and enter the tournament. Create it from scratch or using one of many starter repos available for different languages. To run your snake, run it as a server, expose it (e.g. through ngrok), and the game will send you API requests. The responses you send will determine how well your snake does!
+
+Learn how to create your own snake [in the docs](https://docs.battlesnake.com/getting-started) or join [the Battlesnake workshop](https://program.why2025.org/why2025/talk/7CWZHR/) on the same day as the tournament.</description>
                 <recording>
                     <license />
                     <optout>false</optout>
@@ -5516,7 +5525,9 @@ In this talk, I’ll explain what a DSL is and is made up of, and why you‘d wa
                 <date>2025-08-10T21:00:00+02:00</date>
                 <start>21:00</start>
                 <duration>02:00</duration>
-                <abstract>The classic Jeopardy! format, but now with hacker answers... can you give the right questions to them? You can join as a team or enjoy it from the audience!</abstract>
+                <abstract>The classic Jeopardy! format, but now with hacker answers... can you give the right questions to them? You can join as a team or enjoy it from the audience!
+
+Sign your team up (max 3 people) at jeopardy@why2025.org</abstract>
                 <slug>why2025-288-hacker-jeopardy-final</slug>
                 <track>Hacking</track>
                 <persons>
