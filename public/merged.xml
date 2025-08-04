@@ -1476,24 +1476,29 @@ The prices in the yellow boxes are the materials costs for participating in the 
                     <person>Arne</person>
                 </persons>
                 <language>en</language>
-                <description>Age range: All ages
+                <description>Needs signup
+Age range: All ages
 == Workshop Description ==
-Learn SMD soldering by making a duck.&lt;br&gt;
-&lt;br&gt;
-Workshop given by Arne.&lt;br&gt;
-&lt;br&gt;
+Learn SMD soldering by making a duck.
+
+Workshop given by [[User:Arne|Arne]].
+
 Materials cost: €10
-&lt;br&gt;
-&lt;br&gt;
-[[File:HHA_WHY_logo.png|center|300px]]  
+
+Batteries not included, you will need 3x AAA batteries. I have a small quantity of batteries available to test your duck. 
   
+== Sign-Up ==
+At the event, on paper. Please come to the Hardware Hacking Area to sign up and buy the Duck kit.
+
+There will be more Duck kits than workshop spaces, so you can also buy a kit to solder on your own if you prefer. Printed instructions are included with the kit.
+
 == Complete Hardware Hacking Area Village Schedule == 
 Workshops are all free to attend.&lt;br&gt;
 The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
-[[File:WHY_HHA_schedule.png|720px]]
-  
+[[File:WHY_HHA_schedule.png|720px]] 
+
 == Location of Hardware Hacking Area Village == 
-[[File:HHA_map_WHY.jpg|720px]]</description>
+[[File:HHA_map_WHY.jpg|720px]] [[File:HHA_WHY_logo.png|300px]]</description>
                 <date>2025-08-08T16:30:00+02:00</date>
                 <start>16:30</start>
                 <duration>02:00</duration>
@@ -2067,7 +2072,7 @@ This session is for security engineers, SOC analysts, detection engineers, and s
                 <language>en</language>
                 <description>Every year, humanity generates at least 250 Exabytes of data, so storage becomes increasingly problematic because this accumulates and at least part of it must be stored and made accessible for extended periods ; however, not all of that data is being accessed simultaneously. Moreover, the Internet is not well suited for the transfer of large datasets and quite often it is preferable to move physical media.
 
-In this talk we will dive into some physical limits related to this particular problem, and how we have pushed them a little further by retrofitting a StorageTek SL8500 tape library so that it can accommodate hard drives in addition to magnetic tapes.
+In this talk we will dive into some physical limits related to this particular problem, and how we have pushed them a little further by retrofitting a large tape library so that it can accommodate hard drives in addition to magnetic tapes.
 
 This task involved reverse-engineering the drive train, designing new electronics to replace the proprietary and monolithic hardware by something more manageable, coming up with a plan to build a docking station that can be handled by the robot and withstand millions of insertion cycles and that is also end-user-friendly while keeping it as affordable as possible. We will dive into the limitations of the various tools at our disposal and how we worked around them to achieve our goal, while drawing a picture of all the skills and technologies involved and how this can be useful for you.</description>
                 <recording>
@@ -4334,8 +4339,12 @@ The Pancake village will be right next to the (main) Andromeda track.
                     <person>Distels</person>
                 </persons>
                 <description>Age range: All ages
+= Hack-je-zakje =
+
+(Hack your bag)..actually more a makers thing but still fun to do ;-)
+
 == Heat Transfer Vinyl Cutting &amp; Arts &amp; Crafts ==
-I'm bringing my small transfer press and vinyl cutter (a Brother Scan 'N Cut, not something self-built unfortunately...) and several little bags (made from an assortment of upcycled fabrics) to decorate.
+I'm bringing my small transfer press and vinyl cutter (a Brother Scan 'N Cut, not something self-built unfortunately...) and several little bags (made from an assortment of upcycled coloured fabrics) to decorate.
 
 * '''Please note:''' All materials (Heat transfer vinyl, bags, fabric, etc.) come from my personal stash, a small donation to help cover material costs is very much appreciated - just leave whatever feels fair to you!
 * '''Concerning kids:''' Kids are welcome! But '''only''' with parents or adult supervision. Any unattended 'free-range' children will be politely redirected back to their designated adult faster than you can say "where did I put that child?". ;-)
@@ -4454,6 +4463,35 @@ Join me for some relaxing old-school arts and crafts. You are welcome!</descript
                 <date>2025-08-09T21:00:00+02:00</date>
                 <start>21:00</start>
                 <duration>02:00</duration>
+            </event>
+        </room>
+        <room name="Village:Schrottkompott" guid="042114c6-3df8-5be7-bce0-c9701b51fedd">
+            <event guid="1256d744-6061-5744-859e-a13abc747e36">
+                <title>Beer exchange</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Share your local beers with others</abstract>
+                <type>Meeting</type>
+                <persons>
+                    <person>Marlur</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: 18+
+Beer Exchange at Our Village – Share What You Love!
+
+At the Camp, people from all over the world come together — and many of us share a passion for great beer.
+Local brews often reflect the character of a place, but some are so small-scale you’ll never find them online or in shops.
+
+That’s why we’re hosting a beer exchange in our village!
+
+Bring a few special beers from your hometown — the quirky, the rare, the traditional — and swap them with fellow enthusiasts.
+Let’s share stories, flavors, and maybe even organize a casual tasting session together.
+
+This is your chance to discover beers you'd never find outside your region — unless you're here, at this Camp.
+
+---- Timeslots will follow ----</description>
+                <date>2025-08-09T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>01:30</duration>
             </event>
         </room>
         <room name="Village:Yolocation" guid="0146cfb4-fa38-5326-a457-25f67bbafbf1">
@@ -4908,14 +4946,15 @@ This talk will first provide you with a basic understanding of the (neuro)scienc
             </event>
             <event guid="2404209f-89b5-52a3-a94a-d4a4fcc11552" id="217">
                 <room>Brachium</room>
-                <title>Certification of quantum cryptography against implementation loopholes</title>
+                <title>Quantum cryptography and its certification against attacks</title>
                 <subtitle />
                 <type>Talk (50 minutes)</type>
                 <date>2025-08-10T12:00:00+02:00</date>
                 <start>12:00</start>
                 <duration>00:50</duration>
-                <abstract>Quantum cryptography is unbreakable in principle, but its real implementations have vulnerabilities arising from equipment imperfections. Certification standards [1] and accredited labs are being established that can test commercial products for these flaws. I explain how we have analysed a commercial quantum key distribution system for loopholes, patched them, and designed tests for the certification lab [2]. I show some attacks, countermeasures, and the testbenches in this lab.</abstract>
-                <slug>why2025-217-certification-of-quantum-cryptography-against-implementation-loopholes</slug>
+                <abstract>I briefly explain quantum cryptography. It is unbreakable in principle, but its real implementations have vulnerabilities arising from equipment imperfections. Certification standards [1] and accredited labs are being
+established that can test commercial products for these flaws. I explain how we have analysed a commercial quantum key distribution system for loopholes, patched them, and designed tests for the certification lab [2].</abstract>
+                <slug>why2025-217-quantum-cryptography-and-its-certification-against-attacks</slug>
                 <track>Hacking</track>
                 <logo>/media/why2025/submissions/DFCBQD/Makarov-certification-of-quantum-cryptography_zUd9zNm.jpg</logo>
                 <persons>
@@ -5001,14 +5040,14 @@ I'll provide an overview of the exploits I've written for it and how to control 
                 <date>2025-08-10T17:00:00+02:00</date>
                 <start>17:00</start>
                 <duration>00:50</duration>
-                <abstract>IPv6 has been talked about a lot since a very long time. It never really caught on... or did it? Where are we right now? What can you do about it?</abstract>
+                <abstract>IPv6 has been talked about a lot since a very long time. It never really caught on... or did it? Where are we right now? Where are we heading and what can you do about it?</abstract>
                 <slug>why2025-246-the-state-of-ipv6</slug>
                 <track>Yearn for a better future</track>
                 <persons>
                     <person id="240">Altf4</person>
                 </persons>
                 <language>en</language>
-                <description>What is the matter with IPv6? How did we end up here? What has changed since we started now 25 years ago? What interesting things can one do to benefit from it? And most of all, why should YOU care?</description>
+                <description>What is the matter with IPv6? How did we go from something that was supposed to be the future of the internet to where we are today? Is it still like that? What plans are currently unfolding?</description>
                 <recording>
                     <license />
                     <optout>false</optout>
@@ -9853,7 +9892,7 @@ Materials cost: €10 - €15
 Workshops are all free to attend.&lt;br&gt;
 The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
 [[File:WHY_HHA_schedule.png|720px]]
-  
+
 == Location of Hardware Hacking Area Village == 
 [[File:HHA_map_WHY.jpg|720px]]</description>
                 <date>2025-08-11T18:30:00+02:00</date>
@@ -10827,24 +10866,29 @@ Caution: The access to the labyrinth is at your own risk. Wear comfortable cloth
                     <person>Arne</person>
                 </persons>
                 <language>en</language>
-                <description>Age range: All ages
+                <description>Needs signup
+Age range: All ages
 == Workshop Description ==
-Learn SMD soldering by making a duck.&lt;br&gt;
-&lt;br&gt;
-Workshop given by Arne.&lt;br&gt;
-&lt;br&gt;
+Learn SMD soldering by making a duck.
+
+Workshop given by [[User:Arne|Arne]].
+
 Materials cost: €10
-&lt;br&gt;
-&lt;br&gt;
-[[File:HHA_WHY_logo.png|center|300px]]  
+
+Batteries not included, you will need 3x AAA batteries. I have a small quantity of batteries available to test your duck. 
   
+== Sign-Up ==
+At the event, on paper. Please come to the Hardware Hacking Area to sign up and buy the Duck kit.
+
+There will be more Duck kits than workshop spaces, so you can also buy a kit to solder on your own if you prefer. Printed instructions are included with the kit.
+
 == Complete Hardware Hacking Area Village Schedule == 
 Workshops are all free to attend.&lt;br&gt;
 The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
-[[File:WHY_HHA_schedule.png|720px]]
-  
+[[File:WHY_HHA_schedule.png|720px]] 
+
 == Location of Hardware Hacking Area Village == 
-[[File:HHA_map_WHY.jpg|720px]]</description>
+[[File:HHA_map_WHY.jpg|720px]] [[File:HHA_WHY_logo.png|300px]]</description>
                 <date>2025-08-12T14:00:00+02:00</date>
                 <start>14:00</start>
                 <duration>02:00</duration>
@@ -11292,34 +11336,6 @@ Age range: 16+</description>
                 <duration>01:00</duration>
                 <description>Generated time to make session visible, might need an actual date and time
 Age range: 16+</description>
-            </event>
-            <event guid="1256d744-6061-5744-859e-a13abc747e36">
-                <title>Beer exchange</title>
-                <track>Self Organized Sessions</track>
-                <abstract>Share your local beers with others</abstract>
-                <type>Meeting</type>
-                <persons>
-                    <person>Marlur</person>
-                </persons>
-                <language>en</language>
-                <date>2025-08-13T00:00:00+02:00</date>
-                <time>00:00</time>
-                <duration>01:00</duration>
-                <description>Generated time to make session visible, might need an actual date and time
-Age range: 18+
-Beer Exchange at Our Village – Share What You Love!
-
-At the Camp, people from all over the world come together — and many of us share a passion for great beer.
-Local brews often reflect the character of a place, but some are so small-scale you’ll never find them online or in shops.
-
-That’s why we’re hosting a beer exchange in our village!
-
-Bring a few special beers from your hometown — the quirky, the rare, the traditional — and swap them with fellow enthusiasts.
-Let’s share stories, flavors, and maybe even organize a casual tasting session together.
-
-This is your chance to discover beers you'd never find outside your region — unless you're here, at this Camp.
-
----- Timeslots will follow ----</description>
             </event>
         </room>
     </day>
