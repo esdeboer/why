@@ -3126,7 +3126,7 @@ After WHY2025, you can keep programming your Battlesnake to complete more levels
                     <person id="29">Pauline Vos</person>
                 </persons>
                 <language>en</language>
-                <description>So how does it work? Simply create a battlesnake on play.battlesnake.com and enter the tournament. Create it from scratch or using one of many starter repos available for different languages. To run your snake, run it as a server, expose it (e.g. through ngrok), and the game will send you API requests. The responses you send will determine how well your snake does!
+                <description>So how does it work? Simply start writing a battlesnake [using the docs](https://docs.battlesnake.com/getting-started) and enter the tournament. Create it from scratch or using one of many starter repos available for different languages. To run your snake, run it as a server, expose it (e.g. through ngrok), and the game will send you API requests. The responses you send will determine how well your snake does! Don't worry if it's not the smartest snake. Bumbling, own tail eating snakes are my favorite, personally.
 
 Learn how to create your own snake [in the docs](https://docs.battlesnake.com/getting-started) or join [the Battlesnake workshop](https://program.why2025.org/why2025/talk/7CWZHR/) on the same day as the tournament.</description>
                 <recording>
