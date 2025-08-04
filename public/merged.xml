@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>1.3 - Luna</version>
+    <version>1.4 - Pioneer</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -626,30 +626,32 @@ The presentation concludes by encouraging attendees to embark on their own journ
                 <url>https://program.why2025.org/why2025/talk/AATCT7/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/AATCT7/feedback/</feedback_url>
             </event>
-            <event guid="6326a0f1-c5ca-53de-9817-5c7fb5dbd727" id="275">
+            <event guid="35343c70-a2bd-528e-b9d4-46bb7f8681be" id="363">
                 <room>Delphinus</room>
-                <title>Lightning Talks</title>
+                <title>Generated.Earth - How culture gets processed into training data</title>
                 <subtitle />
                 <type>Talk (50 minutes)</type>
                 <date>2025-08-08T21:00:00+02:00</date>
                 <start>21:00</start>
                 <duration>00:50</duration>
-                <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
-                <slug>why2025-275-0-lightning-talks</slug>
-                <track>The square hole</track>
+                <abstract>What happens to cultural nuance when a machine learns from billions of images scraped from the internet – without human supervision? How does machine learning process these images in order to understand their meaning? What images are used or left out? And what are the consequences of those choices on the world it generates for us?</abstract>
+                <slug>why2025-363-generated-earth-how-culture-gets-processed-into-training-data</slug>
+                <track>Wonderful creations</track>
                 <persons>
-                    
+                    <person id="449">Wouter Oomen</person>
                 </persons>
                 <language>en</language>
-                <description>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki.Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</description>
+                <description>These questions started my journey: the creation of giant maps made out of 10.000+ of AI-generated images, each generated based on a specific place name. Through this map, I made several discoveries; like that AI sees Normandy as a warzone, Puglia as a dog breed, and North-West England as Kanye West and Kim Kardashian’s daughter.
+
+All these discoveries shine light on the many ways that culture gets kneaded, filtered or flattened so it fits in the process of creating generative AI.</description>
                 <recording>
                     <license />
                     <optout>false</optout>
                 </recording>
                 <links />
                 <attachments />
-                <url>https://program.why2025.org/why2025/talk/EFJTHQ/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/EFJTHQ/feedback/</feedback_url>
+                <url>https://program.why2025.org/why2025/talk/WHPJ7N/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/WHPJ7N/feedback/</feedback_url>
             </event>
         </room>
         <room name="Workshop Euclid" guid="9ccda66b-ad22-535b-be0b-986061963bed">
@@ -2622,6 +2624,31 @@ Finally, we'll have a look at the frameworks and tools that allow you to get you
                 <url>https://program.why2025.org/why2025/talk/CVDBWH/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/CVDBWH/feedback/</feedback_url>
             </event>
+            <event guid="6326a0f1-c5ca-53de-9817-5c7fb5dbd727" id="275">
+                <room>Cassiopeia</room>
+                <title>Lightning Talks</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-09T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>00:50</duration>
+                <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
+                <slug>why2025-275-0-lightning-talks</slug>
+                <track>The square hole</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki.Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/EFJTHQ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/EFJTHQ/feedback/</feedback_url>
+            </event>
             <event guid="1767d550-ff6b-5c51-824b-b67616d29e27" id="219">
                 <room>Cassiopeia</room>
                 <title>A Big Bad App: Welcome to Corporatocracy</title>
@@ -2829,34 +2856,6 @@ When the weather conditions are good, the 1973 Pinball Machine will be operation
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/WMXPYU/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/WMXPYU/feedback/</feedback_url>
-            </event>
-            <event guid="31a677f6-13a8-5817-b45c-39a1172f84b2" id="286">
-                <room>Delphinus</room>
-                <title>Building Inclusive Quantum Communities</title>
-                <subtitle />
-                <type>Talk (25 minutes)</type>
-                <date>2025-08-09T14:35:00+02:00</date>
-                <start>14:35</start>
-                <duration>00:25</duration>
-                <abstract>We in Quantum Development (WIQD) is a growing community dedicated to promoting diversity, equity, and inclusion (DEI) in the quantum ecosystem. In this presentation, we will introduce WIQD’s mission and activities, share insights from our first Women’s Day Hackathon, and highlight why fostering an inclusive quantum community is essential for innovation and impact.</abstract>
-                <slug>why2025-286-building-inclusive-quantum-communities</slug>
-                <track>Yearn for a better future</track>
-                <persons>
-                    <person id="324">Nina Hefele</person>
-                    <person id="325">Florence Mooser</person>
-                    <person id="326">Jay Jayesingha</person>
-                    <person id="415">Judith Kreukels</person>
-                </persons>
-                <language>en</language>
-                <description>WIQD (We in Quantum Development) aims to build a thriving, inclusive network for professionals in quantum science and technology. During this 15-minute presentation, we will briefly introduce WIQD and discuss the importance of DEI in quantum development. We will also share lessons learned from our 2024 Women’s Day Hackathon (event page), where participants collaborated to tackle technical and societal challenges in quantum. By reflecting on these experiences, we hope to inspire more people to get involved, collaborate across disciplines, and help shape an open, innovative quantum community. To make the talk interactive, we’ll use Mentimeter to collect thoughts and ideas from the audience in real time.</description>
-                <recording>
-                    <license />
-                    <optout>false</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/SUCW9S/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/SUCW9S/feedback/</feedback_url>
             </event>
             <event guid="8b3fa9a7-a1d0-572b-8214-8016623f30b6" id="228">
                 <room>Delphinus</room>
@@ -10355,13 +10354,41 @@ This talk is for hackers, tinkerers, and developers who’ve ever relied on `sle
                 <url>https://program.why2025.org/why2025/talk/NZRWGU/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/NZRWGU/feedback/</feedback_url>
             </event>
+            <event guid="31a677f6-13a8-5817-b45c-39a1172f84b2" id="286">
+                <room>Cassiopeia</room>
+                <title>Building Inclusive Quantum Communities</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-12T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>00:25</duration>
+                <abstract>We in Quantum Development (WIQD) is a growing community dedicated to promoting diversity, equity, and inclusion (DEI) in the quantum ecosystem. In this presentation, we will introduce WIQD’s mission and activities, share insights from our first Women’s Day Hackathon, and highlight why fostering an inclusive quantum community is essential for innovation and impact.</abstract>
+                <slug>why2025-286-building-inclusive-quantum-communities</slug>
+                <track>Yearn for a better future</track>
+                <persons>
+                    <person id="324">Nina Hefele</person>
+                    <person id="325">Florence Mooser</person>
+                    <person id="326">Jay Jayesingha</person>
+                    <person id="415">Judith Kreukels</person>
+                </persons>
+                <language>en</language>
+                <description>WIQD (We in Quantum Development) aims to build a thriving, inclusive network for professionals in quantum science and technology. During this 15-minute presentation, we will briefly introduce WIQD and discuss the importance of DEI in quantum development. We will also share lessons learned from our 2024 Women’s Day Hackathon (event page), where participants collaborated to tackle technical and societal challenges in quantum. By reflecting on these experiences, we hope to inspire more people to get involved, collaborate across disciplines, and help shape an open, innovative quantum community. To make the talk interactive, we’ll use Mentimeter to collect thoughts and ideas from the audience in real time.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/SUCW9S/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/SUCW9S/feedback/</feedback_url>
+            </event>
             <event guid="0f7eae69-4fa2-5763-b958-2cb5c532edfc" id="275">
                 <room>Cassiopeia</room>
                 <title>Lightning Talks</title>
                 <subtitle />
                 <type>Talk (50 minutes)</type>
-                <date>2025-08-12T14:00:00+02:00</date>
-                <start>14:00</start>
+                <date>2025-08-12T15:00:00+02:00</date>
+                <start>15:00</start>
                 <duration>00:50</duration>
                 <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
                 <slug>why2025-275-3-lightning-talks</slug>
