@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>1.4 - Pioneer</version>
+    <version>1.5 - Venera</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -3117,7 +3117,7 @@ After WHY2025, you can keep programming your Battlesnake to complete more levels
                 <duration>01:30</duration>
                 <abstract>Enter your Battlesnake into this battle royale and win prizes (maybe?)! Program your own Battlesnake in any language you like and watch it battle other people's snakes. Fun, low-stakes competitive programming for every experience level.
 
-[Register here](https://wiki.why2025.org/User_talk:Synon)! 30 p max capacity.</abstract>
+[Register here](https://wiki.why2025.org/User_talk:Synon)!</abstract>
                 <slug>why2025-12-battlesnake-tournament</slug>
                 <track>The square hole</track>
                 <logo>/media/why2025/submissions/UMQ9R3/battlesnake_bgvuMCY.png</logo>
@@ -6315,6 +6315,40 @@ Have you ever seen a weevil? With this very simple soldering kit, we want to cel
                 <url>https://program.why2025.org/why2025/talk/XCGGPG/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/XCGGPG/feedback/</feedback_url>
             </event>
+            <event guid="67bfbe06-910a-590f-bca3-565311ee1248" id="364">
+                <room>FamilyZone</room>
+                <title>LEGO Letterpress</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-10T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>01:00</duration>
+                <abstract>Experience 600-year-old printing technology with a modern twist! Build
+your own designs using LEGO bricks to create pixel art, then print them
+on a traditional printing press. We'll be making dinosaurs, and you're
+welcome to create and print your own text or images throughout the day.</abstract>
+                <slug>why2025-364-0-lego-letterpress</slug>
+                <track>Wonderful creations</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>On the FamilyZone field on Sunday and Monday from 12:00-19:00.
+
+Kom spelen en drukken met zes eeuwen oude informatie-technologie.
+Niet alleen met letters maar ook met LEGO... Analoge pixel-art! Je bouwt
+je eigen ontwerp en drukt het af op een echte drukpers. Dino's zijn
+natuurlijk altijd goed dus die gaan we zeker maken. Je kunt de hele dag
+aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/ZVKWUM/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/ZVKWUM/feedback/</feedback_url>
+            </event>
             <event guid="1b95ddc1-39f3-589e-8b3c-69afc4bfeaa5" id="360">
                 <room>FamilyZone</room>
                 <title>Contraption makers</title>
@@ -6325,7 +6359,7 @@ Have you ever seen a weevil? With this very simple soldering kit, we want to cel
                 <duration>02:00</duration>
                 <abstract>Lets make some simple rube goldberg machines, show some simple principles to build them like: - using a slope - using a lever - using a screw - using an anchor then split kids in groups (5-8 per table) and ask them to solve a simple puzzle (like put a ball in the goal) using as many steps they can imagine.</abstract>
                 <slug>why2025-360-contraption-makers</slug>
-                <track>Villages</track>
+                <track>Wonderful creations</track>
                 <persons>
                     
                 </persons>
@@ -6364,6 +6398,40 @@ Have you ever seen a weevil? With this very simple soldering kit, we want to cel
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/GJZZRC/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/GJZZRC/feedback/</feedback_url>
+            </event>
+            <event guid="5fb3e90a-c8cb-57df-b069-61dd8a201dd1" id="364">
+                <room>FamilyZone</room>
+                <title>LEGO Letterpress</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-10T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>02:00</duration>
+                <abstract>Experience 600-year-old printing technology with a modern twist! Build
+your own designs using LEGO bricks to create pixel art, then print them
+on a traditional printing press. We'll be making dinosaurs, and you're
+welcome to create and print your own text or images throughout the day.</abstract>
+                <slug>why2025-364-1-lego-letterpress</slug>
+                <track>Wonderful creations</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>On the FamilyZone field on Sunday and Monday from 12:00-19:00.
+
+Kom spelen en drukken met zes eeuwen oude informatie-technologie.
+Niet alleen met letters maar ook met LEGO... Analoge pixel-art! Je bouwt
+je eigen ontwerp en drukt het af op een echte drukpers. Dino's zijn
+natuurlijk altijd goed dus die gaan we zeker maken. Je kunt de hele dag
+aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/ZVKWUM/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/ZVKWUM/feedback/</feedback_url>
             </event>
             <event guid="82b32d6d-10c4-5b25-91b8-f71d5d91b96c" id="352">
                 <room>FamilyZone</room>
@@ -9056,6 +9124,40 @@ Materials cost: €10 - €15</description>
                 <url>https://program.why2025.org/why2025/talk/3M3YXS/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/3M3YXS/feedback/</feedback_url>
             </event>
+            <event guid="3aa8fd09-60d3-542b-afe9-f5d5e787da47" id="364">
+                <room>FamilyZone</room>
+                <title>LEGO Letterpress</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-11T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>01:00</duration>
+                <abstract>Experience 600-year-old printing technology with a modern twist! Build
+your own designs using LEGO bricks to create pixel art, then print them
+on a traditional printing press. We'll be making dinosaurs, and you're
+welcome to create and print your own text or images throughout the day.</abstract>
+                <slug>why2025-364-2-lego-letterpress</slug>
+                <track>Wonderful creations</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>On the FamilyZone field on Sunday and Monday from 12:00-19:00.
+
+Kom spelen en drukken met zes eeuwen oude informatie-technologie.
+Niet alleen met letters maar ook met LEGO... Analoge pixel-art! Je bouwt
+je eigen ontwerp en drukt het af op een echte drukpers. Dino's zijn
+natuurlijk altijd goed dus die gaan we zeker maken. Je kunt de hele dag
+aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/ZVKWUM/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/ZVKWUM/feedback/</feedback_url>
+            </event>
             <event guid="11475044-0b4a-56db-beea-6df48c696581" id="359">
                 <room>FamilyZone</room>
                 <title>Brushboots</title>
@@ -9066,7 +9168,7 @@ Materials cost: €10 - €15</description>
                 <duration>02:00</duration>
                 <abstract>lets create simple robots from old electric toothbrushes. (we will also have a bunch of vibrating motors, batteries, battery holders and switches for anyone not bringing their old toothbrush)</abstract>
                 <slug>why2025-359-brushboots</slug>
-                <track>Villages</track>
+                <track>Wonderful creations</track>
                 <persons>
                     
                 </persons>
@@ -9081,6 +9183,40 @@ Materials cost: €10 - €15</description>
                 <url>https://program.why2025.org/why2025/talk/JKR3BZ/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/JKR3BZ/feedback/</feedback_url>
             </event>
+            <event guid="a2ceeb30-1644-59bb-a8e8-5ba3fd68ba71" id="364">
+                <room>FamilyZone</room>
+                <title>LEGO Letterpress</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-11T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>04:00</duration>
+                <abstract>Experience 600-year-old printing technology with a modern twist! Build
+your own designs using LEGO bricks to create pixel art, then print them
+on a traditional printing press. We'll be making dinosaurs, and you're
+welcome to create and print your own text or images throughout the day.</abstract>
+                <slug>why2025-364-3-lego-letterpress</slug>
+                <track>Wonderful creations</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>On the FamilyZone field on Sunday and Monday from 12:00-19:00.
+
+Kom spelen en drukken met zes eeuwen oude informatie-technologie.
+Niet alleen met letters maar ook met LEGO... Analoge pixel-art! Je bouwt
+je eigen ontwerp en drukt het af op een echte drukpers. Dino's zijn
+natuurlijk altijd goed dus die gaan we zeker maken. Je kunt de hele dag
+aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/ZVKWUM/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/ZVKWUM/feedback/</feedback_url>
+            </event>
             <event guid="bc04a416-46ea-596d-b12e-e9d6f34e595b" id="351">
                 <room>FamilyZone</room>
                 <title>KidsDisco</title>
@@ -9091,7 +9227,7 @@ Materials cost: €10 - €15</description>
                 <duration>01:00</duration>
                 <abstract>Kids Disco – An awesome opportunity to show off your Blacklight shirts.</abstract>
                 <slug>why2025-351-kidsdisco</slug>
-                <track>Villages</track>
+                <track>Entertainment</track>
                 <persons>
                     
                 </persons>
