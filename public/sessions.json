@@ -50,6 +50,16 @@
     "type": "Talk"
   },
   {
+    "id": "f270121d-1826-5927-96b3-a0900d3c8c0a",
+    "title": "Self-hosted Dropbox alternatives: The Good, The Bad & The Ugly",
+    "description": "Age range: Aimed at adults but supervised kids welcome.\nWelke self-hosted Dropbox alternatieven zijn er eigenlijk? En werkt dat een beetje? Deze talk vergelijkt Seafile, Nextcloud en Pydio Cells. De goede kanten, de slechte, en een paar WTF's.",
+    "start": "2025-08-08T13:00:00+02:00",
+    "end": "2025-08-08T13:20:00+02:00",
+    "room": "Village:Dutch Picknick",
+    "url": "",
+    "type": "Talk"
+  },
+  {
     "id": "f6c91348-6ecc-57ca-9031-7d247c0fcc37",
     "title": "FHB: Kefir Making",
     "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\n[https://dud-poll.inf.tu-dresden.de/kefir_why2025/ To secure spot on this workshop please sign in here].\n\n[https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form Workshop manual is shared here].\n\nThis is hands on workshop during which you will learn how to make, harvest and continue to prepare [https://en.wikipedia.org/wiki/Kefir kefir] using kefir grain culture which you will walk away with if you don't defend yourself too hard. We will explain basic concepts of probiotic, prebiotic and biofilm based polycultures and why it is good to consume foods \u201clabeled\u201d by these terms. You will prepare your own kefir culture, based on the  [https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form working manual] and take it with you so you will be ready to brew wherever you decide hopefully \u201cpositively infecting\u201d your local hackerspace. We will make at least one recipe together, either \"kefir cake\" or kefir smoked paprika spread, if we have time we may do a base for probiotic kefir drink using kefir whey.\n\nWe will demonstrate how to make a new batch of kefir and how to harvest the old one, you will than do it by yourself. The main aim of this workshop is for the participants to understand the principles behind the milk fermentation with kefir culture and not to be afraid to just do it. Combined with the practical experience which I provide you will be able to take care properly about your kefir culture which is the key for your successful long term fermentation adventures! Don't worry too much about loosing a batch or two, that happens from time to time, keeping the \"mother culture\" happy is the important part. As usually there will be tasters, cultures sharing, manuals and various hints how to use the products in alternative ways making for example probiotic drinks from whey, kefir cheese spreads, kefir cake et cetera. I can be also your troubleshooting help if you need it. \n\nThis workshop is donation based no one turned away for lack of funds, if you can chip in around 10\u20ac, that would be great but it is up to you.",
@@ -120,6 +130,16 @@
     "type": "Outside"
   },
   {
+    "id": "0aa23d84-bb6f-5ff9-b954-feb39509377f",
+    "title": "Desk-a-thon",
+    "description": "Missing duration, check with organiser, dummy 10 minutes added\nThe main idea is to see if anybody could hack our automated desk and let it do crazy things!",
+    "start": "2025-08-08T00:00:00+02:00",
+    "end": "2025-08-08T00:10:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
     "id": "b08cd997-f4d6-5b99-b217-27176db03f3c",
     "title": "Craft beer brewing!",
     "description": "Age range: Aimed at adults but supervised kids welcome.\nHave you ever been curious about the process behind this amazing drink called beer or do you just like beer in general? We will be brewing a SMaSH (single malt and single hop) beer on site on Day 1 and then enjoy the product on Day 4 on wards.\n\nBeer is brewed using a brewing system and then later served through a cold tap. Make sure to bring some type of container suitable for beer consumption, as there will be a tap available during the brewing session!\n\nLocation is close to the Sauna/Salmiakki.",
@@ -148,6 +168,16 @@
     "room": "Camp entrance",
     "url": "",
     "type": "Hands-On"
+  },
+  {
+    "id": "b6072481-e486-5c6e-bfed-945ed8cb7160",
+    "title": "Stop the Bleed @ Aid to Ukraine",
+    "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
+    "start": "2025-08-09T14:00:00+02:00",
+    "end": "2025-08-09T16:00:00+02:00",
+    "room": "Village:Aid to Ukraine",
+    "url": "https://aidtoukraine.nl",
+    "type": "Workshop"
   },
   {
     "id": "facd9967-eb29-5832-af66-f888d80e5a49",
@@ -350,6 +380,16 @@
     "type": "Hands-On"
   },
   {
+    "id": "a715e8a8-0370-51e8-9b1c-4e0320d87946",
+    "title": "Stop the Bleed @ Aid to Ukraine",
+    "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
+    "start": "2025-08-10T14:00:00+02:00",
+    "end": "2025-08-10T16:00:00+02:00",
+    "room": "Village:Aid to Ukraine",
+    "url": "https://aidtoukraine.nl",
+    "type": "Workshop"
+  },
+  {
     "id": "e95a6e02-f6a0-5f27-8980-61b01f8dba58",
     "title": "Kraftwerk and Craftwork",
     "description": "Age range: 16+\nCome and join us at the Back to the 80s party village for some Kraftwerk and Craftwork! This workshop consists of two parts. First we'll dive into the interesting lyrics of the German music group \"Kraftwerk\". Already in the 1980s, they were working on data ethics. What can we, 45 years later, learn from them? Let's discuss that together (even if you're not familiar with Kraftwerk yet)! Inspired by this band, we'll then continue with the second part: craftwork! We will provide the materials so you can create your own album cover art, for your own imaginary (techno-critical?) band! :)",
@@ -488,6 +528,16 @@
     "room": "Camp entrance",
     "url": "",
     "type": "Hands-On"
+  },
+  {
+    "id": "b004701b-7fdf-5225-974a-3b121ab88718",
+    "title": "Stop the Bleed @ Aid to Ukraine",
+    "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
+    "start": "2025-08-11T14:00:00+02:00",
+    "end": "2025-08-11T16:00:00+02:00",
+    "room": "Village:Aid to Ukraine",
+    "url": "https://aidtoukraine.nl",
+    "type": "Workshop"
   },
   {
     "id": "1b1c53a6-1140-5e42-8093-ca03fd5e8659",
@@ -630,6 +680,16 @@
     "type": "Hands-On"
   },
   {
+    "id": "20e7c0cc-fb48-57a5-b3e2-fb1d7c18d3b9",
+    "title": "Stop the Bleed @ Aid to Ukraine",
+    "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
+    "start": "2025-08-12T14:00:00+02:00",
+    "end": "2025-08-12T16:00:00+02:00",
+    "room": "Village:Aid to Ukraine",
+    "url": "https://aidtoukraine.nl",
+    "type": "Workshop"
+  },
+  {
     "id": "f9ffecbc-30d5-53c5-aa5a-70895006aaa5",
     "title": "SMD Duck Soldering workshop",
     "description": "Needs signup\nAge range: All ages\n== Workshop Description ==\nLearn SMD soldering by making a duck.\n\nWorkshop given by [[User:Arne|Arne]].\n\nMaterials cost: \u20ac10\n\nBatteries not included, you will need 3x AAA batteries. I have a small quantity of batteries available to test your duck. \n  \n== Sign-Up ==\nAt the event, on paper. Please come to the Hardware Hacking Area to sign up and buy the Duck kit.\n\nThere will be more Duck kits than workshop spaces, so you can also buy a kit to solder on your own if you prefer. Printed instructions are included with the kit.\n\n== Complete Hardware Hacking Area Village Schedule == \nWorkshops are all free to attend.<br>\nThe prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.<br><br>\n[[File:WHY_HHA_schedule.png|720px]] \n\n== Location of Hardware Hacking Area Village == \n[[File:HHA_map_WHY.jpg|720px]] [[File:HHA_WHY_logo.png|300px]]",
@@ -693,16 +753,6 @@
     "id": "a8fcd5a9-d40f-54ab-88dc-308d3551270f",
     "title": "Mini RopeJam",
     "description": "Generated time to make session visible, might need an actual date and time\nThis would be in addition to the [official schedule rope jam https://program.why2025.org/why2025/talk/NVCRLH/] on the Sunday.\n\nA rope jam is an open, unstructured space for tying, practicing, or learning together. You can come alone, with a partner, or in a small group. Attendees are encouraged to: self tie, seek others to tie with, be tied by, switch with, observe or talk rope with.\n\nThese self organised rope jams will be ad-hoc throughout the weekend (you're also free to come tie any time).\nThe schedule will be on the whiteboard in our village.",
-    "start": "2025-08-13T00:00:00+02:00",
-    "end": "2025-08-13T01:00:00+02:00",
-    "room": "undetermined",
-    "url": "",
-    "type": ""
-  },
-  {
-    "id": "0aa23d84-bb6f-5ff9-b954-feb39509377f",
-    "title": "Desk-a-thon",
-    "description": "Generated time to make session visible, might need an actual date and time\nThe main idea is to see if anybody could hack our automated desk and let it do crazy things!",
     "start": "2025-08-13T00:00:00+02:00",
     "end": "2025-08-13T01:00:00+02:00",
     "room": "undetermined",
