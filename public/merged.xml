@@ -4774,6 +4774,7 @@ I feel like such a talk is especially important now that Europe is no longer und
                 <track>Hacking</track>
                 <persons>
                     <person id="194">Chris van 't Hof</person>
+                    <person id="212">Frank Breedijk</person>
                 </persons>
                 <language>en</language>
                 <description>The European electricity network has become a ‘smart grid.’ This offers many opportunities for sustainability but also makes our energy system more vulnerable to digital attacks. In a time of increasing threat of hybrid warfare, the government and the energy sector realize that we as a society must prepare for possible disruption of the energy system and do everything we can to prevent it.
@@ -7340,6 +7341,20 @@ To add your own cheese, add it to the wiki below
                 <date>2025-08-10T14:00:00+02:00</date>
                 <start>14:00</start>
                 <duration>03:00</duration>
+            </event>
+            <event guid="dd38e586-1fe0-55c4-9026-5f37af4080c1">
+                <title>WHY BabyTV propaganda uitzond</title>
+                <track>Self Organized Sessions</track>
+                <type>Talk</type>
+                <persons>
+                    <person>Nelusthenerd</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: 18+
+A talk of a researcher of NCSC-NL on WHY babytv was broadcasting propaganda.</description>
+                <date>2025-08-10T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>00:30</duration>
             </event>
         </room>
         <room name="Village:Hardware Hacking Area" guid="2358bed6-9a09-5a7c-898a-ded151f3398a">
