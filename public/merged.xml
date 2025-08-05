@@ -1412,6 +1412,26 @@ Welke self-hosted Dropbox alternatieven zijn er eigenlijk? En werkt dat een beet
                 <duration>00:20</duration>
             </event>
         </room>
+        <room name="Village:Energy" guid="e6596814-374c-5e1f-bee0-b8825622ff78">
+            <event guid="628fa01d-8925-5f43-aadb-2850cea39b4f">
+                <title>Solar Punk Zine Workshop &amp; Gathering</title>
+                <track>Self Organized Sessions</track>
+                <abstract>We'll be having a get-together to exchange about solarpunk ideas, and an intro into how to make mini-zines. Then we'll get going with putting our ideas down on paper! You'll be making your own zine with your solarpunk visions.</abstract>
+                <type>Workshop</type>
+                <persons>
+                    <person>BoNanuz</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: Aimed at adults but supervised kids welcome.
+We'll be having a get-together to exchange about solarpunk ideas, and an intro to how to make mini-zines. Then we'll get going with putting our ideas down on paper! You'll be making your own zine with your solarpunk visions :) 
+Some materials and tools will be provided, but feel free to bring some paper, pens, scissors, glue, cut-outs etc if you'd like.
+Participation of up to 8 people.</description>
+                <subtitle>Hands-On</subtitle>
+                <date>2025-08-08T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>02:00</duration>
+            </event>
+        </room>
         <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">
             <event guid="f6c91348-6ecc-57ca-9031-7d247c0fcc37">
                 <title>FHB: Kefir Making</title>
@@ -4218,6 +4238,30 @@ https://aidtoukraine.nl</description>
                 <start>14:00</start>
                 <duration>02:00</duration>
             </event>
+            <event guid="82beca3c-428c-509c-b612-912a6e4d9daa">
+                <title>Movies That Matter: Photophobia, a docu about growing up in Kharkiv during the war</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Deeply touching fiction-documentary hybrid, looking at the war in Ukraine through the eyes of two children in search of a ray of light. Niki (12) and Vika (11) meet in the underground subway tunnels where their families hide from Russian bombs. ‘A positive attitude can help you forget everything.’</abstract>
+                <url>https://moviesthatmatter.nl/en/film/photophobia/</url>
+                <type>Movie</type>
+                <persons>
+                    <person>Nino, Netsmurf</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: 12-16, 16+, 18+
+Thanks to the cool people from Movies that Matter https://moviesthatmatter.nl/ we can show Photophobia, life in Kharkiv through the eyes of two children:
+
+'''PHOTOPHOBIA'''
+
+Deeply touching fiction-documentary hybrid, looking at the war in Ukraine through the eyes of two children in search of a ray of light. Niki (12) and Vika (11) meet in the underground subway tunnels where their families hide from Russian bombs. ‘A positive attitude can help you forget everything.’
+
+On a cold February morning, 12-year-old Niki and his family arrive at the Kharkiv metro station to take shelter from the terrifying war raging outside. For Niki’s family, daylight is synonymous with mortal danger, and the boy is not allowed to leave the station premises, living under the constant glow of their neon lights. While aimlessly wandering around the abandoned cars and full platforms, Niki meets Vika (11), and a new world opens up to him. As their bond strengthens, the children find the courage once again to feel the sun on their faces.
+
+Slovakian filmmaker duo Ivan Ostrochovský and Pavol Pekarčík choose the path of hope rather than despondency to depict the tragedy of war: a nice man sings lyrics about love, while two children look towards the sky and their future.</description>
+                <date>2025-08-09T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>01:30</duration>
+            </event>
         </room>
         <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
             <event guid="facd9967-eb29-5832-af66-f888d80e5a49">
@@ -4233,6 +4277,30 @@ The second part of the presentation includes a live demo of a phishing panel. Us
                 <date>2025-08-09T14:00:00+02:00</date>
                 <start>14:00</start>
                 <duration>01:00</duration>
+            </event>
+            <event guid="1936a291-fcec-5eac-b0fc-8a2dbc00b1ce">
+                <title>The take-down process</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Cooperation in take-downs</abstract>
+                <url>https://github.com/Skrodon/Lethe</url>
+                <type>Workshop</type>
+                <persons>
+                    <person>Markov</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: 16+
+We all speak high about privacy and safety of internet use. The EU also has extensive legislation to protect people, businesses, and copyright holders.  However, in my experience, projects have very successful ways to make it difficult to execute your rights.  To name a few tricks: it's hard to find the source data collection, there are many data collections, you are required to deliver a difficult proof you have legal rights, and all processes are different.
+
+Here, I generalize various kinds of "execute my right" processes under the name "take-down requests".  It could be the wish to take down a physical server, all virtual servers of a certain company, a webpage with proclaimed defamation or other illegal content.
+
+The very good reason to make submission of take-down requests hard, is that handling them is a labor intensive ad-hoc process. Some requests are clear, but sometimes many different laws and local society feelings have to be considered.  Very certainly, different data maintainers will decide different about the same request.
+
+The Lethe project tries to simplify the submission of take-down requests to many data collectors at the same time.  It defines a clear template and collects various proofs about the claim by the submitter.  Then, it does not only distribute the request, but also shares the effort that participating data maintainers put in handling the claim.  For instance, NCSC-NL might report: "server shutdown", so the search engine index maintainer does not have to handle the request anymore, simply remove the pages from the index.
+
+We will present the first steps towards this standardization, looking for contributors and funding.  Hopefully, this workshop starts a healthy debate.</description>
+                <date>2025-08-09T13:30:00+02:00</date>
+                <start>13:30</start>
+                <duration>00:30</duration>
             </event>
         </room>
         <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">

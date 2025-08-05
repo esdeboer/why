@@ -60,6 +60,16 @@
     "type": "Talk"
   },
   {
+    "id": "628fa01d-8925-5f43-aadb-2850cea39b4f",
+    "title": "Solar Punk Zine Workshop & Gathering",
+    "description": "Age range: Aimed at adults but supervised kids welcome.\nWe'll be having a get-together to exchange about solarpunk ideas, and an intro to how to make mini-zines. Then we'll get going with putting our ideas down on paper! You'll be making your own zine with your solarpunk visions :) \nSome materials and tools will be provided, but feel free to bring some paper, pens, scissors, glue, cut-outs etc if you'd like.\nParticipation of up to 8 people.",
+    "start": "2025-08-08T15:00:00+02:00",
+    "end": "2025-08-08T17:00:00+02:00",
+    "room": "Village:Energy",
+    "url": "",
+    "type": "Workshop"
+  },
+  {
     "id": "f6c91348-6ecc-57ca-9031-7d247c0fcc37",
     "title": "FHB: Kefir Making",
     "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\n[https://dud-poll.inf.tu-dresden.de/kefir_why2025/ To secure spot on this workshop please sign in here].\n\n[https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form Workshop manual is shared here].\n\nThis is hands on workshop during which you will learn how to make, harvest and continue to prepare [https://en.wikipedia.org/wiki/Kefir kefir] using kefir grain culture which you will walk away with if you don't defend yourself too hard. We will explain basic concepts of probiotic, prebiotic and biofilm based polycultures and why it is good to consume foods \u201clabeled\u201d by these terms. You will prepare your own kefir culture, based on the  [https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form working manual] and take it with you so you will be ready to brew wherever you decide hopefully \u201cpositively infecting\u201d your local hackerspace. We will make at least one recipe together, either \"kefir cake\" or kefir smoked paprika spread, if we have time we may do a base for probiotic kefir drink using kefir whey.\n\nWe will demonstrate how to make a new batch of kefir and how to harvest the old one, you will than do it by yourself. The main aim of this workshop is for the participants to understand the principles behind the milk fermentation with kefir culture and not to be afraid to just do it. Combined with the practical experience which I provide you will be able to take care properly about your kefir culture which is the key for your successful long term fermentation adventures! Don't worry too much about loosing a batch or two, that happens from time to time, keeping the \"mother culture\" happy is the important part. As usually there will be tasters, cultures sharing, manuals and various hints how to use the products in alternative ways making for example probiotic drinks from whey, kefir cheese spreads, kefir cake et cetera. I can be also your troubleshooting help if you need it. \n\nThis workshop is donation based no one turned away for lack of funds, if you can chip in around 10\u20ac, that would be great but it is up to you.",
@@ -190,6 +200,16 @@
     "type": "Workshop"
   },
   {
+    "id": "82beca3c-428c-509c-b612-912a6e4d9daa",
+    "title": "Movies That Matter: Photophobia, a docu about growing up in Kharkiv during the war",
+    "description": "Age range: 12-16, 16+, 18+\nThanks to the cool people from Movies that Matter https://moviesthatmatter.nl/ we can show Photophobia, life in Kharkiv through the eyes of two children:\n\n'''PHOTOPHOBIA'''\n\nDeeply touching fiction-documentary hybrid, looking at the war in Ukraine through the eyes of two children in search of a ray of light. Niki (12) and Vika (11) meet in the underground subway tunnels where their families hide from Russian bombs. \u2018A positive attitude can help you forget everything.\u2019\n\nOn a cold February morning, 12-year-old Niki and his family arrive at the Kharkiv metro station to take shelter from the terrifying war raging outside. For Niki\u2019s family, daylight is synonymous with mortal danger, and the boy is not allowed to leave the station premises, living under the constant glow of their neon lights. While aimlessly wandering around the abandoned cars and full platforms, Niki meets Vika (11), and a new world opens up to him. As their bond strengthens, the children find the courage once again to feel the sun on their faces.\n\nSlovakian filmmaker duo Ivan Ostrochovsk\u00fd and Pavol Pekar\u010d\u00edk choose the path of hope rather than despondency to depict the tragedy of war: a nice man sings lyrics about love, while two children look towards the sky and their future.",
+    "start": "2025-08-09T18:00:00+02:00",
+    "end": "2025-08-09T19:30:00+02:00",
+    "room": "Village:Aid to Ukraine",
+    "url": "https://moviesthatmatter.nl/en/film/photophobia/",
+    "type": "Movie"
+  },
+  {
     "id": "facd9967-eb29-5832-af66-f888d80e5a49",
     "title": "How to get a new TV without paying. Phishing panels for the win!",
     "description": "This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. \nThe second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75\" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.",
@@ -198,6 +218,16 @@
     "room": "Village:Dutch Picknick",
     "url": "",
     "type": "Talk"
+  },
+  {
+    "id": "1936a291-fcec-5eac-b0fc-8a2dbc00b1ce",
+    "title": "The take-down process",
+    "description": "Age range: 16+\nWe all speak high about privacy and safety of internet use. The EU also has extensive legislation to protect people, businesses, and copyright holders.  However, in my experience, projects have very successful ways to make it difficult to execute your rights.  To name a few tricks: it's hard to find the source data collection, there are many data collections, you are required to deliver a difficult proof you have legal rights, and all processes are different.\n\nHere, I generalize various kinds of \"execute my right\" processes under the name \"take-down requests\".  It could be the wish to take down a physical server, all virtual servers of a certain company, a webpage with proclaimed defamation or other illegal content.\n\nThe very good reason to make submission of take-down requests hard, is that handling them is a labor intensive ad-hoc process. Some requests are clear, but sometimes many different laws and local society feelings have to be considered.  Very certainly, different data maintainers will decide different about the same request.\n\nThe Lethe project tries to simplify the submission of take-down requests to many data collectors at the same time.  It defines a clear template and collects various proofs about the claim by the submitter.  Then, it does not only distribute the request, but also shares the effort that participating data maintainers put in handling the claim.  For instance, NCSC-NL might report: \"server shutdown\", so the search engine index maintainer does not have to handle the request anymore, simply remove the pages from the index.\n\nWe will present the first steps towards this standardization, looking for contributors and funding.  Hopefully, this workshop starts a healthy debate.",
+    "start": "2025-08-09T13:30:00+02:00",
+    "end": "2025-08-09T14:00:00+02:00",
+    "room": "Village:Dutch Picknick",
+    "url": "https://github.com/Skrodon/Lethe",
+    "type": "Workshop"
   },
   {
     "id": "accb50d8-097f-55b7-b8a7-b95a6069b9c9",
