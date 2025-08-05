@@ -100,6 +100,16 @@
     "type": "Workshop"
   },
   {
+    "id": "d19636f2-0d39-5834-91d9-070bcccd41eb",
+    "title": "Pac-Desk",
+    "description": "Missing duration, check with organiser, dummy 10 minutes added",
+    "start": "2025-08-08T00:00:00+02:00",
+    "end": "2025-08-08T00:10:00+02:00",
+    "room": "Village:Not OS",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
     "id": "2a447fd1-0b53-5702-a216-1d8b3c28584c",
     "title": "Eat pancakes, Sleep, Hack, Repeat",
     "description": "Age range: All ages\n==== We'll be baking pancakes every main event day from 16:00 - 18:00, Bring Your Own Plate! ====\n\nPlease drop by and have a pancake! We're providing the camp with as much pancakes we can physically bake, as long as our supplies last ;-)\n\nThe Pancake village will be right next to the (main) Andromeda track.\n\n'''BYOP''' (Bring your own plate) and enjoy some pancakes with us!",

@@ -243,6 +243,22 @@ The prices in the yellow boxes are the materials costs for participating in the 
         <duration>02:00</duration>
       </event>
     </room>
+    <room name="Village:Not OS" guid="45e242c6-a59b-52a9-9296-659b75e47aed">
+      <event guid="d19636f2-0d39-5834-91d9-070bcccd41eb">
+        <title>Pac-Desk</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Make desks less boring!</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>Patatman</person>
+        </persons>
+        <description>Missing duration, check with organiser, dummy 10 minutes added</description>
+        <subtitle>Repeating!</subtitle>
+        <date>2025-08-08T00:00:00+02:00</date>
+        <start>00:00</start>
+        <duration>00:10</duration>
+      </event>
+    </room>
     <room name="Village:Pancake" guid="52612cea-1526-511d-bb5c-7c56b1d19fad">
       <event guid="2a447fd1-0b53-5702-a216-1d8b3c28584c">
         <title>Eat pancakes, Sleep, Hack, Repeat</title>
