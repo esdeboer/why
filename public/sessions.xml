@@ -409,7 +409,7 @@ Location is close to the Sauna/Salmiakki.</description>
       <event guid="b6072481-e486-5c6e-bfed-945ed8cb7160">
         <title>Stop the Bleed @ Aid to Ukraine</title>
         <track>Self Organized Sessions</track>
-        <abstract>Stop the Bleed training - in Ukraine it is the First Aid training that helps to save lives.</abstract>
+        <abstract>Daily Stop the Bleed training - in Ukraine it is the First Aid training that helps to save lives.</abstract>
         <url>https://aidtoukraine.nl</url>
         <type>Workshop</type>
         <persons>
@@ -446,32 +446,6 @@ https://aidtoukraine.nl</description>
         <date>2025-08-09T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
-      </event>
-      <event guid="82beca3c-428c-509c-b612-912a6e4d9daa">
-        <title>Movies That Matter: Photophobia, a docu about growing up in Kharkiv during the war</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Deeply touching fiction-documentary hybrid, looking at the war in Ukraine through the eyes of two children in search of a ray of light. Niki (12) and Vika (11) meet in the underground subway tunnels where their families hide from Russian bombs. ‘A positive attitude can help you forget everything.’</abstract>
-        <url>https://moviesthatmatter.nl/en/film/photophobia/</url>
-        <type>Movie</type>
-        <persons>
-          <person>Nino, Netsmurf</person>
-        </persons>
-        <language>en</language>
-        <description>Age range: 12-16, 16+, 18+
-Thanks to the cool people from Movies that Matter https://moviesthatmatter.nl/ we can show Photophobia, life in Kharkiv through the eyes of two children:
-
-'''PHOTOPHOBIA'''
-
-Deeply touching fiction-documentary hybrid, looking at the war in Ukraine through the eyes of two children in search of a ray of light. Niki (12) and Vika (11) meet in the underground subway tunnels where their families hide from Russian bombs. ‘A positive attitude can help you forget everything.’
-
-On a cold February morning, 12-year-old Niki and his family arrive at the Kharkiv metro station to take shelter from the terrifying war raging outside. For Niki’s family, daylight is synonymous with mortal danger, and the boy is not allowed to leave the station premises, living under the constant glow of their neon lights. While aimlessly wandering around the abandoned cars and full platforms, Niki meets Vika (11), and a new world opens up to him. As their bond strengthens, the children find the courage once again to feel the sun on their faces.
-
-Slovakian filmmaker duo Ivan Ostrochovský and Pavol Pekarčík choose the path of hope rather than despondency to depict the tragedy of war: a nice man sings lyrics about love, while two children look towards the sky and their future.
-
-Trailer: https://www.youtube.com/watch?v=dAiDu6oPtGI</description>
-        <date>2025-08-09T18:00:00+02:00</date>
-        <start>18:00</start>
-        <duration>01:30</duration>
       </event>
     </room>
     <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
@@ -896,6 +870,29 @@ This is your chance to discover beers you'd never find outside your region — u
         <duration>01:30</duration>
       </event>
     </room>
+    <room name="Village:Xyberfoort" guid="bd7ceaee-7e0e-52b7-94cd-f866152e2d27">
+      <event guid="549339ab-a105-598a-8069-6a2734aff6b0">
+        <title>WICCA Goes... WHY2025</title>
+        <track>Self Organized Sessions</track>
+        <abstract>For WICCA members and new people, let’s meetup for some drinks and catch-up!</abstract>
+        <url>https://www.meetup.com/wiccanl/events/308930574/?eventOrigin=home_page_upcoming_events%24all</url>
+        <type>Meeting</type>
+        <persons>
+          <person>Tidi, MiFareLady, Ilse</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+Welcome to WICCA: a coven of tech-savvy witches hacking not with wands, but keyboards and crypto jokes! We're not just casting spells, we're probing vulnerabilities, decrypting mysteries, and raising TLS certificates (no cauldrons spilled)—all while sipping coffee or Club Mate.
+
+Let’s meetup for some drinks and catch-up on Saturday @ Xyberfoort at 17:00 o'clock. For all members of WICCA and people who want to get acquainted with WICCA, we'll see you at the 9th of August at 17:00 o'clock. There will be stickers!
+
+Thanks to Onyx Cybersecurity for hosting us again!</description>
+        <subtitle>Welcome to WICCA</subtitle>
+        <date>2025-08-09T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
     <room name="Village:Yolocation" guid="0146cfb4-fa38-5326-a457-25f67bbafbf1">
       <event guid="65e0dbf8-5282-50da-ab23-c3f86c0f63b6">
         <title>Yolocation: How to pop up a virtualisation infrastructure on a lawn</title>
@@ -956,7 +953,7 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
       <event guid="a715e8a8-0370-51e8-9b1c-4e0320d87946">
         <title>Stop the Bleed @ Aid to Ukraine</title>
         <track>Self Organized Sessions</track>
-        <abstract>Stop the Bleed training - in Ukraine it is the First Aid training that helps to save lives.</abstract>
+        <abstract>Daily Stop the Bleed training - in Ukraine it is the First Aid training that helps to save lives.</abstract>
         <url>https://aidtoukraine.nl</url>
         <type>Workshop</type>
         <persons>
@@ -994,33 +991,31 @@ https://aidtoukraine.nl</description>
         <start>14:00</start>
         <duration>02:00</duration>
       </event>
-      <event guid="19311d03-bae7-5010-ba6a-200ab68c7584">
-        <title>Movies That Matter: My Dear Théo, messages between the front and your family</title>
+      <event guid="82beca3c-428c-509c-b612-912a6e4d9daa">
+        <title>Movies That Matter: Photophobia, a docu about growing up in Kharkiv during the war</title>
         <track>Self Organized Sessions</track>
-        <abstract>A moving and personal documentary by filmmaker Alisa Kovalenko, who made a profound choice in 2022: while her partner and their four-year-old son left for France, she joined the Ukrainian army. During four months at the front, she wrote letters to her son Theo and recorded her experiences in a cinematic diary.</abstract>
-        <url>https://moviesthatmatter.nl/en/film/my-dear-theo/</url>
+        <abstract>Deeply touching fiction-documentary hybrid, looking at the war in Ukraine through the eyes of two children in search of a ray of light. Niki (12) and Vika (11) meet in the underground subway tunnels where their families hide from Russian bombs. ‘A positive attitude can help you forget everything.’</abstract>
+        <url>https://moviesthatmatter.nl/en/film/photophobia/</url>
         <type>Movie</type>
         <persons>
           <person>Nino, Netsmurf</person>
         </persons>
         <language>en</language>
         <description>Age range: 12-16, 16+, 18+
-Thanks to the cool people at Movies That Matter https://moviesthatmatter.nl/ we can show the story of Alisa Kovalenko, My Dear Théo, with messages she sent from the front to her family: 
+Thanks to the cool people from Movies that Matter https://moviesthatmatter.nl/ we can show Photophobia, life in Kharkiv through the eyes of two children:
 
-'''My Dear Théo'''
+'''PHOTOPHOBIA'''
 
-''Alisa Kovalenko''
+Deeply touching fiction-documentary hybrid, looking at the war in Ukraine through the eyes of two children in search of a ray of light. Niki (12) and Vika (11) meet in the underground subway tunnels where their families hide from Russian bombs. ‘A positive attitude can help you forget everything.’
 
-A moving and personal documentary by filmmaker Alisa Kovalenko, who made a profound choice in 2022: while her partner and their four-year-old son left for France, she joined the Ukrainian army. During four months at the front, she wrote letters to her son Theo and recorded her experiences in a cinematic diary. 
+On a cold February morning, 12-year-old Niki and his family arrive at the Kharkiv metro station to take shelter from the terrifying war raging outside. For Niki’s family, daylight is synonymous with mortal danger, and the boy is not allowed to leave the station premises, living under the constant glow of their neon lights. While aimlessly wandering around the abandoned cars and full platforms, Niki meets Vika (11), and a new world opens up to him. As their bond strengthens, the children find the courage once again to feel the sun on their faces.
 
-In My Dear Théo, Kovalenko, known for the documentaries Home Games and We Will Not Fade Away, which were screened at film festivals worldwide, swaps her role as a filmmaker for that of a soldier. In poetic, deeply moving letters to her son, she reflects on the harsh realities of war and her search for humanity amid violence and loss. The letters, which were later recorded, form a rare and powerful contrast to the raw images of the war zone: they capture both existential angst and the unbreakable bond between a mother and her child. 
+Slovakian filmmaker duo Ivan Ostrochovský and Pavol Pekarčík choose the path of hope rather than despondency to depict the tragedy of war: a nice man sings lyrics about love, while two children look towards the sky and their future.
 
-With her intimate and confrontational images, Kovalenko blurs the line between personal and collective history. My Dear Théo is not only a record of struggle and survival, but also a timeless testament to love, hope and human resilience.
-
-Trailer: https://www.youtube.com/watch?v=fes329l6d6U</description>
+Trailer: https://www.youtube.com/watch?v=dAiDu6oPtGI</description>
         <date>2025-08-10T18:00:00+02:00</date>
         <start>18:00</start>
-        <duration>02:00</duration>
+        <duration>01:30</duration>
       </event>
     </room>
     <room name="Village:Back to the 80s Party" guid="62564f9a-530f-5d06-baa9-6cf3691119b3">
@@ -1326,7 +1321,7 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
       <event guid="b004701b-7fdf-5225-974a-3b121ab88718">
         <title>Stop the Bleed @ Aid to Ukraine</title>
         <track>Self Organized Sessions</track>
-        <abstract>Stop the Bleed training - in Ukraine it is the First Aid training that helps to save lives.</abstract>
+        <abstract>Daily Stop the Bleed training - in Ukraine it is the First Aid training that helps to save lives.</abstract>
         <url>https://aidtoukraine.nl</url>
         <type>Workshop</type>
         <persons>
@@ -1362,6 +1357,34 @@ Yes for sure! If you want to support our foundation Aid to Ukraine, you can dona
 https://aidtoukraine.nl</description>
         <date>2025-08-11T14:00:00+02:00</date>
         <start>14:00</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="19311d03-bae7-5010-ba6a-200ab68c7584">
+        <title>Movies That Matter: My Dear Théo, messages between the front and your family</title>
+        <track>Self Organized Sessions</track>
+        <abstract>A moving and personal documentary by filmmaker Alisa Kovalenko, who made a profound choice in 2022: while her partner and their four-year-old son left for France, she joined the Ukrainian army. During four months at the front, she wrote letters to her son Theo and recorded her experiences in a cinematic diary.</abstract>
+        <url>https://moviesthatmatter.nl/en/film/my-dear-theo/</url>
+        <type>Movie</type>
+        <persons>
+          <person>Nino, Netsmurf</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: 12-16, 16+, 18+
+Thanks to the cool people at Movies That Matter https://moviesthatmatter.nl/ we can show the story of Alisa Kovalenko, My Dear Théo, with messages she sent from the front to her family: 
+
+'''My Dear Théo'''
+
+''Alisa Kovalenko''
+
+A moving and personal documentary by filmmaker Alisa Kovalenko, who made a profound choice in 2022: while her partner and their four-year-old son left for France, she joined the Ukrainian army. During four months at the front, she wrote letters to her son Theo and recorded her experiences in a cinematic diary. 
+
+In My Dear Théo, Kovalenko, known for the documentaries Home Games and We Will Not Fade Away, which were screened at film festivals worldwide, swaps her role as a filmmaker for that of a soldier. In poetic, deeply moving letters to her son, she reflects on the harsh realities of war and her search for humanity amid violence and loss. The letters, which were later recorded, form a rare and powerful contrast to the raw images of the war zone: they capture both existential angst and the unbreakable bond between a mother and her child. 
+
+With her intimate and confrontational images, Kovalenko blurs the line between personal and collective history. My Dear Théo is not only a record of struggle and survival, but also a timeless testament to love, hope and human resilience.
+
+Trailer: https://www.youtube.com/watch?v=fes329l6d6U</description>
+        <date>2025-08-11T18:00:00+02:00</date>
+        <start>18:00</start>
         <duration>02:00</duration>
       </event>
     </room>
@@ -1703,7 +1726,7 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
       <event guid="20e7c0cc-fb48-57a5-b3e2-fb1d7c18d3b9">
         <title>Stop the Bleed @ Aid to Ukraine</title>
         <track>Self Organized Sessions</track>
-        <abstract>Stop the Bleed training - in Ukraine it is the First Aid training that helps to save lives.</abstract>
+        <abstract>Daily Stop the Bleed training - in Ukraine it is the First Aid training that helps to save lives.</abstract>
         <url>https://aidtoukraine.nl</url>
         <type>Workshop</type>
         <persons>

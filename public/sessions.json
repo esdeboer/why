@@ -200,16 +200,6 @@
     "type": "Workshop"
   },
   {
-    "id": "82beca3c-428c-509c-b612-912a6e4d9daa",
-    "title": "Movies That Matter: Photophobia, a docu about growing up in Kharkiv during the war",
-    "description": "Age range: 12-16, 16+, 18+\nThanks to the cool people from Movies that Matter https://moviesthatmatter.nl/ we can show Photophobia, life in Kharkiv through the eyes of two children:\n\n'''PHOTOPHOBIA'''\n\nDeeply touching fiction-documentary hybrid, looking at the war in Ukraine through the eyes of two children in search of a ray of light. Niki (12) and Vika (11) meet in the underground subway tunnels where their families hide from Russian bombs. \u2018A positive attitude can help you forget everything.\u2019\n\nOn a cold February morning, 12-year-old Niki and his family arrive at the Kharkiv metro station to take shelter from the terrifying war raging outside. For Niki\u2019s family, daylight is synonymous with mortal danger, and the boy is not allowed to leave the station premises, living under the constant glow of their neon lights. While aimlessly wandering around the abandoned cars and full platforms, Niki meets Vika (11), and a new world opens up to him. As their bond strengthens, the children find the courage once again to feel the sun on their faces.\n\nSlovakian filmmaker duo Ivan Ostrochovsk\u00fd and Pavol Pekar\u010d\u00edk choose the path of hope rather than despondency to depict the tragedy of war: a nice man sings lyrics about love, while two children look towards the sky and their future.\n\nTrailer: https://www.youtube.com/watch?v=dAiDu6oPtGI",
-    "start": "2025-08-09T18:00:00+02:00",
-    "end": "2025-08-09T19:30:00+02:00",
-    "room": "Village:Aid to Ukraine",
-    "url": "https://moviesthatmatter.nl/en/film/photophobia/",
-    "type": "Movie"
-  },
-  {
     "id": "facd9967-eb29-5832-af66-f888d80e5a49",
     "title": "How to get a new TV without paying. Phishing panels for the win!",
     "description": "This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. \nThe second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75\" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.",
@@ -390,6 +380,16 @@
     "type": "Meeting"
   },
   {
+    "id": "549339ab-a105-598a-8069-6a2734aff6b0",
+    "title": "WICCA Goes... WHY2025",
+    "description": "Age range: All ages\nWelcome to WICCA: a coven of tech-savvy witches hacking not with wands, but keyboards and crypto jokes! We're not just casting spells, we're probing vulnerabilities, decrypting mysteries, and raising TLS certificates (no cauldrons spilled)\u2014all while sipping coffee or Club Mate.\n\nLet\u2019s meetup for some drinks and catch-up on Saturday @ Xyberfoort at 17:00 o'clock. For all members of WICCA and people who want to get acquainted with WICCA, we'll see you at the 9th of August at 17:00 o'clock. There will be stickers!\n\nThanks to Onyx Cybersecurity for hosting us again!",
+    "start": "2025-08-09T17:00:00+02:00",
+    "end": "2025-08-09T19:00:00+02:00",
+    "room": "Village:Xyberfoort",
+    "url": "https://www.meetup.com/wiccanl/events/308930574/?eventOrigin=home_page_upcoming_events%24all",
+    "type": "Meeting"
+  },
+  {
     "id": "65e0dbf8-5282-50da-ab23-c3f86c0f63b6",
     "title": "Yolocation: How to pop up a virtualisation infrastructure on a lawn",
     "description": "",
@@ -430,13 +430,13 @@
     "type": "Workshop"
   },
   {
-    "id": "19311d03-bae7-5010-ba6a-200ab68c7584",
-    "title": "Movies That Matter: My Dear Th\u00e9o, messages between the front and your family",
-    "description": "Age range: 12-16, 16+, 18+\nThanks to the cool people at Movies That Matter https://moviesthatmatter.nl/ we can show the story of Alisa Kovalenko, My Dear Th\u00e9o, with messages she sent from the front to her family: \n\n'''My Dear Th\u00e9o'''\n\n''Alisa Kovalenko''\n\nA moving and personal documentary by filmmaker Alisa Kovalenko, who made a profound choice in 2022: while her partner and their four-year-old son left for France, she joined the Ukrainian army. During four months at the front, she wrote letters to her son Theo and recorded her experiences in a cinematic diary. \n\nIn My Dear Th\u00e9o, Kovalenko, known for the documentaries Home Games and We Will Not Fade Away, which were screened at film festivals worldwide, swaps her role as a filmmaker for that of a soldier. In poetic, deeply moving letters to her son, she reflects on the harsh realities of war and her search for humanity amid violence and loss. The letters, which were later recorded, form a rare and powerful contrast to the raw images of the war zone: they capture both existential angst and the unbreakable bond between a mother and her child. \n\nWith her intimate and confrontational images, Kovalenko blurs the line between personal and collective history. My Dear Th\u00e9o is not only a record of struggle and survival, but also a timeless testament to love, hope and human resilience.\n\nTrailer: https://www.youtube.com/watch?v=fes329l6d6U",
+    "id": "82beca3c-428c-509c-b612-912a6e4d9daa",
+    "title": "Movies That Matter: Photophobia, a docu about growing up in Kharkiv during the war",
+    "description": "Age range: 12-16, 16+, 18+\nThanks to the cool people from Movies that Matter https://moviesthatmatter.nl/ we can show Photophobia, life in Kharkiv through the eyes of two children:\n\n'''PHOTOPHOBIA'''\n\nDeeply touching fiction-documentary hybrid, looking at the war in Ukraine through the eyes of two children in search of a ray of light. Niki (12) and Vika (11) meet in the underground subway tunnels where their families hide from Russian bombs. \u2018A positive attitude can help you forget everything.\u2019\n\nOn a cold February morning, 12-year-old Niki and his family arrive at the Kharkiv metro station to take shelter from the terrifying war raging outside. For Niki\u2019s family, daylight is synonymous with mortal danger, and the boy is not allowed to leave the station premises, living under the constant glow of their neon lights. While aimlessly wandering around the abandoned cars and full platforms, Niki meets Vika (11), and a new world opens up to him. As their bond strengthens, the children find the courage once again to feel the sun on their faces.\n\nSlovakian filmmaker duo Ivan Ostrochovsk\u00fd and Pavol Pekar\u010d\u00edk choose the path of hope rather than despondency to depict the tragedy of war: a nice man sings lyrics about love, while two children look towards the sky and their future.\n\nTrailer: https://www.youtube.com/watch?v=dAiDu6oPtGI",
     "start": "2025-08-10T18:00:00+02:00",
-    "end": "2025-08-10T20:00:00+02:00",
+    "end": "2025-08-10T19:30:00+02:00",
     "room": "Village:Aid to Ukraine",
-    "url": "https://moviesthatmatter.nl/en/film/my-dear-theo/",
+    "url": "https://moviesthatmatter.nl/en/film/photophobia/",
     "type": "Movie"
   },
   {
@@ -598,6 +598,16 @@
     "room": "Village:Aid to Ukraine",
     "url": "https://aidtoukraine.nl",
     "type": "Workshop"
+  },
+  {
+    "id": "19311d03-bae7-5010-ba6a-200ab68c7584",
+    "title": "Movies That Matter: My Dear Th\u00e9o, messages between the front and your family",
+    "description": "Age range: 12-16, 16+, 18+\nThanks to the cool people at Movies That Matter https://moviesthatmatter.nl/ we can show the story of Alisa Kovalenko, My Dear Th\u00e9o, with messages she sent from the front to her family: \n\n'''My Dear Th\u00e9o'''\n\n''Alisa Kovalenko''\n\nA moving and personal documentary by filmmaker Alisa Kovalenko, who made a profound choice in 2022: while her partner and their four-year-old son left for France, she joined the Ukrainian army. During four months at the front, she wrote letters to her son Theo and recorded her experiences in a cinematic diary. \n\nIn My Dear Th\u00e9o, Kovalenko, known for the documentaries Home Games and We Will Not Fade Away, which were screened at film festivals worldwide, swaps her role as a filmmaker for that of a soldier. In poetic, deeply moving letters to her son, she reflects on the harsh realities of war and her search for humanity amid violence and loss. The letters, which were later recorded, form a rare and powerful contrast to the raw images of the war zone: they capture both existential angst and the unbreakable bond between a mother and her child. \n\nWith her intimate and confrontational images, Kovalenko blurs the line between personal and collective history. My Dear Th\u00e9o is not only a record of struggle and survival, but also a timeless testament to love, hope and human resilience.\n\nTrailer: https://www.youtube.com/watch?v=fes329l6d6U",
+    "start": "2025-08-11T18:00:00+02:00",
+    "end": "2025-08-11T20:00:00+02:00",
+    "room": "Village:Aid to Ukraine",
+    "url": "https://moviesthatmatter.nl/en/film/my-dear-theo/",
+    "type": "Movie"
   },
   {
     "id": "1b1c53a6-1140-5e42-8093-ca03fd5e8659",
