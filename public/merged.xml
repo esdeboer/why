@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>1.5 - Venera</version>
+    <version>1.6 - Freedom</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -4257,7 +4257,9 @@ Deeply touching fiction-documentary hybrid, looking at the war in Ukraine throug
 
 On a cold February morning, 12-year-old Niki and his family arrive at the Kharkiv metro station to take shelter from the terrifying war raging outside. For Niki’s family, daylight is synonymous with mortal danger, and the boy is not allowed to leave the station premises, living under the constant glow of their neon lights. While aimlessly wandering around the abandoned cars and full platforms, Niki meets Vika (11), and a new world opens up to him. As their bond strengthens, the children find the courage once again to feel the sun on their faces.
 
-Slovakian filmmaker duo Ivan Ostrochovský and Pavol Pekarčík choose the path of hope rather than despondency to depict the tragedy of war: a nice man sings lyrics about love, while two children look towards the sky and their future.</description>
+Slovakian filmmaker duo Ivan Ostrochovský and Pavol Pekarčík choose the path of hope rather than despondency to depict the tragedy of war: a nice man sings lyrics about love, while two children look towards the sky and their future.
+
+Trailer: https://www.youtube.com/watch?v=dAiDu6oPtGI</description>
                 <date>2025-08-09T18:00:00+02:00</date>
                 <start>18:00</start>
                 <duration>01:30</duration>
@@ -4931,38 +4933,13 @@ The project is at its peak right now. If you want to make an impact on society: 
                 <url>https://program.why2025.org/why2025/talk/3ZMKFQ/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/3ZMKFQ/feedback/</feedback_url>
             </event>
-            <event guid="b7b60b55-37b1-520c-8a54-8b7b4c71dd95" id="34">
-                <room>Andromeda</room>
-                <title>Reverse Engineering Life: A teardown of the DNA source code of a whole bacterium</title>
-                <subtitle />
-                <type>Talk (50 minutes)</type>
-                <date>2025-08-10T19:00:00+02:00</date>
-                <start>19:00</start>
-                <duration>00:50</duration>
-                <abstract>Love reverse engineering? You'd be right since you always find something interesting! In this talk we're going to study absolutely every byte of the DNA source of a real bacterium. And in doing so, we'll find bootstrapping code, genes, duplicate genes, anti-viral defense mechanisms, idiomatic/non-idiomatic/borrowed code &amp; much more. It helps if you've also visited the companion talk on DNA, but this presentation is broadly accessible even without prior knowledge.</abstract>
-                <slug>why2025-34-reverse-engineering-life-a-teardown-of-the-dna-source-code-of-a-whole-bacterium</slug>
-                <track>The square hole</track>
-                <persons>
-                    <person id="51">bert hubert</person>
-                </persons>
-                <language>en</language>
-                <description>A typical bacterium has around one megabyte of DNA as its source code. And with our digital reverse engineering hat on, it turns out we can analyse this code and quickly learn things. Where do genes begin and end? What is the stuff between genes? How do bacteria bootstrap themselves? And, where do microbes store their immune system? Using digital skills, all this can be found just by looking at the DNA letters. And that is what we'll be doing in this talk.</description>
-                <recording>
-                    <license />
-                    <optout>false</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/LUXFSP/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/LUXFSP/feedback/</feedback_url>
-            </event>
             <event guid="67a88d82-010a-5f3b-8331-506959566903" id="100">
                 <room>Andromeda</room>
                 <title>Low Energy to High Energy: Hacking nearby EV-chargers over Bluetooth</title>
                 <subtitle />
                 <type>Talk (50 minutes)</type>
-                <date>2025-08-10T20:00:00+02:00</date>
-                <start>20:00</start>
+                <date>2025-08-10T19:00:00+02:00</date>
+                <start>19:00</start>
                 <duration>00:50</duration>
                 <abstract>During the first Pwn2Own Automotive, organised by ZDI in Tokyo in January 2024, Computest Sector 7 successfully demonstrated exploits for vulnerabilities in three different EV-chargers. All three could be exploited to execute arbitrary code on the charger, with the only prerequisite being close enough to connect to Bluetooth.</abstract>
                 <slug>why2025-100-low-energy-to-high-energy-hacking-nearby-ev-chargers-over-bluetooth</slug>
@@ -4983,6 +4960,31 @@ During this talk we'll discuss the details on how we extracted the firmware, the
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/AGVUVM/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/AGVUVM/feedback/</feedback_url>
+            </event>
+            <event guid="b7b60b55-37b1-520c-8a54-8b7b4c71dd95" id="34">
+                <room>Andromeda</room>
+                <title>Reverse Engineering Life: A teardown of the DNA source code of a whole bacterium</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-10T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>00:50</duration>
+                <abstract>Love reverse engineering? You'd be right since you always find something interesting! In this talk we're going to study absolutely every byte of the DNA source of a real bacterium. And in doing so, we'll find bootstrapping code, genes, duplicate genes, anti-viral defense mechanisms, idiomatic/non-idiomatic/borrowed code &amp; much more. It helps if you've also visited the companion talk on DNA, but this presentation is broadly accessible even without prior knowledge.</abstract>
+                <slug>why2025-34-reverse-engineering-life-a-teardown-of-the-dna-source-code-of-a-whole-bacterium</slug>
+                <track>The square hole</track>
+                <persons>
+                    <person id="51">bert hubert</person>
+                </persons>
+                <language>en</language>
+                <description>A typical bacterium has around one megabyte of DNA as its source code. And with our digital reverse engineering hat on, it turns out we can analyse this code and quickly learn things. Where do genes begin and end? What is the stuff between genes? How do bacteria bootstrap themselves? And, where do microbes store their immune system? Using digital skills, all this can be found just by looking at the DNA letters. And that is what we'll be doing in this talk.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/LUXFSP/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/LUXFSP/feedback/</feedback_url>
             </event>
             <event guid="6096bb26-ade4-51b0-b004-87de28dd494b" id="190">
                 <room>Andromeda</room>
@@ -6778,6 +6780,35 @@ In addition to his classical experience with orchestras, Reyn is also a producer
             </event>
         </room>
         <room name="Party Area" guid="7d7974b9-c23e-5ed8-8b89-5c0775d32bf2">
+            <event guid="7d9a88fb-c784-5b9c-b871-67c1f3e2a5af" id="365">
+                <room>Party Area</room>
+                <title>Movie: Photophobia</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-10T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>02:00</duration>
+                <abstract>Deeply touching fiction-documentary hybrid, looking at the war in Ukraine through the eyes of two children in search of a ray of light. Niki (12) and Vika (11) meet in the underground subway tunnels where their families hide from Russian bombs. ‘A positive attitude can help you forget everything.’</abstract>
+                <slug>why2025-365-movie-photophobia</slug>
+                <track>Entertainment</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>On a cold February morning, 12-year-old Niki and his family arrive at the Kharkiv metro station to take shelter from the terrifying war raging outside. For Niki’s family, daylight is synonymous with mortal danger, and the boy is not allowed to leave the station premises, living under the constant glow of their neon lights. While aimlessly wandering around the abandoned cars and full platforms, Niki meets Vika (11), and a new world opens up to him. As their bond strengthens, the children find the courage once again to feel the sun on their faces.
+
+Slovakian filmmaker duo Ivan Ostrochovský and Pavol Pekarčík choose the path of hope rather than despondency to depict the tragedy of war: a nice man sings lyrics about love, while two children look towards the sky and their future. 
+
+https://moviesthatmatter.nl/en/film/photophobia/</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/7CGJML/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/7CGJML/feedback/</feedback_url>
+            </event>
             <event guid="eee86702-a02e-518c-beff-661386f10df6" id="307">
                 <room>Party Area</room>
                 <title>Symphony of Fire (Show): Music created from explosions, fire and lightning!</title>
@@ -7287,6 +7318,34 @@ Yes for sure! If you want to support our foundation Aid to Ukraine, you can dona
 https://aidtoukraine.nl</description>
                 <date>2025-08-10T14:00:00+02:00</date>
                 <start>14:00</start>
+                <duration>02:00</duration>
+            </event>
+            <event guid="19311d03-bae7-5010-ba6a-200ab68c7584">
+                <title>Movies That Matter: My Dear Théo, messages between the front and your family</title>
+                <track>Self Organized Sessions</track>
+                <abstract>A moving and personal documentary by filmmaker Alisa Kovalenko, who made a profound choice in 2022: while her partner and their four-year-old son left for France, she joined the Ukrainian army. During four months at the front, she wrote letters to her son Theo and recorded her experiences in a cinematic diary.</abstract>
+                <url>https://moviesthatmatter.nl/en/film/my-dear-theo/</url>
+                <type>Movie</type>
+                <persons>
+                    <person>Nino, Netsmurf</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: 12-16, 16+, 18+
+Thanks to the cool people at Movies That Matter https://moviesthatmatter.nl/ we can show the story of Alisa Kovalenko, My Dear Théo, with messages she sent from the front to her family: 
+
+'''My Dear Théo'''
+
+''Alisa Kovalenko''
+
+A moving and personal documentary by filmmaker Alisa Kovalenko, who made a profound choice in 2022: while her partner and their four-year-old son left for France, she joined the Ukrainian army. During four months at the front, she wrote letters to her son Theo and recorded her experiences in a cinematic diary. 
+
+In My Dear Théo, Kovalenko, known for the documentaries Home Games and We Will Not Fade Away, which were screened at film festivals worldwide, swaps her role as a filmmaker for that of a soldier. In poetic, deeply moving letters to her son, she reflects on the harsh realities of war and her search for humanity amid violence and loss. The letters, which were later recorded, form a rare and powerful contrast to the raw images of the war zone: they capture both existential angst and the unbreakable bond between a mother and her child. 
+
+With her intimate and confrontational images, Kovalenko blurs the line between personal and collective history. My Dear Théo is not only a record of struggle and survival, but also a timeless testament to love, hope and human resilience.
+
+Trailer: https://www.youtube.com/watch?v=fes329l6d6U</description>
+                <date>2025-08-10T18:00:00+02:00</date>
+                <start>18:00</start>
                 <duration>02:00</duration>
             </event>
         </room>
@@ -9588,6 +9647,35 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
             </event>
         </room>
         <room name="Party Area" guid="7d7974b9-c23e-5ed8-8b89-5c0775d32bf2">
+            <event guid="11facaca-9d24-57b8-b9e7-75c23a8e6791" id="366">
+                <room>Party Area</room>
+                <title>Movie: My Dear Théo</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>02:00</duration>
+                <abstract>A moving and personal documentary by filmmaker Alisa Kovalenko, who made a profound choice in 2022: while her partner and their four-year-old son left for France, she joined the Ukrainian army. During four months at the front, she wrote letters to her son Theo and recorded her experiences in a cinematic diary.</abstract>
+                <slug>why2025-366-movie-my-dear-theo</slug>
+                <track>Entertainment</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>In My Dear Théo, Kovalenko, known for the documentaries Home Games and We Will Not Fade Away, which were screened at film festivals worldwide, swaps her role as a filmmaker for that of a soldier. In poetic, deeply moving letters to her son, she reflects on the harsh realities of war and her search for humanity amid violence and loss. The letters, which were later recorded, form a rare and powerful contrast to the raw images of the war zone: they capture both existential angst and the unbreakable bond between a mother and her child. 
+
+With her intimate and confrontational images, Kovalenko blurs the line between personal and collective history. My Dear Théo is not only a record of struggle and survival, but also a timeless testament to love, hope and human resilience. 
+
+https://moviesthatmatter.nl/en/film/my-dear-theo/</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/Q3PXSV/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/Q3PXSV/feedback/</feedback_url>
+            </event>
             <event guid="0dc80c98-109d-5636-b7b8-9cbecadd3175" id="309">
                 <room>Party Area</room>
                 <title>Movie: E.T. the Extra-Terrestrial</title>
