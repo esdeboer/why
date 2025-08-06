@@ -1028,5 +1028,15 @@
     "room": "undetermined",
     "url": "",
     "type": "Hands-On"
+  },
+  {
+    "id": "47345842-2a17-59a7-8126-9f47c8827e36",
+    "title": "Hacking mobile phones",
+    "description": "Generated time to make session visible, might need an actual date and time\nI'd like a follow up of the #postmarketos meeting at last CCC Congress.\n\nLocation and time tba.\n\nI refurbish old devices. I got a whole bucket full of them.\nStandup comedy about secure boot.\n\nirc: hackint/#chaostal",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T01:00:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Meeting"
   }
 ]
