@@ -450,6 +450,16 @@
     "type": "Outside"
   },
   {
+    "id": "d842e35e-7bdd-58e6-be15-379cd1f08ce6",
+    "title": "Pokemon Go - Raid day",
+    "description": "Age range: All ages\nDuring this event you get 5 extra raid passes. \nOnce it is known where the most gyms are close to eachother a location will be added to the wiki. Let's assume for now that there is a gym at the entrance and that we can meet there.\n\nFeel free to add me in pokemon go: 4362 1289 5651",
+    "start": "2025-08-10T11:00:00+02:00",
+    "end": "2025-08-10T12:00:00+02:00",
+    "room": "Village:/media",
+    "url": "https://leekduck.com/events/ultra-unlock-origin-raid-day-2025/",
+    "type": "Game"
+  },
+  {
     "id": "a715e8a8-0370-51e8-9b1c-4e0320d87946",
     "title": "Stop the Bleed @ Aid to Ukraine",
     "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
@@ -1008,5 +1018,15 @@
     "room": "undetermined",
     "url": "https://wiki.why2025.org/Village:Green_Ninjas",
     "type": "Talk"
+  },
+  {
+    "id": "b1ae3271-4299-501f-8f94-639efccef27f",
+    "title": "Delta Chat online try-out",
+    "description": "Generated time to make session visible, might need an actual date and time\nAge range: Aimed at adults but supervised kids welcome.\nTry out Delta Chat with others and experience how well decentral chat works. Use a public chatmail server, or even use your own email account.\n\nTrying it in real life makes it easier to test responsiveness and app capabilities.\n\nTry with other villagers online. Come to [[User:Gapspark]] at [[Village:Energy]] for support.\n\n[https://i.delta.chat/#89F6E44864D46FEE0B701CFB472D6638244B129F&a=j7j7nqo7y%40nine.testrun.org&g=WHY&x=OsE3DK5TH18CI6WLEc9q58Qx&i=jkT2D4K6RKCIfI5K24QzxMej&s=GgRtOvD-Ray9qsPgYDrBWvpW Join the WHY Delta Chat group]\n\n=Getting started=\n\n1. [https://delta.chat/en/download Download the FOSS DeltaChat app].\n\n2A. Create an account on the suggested chatmail server.\n\n2B. Connect via IMAP to your own server by choosing 'use other server' and 'classic e-mail  login'. Be sure that option is on to move messages to a separate folder to avoid cluttering the mail ox. Upside: existing email discoverability, more decentralized. Downsides: messages take longer to arrive and risk of being throttled by your mail provider.\n\n3. Join the [https://i.delta.chat/#89F6E44864D46FEE0B701CFB472D6638244B129F&a=j7j7nqo7y%40nine.testrun.org&g=WHY&x=OsE3DK5TH18CI6WLEc9q58Qx&i=jkT2D4K6RKCIfI5K24QzxMej&s=GgRtOvD-Ray9qsPgYDrBWvpW WHY room] and try out chat, or [https://webxdc.org/ decentralized chat web apps].",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T01:00:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Hands-On"
   }
 ]

@@ -986,6 +986,26 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
     </room>
   </day>
   <day date="2025-08-10">
+    <room name="Village:/media" guid="457f3023-28aa-58de-a844-a9bb82558e38">
+      <event guid="d842e35e-7bdd-58e6-be15-379cd1f08ce6">
+        <title>Pokemon Go - Raid day</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Palkia and Dialga return to Pokemon Go! Let's work together to catch them.</abstract>
+        <url>https://leekduck.com/events/ultra-unlock-origin-raid-day-2025/</url>
+        <type>Game</type>
+        <persons>
+          <person>Eis-T</person>
+        </persons>
+        <description>Age range: All ages
+During this event you get 5 extra raid passes. 
+Once it is known where the most gyms are close to eachother a location will be added to the wiki. Let's assume for now that there is a gym at the entrance and that we can meet there.
+
+Feel free to add me in pokemon go: 4362 1289 5651</description>
+        <date>2025-08-10T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
     <room name="Village:Aid to Ukraine" guid="30153654-380f-5aa4-a9e0-64d27307d22b">
       <event guid="a715e8a8-0370-51e8-9b1c-4e0320d87946">
         <title>Stop the Bleed @ Aid to Ukraine</title>
@@ -2169,6 +2189,38 @@ Age range: 16+</description>
         <duration>01:00</duration>
         <description>Generated time to make session visible, might need an actual date and time
 Age range: 16+</description>
+      </event>
+      <event guid="b1ae3271-4299-501f-8f94-639efccef27f">
+        <title>Delta Chat online try-out</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Try out Delta Chat together and experience how well it works! Online with on-site support.</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>Gapspark</person>
+        </persons>
+        <language>en</language>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: Aimed at adults but supervised kids welcome.
+Try out Delta Chat with others and experience how well decentral chat works. Use a public chatmail server, or even use your own email account.
+
+Trying it in real life makes it easier to test responsiveness and app capabilities.
+
+Try with other villagers online. Come to [[User:Gapspark]] at [[Village:Energy]] for support.
+
+[https://i.delta.chat/#89F6E44864D46FEE0B701CFB472D6638244B129F&amp;a=j7j7nqo7y%40nine.testrun.org&amp;g=WHY&amp;x=OsE3DK5TH18CI6WLEc9q58Qx&amp;i=jkT2D4K6RKCIfI5K24QzxMej&amp;s=GgRtOvD-Ray9qsPgYDrBWvpW Join the WHY Delta Chat group]
+
+=Getting started=
+
+1. [https://delta.chat/en/download Download the FOSS DeltaChat app].
+
+2A. Create an account on the suggested chatmail server.
+
+2B. Connect via IMAP to your own server by choosing 'use other server' and 'classic e-mail  login'. Be sure that option is on to move messages to a separate folder to avoid cluttering the mail ox. Upside: existing email discoverability, more decentralized. Downsides: messages take longer to arrive and risk of being throttled by your mail provider.
+
+3. Join the [https://i.delta.chat/#89F6E44864D46FEE0B701CFB472D6638244B129F&amp;a=j7j7nqo7y%40nine.testrun.org&amp;g=WHY&amp;x=OsE3DK5TH18CI6WLEc9q58Qx&amp;i=jkT2D4K6RKCIfI5K24QzxMej&amp;s=GgRtOvD-Ray9qsPgYDrBWvpW WHY room] and try out chat, or [https://webxdc.org/ decentralized chat web apps].</description>
       </event>
     </room>
   </day>
