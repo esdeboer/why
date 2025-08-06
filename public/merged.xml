@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>1.6 - Freedom</version>
+    <version>1.7 - Ferdinand</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -1376,6 +1376,32 @@ Caution: The access to the labyrinth is at your own risk. Wear comfortable cloth
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/98WUMC/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/98WUMC/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Aid to Ukraine" guid="1ef3db25-cbeb-5a91-a86a-7f324b0540e7">
+            <event guid="9261ff07-a2c1-57ef-9553-2d36a2bd2535" id="368">
+                <room>Aid to Ukraine</room>
+                <title>Send a wish to Ukraine</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-08T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>02:00</duration>
+                <abstract>Make a postcard, cool drawing or write down your wish and we will send it with the next shipment. Kids welcome!</abstract>
+                <slug>why2025-368-0-send-a-wish-to-ukraine</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CNYHMR/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CNYHMR/feedback/</feedback_url>
             </event>
         </room>
         <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
@@ -4178,6 +4204,69 @@ Caution: The access to the labyrinth is at your own risk. Wear comfortable cloth
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/98WUMC/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/98WUMC/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Aid to Ukraine" guid="1ef3db25-cbeb-5a91-a86a-7f324b0540e7">
+            <event guid="73b9e8bc-9004-5c29-9c89-39aa2c6ee65c" id="368">
+                <room>Aid to Ukraine</room>
+                <title>Send a wish to Ukraine</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-09T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>02:00</duration>
+                <abstract>Make a postcard, cool drawing or write down your wish and we will send it with the next shipment. Kids welcome!</abstract>
+                <slug>why2025-368-1-send-a-wish-to-ukraine</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CNYHMR/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CNYHMR/feedback/</feedback_url>
+            </event>
+            <event guid="9b0dd5fc-7886-5a93-99c5-8da7ba1ca1e2" id="367">
+                <room>Aid to Ukraine</room>
+                <title>Stop the Bleed</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-09T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>02:00</duration>
+                <abstract>In Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. Try a tourniquet, learn how to apply blood-stopping gauze and pressure bandage.</abstract>
+                <slug>why2025-367-0-stop-the-bleed</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Even though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv.
+
+The training is done by Tatiana from Team:First Aid, daily @ 14h at the Aid to Ukraine village, starting saturday.
+
+Registration at the village. We have space for 10-15 people per day.
+
+Don't put on your most expensive dress as the training involves dealing with red fluid :-)
+
+More info:
+https://wiki.why2025.org/Session:Stop_the_Bleed_@_Aid_to_Ukraine
+
+Do check out the rest of the program at our village!
+https://wiki.why2025.org/Village:Aid_to_Ukraine</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/RTDUD7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/RTDUD7/feedback/</feedback_url>
             </event>
         </room>
         <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
@@ -7259,6 +7348,96 @@ Caution: The access to the labyrinth is at your own risk. Wear comfortable cloth
                 <feedback_url>https://program.why2025.org/why2025/talk/98WUMC/feedback/</feedback_url>
             </event>
         </room>
+        <room name="Aid to Ukraine" guid="1ef3db25-cbeb-5a91-a86a-7f324b0540e7">
+            <event guid="845ef3bf-eba7-5773-9630-e35cbc75fd34" id="368">
+                <room>Aid to Ukraine</room>
+                <title>Send a wish to Ukraine</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-10T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>02:00</duration>
+                <abstract>Make a postcard, cool drawing or write down your wish and we will send it with the next shipment. Kids welcome!</abstract>
+                <slug>why2025-368-2-send-a-wish-to-ukraine</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CNYHMR/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CNYHMR/feedback/</feedback_url>
+            </event>
+            <event guid="4ce6c95c-1fbe-5536-a095-7c963c5a82fc" id="367">
+                <room>Aid to Ukraine</room>
+                <title>Stop the Bleed</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-10T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>02:00</duration>
+                <abstract>In Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. Try a tourniquet, learn how to apply blood-stopping gauze and pressure bandage.</abstract>
+                <slug>why2025-367-1-stop-the-bleed</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Even though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv.
+
+The training is done by Tatiana from Team:First Aid, daily @ 14h at the Aid to Ukraine village, starting saturday.
+
+Registration at the village. We have space for 10-15 people per day.
+
+Don't put on your most expensive dress as the training involves dealing with red fluid :-)
+
+More info:
+https://wiki.why2025.org/Session:Stop_the_Bleed_@_Aid_to_Ukraine
+
+Do check out the rest of the program at our village!
+https://wiki.why2025.org/Village:Aid_to_Ukraine</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/RTDUD7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/RTDUD7/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Xyberfoort" guid="772ecaf2-1400-5c33-afdf-002f989cc8e9">
+            <event guid="ab615c92-0519-5b70-a4a4-a1224aaa94cb" id="369">
+                <room>Xyberfoort</room>
+                <title>💡 DMX: Not Your Average Dance Mix</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-10T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>02:00</duration>
+                <abstract>Ever wondered how stage lights know when to blink dramatically during a DJ's bass drop?</abstract>
+                <slug>why2025-369-0-dmx-not-your-average-dance-mix</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Enter DMX512, the protocol that makes lights dance better than your uncle at a wedding! Join us for a crash course in Digital Multiplex where we'll turn boring old ones and zeros into a rave-worthy light show. This workshop also comes with an exclusive behind-the-scenes tour of the partystage—see where the magic (and the cables) really happen! Warning: Side effects may include sudden urges to say "Check, check, 1-2-3" into microphones and an inexplicable desire to wear all black like a proper theater tech. No previous experience required, just bring your inner disco ball! 🕺💃</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/C9YYJC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/C9YYJC/feedback/</feedback_url>
+            </event>
+        </room>
         <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
             <event guid="1992e8ca-fa20-559f-a056-da9f234038cc">
                 <title>MTB Rides</title>
@@ -10178,6 +10357,96 @@ By PE1BMC</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/98WUMC/feedback/</feedback_url>
             </event>
         </room>
+        <room name="Aid to Ukraine" guid="1ef3db25-cbeb-5a91-a86a-7f324b0540e7">
+            <event guid="d3594b2b-7e09-563a-afe6-c41f71e148c8" id="368">
+                <room>Aid to Ukraine</room>
+                <title>Send a wish to Ukraine</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-11T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>02:00</duration>
+                <abstract>Make a postcard, cool drawing or write down your wish and we will send it with the next shipment. Kids welcome!</abstract>
+                <slug>why2025-368-3-send-a-wish-to-ukraine</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CNYHMR/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CNYHMR/feedback/</feedback_url>
+            </event>
+            <event guid="421f8871-07f7-5445-8496-ad4dc57554e9" id="367">
+                <room>Aid to Ukraine</room>
+                <title>Stop the Bleed</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-11T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>02:00</duration>
+                <abstract>In Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. Try a tourniquet, learn how to apply blood-stopping gauze and pressure bandage.</abstract>
+                <slug>why2025-367-2-stop-the-bleed</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Even though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv.
+
+The training is done by Tatiana from Team:First Aid, daily @ 14h at the Aid to Ukraine village, starting saturday.
+
+Registration at the village. We have space for 10-15 people per day.
+
+Don't put on your most expensive dress as the training involves dealing with red fluid :-)
+
+More info:
+https://wiki.why2025.org/Session:Stop_the_Bleed_@_Aid_to_Ukraine
+
+Do check out the rest of the program at our village!
+https://wiki.why2025.org/Village:Aid_to_Ukraine</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/RTDUD7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/RTDUD7/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Xyberfoort" guid="772ecaf2-1400-5c33-afdf-002f989cc8e9">
+            <event guid="d67dc157-9dea-5b2f-a0b7-ef58ceb78056" id="369">
+                <room>Xyberfoort</room>
+                <title>💡 DMX: Not Your Average Dance Mix</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-11T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>02:00</duration>
+                <abstract>Ever wondered how stage lights know when to blink dramatically during a DJ's bass drop?</abstract>
+                <slug>why2025-369-1-dmx-not-your-average-dance-mix</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Enter DMX512, the protocol that makes lights dance better than your uncle at a wedding! Join us for a crash course in Digital Multiplex where we'll turn boring old ones and zeros into a rave-worthy light show. This workshop also comes with an exclusive behind-the-scenes tour of the partystage—see where the magic (and the cables) really happen! Warning: Side effects may include sudden urges to say "Check, check, 1-2-3" into microphones and an inexplicable desire to wear all black like a proper theater tech. No previous experience required, just bring your inner disco ball! 🕺💃</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/C9YYJC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/C9YYJC/feedback/</feedback_url>
+            </event>
+        </room>
         <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
             <event guid="5832e552-fd06-5148-8014-ad0d96b644db">
                 <title>MTB Rides</title>
@@ -11422,6 +11691,69 @@ Caution: The access to the labyrinth is at your own risk. Wear comfortable cloth
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/98WUMC/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/98WUMC/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Aid to Ukraine" guid="1ef3db25-cbeb-5a91-a86a-7f324b0540e7">
+            <event guid="6c491f3f-7572-584a-8668-3d8b212bdd30" id="368">
+                <room>Aid to Ukraine</room>
+                <title>Send a wish to Ukraine</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-12T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>02:00</duration>
+                <abstract>Make a postcard, cool drawing or write down your wish and we will send it with the next shipment. Kids welcome!</abstract>
+                <slug>why2025-368-4-send-a-wish-to-ukraine</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CNYHMR/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CNYHMR/feedback/</feedback_url>
+            </event>
+            <event guid="a3ea05b4-8f50-5b59-8de9-c0d4c2bfeb1f" id="367">
+                <room>Aid to Ukraine</room>
+                <title>Stop the Bleed</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-12T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>02:00</duration>
+                <abstract>In Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. Try a tourniquet, learn how to apply blood-stopping gauze and pressure bandage.</abstract>
+                <slug>why2025-367-3-stop-the-bleed</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Even though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv.
+
+The training is done by Tatiana from Team:First Aid, daily @ 14h at the Aid to Ukraine village, starting saturday.
+
+Registration at the village. We have space for 10-15 people per day.
+
+Don't put on your most expensive dress as the training involves dealing with red fluid :-)
+
+More info:
+https://wiki.why2025.org/Session:Stop_the_Bleed_@_Aid_to_Ukraine
+
+Do check out the rest of the program at our village!
+https://wiki.why2025.org/Village:Aid_to_Ukraine</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/RTDUD7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/RTDUD7/feedback/</feedback_url>
             </event>
         </room>
         <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
