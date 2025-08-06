@@ -1,5 +1,55 @@
 [
   {
+    "id": "dcb58d79-2038-53b5-87af-6ae22483941c",
+    "title": "MTB Rides",
+    "description": "Missing date, check with organiser, event put at last day",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T00:10:00+02:00",
+    "room": "Camp entrance",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
+    "id": "1992e8ca-fa20-559f-a056-da9f234038cc",
+    "title": "MTB Rides",
+    "description": "Missing date, check with organiser, event put at last day",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T00:10:00+02:00",
+    "room": "Camp entrance",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
+    "id": "5832e552-fd06-5148-8014-ad0d96b644db",
+    "title": "MTB Rides",
+    "description": "Missing date, check with organiser, event put at last day",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T00:10:00+02:00",
+    "room": "Camp entrance",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
+    "id": "55ffd24a-967b-5324-8035-bf75b54fcf9d",
+    "title": "MTB Rides",
+    "description": "Missing date, check with organiser, event put at last day",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T00:10:00+02:00",
+    "room": "Camp entrance",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
+    "id": "1a67a64a-534f-5c2e-800b-dc6aa69cf4b5",
+    "title": "MTB Rides",
+    "description": "Missing date, check with organiser, event put at last day",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T00:10:00+02:00",
+    "room": "Camp entrance",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
     "id": "a5d8d94a-3b5c-5b27-801a-8e82edc8b333",
     "title": "Z-CERT Podcast Recording: Zet \u2018m op",
     "description": "During WHY2025 we will record a special of our podcast. The central theme of this episode will be: Communities. \nAnd you can be there during the recording of this episode!",
@@ -176,16 +226,6 @@
     "start": "2025-08-08T16:00:00+02:00",
     "end": "2025-08-08T16:30:00+02:00",
     "room": "undetermined",
-    "url": "",
-    "type": "Hands-On"
-  },
-  {
-    "id": "dcb58d79-2038-53b5-87af-6ae22483941c",
-    "title": "MTB Rides",
-    "description": "",
-    "start": "2025-08-09T12:00:00+02:00",
-    "end": "2025-08-09T13:30:00+02:00",
-    "room": "Camp entrance",
     "url": "",
     "type": "Hands-On"
   },
@@ -410,16 +450,6 @@
     "type": "Outside"
   },
   {
-    "id": "1992e8ca-fa20-559f-a056-da9f234038cc",
-    "title": "MTB Rides",
-    "description": "",
-    "start": "2025-08-10T12:00:00+02:00",
-    "end": "2025-08-10T14:00:00+02:00",
-    "room": "Camp entrance",
-    "url": "",
-    "type": "Hands-On"
-  },
-  {
     "id": "a715e8a8-0370-51e8-9b1c-4e0320d87946",
     "title": "Stop the Bleed @ Aid to Ukraine",
     "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
@@ -580,16 +610,6 @@
     "type": "Outside"
   },
   {
-    "id": "5832e552-fd06-5148-8014-ad0d96b644db",
-    "title": "MTB Rides",
-    "description": "",
-    "start": "2025-08-11T12:00:00+02:00",
-    "end": "2025-08-11T14:00:00+02:00",
-    "room": "Camp entrance",
-    "url": "",
-    "type": "Hands-On"
-  },
-  {
     "id": "b004701b-7fdf-5225-974a-3b121ab88718",
     "title": "Stop the Bleed @ Aid to Ukraine",
     "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
@@ -740,16 +760,6 @@
     "type": "Outside"
   },
   {
-    "id": "55ffd24a-967b-5324-8035-bf75b54fcf9d",
-    "title": "MTB Rides",
-    "description": "",
-    "start": "2025-08-12T12:00:00+02:00",
-    "end": "2025-08-12T14:00:00+02:00",
-    "room": "Camp entrance",
-    "url": "",
-    "type": "Hands-On"
-  },
-  {
     "id": "20e7c0cc-fb48-57a5-b3e2-fb1d7c18d3b9",
     "title": "Stop the Bleed @ Aid to Ukraine",
     "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
@@ -798,16 +808,6 @@
     "room": "undetermined",
     "url": "",
     "type": "Other"
-  },
-  {
-    "id": "1a67a64a-534f-5c2e-800b-dc6aa69cf4b5",
-    "title": "MTB Rides",
-    "description": "",
-    "start": "2025-08-13T12:00:00+02:00",
-    "end": "2025-08-13T13:30:00+02:00",
-    "room": "Camp entrance",
-    "url": "",
-    "type": "Hands-On"
   },
   {
     "id": "1cbfa312-a152-5160-a55e-e60fc7e93624",
