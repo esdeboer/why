@@ -306,7 +306,7 @@ The Pancake village will be right next to the (main) Andromeda track.
       <event guid="3420b4a4-7721-5ed6-8c73-fc7e95a2b0ff">
         <title>Quantum Game Intro</title>
         <track>Self Organized Sessions</track>
-        <abstract>Introduction to Quantum Game Functions</abstract>
+        <abstract>Introduction to Quantum Game Functions and how to start thinking to create them yourself</abstract>
         <type>Hands-On</type>
         <description>Age range: All ages</description>
         <date>2025-08-08T17:00:00+02:00</date>
@@ -763,7 +763,7 @@ Join me for some relaxing old-school arts and crafts. You are welcome!</descript
       <event guid="07b7411c-0104-59ef-85ac-cdec92d21f0c">
         <title>Quantum programming</title>
         <track>Self Organized Sessions</track>
-        <abstract>Quantum programming</abstract>
+        <abstract>Quantum programming for all, learn to develop your first quantum circuit and try it out on real quantum computers if possible</abstract>
         <type>Hands-On</type>
         <description />
         <date>2025-08-09T15:00:00+02:00</date>
@@ -773,7 +773,7 @@ Join me for some relaxing old-school arts and crafts. You are welcome!</descript
       <event guid="aa90c64d-6cfa-5c5a-8bdf-0c2b5a7d6606">
         <title>Quantum Computers: The ultimate hacking machines</title>
         <track>Self Organized Sessions</track>
-        <abstract>Quantum Computers: The ultimate hacking machines</abstract>
+        <abstract>Quantum Computers: The ultimate hacking machines, in case you missed friday's public session</abstract>
         <type>Talk</type>
         <description>Age range: All ages</description>
         <date>2025-08-09T12:00:00+02:00</date>
@@ -783,7 +783,7 @@ Join me for some relaxing old-school arts and crafts. You are welcome!</descript
       <event guid="3bfe9dd4-37c4-58c6-8911-10213e79987f">
         <title>Quantum Game UnJam</title>
         <track>Self Organized Sessions</track>
-        <abstract>Quantum Game UnJam</abstract>
+        <abstract>Quantum Game UnJam, not a jam but an UNjam to work on developing new quantum game functions, different than normal, weird and fun</abstract>
         <type>Hands-On</type>
         <description>Age range: All ages</description>
         <date>2025-08-09T14:00:00+02:00</date>
@@ -793,7 +793,7 @@ Join me for some relaxing old-school arts and crafts. You are welcome!</descript
       <event guid="c6168c49-f110-539a-8275-a41a31da5f6e">
         <title>Quantum Game UnJam</title>
         <track>Self Organized Sessions</track>
-        <abstract>Quantum Game UnJam</abstract>
+        <abstract>Quantum Game UnJam, not a jam but an UNjam to work on developing new quantum game functions, different than normal, weird and fun</abstract>
         <type>Hands-On</type>
         <description>Age range: All ages</description>
         <date>2025-08-09T17:00:00+02:00</date>
@@ -1228,7 +1228,7 @@ The Pancake village will be right next to the (main) Andromeda track.
       <event guid="f99b2807-36b9-5c00-8b55-68ea104b2cd7">
         <title>Quantum programming</title>
         <track>Self Organized Sessions</track>
-        <abstract>Quantum programming</abstract>
+        <abstract>Quantum programming for all, learn to develop your first quantum circuit and try it out on real quantum computers if possible</abstract>
         <type>Hands-On</type>
         <description />
         <date>2025-08-10T12:00:00+02:00</date>
@@ -1238,7 +1238,7 @@ The Pancake village will be right next to the (main) Andromeda track.
       <event guid="93d63ef1-8008-5cb8-bb32-a87cd7c8ee21">
         <title>Talk + AMA: Quantum Computers and Cryptography</title>
         <track>Self Organized Sessions</track>
-        <abstract>Talk + AMA: Quantum Computers and Cryptography</abstract>
+        <abstract>Talk + AMA: Quantum Computers and (Quantum) Cryptography,  what is BB84 and more . . .</abstract>
         <type>Talk</type>
         <description>Age range: All ages</description>
         <date>2025-08-10T17:00:00+02:00</date>
@@ -1644,6 +1644,7 @@ The Pancake village will be right next to the (main) Andromeda track.
       <event guid="99b274ea-ed86-5a0b-8f99-04c40f4c8afc">
         <title>Introduction to Quantum</title>
         <track>Self Organized Sessions</track>
+        <abstract>Introduction to Quantum computing, beginners level, and the possibility to ask-us-anything</abstract>
         <type>Talk</type>
         <description />
         <date>2025-08-11T17:00:00+02:00</date>
@@ -1663,9 +1664,10 @@ The Pancake village will be right next to the (main) Andromeda track.
       <event guid="47409f40-3997-5404-befe-1d8fb88cb949">
         <title>Tiq Taq Toe Finale</title>
         <track>Self Organized Sessions</track>
-        <abstract>Tiq Taq Toe Finale</abstract>
+        <abstract>Tiq Taq Toe Finale, win one of the physical tia taq toe games by beating all others and play against the current National TTT champion</abstract>
         <type>Game</type>
-        <description>Age range: All ages</description>
+        <description>Age range: All ages
+Tiq Taq Toe Finale, win one of the physical tia taq toe games by beating all others and play against the current National TTT champion</description>
         <date>2025-08-11T19:00:00+02:00</date>
         <start>19:00</start>
         <duration>01:00</duration>
@@ -1852,7 +1854,7 @@ The prices in the yellow boxes are the materials costs for participating in the 
       <event guid="c9dcb88f-7213-52d8-a702-f5c3530b8c4b">
         <title>Quantum programming</title>
         <track>Self Organized Sessions</track>
-        <abstract>Quantum programming</abstract>
+        <abstract>Quantum programming for all, learn to develop your first quantum circuit and try it out on real quantum computers if possible</abstract>
         <type>Hands-On</type>
         <description />
         <date>2025-08-12T12:00:00+02:00</date>
