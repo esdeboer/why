@@ -841,9 +841,9 @@ Workshop given by DRC.</abstract>
                 <feedback_url>https://program.why2025.org/why2025/talk/WDUGZC/feedback/</feedback_url>
             </event>
         </room>
-        <room name="FamilyZone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
+        <room name="Family Zone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
             <event guid="f35fce4d-01c7-5ed7-b604-88992d4d58a9" id="353">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>Scavenger hunt</title>
                 <subtitle />
                 <type>Entertainment</type>
@@ -868,7 +868,7 @@ Workshop given by DRC.</abstract>
                 <feedback_url>https://program.why2025.org/why2025/talk/CHZCZT/feedback/</feedback_url>
             </event>
             <event guid="6b9b6075-0bdf-5610-b5b1-0e7a08b474c1" id="352">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>Gamenight</title>
                 <subtitle />
                 <type>Entertainment</type>
@@ -892,7 +892,7 @@ Workshop given by DRC.</abstract>
                 <feedback_url>https://program.why2025.org/why2025/talk/XX97KC/feedback/</feedback_url>
             </event>
             <event guid="2d0e9938-c013-5ba6-9312-d1cf9b9c9a88" id="357">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>Black-light-painting</title>
                 <subtitle />
                 <type>Workshops (90 minutes)</type>
@@ -1029,9 +1029,9 @@ Location: next to Party Area Terrace</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/BS99M8/feedback/</feedback_url>
             </event>
         </room>
-        <room name="KaraokeBar" guid="ba1c3697-c910-5d69-ae05-0435a54c466d">
+        <room name="Karaoke Bar" guid="ba1c3697-c910-5d69-ae05-0435a54c466d">
             <event guid="7662339f-e0be-5b42-b574-da562d1a6345" id="311">
-                <room>KaraokeBar</room>
+                <room>Karaoke Bar</room>
                 <title>WHY jamsession</title>
                 <subtitle />
                 <type>Entertainment</type>
@@ -1056,7 +1056,7 @@ Location: next to Party Area Terrace</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/9NBX9S/feedback/</feedback_url>
             </event>
             <event guid="c15752d0-5f8c-51b4-b94c-02f77813dfe9" id="328">
-                <room>KaraokeBar</room>
+                <room>Karaoke Bar</room>
                 <title>Karaoke</title>
                 <subtitle />
                 <type>Entertainment</type>
@@ -1651,6 +1651,27 @@ The Pancake village will be right next to the (main) Andromeda track.
                 <description>Age range: All ages</description>
                 <date>2025-08-08T17:00:00+02:00</date>
                 <start>17:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
+        <room name="Village:Selfnet" guid="09063e4a-e3a4-5b14-910d-7998b3dfbbae">
+            <event guid="0a1531eb-7326-5526-8ea6-e0bdcb8e199c">
+                <title>Fiber splicing workshop</title>
+                <track>Self Organized Sessions</track>
+                <abstract>In this workshop you can join fiber-optic cables using a fusion splicer</abstract>
+                <type>Workshop</type>
+                <persons>
+                    <person>Karotte</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.
+First you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.
+
+Splicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9µm, which is smaller than a human hair.
+
+More timeslots will be added.</description>
+                <date>2025-08-08T15:00:00+02:00</date>
+                <start>15:00</start>
                 <duration>01:00</duration>
             </event>
         </room>
@@ -3594,9 +3615,9 @@ _Arduino software runs on Windows, MacOS and Linux._</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/RYSVSH/feedback/</feedback_url>
             </event>
         </room>
-        <room name="FamilyZone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
+        <room name="Family Zone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
             <event guid="839459fb-fe68-5c1f-8eb5-00c47ea103ab" id="362">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>Soap-molding</title>
                 <subtitle />
                 <type>Workshop (180 minutes)</type>
@@ -3621,7 +3642,7 @@ _Arduino software runs on Windows, MacOS and Linux._</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/3M3YXS/feedback/</feedback_url>
             </event>
             <event guid="e8a5651c-4ff5-5ca6-8011-d96a20fbcaf4" id="355">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>T-shirt workshop</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
@@ -3650,7 +3671,7 @@ Bring your own shirt or bag (any color cotton for vinyl, white and at least 75% 
                 <feedback_url>https://program.why2025.org/why2025/talk/F7LSNY/feedback/</feedback_url>
             </event>
             <event guid="988d9273-2caf-5afc-9325-18b03c8da362" id="356">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>WeevilEyeSoldering</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
@@ -3688,7 +3709,7 @@ The signup sheet will be available in the workshop tent. Please bring
                 <feedback_url>https://program.why2025.org/why2025/talk/XCGGPG/feedback/</feedback_url>
             </event>
             <event guid="d75fd356-97f8-5267-ae5a-fc1b65d27e3f" id="358">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>Bottle rockets</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
@@ -3713,7 +3734,7 @@ The signup sheet will be available in the workshop tent. Please bring
                 <feedback_url>https://program.why2025.org/why2025/talk/73RZLK/feedback/</feedback_url>
             </event>
             <event guid="9dcd789e-44e6-5a83-9cc5-33e40c2a7259" id="350">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>CTF-junior: Cyberbrain the game</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
@@ -3884,9 +3905,9 @@ Location: next to Party Area Terrace</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/GBSWAQ/feedback/</feedback_url>
             </event>
         </room>
-        <room name="KaraokeBar" guid="ba1c3697-c910-5d69-ae05-0435a54c466d">
+        <room name="Karaoke Bar" guid="ba1c3697-c910-5d69-ae05-0435a54c466d">
             <event guid="698fba93-fdb1-5942-8d31-409844f8eed7" id="328">
-                <room>KaraokeBar</room>
+                <room>Karaoke Bar</room>
                 <title>Karaoke</title>
                 <subtitle />
                 <type>Entertainment</type>
@@ -6703,9 +6724,9 @@ _Arduino software runs on Windows, MacOS and Linux (any version is fine):_
                 <feedback_url>https://program.why2025.org/why2025/talk/NKZWRM/feedback/</feedback_url>
             </event>
         </room>
-        <room name="FamilyZone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
+        <room name="Family Zone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
             <event guid="52afdf0a-2037-5b83-90f3-2b745b3cfc98" id="356">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>WeevilEyeSoldering</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
@@ -6743,7 +6764,7 @@ The signup sheet will be available in the workshop tent. Please bring
                 <feedback_url>https://program.why2025.org/why2025/talk/XCGGPG/feedback/</feedback_url>
             </event>
             <event guid="67bfbe06-910a-590f-bca3-565311ee1248" id="364">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>LEGO Letterpress</title>
                 <subtitle />
                 <type>Workshops (90 minutes)</type>
@@ -6777,7 +6798,7 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/ZVKWUM/feedback/</feedback_url>
             </event>
             <event guid="1b95ddc1-39f3-589e-8b3c-69afc4bfeaa5" id="360">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>Contraption makers</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
@@ -6802,7 +6823,7 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/VUVHC3/feedback/</feedback_url>
             </event>
             <event guid="1972a8d0-986c-58f5-bbe5-7cafa347b99d" id="361">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>Popcorn</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
@@ -6827,7 +6848,7 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/GJZZRC/feedback/</feedback_url>
             </event>
             <event guid="5fb3e90a-c8cb-57df-b069-61dd8a201dd1" id="364">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>LEGO Letterpress</title>
                 <subtitle />
                 <type>Workshops (90 minutes)</type>
@@ -6861,7 +6882,7 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/ZVKWUM/feedback/</feedback_url>
             </event>
             <event guid="82b32d6d-10c4-5b25-91b8-f71d5d91b96c" id="352">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>Gamenight</title>
                 <subtitle />
                 <type>Entertainment</type>
@@ -6885,7 +6906,7 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/XX97KC/feedback/</feedback_url>
             </event>
             <event guid="e3146228-caab-5d1a-9ddd-b05806e629f6" id="357">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>Black-light-painting</title>
                 <subtitle />
                 <type>Workshops (90 minutes)</type>
@@ -7106,9 +7127,9 @@ Location: next to Party Area Terrace</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/QNKNQS/feedback/</feedback_url>
             </event>
         </room>
-        <room name="KaraokeBar" guid="ba1c3697-c910-5d69-ae05-0435a54c466d">
+        <room name="Karaoke Bar" guid="ba1c3697-c910-5d69-ae05-0435a54c466d">
             <event guid="533cf577-837b-586c-b278-2580be4c4eb0" id="311">
-                <room>KaraokeBar</room>
+                <room>Karaoke Bar</room>
                 <title>WHY jamsession</title>
                 <subtitle />
                 <type>Entertainment</type>
@@ -7133,7 +7154,7 @@ Location: next to Party Area Terrace</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/9NBX9S/feedback/</feedback_url>
             </event>
             <event guid="1af393c7-7181-5ed0-a872-ad41220fde80" id="328">
-                <room>KaraokeBar</room>
+                <room>Karaoke Bar</room>
                 <title>Karaoke</title>
                 <subtitle />
                 <type>Entertainment</type>
@@ -9773,9 +9794,9 @@ Materials cost: €10 - €15</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/M8XFYJ/feedback/</feedback_url>
             </event>
         </room>
-        <room name="FamilyZone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
+        <room name="Family Zone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
             <event guid="4680de1f-c5f0-547e-9de9-62914d4bf0c2" id="362">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>Soap-molding</title>
                 <subtitle />
                 <type>Workshop (180 minutes)</type>
@@ -9800,7 +9821,7 @@ Materials cost: €10 - €15</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/3M3YXS/feedback/</feedback_url>
             </event>
             <event guid="3aa8fd09-60d3-542b-afe9-f5d5e787da47" id="364">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>LEGO Letterpress</title>
                 <subtitle />
                 <type>Workshops (90 minutes)</type>
@@ -9834,7 +9855,7 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/ZVKWUM/feedback/</feedback_url>
             </event>
             <event guid="11475044-0b4a-56db-beea-6df48c696581" id="359">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>Brushboots</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
@@ -9859,7 +9880,7 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/JKR3BZ/feedback/</feedback_url>
             </event>
             <event guid="a2ceeb30-1644-59bb-a8e8-5ba3fd68ba71" id="364">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>LEGO Letterpress</title>
                 <subtitle />
                 <type>Workshops (90 minutes)</type>
@@ -9893,7 +9914,7 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/ZVKWUM/feedback/</feedback_url>
             </event>
             <event guid="bc04a416-46ea-596d-b12e-e9d6f34e595b" id="351">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>KidsDisco</title>
                 <subtitle />
                 <type>Entertainment</type>
@@ -10076,9 +10097,9 @@ Location: next to Party Area Terrace</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/SEYTWK/feedback/</feedback_url>
             </event>
         </room>
-        <room name="KaraokeBar" guid="ba1c3697-c910-5d69-ae05-0435a54c466d">
+        <room name="Karaoke Bar" guid="ba1c3697-c910-5d69-ae05-0435a54c466d">
             <event guid="8ee7e7de-bf1e-5479-b08c-0c179315ddce" id="311">
-                <room>KaraokeBar</room>
+                <room>Karaoke Bar</room>
                 <title>WHY jamsession</title>
                 <subtitle />
                 <type>Entertainment</type>
@@ -10103,7 +10124,7 @@ Location: next to Party Area Terrace</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/9NBX9S/feedback/</feedback_url>
             </event>
             <event guid="daa73bed-3a36-586c-b9d9-61fa4c0c1937" id="328">
-                <room>KaraokeBar</room>
+                <room>Karaoke Bar</room>
                 <title>Karaoke</title>
                 <subtitle />
                 <type>Entertainment</type>
@@ -11634,9 +11655,9 @@ The workshop will be about finding ways to still use all this Energy, which was 
                 <feedback_url>https://program.why2025.org/why2025/talk/GADUHS/feedback/</feedback_url>
             </event>
         </room>
-        <room name="FamilyZone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
+        <room name="Family Zone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
             <event guid="17621e5a-570d-5a69-b5e1-df93eaada181" id="354">
-                <room>FamilyZone</room>
+                <room>Family Zone</room>
                 <title>Glittertattoo</title>
                 <subtitle />
                 <type>Entertainment</type>
