@@ -157,6 +157,8 @@ def createfrabxml(xml):
             guid = title + str(i)
             event.set("guid", str(uuid5(uuidnamespace, guid)))
             if validevent(event):
+                if(starttime == ""):
+                    starttime = "2025-08-13"
                 eventsbydateandroom.setdefault(starttime[0:10], dict()).setdefault(room,[]).append(event)
 
     schedulejson = []
