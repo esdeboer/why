@@ -2983,7 +2983,7 @@ In this talk we'll explore some OT technologies trying to understand and highlig
                 <slug>why2025-228-the-shadow-of-operational-technologies-a-journey-into-the-ot-security</slug>
                 <track>Hacking</track>
                 <persons>
-                    <person id="227">Davide Pala</person>
+                    <person id="227">Davide "Skullb0y" Pala</person>
                 </persons>
                 <language>en</language>
                 <description>The talk is intended to be a resource for whom don't known anything about OT security and want to start  to address this topic. It's the result of 5 year of experience in this filed and will include an overview of OT security challenges under technical and management prospective. The aim is to highlight some of the most relevant aspect to consider in this context showing a realistic demo and real example of what we could consider OT incidents.</description>
@@ -3708,7 +3708,7 @@ If you've never tried dance fitness, it's a workout you don't notice you're doin
                     <person id="117">zool aka Jo Walsh</person>
                 </persons>
                 <language>en</language>
-                <description>Synthercise - think "Zumba, but with chiptunes" - first brought to you at Electromagnetic Field 2024, designed and led by a hacker turned fabulous fitness instructor, with the possibility of a special guest appearance for WHY</description>
+                <description>Synthercise - think "Zumba, but with chiptunes" or "live action Just Dance" - first brought to you at Electromagnetic Field 2024, designed and led by a hacker turned fabulous fitness instructor, with the possibility of a special guest appearance for WHY</description>
                 <recording>
                     <license />
                     <optout>true</optout>
