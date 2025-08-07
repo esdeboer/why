@@ -1164,18 +1164,17 @@ Location: next to Party Area Terrace</description>
                 <date>2025-08-08T11:00:00+02:00</date>
                 <start>11:00</start>
                 <duration>00:55</duration>
-                <abstract>The energy transition is in full progress. The gird is getting busier and switching from a centralized generation model to a decentralized model where every house can be a power plant too.</abstract>
+                <abstract>How to hack smart energy devices? We’ll let you in on a “secret”, they are not that smart, and hacking them isn’t that hard. In this demo, we are going to get our hands on a smart thermostat and a solar inverter WiFi dongle and explore the chips on them for open debug interfaces.</abstract>
                 <slug>why2025-340-0-energy-hacking-demo</slug>
                 <track>Villages</track>
                 <persons>
                     
                 </persons>
                 <language>en</language>
-                <description>By: Hamza Tafsi and Alexandros Tokatlis (DIVD)
+                <description>Then we'll work our way towards dumping anything present in non-volatile memory. Afterwards, we are going to explore the binary blobs and see where some reverse engineering can get us. This workshop can serve as your intro to hardware hacking. After the showcase, you can even play around on the chips (we'll do our best to make sure nothing fries).
+
 Making the grid smart is part of the solution, but present its owns set of challenges, because by controlling and manipulating a lot of small consumers or producers at the same time, an attacker can still have a large effect on the grid.
-DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.
-In this talk they will show you how they attack smart energy systems using a Honeywell Smart Thermostat as an example device.
-After the presentation the presenters will stick around the D42D area/cluster where there will be plenty of devices for you to try and hack and maybe even earn your own CVE.</description>
+DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.</description>
                 <recording>
                     <license />
                     <optout>true</optout>
@@ -3163,7 +3162,10 @@ After that, we go into all the technical details and difficult decisions that we
 
 Simon Klose is an award-winning director and producer from Sweden with several documentaries on the topics of technology and social issues. His strong cinematography turns this real-life story into a suspenseful watch.
 
-87 minutes</description>
+87 minutes
+
+TW:
+Serious trigger warning. This documentary will show white supremacist content.</description>
                 <recording>
                     <license />
                     <optout>true</optout>
@@ -3663,7 +3665,19 @@ Have you ever seen a weevil? With this very simple soldering kit, we want to cel
                     
                 </persons>
                 <language>en</language>
-                <description>[https://wiki.why2025.org/Team:Family/WeevilEyeSoldering](https://wiki.why2025.org/Team:Family/WeevilEyeSoldering)</description>
+                <description>This workshop has limited room, maximum 25 participants total. Workshop
+will be done in groups of approx. 6 participants, each taking 1h:
+
+Saturday 13-14h
+Saturday 14-15h
+Sunday 10-11h
+Sunday 11-12h
+
+To avoid disappointment, please sign up for a timeslot ahead of time.
+The signup sheet will be available in the workshop tent. Please bring
+5,- contribution in cash for the kit.
+
+[https://wiki.why2025.org/Team:Family/WeevilEyeSoldering](https://wiki.why2025.org/Team:Family/WeevilEyeSoldering)</description>
                 <recording>
                     <license />
                     <optout>true</optout>
@@ -3994,18 +4008,17 @@ By: Bianca Kremer and Annet Bronsema</description>
                 <date>2025-08-09T11:00:00+02:00</date>
                 <start>11:00</start>
                 <duration>00:55</duration>
-                <abstract>The energy transition is in full progress. The gird is getting busier and switching from a centralized generation model to a decentralized model where every house can be a power plant too.</abstract>
+                <abstract>How to hack smart energy devices? We’ll let you in on a “secret”, they are not that smart, and hacking them isn’t that hard. In this demo, we are going to get our hands on a smart thermostat and a solar inverter WiFi dongle and explore the chips on them for open debug interfaces.</abstract>
                 <slug>why2025-340-1-energy-hacking-demo</slug>
                 <track>Villages</track>
                 <persons>
                     
                 </persons>
                 <language>en</language>
-                <description>By: Hamza Tafsi and Alexandros Tokatlis (DIVD)
+                <description>Then we'll work our way towards dumping anything present in non-volatile memory. Afterwards, we are going to explore the binary blobs and see where some reverse engineering can get us. This workshop can serve as your intro to hardware hacking. After the showcase, you can even play around on the chips (we'll do our best to make sure nothing fries).
+
 Making the grid smart is part of the solution, but present its owns set of challenges, because by controlling and manipulating a lot of small consumers or producers at the same time, an attacker can still have a large effect on the grid.
-DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.
-In this talk they will show you how they attack smart energy systems using a Honeywell Smart Thermostat as an example device.
-After the presentation the presenters will stick around the D42D area/cluster where there will be plenty of devices for you to try and hack and maybe even earn your own CVE.</description>
+DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.</description>
                 <recording>
                     <license />
                     <optout>true</optout>
@@ -6673,7 +6686,19 @@ Have you ever seen a weevil? With this very simple soldering kit, we want to cel
                     
                 </persons>
                 <language>en</language>
-                <description>[https://wiki.why2025.org/Team:Family/WeevilEyeSoldering](https://wiki.why2025.org/Team:Family/WeevilEyeSoldering)</description>
+                <description>This workshop has limited room, maximum 25 participants total. Workshop
+will be done in groups of approx. 6 participants, each taking 1h:
+
+Saturday 13-14h
+Saturday 14-15h
+Sunday 10-11h
+Sunday 11-12h
+
+To avoid disappointment, please sign up for a timeslot ahead of time.
+The signup sheet will be available in the workshop tent. Please bring
+5,- contribution in cash for the kit.
+
+[https://wiki.why2025.org/Team:Family/WeevilEyeSoldering](https://wiki.why2025.org/Team:Family/WeevilEyeSoldering)</description>
                 <recording>
                     <license />
                     <optout>true</optout>
@@ -7184,18 +7209,17 @@ There are approximately 8 sets of material available per workshop, please regist
                 <date>2025-08-10T11:00:00+02:00</date>
                 <start>11:00</start>
                 <duration>00:50</duration>
-                <abstract>The energy transition is in full progress. The gird is getting busier and switching from a centralized generation model to a decentralized model where every house can be a power plant too.</abstract>
+                <abstract>How to hack smart energy devices? We’ll let you in on a “secret”, they are not that smart, and hacking them isn’t that hard. In this demo, we are going to get our hands on a smart thermostat and a solar inverter WiFi dongle and explore the chips on them for open debug interfaces.</abstract>
                 <slug>why2025-340-2-energy-hacking-demo</slug>
                 <track>Villages</track>
                 <persons>
                     
                 </persons>
                 <language>en</language>
-                <description>By: Hamza Tafsi and Alexandros Tokatlis (DIVD)
+                <description>Then we'll work our way towards dumping anything present in non-volatile memory. Afterwards, we are going to explore the binary blobs and see where some reverse engineering can get us. This workshop can serve as your intro to hardware hacking. After the showcase, you can even play around on the chips (we'll do our best to make sure nothing fries).
+
 Making the grid smart is part of the solution, but present its owns set of challenges, because by controlling and manipulating a lot of small consumers or producers at the same time, an attacker can still have a large effect on the grid.
-DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.
-In this talk they will show you how they attack smart energy systems using a Honeywell Smart Thermostat as an example device.
-After the presentation the presenters will stick around the D42D area/cluster where there will be plenty of devices for you to try and hack and maybe even earn your own CVE.</description>
+DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.</description>
                 <recording>
                     <license />
                     <optout>true</optout>
@@ -10155,18 +10179,17 @@ There are approximately 8 sets of material available per workshop, please regist
                 <date>2025-08-11T11:00:00+02:00</date>
                 <start>11:00</start>
                 <duration>00:50</duration>
-                <abstract>The energy transition is in full progress. The gird is getting busier and switching from a centralized generation model to a decentralized model where every house can be a power plant too.</abstract>
+                <abstract>How to hack smart energy devices? We’ll let you in on a “secret”, they are not that smart, and hacking them isn’t that hard. In this demo, we are going to get our hands on a smart thermostat and a solar inverter WiFi dongle and explore the chips on them for open debug interfaces.</abstract>
                 <slug>why2025-340-3-energy-hacking-demo</slug>
                 <track>Villages</track>
                 <persons>
                     
                 </persons>
                 <language>en</language>
-                <description>By: Hamza Tafsi and Alexandros Tokatlis (DIVD)
+                <description>Then we'll work our way towards dumping anything present in non-volatile memory. Afterwards, we are going to explore the binary blobs and see where some reverse engineering can get us. This workshop can serve as your intro to hardware hacking. After the showcase, you can even play around on the chips (we'll do our best to make sure nothing fries).
+
 Making the grid smart is part of the solution, but present its owns set of challenges, because by controlling and manipulating a lot of small consumers or producers at the same time, an attacker can still have a large effect on the grid.
-DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.
-In this talk they will show you how they attack smart energy systems using a Honeywell Smart Thermostat as an example device.
-After the presentation the presenters will stick around the D42D area/cluster where there will be plenty of devices for you to try and hack and maybe even earn your own CVE.</description>
+DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.</description>
                 <recording>
                     <license />
                     <optout>true</optout>
@@ -11663,18 +11686,17 @@ The workshop will be about finding ways to still use all this Energy, which was 
                 <date>2025-08-12T11:00:00+02:00</date>
                 <start>11:00</start>
                 <duration>00:50</duration>
-                <abstract>The energy transition is in full progress. The gird is getting busier and switching from a centralized generation model to a decentralized model where every house can be a power plant too.</abstract>
+                <abstract>How to hack smart energy devices? We’ll let you in on a “secret”, they are not that smart, and hacking them isn’t that hard. In this demo, we are going to get our hands on a smart thermostat and a solar inverter WiFi dongle and explore the chips on them for open debug interfaces.</abstract>
                 <slug>why2025-340-4-energy-hacking-demo</slug>
                 <track>Villages</track>
                 <persons>
                     
                 </persons>
                 <language>en</language>
-                <description>By: Hamza Tafsi and Alexandros Tokatlis (DIVD)
+                <description>Then we'll work our way towards dumping anything present in non-volatile memory. Afterwards, we are going to explore the binary blobs and see where some reverse engineering can get us. This workshop can serve as your intro to hardware hacking. After the showcase, you can even play around on the chips (we'll do our best to make sure nothing fries).
+
 Making the grid smart is part of the solution, but present its owns set of challenges, because by controlling and manipulating a lot of small consumers or producers at the same time, an attacker can still have a large effect on the grid.
-DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.
-In this talk they will show you how they attack smart energy systems using a Honeywell Smart Thermostat as an example device.
-After the presentation the presenters will stick around the D42D area/cluster where there will be plenty of devices for you to try and hack and maybe even earn your own CVE.</description>
+DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.</description>
                 <recording>
                     <license />
                     <optout>true</optout>
@@ -12306,7 +12328,20 @@ Bring a camping chair, get your drink of choice and enjoy one hour of peak dad r
 Age range: Aimed at adults but supervised kids welcome.
 Bored of talks? Burnt out on pixels? Swing by and solder.
 
-Participants can assemble and program their very own blinky PCB — a tiny circuit that flashes their name in Morse Code. Whether you're new to electronics or just need a break from abstract systems talk, this project hits the sweet spot: tactile, nerdy, and extremely satisfying. And yes, you get to take it home.
+Participants can assemble and program their very own blinky PCB — a tiny circuit that flashes their name in Morse Code. Whether you're new to electronics or just need a break from abstract systems talk, this project hits the sweet spot: tactile, nerdy, and unique. And yes, you get to take it home.
+
+Depending on your experience, you will find yourself spending about ~30min with us for soldering and flashing pre-made code. In case you want to dig deeper into the programming part and create your own blink code and customize it, feel invited to stay a little longer.
+
++++IMPORTANT NOTICE+++
+
+Due to logistical restrictions, the number of soldering irons is _very_ limited at our session. If you can and have a soldering iron available, please take it with you. You might also ask around your village or nearby neighbors to borrow one, many hackers carry small USB or DC powered irons with them. Thank you for your understanding! All other materials are available in sufficient amounts.
+
++++Contact+++
+
+DECT: 2002 (+31 85 234 2002) or contact (Leandro | DM8LE)[https://wiki.why2025.org/User:DM8LE]
+
+
+
 
 
 Tags:
