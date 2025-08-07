@@ -11952,7 +11952,60 @@ The prices in the yellow boxes are the materials costs for participating in the 
             </event>
         </room>
     </day>
-    <day date="">
+    <day date="2025-08-04">
+        <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
+            <event guid="a5d8d94a-3b5c-5b27-801a-8e82edc8b333">
+                <title>Z-CERT Podcast Recording: Zet ‘m op</title>
+                <track>Self Organized Sessions</track>
+                <abstract>A recording session of the Z-CERT podcast with the theme: Communities</abstract>
+                <url>https://z-cert.nl/actueel/podcast</url>
+                <type>Other</type>
+                <persons>
+                    <person>Nelusthenerd</person>
+                </persons>
+                <description>During WHY2025 we will record a special of our podcast. The central theme of this episode will be: Communities. 
+And you can be there during the recording of this episode!</description>
+                <date>2025-08-04T11:00:00+02:00</date>
+                <start>11:00</start>
+                <duration>03:00</duration>
+            </event>
+        </room>
+        <room name="Village:TechInc" guid="d6a86999-ee66-5630-8d7d-a1668aedb668">
+            <event guid="a877aa49-6782-593f-9f27-5ff6cdf95581">
+                <title>Transmasc meetup</title>
+                <track>Self Organized Sessions</track>
+                <abstract>transmasc meetup</abstract>
+                <type>Meeting</type>
+                <persons>
+                    <person>Li0n</person>
+                </persons>
+                <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406</description>
+                <subtitle>day 1</subtitle>
+                <date>2025-08-04T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
+    </day>
+    <day date="2025-08-05">
+        <room name="Village:TechInc" guid="d6a86999-ee66-5630-8d7d-a1668aedb668">
+            <event guid="53edd6ac-b620-5ead-af31-0aafbfd9b53a">
+                <title>Transmasc meetup</title>
+                <track>Self Organized Sessions</track>
+                <abstract>transmasc meetup</abstract>
+                <type>Meeting</type>
+                <persons>
+                    <person>Li0n</person>
+                </persons>
+                <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406</description>
+                <subtitle>day 2</subtitle>
+                <date>2025-08-05T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
+    </day>
+    <day date="2025-08-13">
         <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
             <event guid="dcb58d79-2038-53b5-87af-6ae22483941c">
                 <title>MTB Rides</title>
@@ -12020,61 +12073,6 @@ The prices in the yellow boxes are the materials costs for participating in the 
                 <date>2025-08-13T00:00:00+02:00</date>
             </event>
         </room>
-    </day>
-    <day date="2025-08-04">
-        <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
-            <event guid="a5d8d94a-3b5c-5b27-801a-8e82edc8b333">
-                <title>Z-CERT Podcast Recording: Zet ‘m op</title>
-                <track>Self Organized Sessions</track>
-                <abstract>A recording session of the Z-CERT podcast with the theme: Communities</abstract>
-                <url>https://z-cert.nl/actueel/podcast</url>
-                <type>Other</type>
-                <persons>
-                    <person>Nelusthenerd</person>
-                </persons>
-                <description>During WHY2025 we will record a special of our podcast. The central theme of this episode will be: Communities. 
-And you can be there during the recording of this episode!</description>
-                <date>2025-08-04T11:00:00+02:00</date>
-                <start>11:00</start>
-                <duration>03:00</duration>
-            </event>
-        </room>
-        <room name="Village:TechInc" guid="d6a86999-ee66-5630-8d7d-a1668aedb668">
-            <event guid="a877aa49-6782-593f-9f27-5ff6cdf95581">
-                <title>Transmasc meetup</title>
-                <track>Self Organized Sessions</track>
-                <abstract>transmasc meetup</abstract>
-                <type>Meeting</type>
-                <persons>
-                    <person>Li0n</person>
-                </persons>
-                <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406</description>
-                <subtitle>day 1</subtitle>
-                <date>2025-08-04T17:00:00+02:00</date>
-                <start>17:00</start>
-                <duration>01:00</duration>
-            </event>
-        </room>
-    </day>
-    <day date="2025-08-05">
-        <room name="Village:TechInc" guid="d6a86999-ee66-5630-8d7d-a1668aedb668">
-            <event guid="53edd6ac-b620-5ead-af31-0aafbfd9b53a">
-                <title>Transmasc meetup</title>
-                <track>Self Organized Sessions</track>
-                <abstract>transmasc meetup</abstract>
-                <type>Meeting</type>
-                <persons>
-                    <person>Li0n</person>
-                </persons>
-                <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406</description>
-                <subtitle>day 2</subtitle>
-                <date>2025-08-05T17:00:00+02:00</date>
-                <start>17:00</start>
-                <duration>01:00</duration>
-            </event>
-        </room>
-    </day>
-    <day date="2025-08-13">
         <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
             <event guid="1cbfa312-a152-5160-a55e-e60fc7e93624">
                 <title>Whiskyleaks</title>

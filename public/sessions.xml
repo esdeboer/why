@@ -11,75 +11,6 @@
     <time_zone_name>Europe/Amsterdam</time_zone_name>
     <track name="Self Organized Sessions" />
   </conference>
-  <day date="">
-    <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
-      <event guid="dcb58d79-2038-53b5-87af-6ae22483941c">
-        <title>MTB Rides</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
-        <type>Hands-On</type>
-        <persons>
-          <person>nobody</person>
-        </persons>
-        <description>Missing date, check with organiser, event put at last day</description>
-        <subtitle>Noord-Scharwoude</subtitle>
-        <duration>00:10</duration>
-        <date>2025-08-13T00:00:00+02:00</date>
-      </event>
-      <event guid="1992e8ca-fa20-559f-a056-da9f234038cc">
-        <title>MTB Rides</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
-        <type>Hands-On</type>
-        <persons>
-          <person>nobody</person>
-        </persons>
-        <description>Missing date, check with organiser, event put at last day</description>
-        <subtitle>Schoorl (Midden)</subtitle>
-        <duration>00:10</duration>
-        <date>2025-08-13T00:00:00+02:00</date>
-      </event>
-      <event guid="5832e552-fd06-5148-8014-ad0d96b644db">
-        <title>MTB Rides</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
-        <type>Hands-On</type>
-        <persons>
-          <person>nobody</person>
-        </persons>
-        <description>Missing date, check with organiser, event put at last day</description>
-        <subtitle>Schoorl (Zuid)</subtitle>
-        <duration>00:10</duration>
-        <date>2025-08-13T00:00:00+02:00</date>
-      </event>
-      <event guid="55ffd24a-967b-5324-8035-bf75b54fcf9d">
-        <title>MTB Rides</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
-        <type>Hands-On</type>
-        <persons>
-          <person>nobody</person>
-        </persons>
-        <description>Missing date, check with organiser, event put at last day</description>
-        <subtitle>Schoorl (Noord)</subtitle>
-        <duration>00:10</duration>
-        <date>2025-08-13T00:00:00+02:00</date>
-      </event>
-      <event guid="1a67a64a-534f-5c2e-800b-dc6aa69cf4b5">
-        <title>MTB Rides</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
-        <type>Hands-On</type>
-        <persons>
-          <person>nobody</person>
-        </persons>
-        <description>Missing date, check with organiser, event put at last day</description>
-        <subtitle>Noord-Scharwoude</subtitle>
-        <duration>00:10</duration>
-        <date>2025-08-13T00:00:00+02:00</date>
-      </event>
-    </room>
-  </day>
   <day date="2025-08-04">
     <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
       <event guid="a5d8d94a-3b5c-5b27-801a-8e82edc8b333">
@@ -1966,6 +1897,73 @@ The prices in the yellow boxes are the materials costs for participating in the 
     </room>
   </day>
   <day date="2025-08-13">
+    <room name="Camp entrance" guid="c19c93b2-bf35-5cf1-8b00-ca94757c3e43">
+      <event guid="dcb58d79-2038-53b5-87af-6ae22483941c">
+        <title>MTB Rides</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>nobody</person>
+        </persons>
+        <description>Missing date, check with organiser, event put at last day</description>
+        <subtitle>Noord-Scharwoude</subtitle>
+        <duration>00:10</duration>
+        <date>2025-08-13T00:00:00+02:00</date>
+      </event>
+      <event guid="1992e8ca-fa20-559f-a056-da9f234038cc">
+        <title>MTB Rides</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>nobody</person>
+        </persons>
+        <description>Missing date, check with organiser, event put at last day</description>
+        <subtitle>Schoorl (Midden)</subtitle>
+        <duration>00:10</duration>
+        <date>2025-08-13T00:00:00+02:00</date>
+      </event>
+      <event guid="5832e552-fd06-5148-8014-ad0d96b644db">
+        <title>MTB Rides</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>nobody</person>
+        </persons>
+        <description>Missing date, check with organiser, event put at last day</description>
+        <subtitle>Schoorl (Zuid)</subtitle>
+        <duration>00:10</duration>
+        <date>2025-08-13T00:00:00+02:00</date>
+      </event>
+      <event guid="55ffd24a-967b-5324-8035-bf75b54fcf9d">
+        <title>MTB Rides</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>nobody</person>
+        </persons>
+        <description>Missing date, check with organiser, event put at last day</description>
+        <subtitle>Schoorl (Noord)</subtitle>
+        <duration>00:10</duration>
+        <date>2025-08-13T00:00:00+02:00</date>
+      </event>
+      <event guid="1a67a64a-534f-5c2e-800b-dc6aa69cf4b5">
+        <title>MTB Rides</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Trail group ride. Bring your own trail-worthy bike (MTB, vintage MTB, gravel, ...) and helmet. All fitness and skill levels welcome. It's just for fun and a great way to get out of the camp for a bit!</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>nobody</person>
+        </persons>
+        <description>Missing date, check with organiser, event put at last day</description>
+        <subtitle>Noord-Scharwoude</subtitle>
+        <duration>00:10</duration>
+        <date>2025-08-13T00:00:00+02:00</date>
+      </event>
+    </room>
     <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
       <event guid="1cbfa312-a152-5160-a55e-e60fc7e93624">
         <title>Whiskyleaks</title>

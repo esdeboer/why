@@ -1,55 +1,5 @@
 [
   {
-    "id": "dcb58d79-2038-53b5-87af-6ae22483941c",
-    "title": "MTB Rides",
-    "description": "Missing date, check with organiser, event put at last day",
-    "start": "2025-08-13T00:00:00+02:00",
-    "end": "2025-08-13T00:10:00+02:00",
-    "room": "Camp entrance",
-    "url": "",
-    "type": "Hands-On"
-  },
-  {
-    "id": "1992e8ca-fa20-559f-a056-da9f234038cc",
-    "title": "MTB Rides",
-    "description": "Missing date, check with organiser, event put at last day",
-    "start": "2025-08-13T00:00:00+02:00",
-    "end": "2025-08-13T00:10:00+02:00",
-    "room": "Camp entrance",
-    "url": "",
-    "type": "Hands-On"
-  },
-  {
-    "id": "5832e552-fd06-5148-8014-ad0d96b644db",
-    "title": "MTB Rides",
-    "description": "Missing date, check with organiser, event put at last day",
-    "start": "2025-08-13T00:00:00+02:00",
-    "end": "2025-08-13T00:10:00+02:00",
-    "room": "Camp entrance",
-    "url": "",
-    "type": "Hands-On"
-  },
-  {
-    "id": "55ffd24a-967b-5324-8035-bf75b54fcf9d",
-    "title": "MTB Rides",
-    "description": "Missing date, check with organiser, event put at last day",
-    "start": "2025-08-13T00:00:00+02:00",
-    "end": "2025-08-13T00:10:00+02:00",
-    "room": "Camp entrance",
-    "url": "",
-    "type": "Hands-On"
-  },
-  {
-    "id": "1a67a64a-534f-5c2e-800b-dc6aa69cf4b5",
-    "title": "MTB Rides",
-    "description": "Missing date, check with organiser, event put at last day",
-    "start": "2025-08-13T00:00:00+02:00",
-    "end": "2025-08-13T00:10:00+02:00",
-    "room": "Camp entrance",
-    "url": "",
-    "type": "Hands-On"
-  },
-  {
     "id": "a5d8d94a-3b5c-5b27-801a-8e82edc8b333",
     "title": "Z-CERT Podcast Recording: Zet \u2018m op",
     "description": "During WHY2025 we will record a special of our podcast. The central theme of this episode will be: Communities. \nAnd you can be there during the recording of this episode!",
@@ -848,6 +798,56 @@
     "room": "undetermined",
     "url": "",
     "type": "Other"
+  },
+  {
+    "id": "dcb58d79-2038-53b5-87af-6ae22483941c",
+    "title": "MTB Rides",
+    "description": "Missing date, check with organiser, event put at last day",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T00:10:00+02:00",
+    "room": "Camp entrance",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
+    "id": "1992e8ca-fa20-559f-a056-da9f234038cc",
+    "title": "MTB Rides",
+    "description": "Missing date, check with organiser, event put at last day",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T00:10:00+02:00",
+    "room": "Camp entrance",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
+    "id": "5832e552-fd06-5148-8014-ad0d96b644db",
+    "title": "MTB Rides",
+    "description": "Missing date, check with organiser, event put at last day",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T00:10:00+02:00",
+    "room": "Camp entrance",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
+    "id": "55ffd24a-967b-5324-8035-bf75b54fcf9d",
+    "title": "MTB Rides",
+    "description": "Missing date, check with organiser, event put at last day",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T00:10:00+02:00",
+    "room": "Camp entrance",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
+    "id": "1a67a64a-534f-5c2e-800b-dc6aa69cf4b5",
+    "title": "MTB Rides",
+    "description": "Missing date, check with organiser, event put at last day",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T00:10:00+02:00",
+    "room": "Camp entrance",
+    "url": "",
+    "type": "Hands-On"
   },
   {
     "id": "1cbfa312-a152-5160-a55e-e60fc7e93624",
