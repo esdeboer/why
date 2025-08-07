@@ -1404,6 +1404,24 @@ Caution: The access to the labyrinth is at your own risk. Wear comfortable cloth
                 <feedback_url>https://program.why2025.org/why2025/talk/CNYHMR/feedback/</feedback_url>
             </event>
         </room>
+        <room name="Village:Back to the 80s Party" guid="62564f9a-530f-5d06-baa9-6cf3691119b3">
+            <event guid="ec2a42a9-a4b6-580a-a1d3-4febcb6df5fe">
+                <title>Face Painting for all ages</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Face Painting for all ages</abstract>
+                <type>Other</type>
+                <persons>
+                    <person>MissMaps</person>
+                </persons>
+                <description>Age range: All ages
+Face painting for all ages! Because everyone wants to feel extra beautiful sometimes. So for all ages! 
+There are glitters, diamonds, rainbows and much more! Bring your own design or pick one from the examples.</description>
+                <subtitle>Why not?</subtitle>
+                <date>2025-08-08T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
         <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
             <event guid="e2ff0891-8a50-5ac9-ace3-4ec07706000c">
                 <title>Onderzoek levering mifi-routers (hardware hacking)</title>
@@ -1459,31 +1477,6 @@ Participation of up to 8 people.</description>
             </event>
         </room>
         <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">
-            <event guid="f6c91348-6ecc-57ca-9031-7d247c0fcc37">
-                <title>FHB: Kefir Making</title>
-                <track>Self Organized Sessions</track>
-                <abstract>At this workshop you will learn how to make your own kefir ferments using the kefir grain culture</abstract>
-                <url>foodhackingbase.org</url>
-                <type>Workshop</type>
-                <persons>
-                    <person>Algoldor</person>
-                </persons>
-                <language>en</language>
-                <description>Needs signup
-Age range: Aimed at adults but supervised kids welcome.
-[https://dud-poll.inf.tu-dresden.de/kefir_why2025/ To secure spot on this workshop please sign in here].
-
-[https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form Workshop manual is shared here].
-
-This is hands on workshop during which you will learn how to make, harvest and continue to prepare [https://en.wikipedia.org/wiki/Kefir kefir] using kefir grain culture which you will walk away with if you don't defend yourself too hard. We will explain basic concepts of probiotic, prebiotic and biofilm based polycultures and why it is good to consume foods “labeled” by these terms. You will prepare your own kefir culture, based on the  [https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form working manual] and take it with you so you will be ready to brew wherever you decide hopefully “positively infecting” your local hackerspace. We will make at least one recipe together, either "kefir cake" or kefir smoked paprika spread, if we have time we may do a base for probiotic kefir drink using kefir whey.
-
-We will demonstrate how to make a new batch of kefir and how to harvest the old one, you will than do it by yourself. The main aim of this workshop is for the participants to understand the principles behind the milk fermentation with kefir culture and not to be afraid to just do it. Combined with the practical experience which I provide you will be able to take care properly about your kefir culture which is the key for your successful long term fermentation adventures! Don't worry too much about loosing a batch or two, that happens from time to time, keeping the "mother culture" happy is the important part. As usually there will be tasters, cultures sharing, manuals and various hints how to use the products in alternative ways making for example probiotic drinks from whey, kefir cheese spreads, kefir cake et cetera. I can be also your troubleshooting help if you need it. 
-
-This workshop is donation based no one turned away for lack of funds, if you can chip in around 10€, that would be great but it is up to you.</description>
-                <date>2025-08-08T14:00:00+02:00</date>
-                <start>14:00</start>
-                <duration>02:00</duration>
-            </event>
             <event guid="06c5bf6a-86c4-5949-bbfb-c8b188236493">
                 <title>FHB:Cheese Rendezvous</title>
                 <track>Self Organized Sessions</track>
@@ -4313,6 +4306,23 @@ https://aidtoukraine.nl</description>
                 <duration>02:00</duration>
             </event>
         </room>
+        <room name="Village:Back to the 80s Party" guid="62564f9a-530f-5d06-baa9-6cf3691119b3">
+            <event guid="54104735-501a-51ec-b9f5-2bdff32f2970">
+                <title>Face Painting for all ages</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Face Painting for all ages</abstract>
+                <type>Other</type>
+                <persons>
+                    <person>MissMaps</person>
+                </persons>
+                <description>Age range: All ages
+Face painting for all ages! Because everyone wants to feel extra beautiful sometimes. So for all ages! 
+There are glitters, diamonds, rainbows and much more! Bring your own design or pick one from the examples.</description>
+                <date>2025-08-09T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
         <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
             <event guid="facd9967-eb29-5832-af66-f888d80e5a49">
                 <title>How to get a new TV without paying. Phishing panels for the win!</title>
@@ -4673,6 +4683,33 @@ Join me for some relaxing old-school arts and crafts. You are welcome!</descript
                 <description>Age range: All ages</description>
                 <date>2025-08-09T10:00:00+02:00</date>
                 <start>10:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
+        <room name="Village:SHA512" guid="f7d8b13a-ae85-54a6-b249-53fc7e86460c">
+            <event guid="045da4b6-3435-5cf9-a117-f92bb1266dd0">
+                <title>Mobile phone display and battery replacement workshop</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Mobile phone display and battery replacement</abstract>
+                <type>Hands-On</type>
+                <persons>
+                    <person>Deponald</person>
+                </persons>
+                <language>en</language>
+                <description>Needs signup
+Age range: Aimed at adults but supervised kids welcome.
+== Workshop Description ==
+For signup use [https://datumprikker.nl/p3xrc8fgrztd4fph][https://datumprikker.nl/p3xrc8fgrztd4fph, more slots will follow if needed
+
+Mobile phone display and battery replacement hand-on workshop:
+* Where to start if you want to replace a broken display or weak battery 
+* What kind of tools can be used
+* Use our phones to practice with opening, display removal and battery removal
+* Use our phones and microscopes to look what's behind the shields...
+* If you want, bring your own phone and use our tools for opening
+* We don't have new displays or new batteries but feel free to bring them for your own phone and use our tools for replacement.</description>
+                <date>2025-08-09T17:00:00+02:00</date>
+                <start>17:00</start>
                 <duration>01:00</duration>
             </event>
         </room>
@@ -6026,6 +6063,7 @@ Whether you're starting a new project or maintaining a mature one, this talk wil
                 <abstract>Any even remotely advanced tasks on unixoid systems will inevitably lead to an encounter with one of the systems oldest components: The shell. An ancient artefact that is in equal parts being feared, mystified, or possibly even glorified.</abstract>
                 <slug>why2025-256-a-guided-tour-to-unix-shells</slug>
                 <track>The square hole</track>
+                <logo>/media/why2025/submissions/CB7A9V/hashbang_f38zxM1.png</logo>
                 <persons>
                     <person id="251">Stephan Hohmann</person>
                 </persons>
@@ -6034,7 +6072,7 @@ Whether you're starting a new project or maintaining a mature one, this talk wil
 
 While technical in parts, this is first and foremost a historical presentation with a bit of an outlook. Less tech-savvy audience members should thus still be able to enjoy this. In fact, newcomers to the shell may find some useful hints.
 
-Keywords: computing history; unix; multics; posix; linux</description>
+**Keywords:** *computing history; unix; multics; posix; linux*</description>
                 <recording>
                     <license />
                     <optout>false</optout>
@@ -7587,6 +7625,31 @@ How we designed our disability cards to make daily life easier.
             </event>
         </room>
         <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">
+            <event guid="f6c91348-6ecc-57ca-9031-7d247c0fcc37">
+                <title>FHB: Kefir Making</title>
+                <track>Self Organized Sessions</track>
+                <abstract>At this workshop you will learn how to make your own kefir ferments using the kefir grain culture</abstract>
+                <url>foodhackingbase.org</url>
+                <type>Workshop</type>
+                <persons>
+                    <person>Algoldor</person>
+                </persons>
+                <language>en</language>
+                <description>Needs signup
+Age range: Aimed at adults but supervised kids welcome.
+[https://dud-poll.inf.tu-dresden.de/kefir_why2025/ To secure spot on this workshop please sign in here].
+
+[https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form Workshop manual is shared here].
+
+This is hands on workshop during which you will learn how to make, harvest and continue to prepare [https://en.wikipedia.org/wiki/Kefir kefir] using kefir grain culture which you will walk away with if you don't defend yourself too hard. We will explain basic concepts of probiotic, prebiotic and biofilm based polycultures and why it is good to consume foods “labeled” by these terms. You will prepare your own kefir culture, based on the  [https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form working manual] and take it with you so you will be ready to brew wherever you decide hopefully “positively infecting” your local hackerspace. We will make at least one recipe together, either "kefir cake" or kefir smoked paprika spread, if we have time we may do a base for probiotic kefir drink using kefir whey.
+
+We will demonstrate how to make a new batch of kefir and how to harvest the old one, you will than do it by yourself. The main aim of this workshop is for the participants to understand the principles behind the milk fermentation with kefir culture and not to be afraid to just do it. Combined with the practical experience which I provide you will be able to take care properly about your kefir culture which is the key for your successful long term fermentation adventures! Don't worry too much about loosing a batch or two, that happens from time to time, keeping the "mother culture" happy is the important part. As usually there will be tasters, cultures sharing, manuals and various hints how to use the products in alternative ways making for example probiotic drinks from whey, kefir cheese spreads, kefir cake et cetera. I can be also your troubleshooting help if you need it. 
+
+This workshop is donation based no one turned away for lack of funds, if you can chip in around 10€, that would be great but it is up to you.</description>
+                <date>2025-08-10T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>02:00</duration>
+            </event>
             <event guid="6a83107a-5d58-517c-937c-ea315f3b4b9b">
                 <title>FHB:Cheese Rendezvous</title>
                 <track>Self Organized Sessions</track>
@@ -7765,9 +7828,9 @@ tags:videogames
 
 👾 WHY: Why not?</description>
                 <subtitle>Videogame tournament</subtitle>
-                <date>2025-08-10T21:00:00+02:00</date>
-                <start>21:00</start>
-                <duration>02:00</duration>
+                <date>2025-08-10T20:30:00+02:00</date>
+                <start>20:30</start>
+                <duration>01:00</duration>
             </event>
         </room>
         <room name="Village:Øl Telecom" guid="9d7f244c-7f35-5948-b0fd-2f8c5e9537dd">
@@ -8997,6 +9060,7 @@ Our goal was to do vulnerability research, but we ran out of time for that. By s
                 <abstract>For a good decade now, containerisation has been a popular solution: Addressing issues such as security, fault tolerance, and scalability, it has turned into a mainstay in IT. Though with a technology that ubiquitous, it does deserve investigation whether it has been put to good use or rather pressed into service.</abstract>
                 <slug>why2025-263-containing-the-horror-a-critique-on-docker-co</slug>
                 <track>The square hole</track>
+                <logo>/media/why2025/submissions/MREBV9/containing_the_horror_WlUDX31.jpg</logo>
                 <persons>
                     <person id="251">Stephan Hohmann</person>
                 </persons>
@@ -9005,7 +9069,7 @@ Our goal was to do vulnerability research, but we ran out of time for that. By s
 
 Mild audience participation is to be expected; may contain traces of DevOps.
 
-Keywords: containers; cloud; linux; docker; oci; kubernetes</description>
+**Keywords:** *containers; cloud; linux; docker; oci; kubernetes*</description>
                 <recording>
                     <license />
                     <optout>false</optout>
@@ -9266,11 +9330,12 @@ If you want us to provide the kit at cost, please contact me at why2025@area42.i
                 <date>2025-08-11T14:00:00+02:00</date>
                 <start>14:00</start>
                 <duration>02:00</duration>
-                <abstract>AI is ubiquitous. Where it isn't now, it will probably be soon, in software and operating systems. More often the usage guidelines are also unilaterally changed to companies utilising our data to train their models. While I've previously focused on building safer AI, now I also teach people how to hack them and build playgrounds for people to experiment. In this workshop I bring my hackable AI apps for people to play around with and hack so we may all learn new and necessary skills. Come play!</abstract>
+                <abstract>AI is ubiquitous. Where it isn't now, it will probably be soon, in software and operating systems. More often the usage guidelines are also unilaterally changed to companies utilising our data to train their models. While I've previously focused on building safer AI, now I invite people to hack them and build playgrounds for this. In this workshop you can play around and hack AI bots and ideate new ones so we may all learn new and necessary skills. Come play!</abstract>
                 <slug>why2025-189-let-s-break-some-ai</slug>
                 <track>Wonderful creations</track>
                 <persons>
                     <person id="205">Satu Korhonen</person>
+                    <person id="513">pcdog</person>
                 </persons>
                 <language>en</language>
                 <recording>

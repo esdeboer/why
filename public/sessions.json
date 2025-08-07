@@ -90,6 +90,16 @@
     "type": "Other"
   },
   {
+    "id": "ec2a42a9-a4b6-580a-a1d3-4febcb6df5fe",
+    "title": "Face Painting for all ages",
+    "description": "Age range: All ages\nFace painting for all ages! Because everyone wants to feel extra beautiful sometimes. So for all ages! \nThere are glitters, diamonds, rainbows and much more! Bring your own design or pick one from the examples.",
+    "start": "2025-08-08T19:00:00+02:00",
+    "end": "2025-08-08T20:00:00+02:00",
+    "room": "Village:Back to the 80s Party",
+    "url": "",
+    "type": "Other"
+  },
+  {
     "id": "e2ff0891-8a50-5ac9-ace3-4ec07706000c",
     "title": "Onderzoek levering mifi-routers (hardware hacking)",
     "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\nBij de levering van Mifi devices doet zich een vreemde situatie voor. Met behulp van hardware-hacking probeer ik te bevestigen of te ontkrachten of er werkelijk iets speelt.\nDeze talk zal in het Nederlands gegeven worden en is primair voor DutchPicknick-ers. Anderen zijn ook welkom, maar de exacte tijd moet nog even bepaald worden. Zit je niet in DutchPicknick, meldt je vooraf even bij ons village.",
@@ -117,16 +127,6 @@
     "end": "2025-08-08T17:00:00+02:00",
     "room": "Village:Energy",
     "url": "",
-    "type": "Workshop"
-  },
-  {
-    "id": "f6c91348-6ecc-57ca-9031-7d247c0fcc37",
-    "title": "FHB: Kefir Making",
-    "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\n[https://dud-poll.inf.tu-dresden.de/kefir_why2025/ To secure spot on this workshop please sign in here].\n\n[https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form Workshop manual is shared here].\n\nThis is hands on workshop during which you will learn how to make, harvest and continue to prepare [https://en.wikipedia.org/wiki/Kefir kefir] using kefir grain culture which you will walk away with if you don't defend yourself too hard. We will explain basic concepts of probiotic, prebiotic and biofilm based polycultures and why it is good to consume foods \u201clabeled\u201d by these terms. You will prepare your own kefir culture, based on the  [https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form working manual] and take it with you so you will be ready to brew wherever you decide hopefully \u201cpositively infecting\u201d your local hackerspace. We will make at least one recipe together, either \"kefir cake\" or kefir smoked paprika spread, if we have time we may do a base for probiotic kefir drink using kefir whey.\n\nWe will demonstrate how to make a new batch of kefir and how to harvest the old one, you will than do it by yourself. The main aim of this workshop is for the participants to understand the principles behind the milk fermentation with kefir culture and not to be afraid to just do it. Combined with the practical experience which I provide you will be able to take care properly about your kefir culture which is the key for your successful long term fermentation adventures! Don't worry too much about loosing a batch or two, that happens from time to time, keeping the \"mother culture\" happy is the important part. As usually there will be tasters, cultures sharing, manuals and various hints how to use the products in alternative ways making for example probiotic drinks from whey, kefir cheese spreads, kefir cake et cetera. I can be also your troubleshooting help if you need it. \n\nThis workshop is donation based no one turned away for lack of funds, if you can chip in around 10\u20ac, that would be great but it is up to you.",
-    "start": "2025-08-08T14:00:00+02:00",
-    "end": "2025-08-08T16:00:00+02:00",
-    "room": "Village:Food Hacking Base",
-    "url": "foodhackingbase.org",
     "type": "Workshop"
   },
   {
@@ -238,6 +238,16 @@
     "room": "Village:Aid to Ukraine",
     "url": "https://aidtoukraine.nl",
     "type": "Workshop"
+  },
+  {
+    "id": "54104735-501a-51ec-b9f5-2bdff32f2970",
+    "title": "Face Painting for all ages",
+    "description": "Age range: All ages\nFace painting for all ages! Because everyone wants to feel extra beautiful sometimes. So for all ages! \nThere are glitters, diamonds, rainbows and much more! Bring your own design or pick one from the examples.",
+    "start": "2025-08-09T19:00:00+02:00",
+    "end": "2025-08-09T20:00:00+02:00",
+    "room": "Village:Back to the 80s Party",
+    "url": "",
+    "type": "Other"
   },
   {
     "id": "facd9967-eb29-5832-af66-f888d80e5a49",
@@ -400,6 +410,16 @@
     "type": "Other"
   },
   {
+    "id": "045da4b6-3435-5cf9-a117-f92bb1266dd0",
+    "title": "Mobile phone display and battery replacement workshop",
+    "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\n== Workshop Description ==\nFor signup use [https://datumprikker.nl/p3xrc8fgrztd4fph][https://datumprikker.nl/p3xrc8fgrztd4fph, more slots will follow if needed\n\nMobile phone display and battery replacement hand-on workshop:\n* Where to start if you want to replace a broken display or weak battery \n* What kind of tools can be used\n* Use our phones to practice with opening, display removal and battery removal\n* Use our phones and microscopes to look what's behind the shields...\n* If you want, bring your own phone and use our tools for opening\n* We don't have new displays or new batteries but feel free to bring them for your own phone and use our tools for replacement.",
+    "start": "2025-08-09T17:00:00+02:00",
+    "end": "2025-08-09T18:00:00+02:00",
+    "room": "Village:SHA512",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
     "id": "895c1116-247d-5ad3-bf52-ff2a2ede2d75",
     "title": "Movie-night",
     "description": "Age range: All ages\n\u26a0\ufe0f\u26a0\ufe0f We do not own a lot of chairs, if you want to join and be comfortable: bring your own chair.\n\n\u26a0\ufe0f\u26a0\ufe0f I'm bringing 2kg of kernel corns, popcorn delivery will be FIFO (no refills, be mindful of other campers opportunity too).\n\n\ud83c\udf7f WHAT: We will project one film with English subtitles and make popcorn kernels explode applying heat to make them edible and delicious.\n\n\ud83c\udf7f WHERE: SSH village.\n\n\ud83c\udf7f WHEN: https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Schedule\n\n\ud83c\udf7f WHY: Yes, WHY 2025",
@@ -520,6 +540,16 @@
     "type": "Talk"
   },
   {
+    "id": "f6c91348-6ecc-57ca-9031-7d247c0fcc37",
+    "title": "FHB: Kefir Making",
+    "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\n[https://dud-poll.inf.tu-dresden.de/kefir_why2025/ To secure spot on this workshop please sign in here].\n\n[https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form Workshop manual is shared here].\n\nThis is hands on workshop during which you will learn how to make, harvest and continue to prepare [https://en.wikipedia.org/wiki/Kefir kefir] using kefir grain culture which you will walk away with if you don't defend yourself too hard. We will explain basic concepts of probiotic, prebiotic and biofilm based polycultures and why it is good to consume foods \u201clabeled\u201d by these terms. You will prepare your own kefir culture, based on the  [https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form working manual] and take it with you so you will be ready to brew wherever you decide hopefully \u201cpositively infecting\u201d your local hackerspace. We will make at least one recipe together, either \"kefir cake\" or kefir smoked paprika spread, if we have time we may do a base for probiotic kefir drink using kefir whey.\n\nWe will demonstrate how to make a new batch of kefir and how to harvest the old one, you will than do it by yourself. The main aim of this workshop is for the participants to understand the principles behind the milk fermentation with kefir culture and not to be afraid to just do it. Combined with the practical experience which I provide you will be able to take care properly about your kefir culture which is the key for your successful long term fermentation adventures! Don't worry too much about loosing a batch or two, that happens from time to time, keeping the \"mother culture\" happy is the important part. As usually there will be tasters, cultures sharing, manuals and various hints how to use the products in alternative ways making for example probiotic drinks from whey, kefir cheese spreads, kefir cake et cetera. I can be also your troubleshooting help if you need it. \n\nThis workshop is donation based no one turned away for lack of funds, if you can chip in around 10\u20ac, that would be great but it is up to you.",
+    "start": "2025-08-10T14:00:00+02:00",
+    "end": "2025-08-10T16:00:00+02:00",
+    "room": "Village:Food Hacking Base",
+    "url": "foodhackingbase.org",
+    "type": "Workshop"
+  },
+  {
     "id": "6a83107a-5d58-517c-937c-ea315f3b4b9b",
     "title": "FHB:Cheese Rendezvous",
     "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\n[https://dud-poll.inf.tu-dresden.de/cheese1_why/ To secure spot on the Session I. (Day 1, FRI 18h00) please sign in here]\n\n[https://dud-poll.inf.tu-dresden.de/cheese2_why/ To secure spot on the Session 2. (Day 3, SUN 19h00) please sign in here.]\n\n\nEach cheese tasting session is open to 25 people max, please do sign in advance, you can just show up before the event but we are very likely going to be full for this one (like three times overbooked). If you can bring cheese which you made by yourself that would be great! Of course some specific local or extraordinary cheese/s or other related condiments like sun dried tomatoes, good quality olives, mustards, wine all would be appreciated. If you are bringing cheese please do label it well with at least it's name and type of milk used, your nick or name/contact would come handy too. The best would be of course to add short description to our wiki (please check the sample). Still please sign in in advance! FHB will be getting some high quality cheeses to offer basic selection with other samples surrounding it plus some basic condiments. Note that due to the interest in previous years we are going to run two sessions, each one lasting for about two hours or bit over.\n\nThis event is based on '''donation at your will no one turned away for lack of funds'''.\n\nSo lets meet all together again enjoying these lovely creations! Here you can find cheeses which are going to be present, please do add your ones and keep in mind that good half of the cheeses will be not listed here, they will just appear and they are worth of your attention!\n\nTo add your own cheese, add it to the wiki below\n\n[https://foodhackingbase.org/wiki/FHB@WHY2025/Cheese_Rendezvous Click here for a list of cheeses]",
@@ -603,8 +633,8 @@
     "id": "977701cb-4015-53c8-a48c-6de3e6b4c7ec",
     "title": "Videogame-tournament",
     "description": "Age range: All ages\nkeywords: videogames\ntags:videogames\n\ud83d\udc7e WHAT: We are bringing retro games + game controllers + a projector to play:\n\n\ud83d\udfe1 [https://www.youtube.com/watch?v=7ahz87n4oEA Neo Geo Puzzle Money Exchanger]\n\n\ud83d\udc7e WHERE: Milliways or SSH village (Projector to be tested on site).\n\n\ud83d\udc7e WHEN: https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Videogame_tournament\n\n\ud83d\udc7e WHY: Why not?",
-    "start": "2025-08-10T21:00:00+02:00",
-    "end": "2025-08-10T23:00:00+02:00",
+    "start": "2025-08-10T20:30:00+02:00",
+    "end": "2025-08-10T21:30:00+02:00",
     "room": "Village:SSH (Spanish Speaking Hackers)",
     "url": "https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Schedule",
     "type": "Game"
