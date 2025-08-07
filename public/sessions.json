@@ -972,7 +972,7 @@
   {
     "id": "3d3a9546-d65f-5a3e-a8d0-4bd9d0ada19e",
     "title": "Morse Code LED Blinker",
-    "description": "Generated time to make session visible, might need an actual date and time\nAge range: Aimed at adults but supervised kids welcome.\nBored of talks? Burnt out on pixels? Swing by and solder.\nParticipants can assemble and program their very own blinky PCB \u2014 a tiny circuit that flashes their name in Morse. Whether you're new to electronics or just need a break from abstract systems talk, this project hits the sweet spot: tactile, nerdy, and extremely satisfying. And yes, you get to take it home.\n\nMore infos TBA!",
+    "description": "Generated time to make session visible, might need an actual date and time\nAge range: Aimed at adults but supervised kids welcome.\nBored of talks? Burnt out on pixels? Swing by and solder.\n\nParticipants can assemble and program their very own blinky PCB \u2014 a tiny circuit that flashes their name in Morse Code. Whether you're new to electronics or just need a break from abstract systems talk, this project hits the sweet spot: tactile, nerdy, and extremely satisfying. And yes, you get to take it home.\n\n\nTags:\n( \neducation\narduino\navr\nattiny\nmicrocontroller\nworkshop\nuniversity\narduino-ide\npcb\nmorse-code\nattiny85\nkicad\noshw\nsoldering\nrwu\niki\nmicrocontroller-programming\nled-blinker\nravensburg-weingarten-university\nmorse-code-led-blinker\n)",
     "start": "2025-08-13T00:00:00+02:00",
     "end": "2025-08-13T01:00:00+02:00",
     "room": "undetermined",

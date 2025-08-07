@@ -2676,6 +2676,7 @@ So let's talk about the topology the fun way.</description>
                 <logo>/media/why2025/submissions/UMXAES/holymate_dM2hTWs.png</logo>
                 <persons>
                     <person id="235">iron</person>
+                    <person id="538">Okarin</person>
                 </persons>
                 <language>en</language>
                 <recording>
@@ -12291,7 +12292,7 @@ Bring a camping chair, get your drink of choice and enjoy one hour of peak dad r
             <event guid="3d3a9546-d65f-5a3e-a8d0-4bd9d0ada19e">
                 <title>Morse Code LED Blinker</title>
                 <track>Self Organized Sessions</track>
-                <abstract>Solder and code your own blinky PCB to spell your name in Morse - encoded in packets of photons, transmitted at light speed. Old-school tech that fits in the palm of your hand.</abstract>
+                <abstract>Solder and code your own blinky PCB to spell your name in Morse - encoded in packets of photons, transmitted at light speed. Old-school tech that fits in the palm of your hand. Suitable for hackers of every age.</abstract>
                 <url>https://github.com/leandroebner/Morse-Code-LED-Blinker</url>
                 <type>Workshop</type>
                 <persons>
@@ -12304,9 +12305,33 @@ Bring a camping chair, get your drink of choice and enjoy one hour of peak dad r
                 <description>Generated time to make session visible, might need an actual date and time
 Age range: Aimed at adults but supervised kids welcome.
 Bored of talks? Burnt out on pixels? Swing by and solder.
-Participants can assemble and program their very own blinky PCB — a tiny circuit that flashes their name in Morse. Whether you're new to electronics or just need a break from abstract systems talk, this project hits the sweet spot: tactile, nerdy, and extremely satisfying. And yes, you get to take it home.
 
-More infos TBA!</description>
+Participants can assemble and program their very own blinky PCB — a tiny circuit that flashes their name in Morse Code. Whether you're new to electronics or just need a break from abstract systems talk, this project hits the sweet spot: tactile, nerdy, and extremely satisfying. And yes, you get to take it home.
+
+
+Tags:
+( 
+education
+arduino
+avr
+attiny
+microcontroller
+workshop
+university
+arduino-ide
+pcb
+morse-code
+attiny85
+kicad
+oshw
+soldering
+rwu
+iki
+microcontroller-programming
+led-blinker
+ravensburg-weingarten-university
+morse-code-led-blinker
+)</description>
             </event>
             <event guid="eba30b51-a7b4-5964-9c9f-80efccbfea9b">
                 <title>Fuzzing 5G NR FTW!</title>
