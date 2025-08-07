@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>1.7 - Ferdinand</version>
+    <version>1.8 - Dragon</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -1433,6 +1433,20 @@ Face painting for adults! Because then you don't have to disappoint these kids a
 There are glitters, diamonds, rainbows and much more! Bring your own design or pick one from the examples.</description>
                 <date>2025-08-08T19:30:00+02:00</date>
                 <start>19:30</start>
+                <duration>01:00</duration>
+            </event>
+            <event guid="0a5987bc-2288-50a7-b9e4-36c226551c29">
+                <title>RossEthics</title>
+                <track>Self Organized Sessions</track>
+                <abstract>How ethically was Bob Ross with his painting comments</abstract>
+                <persons>
+                    <person>NietDeBrugwachter</person>
+                </persons>
+                <description>Age range: 18+
+During a listening session we will analyse the quotes Bob Ross makes while painting. Statemens like "Push! Push harder" might sound alarming.</description>
+                <subtitle>RossEthics</subtitle>
+                <date>2025-08-08T17:00:00+02:00</date>
+                <start>17:00</start>
                 <duration>01:00</duration>
             </event>
         </room>
@@ -3632,14 +3646,40 @@ Bring your own shirt or bag (any color cotton for vinyl, white and at least 75% 
                 <url>https://program.why2025.org/why2025/talk/F7LSNY/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/F7LSNY/feedback/</feedback_url>
             </event>
-            <event guid="d75fd356-97f8-5267-ae5a-fc1b65d27e3f" id="358">
+            <event guid="988d9273-2caf-5afc-9325-18b03c8da362" id="356">
                 <room>FamilyZone</room>
-                <title>Bottle rockets</title>
+                <title>WeevilEyeSoldering</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
                 <date>2025-08-09T13:00:00+02:00</date>
                 <start>13:00</start>
                 <duration>02:00</duration>
+                <abstract>A kids intro to soldering.
+Have you ever seen a weevil? With this very simple soldering kit, we want to celebrate this amazing beetle. The kit is a very easy-to-build kit with through-hole components, specifically aimed at beginners. It has only a few parts, so even small children can easily assemble it. Once assembled, the red LED "eyes" will light up brighter or dimmer depending on how much light falls on the photo sensor.</abstract>
+                <slug>why2025-356-0-weevileyesoldering</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/WeevilEyeSoldering](https://wiki.why2025.org/Team:Family/WeevilEyeSoldering)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/XCGGPG/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/XCGGPG/feedback/</feedback_url>
+            </event>
+            <event guid="d75fd356-97f8-5267-ae5a-fc1b65d27e3f" id="358">
+                <room>FamilyZone</room>
+                <title>Bottle rockets</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-09T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>01:00</duration>
                 <abstract>Each kid gets to design and build their own rocket using a recycled soda bottle. They can paint it, decorate it, and make it uniquely theirs. Once the rockets are ready, we’ll head outside and launch a few together for a fun and exciting blast-off!!</abstract>
                 <slug>why2025-358-bottle-rockets</slug>
                 <track>Villages</track>
@@ -6616,7 +6656,7 @@ _Arduino software runs on Windows, MacOS and Linux (any version is fine):_
             </event>
         </room>
         <room name="FamilyZone" guid="1c29637b-5369-597e-a5b2-2b2c00ad2306">
-            <event guid="0322bc7c-6e41-54b7-b793-4f8207f1f36c" id="356">
+            <event guid="52afdf0a-2037-5b83-90f3-2b745b3cfc98" id="356">
                 <room>FamilyZone</room>
                 <title>WeevilEyeSoldering</title>
                 <subtitle />
@@ -6626,7 +6666,7 @@ _Arduino software runs on Windows, MacOS and Linux (any version is fine):_
                 <duration>02:00</duration>
                 <abstract>A kids intro to soldering.
 Have you ever seen a weevil? With this very simple soldering kit, we want to celebrate this amazing beetle. The kit is a very easy-to-build kit with through-hole components, specifically aimed at beginners. It has only a few parts, so even small children can easily assemble it. Once assembled, the red LED "eyes" will light up brighter or dimmer depending on how much light falls on the photo sensor.</abstract>
-                <slug>why2025-356-weevileyesoldering</slug>
+                <slug>why2025-356-1-weevileyesoldering</slug>
                 <track>Villages</track>
                 <persons>
                     

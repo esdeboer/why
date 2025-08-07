@@ -115,6 +115,20 @@ There are glitters, diamonds, rainbows and much more! Bring your own design or p
         <start>19:30</start>
         <duration>01:00</duration>
       </event>
+      <event guid="0a5987bc-2288-50a7-b9e4-36c226551c29">
+        <title>RossEthics</title>
+        <track>Self Organized Sessions</track>
+        <abstract>How ethically was Bob Ross with his painting comments</abstract>
+        <persons>
+          <person>NietDeBrugwachter</person>
+        </persons>
+        <description>Age range: 18+
+During a listening session we will analyse the quotes Bob Ross makes while painting. Statemens like "Push! Push harder" might sound alarming.</description>
+        <subtitle>RossEthics</subtitle>
+        <date>2025-08-08T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+      </event>
     </room>
     <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
       <event guid="e2ff0891-8a50-5ac9-ace3-4ec07706000c">
