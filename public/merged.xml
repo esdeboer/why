@@ -1421,6 +1421,20 @@ There are glitters, diamonds, rainbows and much more! Bring your own design or p
                 <start>19:00</start>
                 <duration>01:00</duration>
             </event>
+            <event guid="27f1b7c3-e676-58a2-be6b-bfef5677db6c">
+                <title>Face Painting for adults</title>
+                <track>Self Organized Sessions</track>
+                <type>Other</type>
+                <persons>
+                    <person>MissMaps</person>
+                </persons>
+                <description>Age range: 16+
+Face painting for adults! Because then you don't have to disappoint these kids around you, or push them out of the queue.  And we all want to feel extra beautiful sometimes.  
+There are glitters, diamonds, rainbows and much more! Bring your own design or pick one from the examples.</description>
+                <date>2025-08-08T19:30:00+02:00</date>
+                <start>19:30</start>
+                <duration>01:00</duration>
+            </event>
         </room>
         <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
             <event guid="e2ff0891-8a50-5ac9-ace3-4ec07706000c">
@@ -4320,6 +4334,20 @@ Face painting for all ages! Because everyone wants to feel extra beautiful somet
 There are glitters, diamonds, rainbows and much more! Bring your own design or pick one from the examples.</description>
                 <date>2025-08-09T19:00:00+02:00</date>
                 <start>19:00</start>
+                <duration>01:00</duration>
+            </event>
+            <event guid="dcecd75b-34d0-5503-8451-d7ba7d8e57ca">
+                <title>Face Painting for adults</title>
+                <track>Self Organized Sessions</track>
+                <type>Other</type>
+                <persons>
+                    <person>MissMaps</person>
+                </persons>
+                <description>Age range: 16+
+Face painting for adults! Because then you don't have to disappoint these kids around you, or push them out of the queue.  And we all want to feel extra beautiful sometimes.  
+There are glitters, diamonds, rainbows and much more! Bring your own design or pick one from the examples.</description>
+                <date>2025-08-09T19:30:00+02:00</date>
+                <start>19:30</start>
                 <duration>01:00</duration>
             </event>
         </room>
@@ -7565,6 +7593,20 @@ Come and join us at the Back to the 80s party village for some Kraftwerk and Cra
                 <date>2025-08-10T15:30:00+02:00</date>
                 <start>15:30</start>
                 <duration>01:30</duration>
+            </event>
+            <event guid="97f24ac1-4eeb-50fd-a523-32d9753999d9">
+                <title>Face Painting for adults</title>
+                <track>Self Organized Sessions</track>
+                <type>Other</type>
+                <persons>
+                    <person>MissMaps</person>
+                </persons>
+                <description>Age range: 16+
+Face painting for adults! Because then you don't have to disappoint these kids around you, or push them out of the queue.  And we all want to feel extra beautiful sometimes.  
+There are glitters, diamonds, rainbows and much more! Bring your own design or pick one from the examples.</description>
+                <date>2025-08-10T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>01:00</duration>
             </event>
         </room>
         <room name="Village:Brittany Fairies" guid="1ac8b50c-bcfd-5f14-8571-c0149f9a09e6">
