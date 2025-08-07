@@ -604,6 +604,65 @@ To see and/or add your Chips/Crisps go to [https://foodhackingbase.org/wiki/FHB@
         <duration>02:00</duration>
       </event>
     </room>
+    <room name="Village:Frubar" guid="6acbf8b8-ded5-5f6f-b218-b466625596bd">
+      <event guid="3d3a9546-d65f-5a3e-a8d0-4bd9d0ada19e">
+        <title>Morse Code LED Blinker</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Solder and code your own blinky PCB to spell your name in Morse - encoded in packets of photons, transmitted at light speed. Old-school tech that fits in the palm of your hand. Suitable for hackers of every age.</abstract>
+        <url>https://github.com/leandroebner/Morse-Code-LED-Blinker</url>
+        <type>Workshop</type>
+        <persons>
+          <person>DM8LE</person>
+        </persons>
+        <language>de</language>
+        <description>Age range: Aimed at adults but supervised kids welcome.
+Bored of talks? Burnt out on pixels? Swing by and solder.
+
+Participants can assemble and program their very own blinky PCB — a tiny circuit that flashes their name in Morse Code. Whether you're new to electronics or just need a break from abstract systems talk, this project hits the sweet spot: tactile, nerdy, and unique. And yes, you get to take it home.
+
+Depending on your experience, you will find yourself spending about ~30min with us for soldering and flashing pre-made code. In case you want to dig deeper into the programming part and create your own blink code and customize it, feel invited to stay a little longer.
+
++++IMPORTANT NOTICE+++
+
+Due to logistical restrictions, the number of soldering irons is _very_ limited at our session. If you can and have a soldering iron available, please take it with you. You might also ask around your village or nearby neighbors to borrow one, many hackers carry small USB or DC powered irons with them. Thank you for your understanding! All other materials are available in sufficient amounts.
+
++++Contact+++
+
+DECT: 2002 (+31 85 234 2002) or contact (Leandro | DM8LE)[https://wiki.why2025.org/User:DM8LE]
+
+
+
+
+
+Tags:
+( 
+education
+arduino
+avr
+attiny
+microcontroller
+workshop
+university
+arduino-ide
+pcb
+morse-code
+attiny85
+kicad
+oshw
+soldering
+rwu
+iki
+microcontroller-programming
+led-blinker
+ravensburg-weingarten-university
+morse-code-led-blinker
+)</description>
+        <subtitle>Main Slot - Alternative TS possible</subtitle>
+        <date>2025-08-09T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
     <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
       <event guid="80836f77-2119-59d9-93a7-bacfa5419fd3">
         <title>Past Presentation Cinema</title>
@@ -2151,63 +2210,6 @@ We are listening to to "Lynyrd Skynyrd - Free Bird" for one hour on loop, which 
 That's it.
 
 Bring a camping chair, get your drink of choice and enjoy one hour of peak dad rock.</description>
-      </event>
-      <event guid="3d3a9546-d65f-5a3e-a8d0-4bd9d0ada19e">
-        <title>Morse Code LED Blinker</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Solder and code your own blinky PCB to spell your name in Morse - encoded in packets of photons, transmitted at light speed. Old-school tech that fits in the palm of your hand. Suitable for hackers of every age.</abstract>
-        <url>https://github.com/leandroebner/Morse-Code-LED-Blinker</url>
-        <type>Workshop</type>
-        <persons>
-          <person>DM8LE</person>
-        </persons>
-        <language>de</language>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time
-Age range: Aimed at adults but supervised kids welcome.
-Bored of talks? Burnt out on pixels? Swing by and solder.
-
-Participants can assemble and program their very own blinky PCB — a tiny circuit that flashes their name in Morse Code. Whether you're new to electronics or just need a break from abstract systems talk, this project hits the sweet spot: tactile, nerdy, and unique. And yes, you get to take it home.
-
-Depending on your experience, you will find yourself spending about ~30min with us for soldering and flashing pre-made code. In case you want to dig deeper into the programming part and create your own blink code and customize it, feel invited to stay a little longer.
-
-+++IMPORTANT NOTICE+++
-
-Due to logistical restrictions, the number of soldering irons is _very_ limited at our session. If you can and have a soldering iron available, please take it with you. You might also ask around your village or nearby neighbors to borrow one, many hackers carry small USB or DC powered irons with them. Thank you for your understanding! All other materials are available in sufficient amounts.
-
-+++Contact+++
-
-DECT: 2002 (+31 85 234 2002) or contact (Leandro | DM8LE)[https://wiki.why2025.org/User:DM8LE]
-
-
-
-
-
-Tags:
-( 
-education
-arduino
-avr
-attiny
-microcontroller
-workshop
-university
-arduino-ide
-pcb
-morse-code
-attiny85
-kicad
-oshw
-soldering
-rwu
-iki
-microcontroller-programming
-led-blinker
-ravensburg-weingarten-university
-morse-code-led-blinker
-)</description>
       </event>
       <event guid="eba30b51-a7b4-5964-9c9f-80efccbfea9b">
         <title>Fuzzing 5G NR FTW!</title>

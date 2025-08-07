@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>1.8 - Dragon</version>
+    <version>1.9 - Apollo 11</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -491,13 +491,40 @@ The goal is to share actionable takeaways and lessons learned, helping others an
                 <url>https://program.why2025.org/why2025/talk/9WTQU3/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/9WTQU3/feedback/</feedback_url>
             </event>
+            <event guid="35343c70-a2bd-528e-b9d4-46bb7f8681be" id="363">
+                <room>Cassiopeia</room>
+                <title>Generated.Earth - How culture gets processed into training data</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-08T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>00:50</duration>
+                <abstract>What happens to cultural nuance when a machine learns from billions of images scraped from the internet – without human supervision? How does machine learning process these images in order to understand their meaning? What images are used or left out? And what are the consequences of those choices on the world it generates for us?</abstract>
+                <slug>why2025-363-generated-earth-how-culture-gets-processed-into-training-data</slug>
+                <track>Wonderful creations</track>
+                <persons>
+                    <person id="449">Wouter Oomen</person>
+                </persons>
+                <language>en</language>
+                <description>These questions started my journey: the creation of giant maps made out of 10.000+ of AI-generated images, each generated based on a specific place name. Through this map, I made several discoveries; like that AI sees Normandy as a warzone, Puglia as a dog breed, and North-West England as Kanye West and Kim Kardashian’s daughter.
+
+All these discoveries shine light on the many ways that culture gets kneaded, filtered or flattened so it fits in the process of creating generative AI.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/WHPJ7N/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/WHPJ7N/feedback/</feedback_url>
+            </event>
             <event guid="e8173d05-ceef-5cb1-a4d4-1d82435d0e4b" id="36">
                 <room>Cassiopeia</room>
                 <title>Hacker Jeopardy - Round 1</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
-                <date>2025-08-08T20:00:00+02:00</date>
-                <start>20:00</start>
+                <date>2025-08-08T21:00:00+02:00</date>
+                <start>21:00</start>
                 <duration>02:00</duration>
                 <abstract>The classic Jeopardy! game show format, but now with hacker answers... can you give the right questions to them? You can join as a team or enjoy it from the audience!
 
@@ -625,33 +652,6 @@ The presentation concludes by encouraging attendees to embark on their own journ
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/AATCT7/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/AATCT7/feedback/</feedback_url>
-            </event>
-            <event guid="35343c70-a2bd-528e-b9d4-46bb7f8681be" id="363">
-                <room>Delphinus</room>
-                <title>Generated.Earth - How culture gets processed into training data</title>
-                <subtitle />
-                <type>Talk (50 minutes)</type>
-                <date>2025-08-08T21:00:00+02:00</date>
-                <start>21:00</start>
-                <duration>00:50</duration>
-                <abstract>What happens to cultural nuance when a machine learns from billions of images scraped from the internet – without human supervision? How does machine learning process these images in order to understand their meaning? What images are used or left out? And what are the consequences of those choices on the world it generates for us?</abstract>
-                <slug>why2025-363-generated-earth-how-culture-gets-processed-into-training-data</slug>
-                <track>Wonderful creations</track>
-                <persons>
-                    <person id="449">Wouter Oomen</person>
-                </persons>
-                <language>en</language>
-                <description>These questions started my journey: the creation of giant maps made out of 10.000+ of AI-generated images, each generated based on a specific place name. Through this map, I made several discoveries; like that AI sees Normandy as a warzone, Puglia as a dog breed, and North-West England as Kanye West and Kim Kardashian’s daughter.
-
-All these discoveries shine light on the many ways that culture gets kneaded, filtered or flattened so it fits in the process of creating generative AI.</description>
-                <recording>
-                    <license />
-                    <optout>false</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/WHPJ7N/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/WHPJ7N/feedback/</feedback_url>
             </event>
         </room>
         <room name="Workshop Euclid" guid="9ccda66b-ad22-535b-be0b-986061963bed">
@@ -4525,6 +4525,65 @@ To see and/or add your Chips/Crisps go to [https://foodhackingbase.org/wiki/FHB@
                 <duration>02:00</duration>
             </event>
         </room>
+        <room name="Village:Frubar" guid="6acbf8b8-ded5-5f6f-b218-b466625596bd">
+            <event guid="3d3a9546-d65f-5a3e-a8d0-4bd9d0ada19e">
+                <title>Morse Code LED Blinker</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Solder and code your own blinky PCB to spell your name in Morse - encoded in packets of photons, transmitted at light speed. Old-school tech that fits in the palm of your hand. Suitable for hackers of every age.</abstract>
+                <url>https://github.com/leandroebner/Morse-Code-LED-Blinker</url>
+                <type>Workshop</type>
+                <persons>
+                    <person>DM8LE</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: Aimed at adults but supervised kids welcome.
+Bored of talks? Burnt out on pixels? Swing by and solder.
+
+Participants can assemble and program their very own blinky PCB — a tiny circuit that flashes their name in Morse Code. Whether you're new to electronics or just need a break from abstract systems talk, this project hits the sweet spot: tactile, nerdy, and unique. And yes, you get to take it home.
+
+Depending on your experience, you will find yourself spending about ~30min with us for soldering and flashing pre-made code. In case you want to dig deeper into the programming part and create your own blink code and customize it, feel invited to stay a little longer.
+
++++IMPORTANT NOTICE+++
+
+Due to logistical restrictions, the number of soldering irons is _very_ limited at our session. If you can and have a soldering iron available, please take it with you. You might also ask around your village or nearby neighbors to borrow one, many hackers carry small USB or DC powered irons with them. Thank you for your understanding! All other materials are available in sufficient amounts.
+
++++Contact+++
+
+DECT: 2002 (+31 85 234 2002) or contact (Leandro | DM8LE)[https://wiki.why2025.org/User:DM8LE]
+
+
+
+
+
+Tags:
+( 
+education
+arduino
+avr
+attiny
+microcontroller
+workshop
+university
+arduino-ide
+pcb
+morse-code
+attiny85
+kicad
+oshw
+soldering
+rwu
+iki
+microcontroller-programming
+led-blinker
+ravensburg-weingarten-university
+morse-code-led-blinker
+)</description>
+                <subtitle>Main Slot - Alternative TS possible</subtitle>
+                <date>2025-08-09T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
         <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
             <event guid="80836f77-2119-59d9-93a7-bacfa5419fd3">
                 <title>Past Presentation Cinema</title>
@@ -5868,30 +5927,29 @@ In this talk, I’ll explain what a DSL is and is made up of, and why you‘d wa
                 <url>https://program.why2025.org/why2025/talk/BDQESV/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/BDQESV/feedback/</feedback_url>
             </event>
-            <event guid="6028dc49-e3ea-54a1-9325-6b1a65aaa013" id="275">
+            <event guid="bdc6aa3e-cdb9-555c-b8ce-279dd9d288cd" id="84">
                 <room>Cassiopeia</room>
-                <title>Lightning Talks</title>
+                <title>GNU Taler: beyond digital money</title>
                 <subtitle />
                 <type>Talk (50 minutes)</type>
                 <date>2025-08-10T20:00:00+02:00</date>
                 <start>20:00</start>
                 <duration>00:50</duration>
-                <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
-                <slug>why2025-275-1-lightning-talks</slug>
-                <track>The square hole</track>
+                <abstract>Digital money everywhere, all the time, all at once... isn't it getting a little boring? In this talk you will learn how [GNU Taler](https://taler.net/), a privacy-focused payment system, leverages the properties of digital tokens and blind signatures to enable a wide array of use cases such as discount coupons, subscriptions, and tax-deductible donation receipts; all while preserving untraceability in customer-to-merchant transactions.</abstract>
+                <slug>why2025-84-gnu-taler-beyond-digital-money</slug>
+                <track>Wonderful creations</track>
                 <persons>
-                    
+                    <person id="110">Iván Ávalos</person>
                 </persons>
                 <language>en</language>
-                <description>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki.Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</description>
                 <recording>
                     <license />
                     <optout>false</optout>
                 </recording>
                 <links />
                 <attachments />
-                <url>https://program.why2025.org/why2025/talk/EFJTHQ/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/EFJTHQ/feedback/</feedback_url>
+                <url>https://program.why2025.org/why2025/talk/PHGSJC/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/PHGSJC/feedback/</feedback_url>
             </event>
             <event guid="f2865dc4-fc71-5172-bef8-e13f2e8637af" id="288">
                 <room>Cassiopeia</room>
@@ -6191,30 +6249,6 @@ Expect deep technical insights, practical lessons from years of experimentation,
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/DJ7NXK/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/DJ7NXK/feedback/</feedback_url>
-            </event>
-            <event guid="bdc6aa3e-cdb9-555c-b8ce-279dd9d288cd" id="84">
-                <room>Delphinus</room>
-                <title>GNU Taler: beyond digital money</title>
-                <subtitle />
-                <type>Talk (50 minutes)</type>
-                <date>2025-08-10T21:00:00+02:00</date>
-                <start>21:00</start>
-                <duration>00:50</duration>
-                <abstract>Digital money everywhere, all the time, all at once... isn't it getting a little boring? In this talk you will learn how [GNU Taler](https://taler.net/), a privacy-focused payment system, leverages the properties of digital tokens and blind signatures to enable a wide array of use cases such as discount coupons, subscriptions, and tax-deductible donation receipts; all while preserving untraceability in customer-to-merchant transactions.</abstract>
-                <slug>why2025-84-gnu-taler-beyond-digital-money</slug>
-                <track>Wonderful creations</track>
-                <persons>
-                    <person id="110">Iván Ávalos</person>
-                </persons>
-                <language>en</language>
-                <recording>
-                    <license />
-                    <optout>false</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/PHGSJC/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/PHGSJC/feedback/</feedback_url>
             </event>
         </room>
         <room name="Workshop Euclid" guid="9ccda66b-ad22-535b-be0b-986061963bed">
@@ -9301,42 +9335,13 @@ Prerequisites: Basic familiarity with public key cryptography helpful but not re
                 <url>https://program.why2025.org/why2025/talk/3QQLRN/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/3QQLRN/feedback/</feedback_url>
             </event>
-            <event guid="3f650f5a-bc8a-5dca-9299-049ba717fd4c" id="208">
-                <room>Delphinus</room>
-                <title>Bass: because we need more ethical players</title>
-                <subtitle />
-                <type>Talk (25 minutes)</type>
-                <date>2025-08-11T20:00:00+02:00</date>
-                <start>20:00</start>
-                <duration>00:25</duration>
-                <abstract>In a professional team, you might consider yourself a bass player: you keep the music flowing, try to be not too obvious, but all the time making sure that everyone can play their part. Within the realm of IT, there is a great number of bass players. They carry the music for all organizations. There is great power in this role, and as we all know: with great power comes great responsibility. In this presentation, we will be looking into the ethics of bass playing.</abstract>
-                <slug>why2025-208-bass-because-we-need-more-ethical-players</slug>
-                <track>The square hole</track>
-                <persons>
-                    <person id="215">Erik Meerburg</person>
-                </persons>
-                <language>en</language>
-                <description>In a band, bass players can play different roles. In most cases, the role of the bass player is a supporting one. However, there are multiple ways of playing the bass: you can support from the shadows, but also take a more central place. You can be laid back and lazy, but also driving the band forward. In any case, you can steer the band, even though you're not the front person. Not many musicians consider the bass player the most important person in the band, but that is mainly because they never look under the surface.
-
-In a professional team, you might consider yourself a bass player: you keep the music flowing, try to be not too obvious, but all the time making sure that everyone can play their part. Within the realm of IT, there is a great number of bass players. They carry the music for all organizations. There is great power in this role, and as we all know from Voltaire (well, most will know it from Uncle Ben): with great power comes great responsibility. 
-
-In this presentation, we will be looking into the ethics of bass playing. And the bass is in itself a very ethical instrument: while guitars are often distorted, basses are generally played clean. And obviously, special attention will be given to upright bass playing, as this shapes the core of ethical musicianship.</description>
-                <recording>
-                    <license />
-                    <optout>false</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/EPLPXJ/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/EPLPXJ/feedback/</feedback_url>
-            </event>
             <event guid="693d62bf-500c-58e6-9557-80fa3a685a12" id="312">
                 <room>Delphinus</room>
                 <title>Offworld Voyage: Can Training for Mars Exploration Also Address Human Adaptation to Climate Bio-devastation on Earth?</title>
                 <subtitle />
                 <type>Talk (50 minutes)</type>
-                <date>2025-08-11T21:00:00+02:00</date>
-                <start>21:00</start>
+                <date>2025-08-11T20:00:00+02:00</date>
+                <start>20:00</start>
                 <duration>00:50</duration>
                 <abstract>This talk will present the design philosophy behind Offworld Voyage, a decentralized science initiative that develops ecologically sustainable training habitats for use in simulated Mars surface exploration missions - while also solving for adaptation to extreme climate change on Earth.</abstract>
                 <slug>why2025-312-offworld-voyage-can-training-for-mars-exploration-also-address-human-adaptation-to-climate-bio-devastation-on-earth</slug>
@@ -9364,6 +9369,35 @@ Future plans for the project include the development of pressurized facilities a
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/ZDE7NN/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/ZDE7NN/feedback/</feedback_url>
+            </event>
+            <event guid="3f650f5a-bc8a-5dca-9299-049ba717fd4c" id="208">
+                <room>Delphinus</room>
+                <title>Bass: because we need more ethical players</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-11T21:00:00+02:00</date>
+                <start>21:00</start>
+                <duration>00:25</duration>
+                <abstract>In a professional team, you might consider yourself a bass player: you keep the music flowing, try to be not too obvious, but all the time making sure that everyone can play their part. Within the realm of IT, there is a great number of bass players. They carry the music for all organizations. There is great power in this role, and as we all know: with great power comes great responsibility. In this presentation, we will be looking into the ethics of bass playing.</abstract>
+                <slug>why2025-208-bass-because-we-need-more-ethical-players</slug>
+                <track>The square hole</track>
+                <persons>
+                    <person id="215">Erik Meerburg</person>
+                </persons>
+                <language>en</language>
+                <description>In a band, bass players can play different roles. In most cases, the role of the bass player is a supporting one. However, there are multiple ways of playing the bass: you can support from the shadows, but also take a more central place. You can be laid back and lazy, but also driving the band forward. In any case, you can steer the band, even though you're not the front person. Not many musicians consider the bass player the most important person in the band, but that is mainly because they never look under the surface.
+
+In a professional team, you might consider yourself a bass player: you keep the music flowing, try to be not too obvious, but all the time making sure that everyone can play their part. Within the realm of IT, there is a great number of bass players. They carry the music for all organizations. There is great power in this role, and as we all know from Voltaire (well, most will know it from Uncle Ben): with great power comes great responsibility. 
+
+In this presentation, we will be looking into the ethics of bass playing. And the bass is in itself a very ethical instrument: while guitars are often distorted, basses are generally played clean. And obviously, special attention will be given to upright bass playing, as this shapes the core of ethical musicianship.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/EPLPXJ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/EPLPXJ/feedback/</feedback_url>
             </event>
         </room>
         <room name="Workshop Euclid" guid="9ccda66b-ad22-535b-be0b-986061963bed">
@@ -11346,7 +11380,7 @@ The speakers, Nina &amp; Jay, will be based in the Quantum.Amsterdam village ten
                 <url>https://program.why2025.org/why2025/talk/SUCW9S/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/SUCW9S/feedback/</feedback_url>
             </event>
-            <event guid="0f7eae69-4fa2-5763-b958-2cb5c532edfc" id="275">
+            <event guid="5674cf4a-b6a6-5911-9b01-7643a26f8371" id="275">
                 <room>Cassiopeia</room>
                 <title>Lightning Talks</title>
                 <subtitle />
@@ -11355,7 +11389,7 @@ The speakers, Nina &amp; Jay, will be based in the Quantum.Amsterdam village ten
                 <start>15:00</start>
                 <duration>00:50</duration>
                 <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
-                <slug>why2025-275-3-lightning-talks</slug>
+                <slug>why2025-275-2-lightning-talks</slug>
                 <track>The square hole</track>
                 <persons>
                     
@@ -11373,7 +11407,7 @@ The speakers, Nina &amp; Jay, will be based in the Quantum.Amsterdam village ten
             </event>
         </room>
         <room name="Delphinus" guid="fec936b1-677b-5651-ab21-30727f668d08">
-            <event guid="5674cf4a-b6a6-5911-9b01-7643a26f8371" id="275">
+            <event guid="6028dc49-e3ea-54a1-9325-6b1a65aaa013" id="275">
                 <room>Delphinus</room>
                 <title>Lightning Talks</title>
                 <subtitle />
@@ -11382,7 +11416,7 @@ The speakers, Nina &amp; Jay, will be based in the Quantum.Amsterdam village ten
                 <start>11:00</start>
                 <duration>00:50</duration>
                 <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
-                <slug>why2025-275-2-lightning-talks</slug>
+                <slug>why2025-275-1-lightning-talks</slug>
                 <track>The square hole</track>
                 <persons>
                     
@@ -12310,63 +12344,6 @@ We are listening to to "Lynyrd Skynyrd - Free Bird" for one hour on loop, which 
 That's it.
 
 Bring a camping chair, get your drink of choice and enjoy one hour of peak dad rock.</description>
-            </event>
-            <event guid="3d3a9546-d65f-5a3e-a8d0-4bd9d0ada19e">
-                <title>Morse Code LED Blinker</title>
-                <track>Self Organized Sessions</track>
-                <abstract>Solder and code your own blinky PCB to spell your name in Morse - encoded in packets of photons, transmitted at light speed. Old-school tech that fits in the palm of your hand. Suitable for hackers of every age.</abstract>
-                <url>https://github.com/leandroebner/Morse-Code-LED-Blinker</url>
-                <type>Workshop</type>
-                <persons>
-                    <person>DM8LE</person>
-                </persons>
-                <language>de</language>
-                <date>2025-08-13T00:00:00+02:00</date>
-                <time>00:00</time>
-                <duration>01:00</duration>
-                <description>Generated time to make session visible, might need an actual date and time
-Age range: Aimed at adults but supervised kids welcome.
-Bored of talks? Burnt out on pixels? Swing by and solder.
-
-Participants can assemble and program their very own blinky PCB — a tiny circuit that flashes their name in Morse Code. Whether you're new to electronics or just need a break from abstract systems talk, this project hits the sweet spot: tactile, nerdy, and unique. And yes, you get to take it home.
-
-Depending on your experience, you will find yourself spending about ~30min with us for soldering and flashing pre-made code. In case you want to dig deeper into the programming part and create your own blink code and customize it, feel invited to stay a little longer.
-
-+++IMPORTANT NOTICE+++
-
-Due to logistical restrictions, the number of soldering irons is _very_ limited at our session. If you can and have a soldering iron available, please take it with you. You might also ask around your village or nearby neighbors to borrow one, many hackers carry small USB or DC powered irons with them. Thank you for your understanding! All other materials are available in sufficient amounts.
-
-+++Contact+++
-
-DECT: 2002 (+31 85 234 2002) or contact (Leandro | DM8LE)[https://wiki.why2025.org/User:DM8LE]
-
-
-
-
-
-Tags:
-( 
-education
-arduino
-avr
-attiny
-microcontroller
-workshop
-university
-arduino-ide
-pcb
-morse-code
-attiny85
-kicad
-oshw
-soldering
-rwu
-iki
-microcontroller-programming
-led-blinker
-ravensburg-weingarten-university
-morse-code-led-blinker
-)</description>
             </event>
             <event guid="eba30b51-a7b4-5964-9c9f-80efccbfea9b">
                 <title>Fuzzing 5G NR FTW!</title>
