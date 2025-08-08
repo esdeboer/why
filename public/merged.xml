@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>1.9 - Apollo 11</version>
+    <version>2.0 - WHY2025</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -754,13 +754,11 @@ Workshop Agenda
                 <date>2025-08-08T18:00:00+02:00</date>
                 <start>18:00</start>
                 <duration>01:30</duration>
-                <abstract>In this workshop we will demonstrate the GNU Taler payment system.  GNU Taler
-is an open protocol implementing digital cash in FOSS. The
-system is developed by a global community about to be deployed in
-Europe
+                <abstract>ADVICE: It will much fun if you bring your computer and WORK with us :)
 
-In our workshop, you will learn how to withdraw digital cash, pay online or in
-person with improved usability and security. We will also explain how
+GNU Taler is an open protocol implementing digital cash in FOSS. The system is developed by a global community about to be deployed in Europe and beyond
+
+In our workshop YOU will install software and setup a merchant. We will also explain how
 to integrate GNU Taler into new applications and show some highlights of
 ongoing developments and how you can participate.</abstract>
                 <slug>why2025-155-how-to-accept-digital-payments-with-gnu-taler</slug>
@@ -770,6 +768,11 @@ ongoing developments and how you can participate.</abstract>
                     <person id="154">sebasjm</person>
                 </persons>
                 <language>en</language>
+                <description>We will use this repository https://git.taler.net/taler-deployment.git/ You can already clone it and play around. And read the `regional-currency` setup.
+
+Podman is required to run the setup. https://wiki.debian.org/Podman
+
+There could be a prize for the most active participant :)</description>
                 <recording>
                     <license />
                     <optout>false</optout>
@@ -1401,6 +1404,37 @@ Caution: The access to the labyrinth is at your own risk. Wear comfortable cloth
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/CNYHMR/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/CNYHMR/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Infodesk" guid="febe35f1-9ee3-59b4-9deb-1ebb3b41bbc1">
+            <event guid="d4cae397-d33e-5c5d-bf98-7f3a24501822" id="53">
+                <room>Infodesk</room>
+                <title>PolyGen Game</title>
+                <subtitle />
+                <type>The square hole (Art &amp; Installations)</type>
+                <date>2025-08-08T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>22:17</duration>
+                <abstract>PolyGen is a game based upon the 2022 game PolyCoin. Located the units around the site and capture them for your team of choice.  Track your personal and team scores online during the event.</abstract>
+                <slug>why2025-53-polygen-game</slug>
+                <track>Entertainment</track>
+                <persons>
+                    <person id="77">Michael Turner</person>
+                </persons>
+                <language>en</language>
+                <description>PolyGen units will be installed throughout WHY 2025. On your first visit use an RFID card to pick a team, then try and locate, capture and hold as many units for your team as possible. 
+
+RFID cards are available for free from PolyGen HQ if you don't have one you can use. 
+
+Check the website for updates on the game https://gen.polyb.io</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/H3GAG3/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/H3GAG3/feedback/</feedback_url>
             </event>
         </room>
         <room name="Village:Back to the 80s Party" guid="62564f9a-530f-5d06-baa9-6cf3691119b3">
@@ -5964,7 +5998,7 @@ This talk will give an overview of the current state of the project, a bit of hi
                 <date>2025-08-10T12:35:00+02:00</date>
                 <start>12:35</start>
                 <duration>00:25</duration>
-                <abstract>Birdsong is all around us, but is there a deeper meaning? Can computer analysis help us decipher these hidden patterns in our own backyards? This talk charts my journey exploring the world of open source projects for bird (and bat!) audio identification, some of the systems I've operated, and the data art pieces I've created from the results. From the science of migration, to machine learning models and data visualization, to bioethics, there's something for every hacker to be inspired by.</abstract>
+                <abstract>Birdsong is all around us, but is there a deeper meaning? Can computer analysis help us decipher these hidden patterns in our own backyards? This talk charts my journey exploring the world of open source projects for bird (and bat!) audio identification, some of the systems I've operated, and the data art pieces I've created from the results. From the science of birdsong, to machine learning models and data visualization, there's something for every hacker to be inspired by.</abstract>
                 <slug>why2025-240-is-ai-for-the-birds-the-beauty-of-backyard-birdsong-data</slug>
                 <track>Wonderful creations</track>
                 <logo>/media/why2025/submissions/L79ASB/background_BvWPuxk.jpg</logo>
@@ -5972,13 +6006,11 @@ This talk will give an overview of the current state of the project, a bit of hi
                     <person id="237">Logan Williams</person>
                 </persons>
                 <language>en</language>
-                <description>- Why birds sing, hormones and territory
+                <description>- How birds sing, spectrograms and analysis
 - Neural networks for identifying animal sounds
 - Feature pre-processing for sound ID
 - Open source projects you can build yourself
-- Pointing microphones at the sky: nocturnal flight calls and migration
 - Data art and visualizations
-- Wait, is this surveillance?
 - The psychology of shifting baselines and why the data matters</description>
                 <recording>
                     <license />
@@ -8188,6 +8220,24 @@ The prices in the yellow boxes are the materials costs for participating in the 
                 <duration>03:00</duration>
             </event>
         </room>
+        <room name="Village:Nlgov hackers" guid="414ca1ef-ace9-598f-a61c-88780b23312d">
+            <event guid="61d01c3b-f0cd-5cf2-a524-0fbd4f8a042c">
+                <title>Build you own geospatial service using node.js, using Open Standards</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Sound complex? Nah! Starting with a blank node.js project, step-by-step we’ll gradually build up</abstract>
+                <persons>
+                    <person>Frank Terpstra</person>
+                </persons>
+                <language>en</language>
+                <description>Sound complex? Nah! Starting with a blank node.js project, step-by-step we’ll gradually build up a fully compliant OGC’s API Feature service to share your spatial information (Are you familiar with GeoJSON? Cool, that is what we’ll be using – is not, also cool: we’ll explain it with simple examples!).
+All code and example reside on GitHub.
+Prior knowledge: node.js (javascript) is a plus, but not strictly necessary, a basic understand of programming is enough.
+Bring your own computer</description>
+                <date>2025-08-10T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>02:00</duration>
+            </event>
+        </room>
         <room name="Village:Pancake" guid="52612cea-1526-511d-bb5c-7c56b1d19fad">
             <event guid="82996347-5893-5bfe-9612-38170f3fe47b">
                 <title>Eat pancakes, Sleep, Hack, Repeat</title>
@@ -9724,35 +9774,6 @@ Future plans for the project include the development of pressurized facilities a
                 <url>https://program.why2025.org/why2025/talk/ZDE7NN/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/ZDE7NN/feedback/</feedback_url>
             </event>
-            <event guid="3f650f5a-bc8a-5dca-9299-049ba717fd4c" id="208">
-                <room>Delphinus</room>
-                <title>Bass: because we need more ethical players</title>
-                <subtitle />
-                <type>Talk (25 minutes)</type>
-                <date>2025-08-11T21:00:00+02:00</date>
-                <start>21:00</start>
-                <duration>00:25</duration>
-                <abstract>In a professional team, you might consider yourself a bass player: you keep the music flowing, try to be not too obvious, but all the time making sure that everyone can play their part. Within the realm of IT, there is a great number of bass players. They carry the music for all organizations. There is great power in this role, and as we all know: with great power comes great responsibility. In this presentation, we will be looking into the ethics of bass playing.</abstract>
-                <slug>why2025-208-bass-because-we-need-more-ethical-players</slug>
-                <track>The square hole</track>
-                <persons>
-                    <person id="215">Erik Meerburg</person>
-                </persons>
-                <language>en</language>
-                <description>In a band, bass players can play different roles. In most cases, the role of the bass player is a supporting one. However, there are multiple ways of playing the bass: you can support from the shadows, but also take a more central place. You can be laid back and lazy, but also driving the band forward. In any case, you can steer the band, even though you're not the front person. Not many musicians consider the bass player the most important person in the band, but that is mainly because they never look under the surface.
-
-In a professional team, you might consider yourself a bass player: you keep the music flowing, try to be not too obvious, but all the time making sure that everyone can play their part. Within the realm of IT, there is a great number of bass players. They carry the music for all organizations. There is great power in this role, and as we all know from Voltaire (well, most will know it from Uncle Ben): with great power comes great responsibility. 
-
-In this presentation, we will be looking into the ethics of bass playing. And the bass is in itself a very ethical instrument: while guitars are often distorted, basses are generally played clean. And obviously, special attention will be given to upright bass playing, as this shapes the core of ethical musicianship.</description>
-                <recording>
-                    <license />
-                    <optout>false</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/EPLPXJ/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/EPLPXJ/feedback/</feedback_url>
-            </event>
         </room>
         <room name="Workshop Euclid" guid="9ccda66b-ad22-535b-be0b-986061963bed">
             <event guid="f7386aab-5d34-5193-9e7d-9b38d4d63750" id="261">
@@ -11067,6 +11088,26 @@ Trailer: https://www.youtube.com/watch?v=fes329l6d6U</description>
                 <date>2025-08-11T18:00:00+02:00</date>
                 <start>18:00</start>
                 <duration>02:00</duration>
+            </event>
+        </room>
+        <room name="Village:Fablab/Fabacademy" guid="01113e6f-6aa5-5e6f-9b6b-64b3a6b3a7e3">
+            <event guid="0cfdc2ca-67dd-57ff-b912-fd3b285ad9fa">
+                <title>FreeCAD Is All You Need</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Learn FreeCAD Basics</abstract>
+                <url>https://www.freecad.org/</url>
+                <type>Workshop</type>
+                <persons>
+                    <person>Kris</person>
+                </persons>
+                <language>en</language>
+                <description>FreeCAD is getting better every year and there are more reasons to use it for your CAD needs than you could possibly imagine. Some people have the prejudice that it is complicated, cumbersome, buggy, but in fact, all CAD packages have a learning curve. The way FreeCAD is different is that it does not lock you in a subscription model, it does not require to log in or make any kind of account, it works and behaves the same on all OS platforms. 
+
+In this session we will cover a rapid way of designing a thing based on several years of experience instructing the Fab Academy and solving CAD problems for other people. Join in and maybe some of that could be useful for you.</description>
+                <subtitle>FreeCAD Is There For You</subtitle>
+                <date>2025-08-11T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>01:30</duration>
             </event>
         </room>
         <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">

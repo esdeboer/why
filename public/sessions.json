@@ -730,6 +730,16 @@
     "type": ""
   },
   {
+    "id": "61d01c3b-f0cd-5cf2-a524-0fbd4f8a042c",
+    "title": "Build you own geospatial service using node.js, using Open Standards",
+    "description": "Sound complex? Nah! Starting with a blank node.js project, step-by-step we\u2019ll gradually build up a fully compliant OGC\u2019s API Feature service to share your spatial information (Are you familiar with GeoJSON? Cool, that is what we\u2019ll be using \u2013 is not, also cool: we\u2019ll explain it with simple examples!).\nAll code and example reside on GitHub.\nPrior knowledge: node.js (javascript) is a plus, but not strictly necessary, a basic understand of programming is enough.\nBring your own computer",
+    "start": "2025-08-10T10:00:00+02:00",
+    "end": "2025-08-10T12:00:00+02:00",
+    "room": "Village:Nlgov hackers",
+    "url": "",
+    "type": ""
+  },
+  {
     "id": "82996347-5893-5bfe-9612-38170f3fe47b",
     "title": "Eat pancakes, Sleep, Hack, Repeat",
     "description": "Age range: All ages\n==== We'll be baking pancakes every main event day from 16:00 - 18:00, Bring Your Own Plate! ====\n\nPlease drop by and have a pancake! We're providing the camp with as much pancakes we can physically bake, as long as our supplies last ;-)\n\nThe Pancake village will be right next to the (main) Andromeda track.\n\n'''BYOP''' (Bring your own plate) and enjoy some pancakes with us!",
@@ -848,6 +858,16 @@
     "room": "Village:Aid to Ukraine",
     "url": "https://moviesthatmatter.nl/en/film/my-dear-theo/",
     "type": "Movie"
+  },
+  {
+    "id": "0cfdc2ca-67dd-57ff-b912-fd3b285ad9fa",
+    "title": "FreeCAD Is All You Need",
+    "description": "FreeCAD is getting better every year and there are more reasons to use it for your CAD needs than you could possibly imagine. Some people have the prejudice that it is complicated, cumbersome, buggy, but in fact, all CAD packages have a learning curve. The way FreeCAD is different is that it does not lock you in a subscription model, it does not require to log in or make any kind of account, it works and behaves the same on all OS platforms. \n\nIn this session we will cover a rapid way of designing a thing based on several years of experience instructing the Fab Academy and solving CAD problems for other people. Join in and maybe some of that could be useful for you.",
+    "start": "2025-08-11T13:00:00+02:00",
+    "end": "2025-08-11T14:30:00+02:00",
+    "room": "Village:Fablab/Fabacademy",
+    "url": "https://www.freecad.org/",
+    "type": "Workshop"
   },
   {
     "id": "1b1c53a6-1140-5e42-8093-ca03fd5e8659",

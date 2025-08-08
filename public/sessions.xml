@@ -1620,6 +1620,24 @@ The prices in the yellow boxes are the materials costs for participating in the 
         <duration>03:00</duration>
       </event>
     </room>
+    <room name="Village:Nlgov hackers" guid="414ca1ef-ace9-598f-a61c-88780b23312d">
+      <event guid="61d01c3b-f0cd-5cf2-a524-0fbd4f8a042c">
+        <title>Build you own geospatial service using node.js, using Open Standards</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Sound complex? Nah! Starting with a blank node.js project, step-by-step we’ll gradually build up</abstract>
+        <persons>
+          <person>Frank Terpstra</person>
+        </persons>
+        <language>en</language>
+        <description>Sound complex? Nah! Starting with a blank node.js project, step-by-step we’ll gradually build up a fully compliant OGC’s API Feature service to share your spatial information (Are you familiar with GeoJSON? Cool, that is what we’ll be using – is not, also cool: we’ll explain it with simple examples!).
+All code and example reside on GitHub.
+Prior knowledge: node.js (javascript) is a plus, but not strictly necessary, a basic understand of programming is enough.
+Bring your own computer</description>
+        <date>2025-08-10T10:00:00+02:00</date>
+        <start>10:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
     <room name="Village:Pancake" guid="52612cea-1526-511d-bb5c-7c56b1d19fad">
       <event guid="82996347-5893-5bfe-9612-38170f3fe47b">
         <title>Eat pancakes, Sleep, Hack, Repeat</title>
@@ -1855,6 +1873,26 @@ Trailer: https://www.youtube.com/watch?v=fes329l6d6U</description>
         <date>2025-08-11T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Fablab/Fabacademy" guid="01113e6f-6aa5-5e6f-9b6b-64b3a6b3a7e3">
+      <event guid="0cfdc2ca-67dd-57ff-b912-fd3b285ad9fa">
+        <title>FreeCAD Is All You Need</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Learn FreeCAD Basics</abstract>
+        <url>https://www.freecad.org/</url>
+        <type>Workshop</type>
+        <persons>
+          <person>Kris</person>
+        </persons>
+        <language>en</language>
+        <description>FreeCAD is getting better every year and there are more reasons to use it for your CAD needs than you could possibly imagine. Some people have the prejudice that it is complicated, cumbersome, buggy, but in fact, all CAD packages have a learning curve. The way FreeCAD is different is that it does not lock you in a subscription model, it does not require to log in or make any kind of account, it works and behaves the same on all OS platforms. 
+
+In this session we will cover a rapid way of designing a thing based on several years of experience instructing the Fab Academy and solving CAD problems for other people. Join in and maybe some of that could be useful for you.</description>
+        <subtitle>FreeCAD Is There For You</subtitle>
+        <date>2025-08-11T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>01:30</duration>
       </event>
     </room>
     <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">
