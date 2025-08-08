@@ -95,6 +95,21 @@ During a listening session we will analyse the quotes Bob Ross makes while paint
         <start>17:00</start>
         <duration>01:00</duration>
       </event>
+      <event guid="bf5a6478-6118-5702-8ef2-0be04511729d">
+        <title>80s Disco Party</title>
+        <track>Self Organized Sessions</track>
+        <abstract>80s Disco Party</abstract>
+        <type>Other</type>
+        <persons>
+          <person>MissMaps</person>
+        </persons>
+        <description>Age range: All ages
+Nostalgic for the 1980s? when you were Living on a Prayer Before you go-go? At our party the Kids in America Spin you Round Like a Record from 9 to 5! 
+Come dance with us at our 80s disco party and we are Never Gonna Give You Up!</description>
+        <date>2025-08-08T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>01:30</duration>
+      </event>
     </room>
     <room name="Village:Brittany Fairies" guid="1ac8b50c-bcfd-5f14-8571-c0149f9a09e6">
       <event guid="a197da9e-8f02-5e03-8e12-eb148fc550e5">
@@ -392,7 +407,14 @@ Have you ever been curious about the process behind this amazing drink called be
 
 Beer is brewed using a brewing system and then later served through a cold tap. Make sure to bring some type of container suitable for beer consumption, as there will be a tap available during the brewing session!
 
-Location is close to the Sauna/Salmiakki.</description>
+Location is close to the Sauna/Salmiakki.
+
+Update:
+
+The session is currently on hold due to the current infra issues.
+We have created a signal group to keep people updated :)
+
+https://signal.group/#CjQKIJU9ez16ZxUpvFqjw_7R-DAuio78Xs191i9b1JnOzV03EhDm6hC7LrLU_NO6gXdGJikw</description>
         <date>2025-08-08T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>02:00</duration>
@@ -495,6 +517,21 @@ Face painting for adults! Because then you don't have to disappoint these kids a
 There are glitters, diamonds, rainbows and much more! Bring your own design or pick one from the examples.</description>
         <date>2025-08-09T19:30:00+02:00</date>
         <start>19:30</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="d08235ab-2973-5a57-bcd5-2f4b4ffa67aa">
+        <title>When the map becomes the territory</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Uglyhack from team terrain explains how his "GNSS stick" works and how the map data was originized this time round.</abstract>
+        <url>https://map.why2025.org</url>
+        <type>Talk</type>
+        <persons>
+          <person>Uglyhack</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: Aimed at adults but supervised kids welcome.</description>
+        <date>2025-08-09T13:00:00+02:00</date>
+        <start>13:00</start>
         <duration>01:00</duration>
       </event>
     </room>

@@ -50,6 +50,16 @@
     "type": ""
   },
   {
+    "id": "bf5a6478-6118-5702-8ef2-0be04511729d",
+    "title": "80s Disco Party",
+    "description": "Age range: All ages\nNostalgic for the 1980s? when you were Living on a Prayer Before you go-go? At our party the Kids in America Spin you Round Like a Record from 9 to 5! \nCome dance with us at our 80s disco party and we are Never Gonna Give You Up!",
+    "start": "2025-08-08T21:00:00+02:00",
+    "end": "2025-08-08T22:30:00+02:00",
+    "room": "Village:Back to the 80s Party",
+    "url": "",
+    "type": "Other"
+  },
+  {
     "id": "a197da9e-8f02-5e03-8e12-eb148fc550e5",
     "title": "Yard-Giveaway/Sale / Hacker Flea-Market",
     "description": "Missing duration, check with organiser, dummy 10 minutes added\nAge range: All ages\nVintage and rare gear to give away or sell for cheap!",
@@ -182,7 +192,7 @@
   {
     "id": "b08cd997-f4d6-5b99-b217-27176db03f3c",
     "title": "Craft beer brewing!",
-    "description": "Age range: Aimed at adults but supervised kids welcome.\nHave you ever been curious about the process behind this amazing drink called beer or do you just like beer in general? We will be brewing a SMaSH (single malt and single hop) beer on site on Day 1 and then enjoy the product on Day 4 on wards.\n\nBeer is brewed using a brewing system and then later served through a cold tap. Make sure to bring some type of container suitable for beer consumption, as there will be a tap available during the brewing session!\n\nLocation is close to the Sauna/Salmiakki.",
+    "description": "Age range: Aimed at adults but supervised kids welcome.\nHave you ever been curious about the process behind this amazing drink called beer or do you just like beer in general? We will be brewing a SMaSH (single malt and single hop) beer on site on Day 1 and then enjoy the product on Day 4 on wards.\n\nBeer is brewed using a brewing system and then later served through a cold tap. Make sure to bring some type of container suitable for beer consumption, as there will be a tap available during the brewing session!\n\nLocation is close to the Sauna/Salmiakki.\n\nUpdate:\n\nThe session is currently on hold due to the current infra issues.\nWe have created a signal group to keep people updated :)\n\nhttps://signal.group/#CjQKIJU9ez16ZxUpvFqjw_7R-DAuio78Xs191i9b1JnOzV03EhDm6hC7LrLU_NO6gXdGJikw",
     "start": "2025-08-08T18:00:00+02:00",
     "end": "2025-08-08T20:00:00+02:00",
     "room": "undetermined",
@@ -228,6 +238,16 @@
     "room": "Village:Back to the 80s Party",
     "url": "",
     "type": "Other"
+  },
+  {
+    "id": "d08235ab-2973-5a57-bcd5-2f4b4ffa67aa",
+    "title": "When the map becomes the territory",
+    "description": "Age range: Aimed at adults but supervised kids welcome.",
+    "start": "2025-08-09T13:00:00+02:00",
+    "end": "2025-08-09T14:00:00+02:00",
+    "room": "Village:Back to the 80s Party",
+    "url": "https://map.why2025.org",
+    "type": "Talk"
   },
   {
     "id": "facd9967-eb29-5832-af66-f888d80e5a49",
