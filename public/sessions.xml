@@ -397,20 +397,6 @@ Location is close to the Sauna/Salmiakki.</description>
         <start>18:00</start>
         <duration>02:00</duration>
       </event>
-      <event guid="c4bc4514-bf3a-59fd-af8a-199e140b770e">
-        <title>Password Cracking - the basics</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Passwords are not dead yet, learn how to crack them!</abstract>
-        <type>Hands-On</type>
-        <persons>
-          <person>Android7</person>
-        </persons>
-        <language>en</language>
-        <description>Age range: Aimed at adults but supervised kids welcome.</description>
-        <date>2025-08-08T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>00:30</duration>
-      </event>
       <event guid="52b3cc19-b320-5fa3-b945-f03f8a54137e">
         <title>Juergens Gadget Garage (Free Hardware)</title>
         <track>Self Organized Sessions</track>
@@ -1801,6 +1787,20 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
         <start>13:00</start>
         <duration>01:00</duration>
       </event>
+      <event guid="c4bc4514-bf3a-59fd-af8a-199e140b770e">
+        <title>Password Cracking - the basics</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Passwords are not dead yet, learn how to crack them!</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>Android7</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: Aimed at adults but supervised kids welcome.</description>
+        <date>2025-08-10T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+      </event>
     </room>
   </day>
   <day date="2025-08-11">
@@ -2679,7 +2679,8 @@ irc: hackint/#chaostal</description>
         <time>00:00</time>
         <duration>01:00</duration>
         <description>Generated time to make session visible, might need an actual date and time
-Age range: All ages</description>
+Age range: All ages
+Just drop by and take a look at the pictures and have a chat if you like</description>
       </event>
       <event guid="e4d209ee-3e52-5be5-9282-14636dfa696f">
         <title>Tarot-Astrology-Past Life readings by Reality Cult</title>

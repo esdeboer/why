@@ -190,16 +190,6 @@
     "type": "Hands-On"
   },
   {
-    "id": "c4bc4514-bf3a-59fd-af8a-199e140b770e",
-    "title": "Password Cracking - the basics",
-    "description": "Age range: Aimed at adults but supervised kids welcome.",
-    "start": "2025-08-08T16:00:00+02:00",
-    "end": "2025-08-08T16:30:00+02:00",
-    "room": "undetermined",
-    "url": "",
-    "type": "Hands-On"
-  },
-  {
     "id": "52b3cc19-b320-5fa3-b945-f03f8a54137e",
     "title": "Juergens Gadget Garage (Free Hardware)",
     "description": "Age range: All ages\nI have a few boxed full of random hardware, mostly smaller things like arduino boards, usb adapters+cables and 3d printing equipment (nozzles, etc). I am giving it away for free. It is placed in 5 IKEA boxes and 1 cardboard box located in front of our village tent (Worldclass) - just take what you like (but please put everything back into the boxes that you don't want, just to keep it tidy).\n\nEverything located in our tent and on the backside is NOT for \"sale\" - that's stuff we still want to keep and use.\n\nQ: Where are you?\nA: Village Worldclass: https://map.why2025.org/?building=145&building_table=villages#maphash=19/52.6933504/4.7470157/-20\n\nQ: Why I am giving this stuff away?\nA: I'm not using it anymore and need to make space for other things.",
@@ -840,6 +830,16 @@
     "type": ""
   },
   {
+    "id": "c4bc4514-bf3a-59fd-af8a-199e140b770e",
+    "title": "Password Cracking - the basics",
+    "description": "Age range: Aimed at adults but supervised kids welcome.",
+    "start": "2025-08-10T15:00:00+02:00",
+    "end": "2025-08-10T15:30:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
     "id": "b004701b-7fdf-5225-974a-3b121ab88718",
     "title": "Stop the Bleed @ Aid to Ukraine",
     "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
@@ -1242,7 +1242,7 @@
   {
     "id": "8eba14fe-ab48-50db-b8ef-2f66f6ee74dc",
     "title": "Mini exposition about Solarpunk",
-    "description": "Generated time to make session visible, might need an actual date and time\nAge range: All ages",
+    "description": "Generated time to make session visible, might need an actual date and time\nAge range: All ages\nJust drop by and take a look at the pictures and have a chat if you like",
     "start": "2025-08-13T00:00:00+02:00",
     "end": "2025-08-13T01:00:00+02:00",
     "room": "undetermined",
