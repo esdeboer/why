@@ -490,7 +490,7 @@ All these discoveries shine light on the many ways that culture gets kneaded, fi
             </event>
             <event guid="e8173d05-ceef-5cb1-a4d4-1d82435d0e4b" id="36">
                 <room>Cassiopeia</room>
-                <title>Hacker Jeopardy - Round 1</title>
+                <title>[Moved to Saturday] Hacker Jeopardy - Round 1</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
                 <date>2025-08-08T21:00:00+02:00</date>
@@ -499,7 +499,7 @@ All these discoveries shine light on the many ways that culture gets kneaded, fi
                 <abstract>The classic Jeopardy! game show format, but now with hacker answers... can you give the right questions to them? You can join as a team or enjoy it from the audience!
 
 Sign your team up (max 3 people) at jeopardy@why2025.org</abstract>
-                <slug>why2025-36-hacker-jeopardy-round-1</slug>
+                <slug>why2025-36-moved-to-saturday-hacker-jeopardy-round-1</slug>
                 <track>Hacking</track>
                 <persons>
                     <person id="56">Eloy</person>
@@ -2889,7 +2889,7 @@ This isn't just a rant (though there will be rants). It's a call to stop playing
             </event>
             <event guid="6a5f8e83-3360-5720-8cc5-1a39b99de463" id="287">
                 <room>Cassiopeia</room>
-                <title>Hacker Jeopardy - Round 2</title>
+                <title>Hacker Jeopardy - Round 1</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
                 <date>2025-08-09T21:00:00+02:00</date>
@@ -2898,7 +2898,7 @@ This isn't just a rant (though there will be rants). It's a call to stop playing
                 <abstract>The classic Jeopardy! game show format, but now with hacker answers... can you give the right questions to them? You can join as a team or enjoy it from the audience!
 
 Sign your team up (max 3 people) at jeopardy@why2025.org</abstract>
-                <slug>why2025-287-hacker-jeopardy-round-2</slug>
+                <slug>why2025-287-hacker-jeopardy-round-1</slug>
                 <track>Hacking</track>
                 <persons>
                     <person id="56">Eloy</person>
@@ -6251,7 +6251,7 @@ In this talk, I’ll explain what a DSL is and is made up of, and why you‘d wa
             </event>
             <event guid="f2865dc4-fc71-5172-bef8-e13f2e8637af" id="288">
                 <room>Cassiopeia</room>
-                <title>Hacker Jeopardy - Final</title>
+                <title>Hacker Jeopardy - round 2 and final</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
                 <date>2025-08-10T21:00:00+02:00</date>
@@ -6259,8 +6259,10 @@ In this talk, I’ll explain what a DSL is and is made up of, and why you‘d wa
                 <duration>02:00</duration>
                 <abstract>The classic Jeopardy! game show format, but now with hacker answers... can you give the right questions to them? You can join as a team or enjoy it from the audience!
 
-Sign your team up (max 3 people) at jeopardy@why2025.org</abstract>
-                <slug>why2025-288-hacker-jeopardy-final</slug>
+Sign your team up (max 3 people) at jeopardy@why2025.org
+
+If you were one of the winning teams of the first round, make sure to attend! :)</abstract>
+                <slug>why2025-288-hacker-jeopardy-round-2-and-final</slug>
                 <track>Hacking</track>
                 <persons>
                     <person id="56">Eloy</person>
