@@ -1134,6 +1134,27 @@ This is your chance to discover beers you'd never find outside your region — u
         <duration>01:30</duration>
       </event>
     </room>
+    <room name="Village:Selfnet" guid="09063e4a-e3a4-5b14-910d-7998b3dfbbae">
+      <event guid="ab1e5347-a8a6-5b0c-b76c-2842f15233d3">
+        <title>Fiber splicing workshop</title>
+        <track>Self Organized Sessions</track>
+        <abstract>In this workshop you can join fiber-optic cables using a fusion splicer</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Karotte</person>
+        </persons>
+        <language>de</language>
+        <description>Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.
+First you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.
+
+Splicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9µm, which is smaller than a human hair.
+
+More timeslots will be added.</description>
+        <date>2025-08-09T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
     <room name="Village:TechInc" guid="d6a86999-ee66-5630-8d7d-a1668aedb668">
       <event guid="a877aa49-6782-593f-9f27-5ff6cdf95581">
         <title>Transmasc meetup</title>
@@ -1781,6 +1802,27 @@ tags:videogames
         <subtitle>Videogame tournament</subtitle>
         <date>2025-08-10T20:30:00+02:00</date>
         <start>20:30</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
+    <room name="Village:Selfnet" guid="09063e4a-e3a4-5b14-910d-7998b3dfbbae">
+      <event guid="fccd69d1-a2d5-5c6f-b163-8b5d6da3690c">
+        <title>Fiber splicing workshop</title>
+        <track>Self Organized Sessions</track>
+        <abstract>In this workshop you can join fiber-optic cables using a fusion splicer</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Karotte</person>
+        </persons>
+        <language>de</language>
+        <description>Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.
+First you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.
+
+Splicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9µm, which is smaller than a human hair.
+
+More timeslots will be added.</description>
+        <date>2025-08-10T15:00:00+02:00</date>
+        <start>15:00</start>
         <duration>01:00</duration>
       </event>
     </room>

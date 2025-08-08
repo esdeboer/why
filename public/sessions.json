@@ -490,6 +490,16 @@
     "type": "Meeting"
   },
   {
+    "id": "ab1e5347-a8a6-5b0c-b76c-2842f15233d3",
+    "title": "Fiber splicing workshop",
+    "description": "Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.\nFirst you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.\n\nSplicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9\u00b5m, which is smaller than a human hair.\n\nMore timeslots will be added.",
+    "start": "2025-08-09T15:00:00+02:00",
+    "end": "2025-08-09T16:00:00+02:00",
+    "room": "Village:Selfnet",
+    "url": "",
+    "type": "Workshop"
+  },
+  {
     "id": "a877aa49-6782-593f-9f27-5ff6cdf95581",
     "title": "Transmasc meetup",
     "description": "Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406",
@@ -818,6 +828,16 @@
     "room": "Village:SSH (Spanish Speaking Hackers)",
     "url": "https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Schedule",
     "type": "Game"
+  },
+  {
+    "id": "fccd69d1-a2d5-5c6f-b163-8b5d6da3690c",
+    "title": "Fiber splicing workshop",
+    "description": "Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.\nFirst you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.\n\nSplicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9\u00b5m, which is smaller than a human hair.\n\nMore timeslots will be added.",
+    "start": "2025-08-10T15:00:00+02:00",
+    "end": "2025-08-10T16:00:00+02:00",
+    "room": "Village:Selfnet",
+    "url": "",
+    "type": "Workshop"
   },
   {
     "id": "53edd6ac-b620-5ead-af31-0aafbfd9b53a",

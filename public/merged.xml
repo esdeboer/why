@@ -758,7 +758,7 @@ There could be a prize for the most active participant :)</description>
                 <date>2025-08-08T20:00:00+02:00</date>
                 <start>20:00</start>
                 <duration>02:00</duration>
-                <abstract>Due to official schedule cancellation. This workshop is likely moving location, but it still going ahead at 8pm. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs) for the latest information.
+                <abstract>Due to official schedule cancellation. We're re-scheduling this workshop to *Saturday at 7pm* instead of the 102. It will also run in *extremely limited numbers* in RopeLabs village at 8pm Friday. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs). This is a *sober workshop*.
 
 Instructor @DoodleMe, @KnottyLola and team will take you through some of the most basic concepts of Japanese rope bondage (Shibari). This is an 18+ workshop. Bring blanket &amp; rope if you have it.</abstract>
                 <slug>why2025-69-shibari-101-rope-bondage-for-beginners</slug>
@@ -769,7 +769,7 @@ Instructor @DoodleMe, @KnottyLola and team will take you through some of the mos
                     <person id="377">KnottyLola</person>
                 </persons>
                 <language>en</language>
-                <description>Due to official schedule cancellation. This workshop is likely moving location, but it still going ahead at 8pm. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs) for the latest information.
+                <description>Due to official schedule cancellation. We're re-scheduling this workshop to *Saturday at 7pm* instead of the 102. It will also run in *extremely limited numbers* in RopeLabs village at 8pm Friday. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs) for the latest information. This is a *sober workshop*.
 
 Instructor @DoodleMe, @KnottyLola, and team will take you through some of the most basic concepts of Japanese rope bondage (Shibari). You'll learn some theory, and a few beginner friendly knots that you can use at home and that lay the foundations to more advanced ties.
 
@@ -3457,7 +3457,9 @@ This is still to be defined.</description>
                 <date>2025-08-09T19:00:00+02:00</date>
                 <start>19:00</start>
                 <duration>02:00</duration>
-                <abstract>@DoodleMe, @KnottyLola and team will take you through some further concepts of Japanese rope bondage (Shibari). This is an 18+ workshop. Bring blanket &amp; rope if you have it. Follow up to Shibari 101, but having attended 101 is not required.</abstract>
+                <abstract>We are likely replacing this workshop with the 101, which was cancelled on Friday. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs) for the latest information.
+
+@DoodleMe, @KnottyLola and team will take you through some further concepts of Japanese rope bondage (Shibari). This is an 18+ workshop. Bring blanket &amp; rope if you have it. Follow up to Shibari 101, but having attended 101 is not required.</abstract>
                 <slug>why2025-123-shibari-102-rope-bondage-for-beginners</slug>
                 <track>The square hole</track>
                 <logo>/media/why2025/submissions/JDL3HF/ChatGPT_Image_Jul_28_2025_at_08_15_50_AM_DXVsmVV.png</logo>
@@ -3466,7 +3468,9 @@ This is still to be defined.</description>
                     <person id="377">KnottyLola</person>
                 </persons>
                 <language>en</language>
-                <description>Instructor @DoodleMe, @KnottyLola, and team will take you through some more of the concepts of Japanese rope bondage (Shibari). You'll build on the theory and knots covered in the first class.
+                <description>We are likely replacing this workshop with the 101, which was cancelled on Friday. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs) for the latest information.
+
+Instructor @DoodleMe, @KnottyLola, and team will take you through some more of the concepts of Japanese rope bondage (Shibari). You'll build on the theory and knots covered in the first class.
 
 This peer based workshop is aimed at those with some experience or who attended the 101 class. It is not necessary to have attended the 101 class, but we will be moving at a fast pace over what we already covered.
 
@@ -5093,6 +5097,27 @@ This is your chance to discover beers you'd never find outside your region — u
                 <date>2025-08-09T16:00:00+02:00</date>
                 <start>16:00</start>
                 <duration>01:30</duration>
+            </event>
+        </room>
+        <room name="Village:Selfnet" guid="09063e4a-e3a4-5b14-910d-7998b3dfbbae">
+            <event guid="ab1e5347-a8a6-5b0c-b76c-2842f15233d3">
+                <title>Fiber splicing workshop</title>
+                <track>Self Organized Sessions</track>
+                <abstract>In this workshop you can join fiber-optic cables using a fusion splicer</abstract>
+                <type>Workshop</type>
+                <persons>
+                    <person>Karotte</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.
+First you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.
+
+Splicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9µm, which is smaller than a human hair.
+
+More timeslots will be added.</description>
+                <date>2025-08-09T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>01:00</duration>
             </event>
         </room>
         <room name="Village:TechInc" guid="d6a86999-ee66-5630-8d7d-a1668aedb668">
@@ -8356,6 +8381,27 @@ tags:videogames
                 <duration>01:00</duration>
             </event>
         </room>
+        <room name="Village:Selfnet" guid="09063e4a-e3a4-5b14-910d-7998b3dfbbae">
+            <event guid="fccd69d1-a2d5-5c6f-b163-8b5d6da3690c">
+                <title>Fiber splicing workshop</title>
+                <track>Self Organized Sessions</track>
+                <abstract>In this workshop you can join fiber-optic cables using a fusion splicer</abstract>
+                <type>Workshop</type>
+                <persons>
+                    <person>Karotte</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.
+First you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.
+
+Splicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9µm, which is smaller than a human hair.
+
+More timeslots will be added.</description>
+                <date>2025-08-10T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
         <room name="Village:TechInc" guid="d6a86999-ee66-5630-8d7d-a1668aedb668">
             <event guid="53edd6ac-b620-5ead-af31-0aafbfd9b53a">
                 <title>Transmasc meetup</title>
@@ -10045,6 +10091,7 @@ During this workshop, you’ll get hands-on with Codecraft, a block-based progra
                 <logo>/media/why2025/submissions/TBGDLB/coderdojo_bQg6sSW.png</logo>
                 <persons>
                     <person id="54">Jan Tiri</person>
+                    <person id="210">Joram Agten</person>
                 </persons>
                 <language>en</language>
                 <description>👨‍💻 What will we do?
