@@ -552,6 +552,31 @@ We will present the first steps towards this standardization, looking for contri
         <duration>00:30</duration>
       </event>
     </room>
+    <room name="Village:Fablab/Fabacademy" guid="01113e6f-6aa5-5e6f-9b6b-64b3a6b3a7e3">
+      <event guid="e27daea4-ae7b-562c-83b9-e63c676b8177">
+        <title>KiCad workshop featuring the Fab lib</title>
+        <track>Self Organized Sessions</track>
+        <abstract>KiCad and Fab Lib</abstract>
+        <url>https://gitlab.fabcloud.org/pub/libraries/electronics/kicad</url>
+        <type>Workshop</type>
+        <persons>
+          <person>Kris, Henk</person>
+        </persons>
+        <description>KiCad is the preferred choice when it comes to electronics design in fablabs and Fab Academy. 
+
+Session 1 (9 Aug 13:00-14:30)
+During first session we will cover what to do when you just installed KiCad without libraries (because you want it to be fast) and you somehow ended up in a desert with no internet connection, but with a datasheet...
+
+Session 2 (10 Aug 13:00-14:30)
+From there we will take advantage of a few Starlinks (or your own cubesats) passing by, just enough to be able to download the Fab Lib, which is a KiCad electronics component library based on the Fab Lab / Fab Academy electronics component inventory...
+
+Venue: Be aware that the venue might change to the boat fablab on the Western outskirts of the camp. Just check some 30 minutes before the event here.</description>
+        <subtitle>Getting Started with KiCad From Scratch</subtitle>
+        <date>2025-08-09T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>01:30</duration>
+      </event>
+    </room>
     <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">
       <event guid="accb50d8-097f-55b7-b8a7-b95a6069b9c9">
         <title>FHB:Kimchi making</title>
@@ -629,6 +654,24 @@ The core idea is to get home made and commercial chips&amp;crisps of high qualit
 To see and/or add your Chips/Crisps go to [https://foodhackingbase.org/wiki/FHB@WHY2025/chips_crisps| List of Chips/Crisps]</description>
         <date>2025-08-09T16:30:00+02:00</date>
         <start>16:30</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="92386037-2087-5398-8147-0fae9b73ad4d">
+        <title>FHB:Big Bender</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Whiskey tasting</abstract>
+        <url>https://foodhackingbase.org/wiki/FHB@WHY2025/big_bender</url>
+        <type>Tasting</type>
+        <persons>
+          <person>Bigmacfoobar</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: 18+
+We provide a large number of interesting whiskeys and appropriate snacks to show you the wide range of things the world calls whisky (or whiskey). Dutch, Japanese, Irish and Scottish We ask you for a 25€ donation for this event, which is a steal considering the number of whiskies you will have to taste. You are also invited to bring your own bottle to this event to make it even more insane.
+
+[[File:Whiske fhb.jpg|alt=Whiskey bottles|Whiskey bottles]]</description>
+        <date>2025-08-09T21:00:00+02:00</date>
+        <start>21:00</start>
         <duration>02:00</duration>
       </event>
     </room>
@@ -1387,6 +1430,31 @@ How we designed our disability cards to make daily life easier.
         <duration>00:30</duration>
       </event>
     </room>
+    <room name="Village:Fablab/Fabacademy" guid="01113e6f-6aa5-5e6f-9b6b-64b3a6b3a7e3">
+      <event guid="b16b6e3f-9d4c-517f-9963-c63d2a892528">
+        <title>KiCad workshop featuring the Fab lib</title>
+        <track>Self Organized Sessions</track>
+        <abstract>KiCad and Fab Lib</abstract>
+        <url>https://gitlab.fabcloud.org/pub/libraries/electronics/kicad</url>
+        <type>Workshop</type>
+        <persons>
+          <person>Kris, Henk</person>
+        </persons>
+        <description>KiCad is the preferred choice when it comes to electronics design in fablabs and Fab Academy. 
+
+Session 1 (9 Aug 13:00-14:30)
+During first session we will cover what to do when you just installed KiCad without libraries (because you want it to be fast) and you somehow ended up in a desert with no internet connection, but with a datasheet...
+
+Session 2 (10 Aug 13:00-14:30)
+From there we will take advantage of a few Starlinks (or your own cubesats) passing by, just enough to be able to download the Fab Lib, which is a KiCad electronics component library based on the Fab Lab / Fab Academy electronics component inventory...
+
+Venue: Be aware that the venue might change to the boat fablab on the Western outskirts of the camp. Just check some 30 minutes before the event here.</description>
+        <subtitle>Installing and Using the KiCad FabLib</subtitle>
+        <date>2025-08-10T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>01:30</duration>
+      </event>
+    </room>
     <room name="Village:Food Hacking Base" guid="1416a97e-f2b5-5d12-b1b1-3bdafe9355d1">
       <event guid="f6c91348-6ecc-57ca-9031-7d247c0fcc37">
         <title>FHB: Kefir Making</title>
@@ -1643,6 +1711,23 @@ tags:videogames
         <duration>01:00</duration>
       </event>
     </room>
+    <room name="Village:Worldclass" guid="5acb15aa-2a02-5428-a74a-2a1762dca445">
+      <event guid="53bec69e-2887-55db-8855-9d92840a9768">
+        <title>PolyGen - How it works. See inside the game units.</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Find out how the PolyGen game works, see inside the units, ask questions!</abstract>
+        <url>gen.polyb.io</url>
+        <type>Talk</type>
+        <persons>
+          <person>Trikkitt</person>
+        </persons>
+        <language>en</language>
+        <description>This is your chance to see inside the units, learn how it all works, and ask whatever questions you have about the PolyGen game.</description>
+        <date>2025-08-10T13:30:00+02:00</date>
+        <start>13:30</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
     <room name="Village:Øl Telecom" guid="9d7f244c-7f35-5948-b0fd-2f8c5e9537dd">
       <event guid="ffe92218-8814-578e-bab5-41566940d0e0">
         <title>Stargazing</title>
@@ -1803,6 +1888,39 @@ This tasting event is based on "donation at your will no one turned away for lac
 For a list of ciders go to [[https://foodhackingbase.org/wiki/FHB@WHY2025/cider_flows|the food hacking base page of this session]]</description>
         <date>2025-08-11T18:30:00+02:00</date>
         <start>18:30</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="321c0e3d-4f37-5f13-b321-4300233b48ae">
+        <title>FHB:Big Blender</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Making whiskey cocktails</abstract>
+        <url>https://foodhackingbase.org/wiki/FHB@WHY2025/big_bender</url>
+        <type>Tasting</type>
+        <persons>
+          <person>Bigmacfoobar</person>
+        </persons>
+        <description>Age range: 18+
+Come help us emptying the remaining whiskey bottles from the whiskey tasting by making cocktails.
+
+[[File:Whiskey cocktails.jpg|alt=Whiskey cocktails|Whiskey cocktails]]</description>
+        <date>2025-08-11T22:00:00+02:00</date>
+        <start>22:00</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="4029e354-2e5c-552b-b84e-8a0c96075e1e">
+        <title>FHB:Seitan</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Seitan sausages making</abstract>
+        <url>https://foodhackingbase.org/wiki/FHB@WHY2025/seitan</url>
+        <type>Workshop</type>
+        <language>en</language>
+        <description>Needs signup
+Age range: 12-16, 16+, 18+
+[https://dud-poll.inf.tu-dresden.de/seitan_making_why2025/ To secure one of the 15 places on this workshop please sign in here.]
+
+Want to learn to make tasty vegan sausages? Experiment with your own flavorings? Then join us for this hands on sausage making workshop! Bring clean hands and if you have it some aluminum foil. See you there! (If you don't like sausage shaped things, you can also make a burger of course!)</description>
+        <date>2025-08-11T15:00:00+02:00</date>
+        <start>15:00</start>
         <duration>02:00</duration>
       </event>
     </room>
@@ -2393,20 +2511,6 @@ The schedule will be on the whiteboard in our village.</description>
         <duration>01:00</duration>
         <description>Generated time to make session visible, might need an actual date and time
 We're gonna build a non exploding buzzer working on the Meshtastic network</description>
-      </event>
-      <event guid="e27daea4-ae7b-562c-83b9-e63c676b8177">
-        <title>KiCad workshop featuring the Fab lib</title>
-        <track>Self Organized Sessions</track>
-        <abstract>KiCad workshop featuring the Fab lib</abstract>
-        <url>https://gitlab.fabcloud.org/pub/libraries/electronics/kicad</url>
-        <type>Workshop</type>
-        <persons>
-          <person>Kris, Henk</person>
-        </persons>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time</description>
       </event>
       <event guid="32a9e8b6-c127-5317-a86a-a3edd46551b5">
         <title>Play the Pinball machine and set a High Score</title>

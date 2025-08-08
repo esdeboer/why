@@ -260,6 +260,16 @@
     "type": "Workshop"
   },
   {
+    "id": "e27daea4-ae7b-562c-83b9-e63c676b8177",
+    "title": "KiCad workshop featuring the Fab lib",
+    "description": "KiCad is the preferred choice when it comes to electronics design in fablabs and Fab Academy. \n\nSession 1 (9 Aug 13:00-14:30)\nDuring first session we will cover what to do when you just installed KiCad without libraries (because you want it to be fast) and you somehow ended up in a desert with no internet connection, but with a datasheet...\n\nSession 2 (10 Aug 13:00-14:30)\nFrom there we will take advantage of a few Starlinks (or your own cubesats) passing by, just enough to be able to download the Fab Lib, which is a KiCad electronics component library based on the Fab Lab / Fab Academy electronics component inventory...\n\nVenue: Be aware that the venue might change to the boat fablab on the Western outskirts of the camp. Just check some 30 minutes before the event here.",
+    "start": "2025-08-09T13:00:00+02:00",
+    "end": "2025-08-09T14:30:00+02:00",
+    "room": "Village:Fablab/Fabacademy",
+    "url": "https://gitlab.fabcloud.org/pub/libraries/electronics/kicad",
+    "type": "Workshop"
+  },
+  {
     "id": "accb50d8-097f-55b7-b8a7-b95a6069b9c9",
     "title": "FHB:Kimchi making",
     "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\n[https://dud-poll.inf.tu-dresden.de/kimchi_making_why2025/ To secure spot on this workshop please sign in here.]\n\n[https://foodhackingbase.org/wiki/Recipe:Traditional_Kimchi_making_manual Workshop manual is shared here.]\n\nThis is hands on workshop where your learn how to prepare Korean [http://en.wikipedia.org/wiki/Kimchi \uae40\uce58 (kimchi)]. You will do at least two types of kimchies based on wild/spontaneous fermentation. We will see what type of nice vegetables we will get. Highly likely we will do cabbage kimchi (\ubc30\ucd94 \uae40\uce58) and then either radish, topinambur or turnip kimchi.\n\nThe preparation of vegetable ferments in Korea, called [https://en.wikipedia.org/wiki/Kimchi \u201ckimchies\u201d], is an ancient fermentation skill based on spontaneous fermentation (naturally occurring lactic acid producing bacteria among the others) and variety of ingredients added. This workshop is a hands-on experience that reviews the basics of Korean kimchi making and today's preparation styles. We will go through the main topics which are salt to vegetables and liquid ratio and when to apply it and how. This one is crucial. We will explain the importance of the effect of ginger, garlic and spicy pepper and their roles in preventing unwanted microbial development. Part of this workshop is tasting of kimchi samples so you get idea what should your results taste like. You will be leaving with jar of kimchi and knowledge how to make your own.\n\nThis workshop is based on \"donation at your will no one turned away for lack of funds\". Part of the workshop benefits goes towards fhb budget and hopefully larger part towards [[User:Algoldor|Algoldor's]] pocket to cover participation costs at WHY 2025 event and if some extras are accumulated, then towards current and future fermentation projects.",
@@ -287,6 +297,16 @@
     "end": "2025-08-09T18:30:00+02:00",
     "room": "Village:Food Hacking Base",
     "url": "https://foodhackingbase.org/wiki/FHB@WHY2025/chips_crisps",
+    "type": "Tasting"
+  },
+  {
+    "id": "92386037-2087-5398-8147-0fae9b73ad4d",
+    "title": "FHB:Big Bender",
+    "description": "Age range: 18+\nWe provide a large number of interesting whiskeys and appropriate snacks to show you the wide range of things the world calls whisky (or whiskey). Dutch, Japanese, Irish and Scottish We ask you for a 25\u20ac donation for this event, which is a steal considering the number of whiskies you will have to taste. You are also invited to bring your own bottle to this event to make it even more insane.\n\n[[File:Whiske fhb.jpg|alt=Whiskey bottles|Whiskey bottles]]",
+    "start": "2025-08-09T21:00:00+02:00",
+    "end": "2025-08-09T23:00:00+02:00",
+    "room": "Village:Food Hacking Base",
+    "url": "https://foodhackingbase.org/wiki/FHB@WHY2025/big_bender",
     "type": "Tasting"
   },
   {
@@ -630,6 +650,16 @@
     "type": "Talk"
   },
   {
+    "id": "b16b6e3f-9d4c-517f-9963-c63d2a892528",
+    "title": "KiCad workshop featuring the Fab lib",
+    "description": "KiCad is the preferred choice when it comes to electronics design in fablabs and Fab Academy. \n\nSession 1 (9 Aug 13:00-14:30)\nDuring first session we will cover what to do when you just installed KiCad without libraries (because you want it to be fast) and you somehow ended up in a desert with no internet connection, but with a datasheet...\n\nSession 2 (10 Aug 13:00-14:30)\nFrom there we will take advantage of a few Starlinks (or your own cubesats) passing by, just enough to be able to download the Fab Lib, which is a KiCad electronics component library based on the Fab Lab / Fab Academy electronics component inventory...\n\nVenue: Be aware that the venue might change to the boat fablab on the Western outskirts of the camp. Just check some 30 minutes before the event here.",
+    "start": "2025-08-10T13:00:00+02:00",
+    "end": "2025-08-10T14:30:00+02:00",
+    "room": "Village:Fablab/Fabacademy",
+    "url": "https://gitlab.fabcloud.org/pub/libraries/electronics/kicad",
+    "type": "Workshop"
+  },
+  {
     "id": "f6c91348-6ecc-57ca-9031-7d247c0fcc37",
     "title": "FHB: Kefir Making",
     "description": "Needs signup\nAge range: Aimed at adults but supervised kids welcome.\n[https://dud-poll.inf.tu-dresden.de/kefir_why2025/ To secure spot on this workshop please sign in here].\n\n[https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form Workshop manual is shared here].\n\nThis is hands on workshop during which you will learn how to make, harvest and continue to prepare [https://en.wikipedia.org/wiki/Kefir kefir] using kefir grain culture which you will walk away with if you don't defend yourself too hard. We will explain basic concepts of probiotic, prebiotic and biofilm based polycultures and why it is good to consume foods \u201clabeled\u201d by these terms. You will prepare your own kefir culture, based on the  [https://foodhackingbase.org/wiki/Recipe:Kefir_making_manual_-_short_workshop_form working manual] and take it with you so you will be ready to brew wherever you decide hopefully \u201cpositively infecting\u201d your local hackerspace. We will make at least one recipe together, either \"kefir cake\" or kefir smoked paprika spread, if we have time we may do a base for probiotic kefir drink using kefir whey.\n\nWe will demonstrate how to make a new batch of kefir and how to harvest the old one, you will than do it by yourself. The main aim of this workshop is for the participants to understand the principles behind the milk fermentation with kefir culture and not to be afraid to just do it. Combined with the practical experience which I provide you will be able to take care properly about your kefir culture which is the key for your successful long term fermentation adventures! Don't worry too much about loosing a batch or two, that happens from time to time, keeping the \"mother culture\" happy is the important part. As usually there will be tasters, cultures sharing, manuals and various hints how to use the products in alternative ways making for example probiotic drinks from whey, kefir cheese spreads, kefir cake et cetera. I can be also your troubleshooting help if you need it. \n\nThis workshop is donation based no one turned away for lack of funds, if you can chip in around 10\u20ac, that would be great but it is up to you.",
@@ -750,6 +780,16 @@
     "type": "Meeting"
   },
   {
+    "id": "53bec69e-2887-55db-8855-9d92840a9768",
+    "title": "PolyGen - How it works. See inside the game units.",
+    "description": "This is your chance to see inside the units, learn how it all works, and ask whatever questions you have about the PolyGen game.",
+    "start": "2025-08-10T13:30:00+02:00",
+    "end": "2025-08-10T14:30:00+02:00",
+    "room": "Village:Worldclass",
+    "url": "gen.polyb.io",
+    "type": "Talk"
+  },
+  {
     "id": "ffe92218-8814-578e-bab5-41566940d0e0",
     "title": "Stargazing",
     "description": "Age range: Aimed at adults but supervised kids welcome.\nLet's go stargazing! \nOn good nights I'll have two telescopes and a pair of binoculars set up, as well as some books about stargazing. \n\nThe moon phase is full or near full. It's a nice sight. \nOther than that we can look at some nice clusters or Saturn which is rising relatively early in the night now. \n\nIf you have your own telescope, bring it too! Let's check out each other's gear.",
@@ -818,6 +858,26 @@
     "room": "Village:Food Hacking Base",
     "url": "https://foodhackingbase.org/wiki/FHB@WHY2025/cider_flows",
     "type": "Tasting"
+  },
+  {
+    "id": "321c0e3d-4f37-5f13-b321-4300233b48ae",
+    "title": "FHB:Big Blender",
+    "description": "Age range: 18+\nCome help us emptying the remaining whiskey bottles from the whiskey tasting by making cocktails.\n\n[[File:Whiskey cocktails.jpg|alt=Whiskey cocktails|Whiskey cocktails]]",
+    "start": "2025-08-11T22:00:00+02:00",
+    "end": "2025-08-12T00:00:00+02:00",
+    "room": "Village:Food Hacking Base",
+    "url": "https://foodhackingbase.org/wiki/FHB@WHY2025/big_bender",
+    "type": "Tasting"
+  },
+  {
+    "id": "4029e354-2e5c-552b-b84e-8a0c96075e1e",
+    "title": "FHB:Seitan",
+    "description": "Needs signup\nAge range: 12-16, 16+, 18+\n[https://dud-poll.inf.tu-dresden.de/seitan_making_why2025/ To secure one of the 15 places on this workshop please sign in here.]\n\nWant to learn to make tasty vegan sausages? Experiment with your own flavorings? Then join us for this hands on sausage making workshop! Bring clean hands and if you have it some aluminum foil. See you there! (If you don't like sausage shaped things, you can also make a burger of course!)",
+    "start": "2025-08-11T15:00:00+02:00",
+    "end": "2025-08-11T17:00:00+02:00",
+    "room": "Village:Food Hacking Base",
+    "url": "https://foodhackingbase.org/wiki/FHB@WHY2025/seitan",
+    "type": "Workshop"
   },
   {
     "id": "ffbedd9d-737c-544c-8b6c-2343d9fe93c8",
@@ -1097,16 +1157,6 @@
     "end": "2025-08-13T01:00:00+02:00",
     "room": "undetermined",
     "url": "",
-    "type": "Workshop"
-  },
-  {
-    "id": "e27daea4-ae7b-562c-83b9-e63c676b8177",
-    "title": "KiCad workshop featuring the Fab lib",
-    "description": "Generated time to make session visible, might need an actual date and time",
-    "start": "2025-08-13T00:00:00+02:00",
-    "end": "2025-08-13T01:00:00+02:00",
-    "room": "undetermined",
-    "url": "https://gitlab.fabcloud.org/pub/libraries/electronics/kicad",
     "type": "Workshop"
   },
   {
