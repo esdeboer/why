@@ -10941,13 +10941,14 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
             <event guid="d5c89c8b-7c72-576c-bb8a-ca204c0f2d89">
                 <title>KubeVenom</title>
                 <track>Self Organized Sessions</track>
-                <abstract>Talk about presenting a tool for hacking kubernetes and cloud environments</abstract>
+                <abstract>Talk about building a tool for hacking kubernetes and other cloud environments</abstract>
                 <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
                 <type>Talk</type>
+                <language>en</language>
                 <description>Age range: 16+</description>
                 <date>2025-08-11T16:00:00+02:00</date>
                 <start>16:00</start>
-                <duration>01:00</duration>
+                <duration>00:30</duration>
             </event>
         </room>
     </day>
