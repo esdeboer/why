@@ -29,40 +29,6 @@ And you can be there during the recording of this episode!</description>
         <duration>03:00</duration>
       </event>
     </room>
-    <room name="Village:TechInc" guid="d6a86999-ee66-5630-8d7d-a1668aedb668">
-      <event guid="a877aa49-6782-593f-9f27-5ff6cdf95581">
-        <title>Transmasc meetup</title>
-        <track>Self Organized Sessions</track>
-        <abstract>transmasc meetup</abstract>
-        <type>Meeting</type>
-        <persons>
-          <person>Li0n</person>
-        </persons>
-        <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406</description>
-        <subtitle>day 1</subtitle>
-        <date>2025-08-04T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>01:00</duration>
-      </event>
-    </room>
-  </day>
-  <day date="2025-08-05">
-    <room name="Village:TechInc" guid="d6a86999-ee66-5630-8d7d-a1668aedb668">
-      <event guid="53edd6ac-b620-5ead-af31-0aafbfd9b53a">
-        <title>Transmasc meetup</title>
-        <track>Self Organized Sessions</track>
-        <abstract>transmasc meetup</abstract>
-        <type>Meeting</type>
-        <persons>
-          <person>Li0n</person>
-        </persons>
-        <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406</description>
-        <subtitle>day 2</subtitle>
-        <date>2025-08-05T17:00:00+02:00</date>
-        <start>17:00</start>
-        <duration>01:00</duration>
-      </event>
-    </room>
   </day>
   <day date="2025-08-07">
     <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
@@ -130,6 +96,23 @@ During a listening session we will analyse the quotes Bob Ross makes while paint
         <duration>01:00</duration>
       </event>
     </room>
+    <room name="Village:Brittany Fairies" guid="1ac8b50c-bcfd-5f14-8571-c0149f9a09e6">
+      <event guid="a197da9e-8f02-5e03-8e12-eb148fc550e5">
+        <title>Yard-Giveaway/Sale / Hacker Flea-Market</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Lots of vintage and rare gear to give away or sell for cheap!</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Gadget MCS</person>
+        </persons>
+        <description>Missing duration, check with organiser, dummy 10 minutes added
+Age range: All ages
+Vintage and rare gear to give away or sell for cheap!</description>
+        <date>2025-08-08T00:00:00+02:00</date>
+        <start>00:00</start>
+        <duration>00:10</duration>
+      </event>
+    </room>
     <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
       <event guid="e2ff0891-8a50-5ac9-ace3-4ec07706000c">
         <title>Onderzoek levering mifi-routers (hardware hacking)</title>
@@ -144,8 +127,8 @@ During a listening session we will analyse the quotes Bob Ross makes while paint
 Age range: Aimed at adults but supervised kids welcome.
 Bij de levering van Mifi devices doet zich een vreemde situatie voor. Met behulp van hardware-hacking probeer ik te bevestigen of te ontkrachten of er werkelijk iets speelt.
 Deze talk zal in het Nederlands gegeven worden en is primair voor DutchPicknick-ers. Anderen zijn ook welkom, maar de exacte tijd moet nog even bepaald worden. Zit je niet in DutchPicknick, meldt je vooraf even bij ons village.</description>
-        <date>2025-08-08T12:00:00+02:00</date>
-        <start>12:00</start>
+        <date>2025-08-08T21:30:00+02:00</date>
+        <start>21:30</start>
         <duration>00:45</duration>
       </event>
       <event guid="f270121d-1826-5927-96b3-a0900d3c8c0a">
@@ -159,9 +142,9 @@ Deze talk zal in het Nederlands gegeven worden en is primair voor DutchPicknick-
         <language>nl</language>
         <description>Age range: Aimed at adults but supervised kids welcome.
 Welke self-hosted Dropbox alternatieven zijn er eigenlijk? En werkt dat een beetje? Deze talk vergelijkt Seafile, Nextcloud en Pydio Cells. De goede kanten, de slechte, en een paar WTF's.</description>
-        <date>2025-08-08T13:00:00+02:00</date>
-        <start>13:00</start>
-        <duration>00:20</duration>
+        <date>2025-08-08T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>00:25</duration>
       </event>
     </room>
     <room name="Village:Energy" guid="e6596814-374c-5e1f-bee0-b8825622ff78">
@@ -427,6 +410,30 @@ Location is close to the Sauna/Salmiakki.</description>
         <date>2025-08-08T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>00:30</duration>
+      </event>
+      <event guid="52b3cc19-b320-5fa3-b945-f03f8a54137e">
+        <title>Juergens Gadget Garage (Free Hardware)</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Free hardware</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Juergenp</person>
+        </persons>
+        <language>de</language>
+        <description>Age range: All ages
+I have a few boxed full of random hardware, mostly smaller things like arduino boards, usb adapters+cables and 3d printing equipment (nozzles, etc). I am giving it away for free. It is placed in 5 IKEA boxes and 1 cardboard box located in front of our village tent (Worldclass) - just take what you like (but please put everything back into the boxes that you don't want, just to keep it tidy).
+
+Everything located in our tent and on the backside is NOT for "sale" - that's stuff we still want to keep and use.
+
+Q: Where are you?
+A: Village Worldclass: https://map.why2025.org/?building=145&amp;building_table=villages#maphash=19/52.6933504/4.7470157/-20
+
+Q: Why I am giving this stuff away?
+A: I'm not using it anymore and need to make space for other things.</description>
+        <subtitle>Anytime</subtitle>
+        <date>2025-08-08T00:00:00+02:00</date>
+        <start>00:00</start>
+        <duration>00:00</duration>
       </event>
     </room>
   </day>
@@ -779,11 +786,31 @@ The prices in the yellow boxes are the materials costs for participating in the 
         <language>en</language>
         <description>Age range: All ages
 == Workshop Description ==
+[[File:C452b758-eabc-4770-a7d9-047aa1339c9d.jpg|thumb]]
+&lt;br&gt;
 IoT with Arduino Cloud. For total beginners.  
 
-Workshop given by Jeffrey Roe.  
+Join us for a 2-hour, hands-on workshop that introduces you to the exciting world of the Internet of Things (IoT) through Arduino Cloud. This beginner-friendly session will teach you how to connect your projects to the Internet, visualise data in real-time, and manage your devices remotely using Wi-Fi. What You’ll Learn: * Soldering, wiring, and programming sensors. * Using Arduino Cloud to monitor data online. * Setting up and managing IoT projects with ease.
+
+Materials: You’ll work with: * Two ESP32 boards * BME280 sensor for temperature, humidity, and air pressure measurements * A small screen to display data locally
+
+Materials Costs:
+It costs €25 for a kit to take home.
+
+Requirements:
+Bring your laptop, we will be installing Arduino Cloud Agent and a USB-C Data cable ( Two cables would be better). 
+
+If you have time, install this before the workshop https://cloud.arduino.cc/download-agent/
+
+Workshop given by [https://chaos.social/@tdr112 Jeffrey Roe].  
 
 Materials cost: €25
+
+[https://events.ccc.de/congress/2024/hub/de/dereferrer/https://docs.google.com/presentation/d/1wtO9P6p4a-CL3omzcWdf-vDEWegklzHMaalzUt9Qii8/edit%3Fusp=sharing Link To Slides]
+
+You can find me around the Hacking Area Village if you want to pre-buy the parts for the workshop.
+I can take payment via PayPal, Revolut, IBAN, or cash
+
 &lt;br&gt;
 &lt;br&gt;
 [[File:HHA_WHY_logo.png|center|300px]]  
@@ -953,6 +980,20 @@ Mobile phone display and battery replacement hand-on workshop:
         <start>17:00</start>
         <duration>01:00</duration>
       </event>
+      <event guid="d84ff0ba-2cfd-5934-b4b4-473207df2917">
+        <title>Chip investigations (silicon forensics) at the Dutch Forensic Institute (NFI)</title>
+        <track>Self Organized Sessions</track>
+        <abstract>That does the NFI do in the field of silicon forensics</abstract>
+        <type>Talk</type>
+        <persons>
+          <person>Wscrsurfdude</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages</description>
+        <date>2025-08-09T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>00:50</duration>
+      </event>
     </room>
     <room name="Village:SSH (Spanish Speaking Hackers)" guid="cf6602e5-4ed2-5ac5-9fdb-98fccd895f79">
       <event guid="895c1116-247d-5ad3-bf52-ff2a2ede2d75">
@@ -1011,6 +1052,22 @@ This is your chance to discover beers you'd never find outside your region — u
         <date>2025-08-09T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>01:30</duration>
+      </event>
+    </room>
+    <room name="Village:TechInc" guid="d6a86999-ee66-5630-8d7d-a1668aedb668">
+      <event guid="a877aa49-6782-593f-9f27-5ff6cdf95581">
+        <title>Transmasc meetup</title>
+        <track>Self Organized Sessions</track>
+        <abstract>transmasc meetup</abstract>
+        <type>Meeting</type>
+        <persons>
+          <person>Li0n</person>
+        </persons>
+        <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406</description>
+        <subtitle>day 2 meetup</subtitle>
+        <date>2025-08-09T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
       </event>
     </room>
     <room name="Village:Xyberfoort" guid="bd7ceaee-7e0e-52b7-94cd-f866152e2d27">
@@ -1072,6 +1129,83 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
         <date>2025-08-09T23:00:00+02:00</date>
         <start>23:00</start>
         <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
+      <event guid="9b967496-1e7b-5473-ae3e-b08381b7b39a">
+        <title>Rust tutorial and Port Scanner</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Rust tutorial and how to build a port scanner</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <type>Hands-On</type>
+        <language>en</language>
+        <description>Age range: 16+</description>
+        <date>2025-08-09T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="4c06b457-324f-5d2c-b903-ca09d700f1f8">
+        <title>Forget all your previous instructions</title>
+        <track>Self Organized Sessions</track>
+        <abstract>We will discuss security vulnerabilities of LLMs</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <type>Talk</type>
+        <description>Age range: 16+</description>
+        <date>2025-08-09T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="0c4eac16-9f2d-5972-b7af-96ba1ec4c4c3">
+        <title>Pwn Workshop</title>
+        <track>Self Organized Sessions</track>
+        <abstract>This is a 2 part workshop on reverse engineering and binary exploitation</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <description>Age range: 16+</description>
+        <subtitle>Part 1</subtitle>
+        <date>2025-08-09T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="51a2c6fb-7de6-5417-8a0d-34ab02d5a40a">
+        <title>Hollywood-Style Smartlock Attack</title>
+        <track>Self Organized Sessions</track>
+        <abstract>This talk will discuss novel attacks on smartlocks</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <description>Age range: 16+</description>
+        <date>2025-08-09T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="820236ab-39eb-50bb-8c1f-04df8ee8723d">
+        <title>How to Become a Red Teamer</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Talk about experiences as a red teamer.</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <type>Talk</type>
+        <description>Age range: 16+</description>
+        <date>2025-08-09T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="ace91900-1323-5a05-8fd9-8ad111c1ae63">
+        <title>Interz0n3:curated entity, display of entangled fragments</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Suggestive interstructure / ALL TERRAIN / Multipurpose</abstract>
+        <type>Outside</type>
+        <persons>
+          <person>X0xisnotalone</person>
+        </persons>
+        <language>en</language>
+        <description>Missing duration, check with organiser, dummy 10 minutes added
+Age range: Aimed at adults but supervised kids welcome.
+Interz0n3 has send two representatives (x0x and EURO2000) to WHY2025.
+
+MULTIPLEX OF EVENTS BALANCING ON BETWEEN MEANING AND MATTER
+
+Interzonal Garden Retreat : A soft space for rest, play, and gentle recalibration.</description>
+        <date>2025-08-09T00:00:00+02:00</date>
+        <start>00:00</start>
+        <duration>00:10</duration>
       </event>
     </room>
   </day>
@@ -1310,6 +1444,37 @@ To add your own cheese, add it to the wiki below
         <duration>02:00</duration>
       </event>
     </room>
+    <room name="Village:Frubar" guid="6acbf8b8-ded5-5f6f-b218-b466625596bd">
+      <event guid="2cfecc93-5986-50ee-8c24-4b28a74cbec5">
+        <title>Batik T-Shirts</title>
+        <track>Self Organized Sessions</track>
+        <abstract>You will create your own wonderful batik t-shirts. Everybody is welcome (kids, grown-ups, aliens, whatever)</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>DrScream</person>
+        </persons>
+        <language>de</language>
+        <description>Is for kids
+Age range: All ages
+= About =
+
+[[File:Hippybatik.jpg|frame]]
+
+We will create some wonderful batik t-shirts during the camp. Everybody is welcome - it could be a kids session but we also have t-shirts for grown ups.
+We've done some batik sessions on other camps in the past but somehow lost focus the last years. So this is a revival :-)
+
+= What do we provide =
+
+We've special organic batik color, binding threads and lot's of white t-shirts. But feel free to bring your own t-shirt - everything is possible! This session is provided for free, feel free to donate at the camp side.
+
+* ~40 kids t-shirts in different sizes (5y-14y)
+* ~40 grown up shirts in different sizes (M-3XL)
+* ~40 fitted grown up shirts in different sizes (S-XXL)</description>
+        <date>2025-08-10T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:30</duration>
+      </event>
+    </room>
     <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
       <event guid="3f7c933f-dfde-5599-b30a-50dd7d8c469f">
         <title>Past Presentation Cinema</title>
@@ -1462,6 +1627,22 @@ tags:videogames
         <duration>01:00</duration>
       </event>
     </room>
+    <room name="Village:TechInc" guid="d6a86999-ee66-5630-8d7d-a1668aedb668">
+      <event guid="53edd6ac-b620-5ead-af31-0aafbfd9b53a">
+        <title>Transmasc meetup</title>
+        <track>Self Organized Sessions</track>
+        <abstract>transmasc meetup</abstract>
+        <type>Meeting</type>
+        <persons>
+          <person>Li0n</person>
+        </persons>
+        <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406</description>
+        <subtitle>day 3 meetup</subtitle>
+        <date>2025-08-10T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
     <room name="Village:Øl Telecom" guid="9d7f244c-7f35-5948-b0fd-2f8c5e9537dd">
       <event guid="ffe92218-8814-578e-bab5-41566940d0e0">
         <title>Stargazing</title>
@@ -1483,6 +1664,39 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
         <date>2025-08-10T23:00:00+02:00</date>
         <start>23:00</start>
         <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
+      <event guid="7df19638-4f0b-5ff2-9c53-96d2d913b6ef">
+        <title>Pwn Workshop</title>
+        <track>Self Organized Sessions</track>
+        <abstract>This is a 2 part workshop on reverse engineering and binary exploitation</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <description>Age range: 16+</description>
+        <subtitle>Part 2</subtitle>
+        <date>2025-08-10T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="33db1724-bb22-5f62-b2f3-529072f54149">
+        <title>Man your ships! Kubernetes Security, Attacks (and a Bit of Networking)</title>
+        <track>Self Organized Sessions</track>
+        <abstract>This talk will present simple hacking techniques for containers in kubernetes.</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <description>Age range: 16+</description>
+        <date>2025-08-10T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="6514ca09-8d84-5eec-8cfd-c3ffc88a0ab0">
+        <title>How to (not) ace a Cyber Incident Response case</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Talk about cyber incident response.</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <description>Age range: 16+</description>
+        <date>2025-08-10T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
       </event>
     </room>
   </day>
@@ -1876,6 +2090,40 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
         <duration>02:00</duration>
       </event>
     </room>
+    <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
+      <event guid="3de91bba-9c9d-547e-8d04-7703bcf3b935">
+        <title>Hacky Hunting!</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Discuss threat hunting techniques and stories.</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <description>Age range: 16+</description>
+        <date>2025-08-11T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="f9c5bbcf-7c26-5c94-ad03-2f216d86bd61">
+        <title>Fuzz Testing in Go (for Funz and Profit)</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Go tutorial with a focus on the development of fuzzing tools</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <type>Hands-On</type>
+        <description>Age range: 16+</description>
+        <date>2025-08-11T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+      </event>
+      <event guid="d5c89c8b-7c72-576c-bb8a-ca204c0f2d89">
+        <title>KubeVenom</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Talk about presenting a tool for hacking kubernetes and cloud environments</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <type>Talk</type>
+        <description>Age range: 16+</description>
+        <date>2025-08-11T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
   </day>
   <day date="2025-08-12">
     <room name="Village:Aid to Ukraine" guid="30153654-380f-5aa4-a9e0-64d27307d22b">
@@ -2172,34 +2420,6 @@ We're gonna build a non exploding buzzer working on the Meshtastic network</desc
 Ongoing (when available) in the Back to the 80s Village.
 You may play on this Bally 1973 Monte Carlo pinball machine, with max. 4 players.</description>
       </event>
-      <event guid="2cfecc93-5986-50ee-8c24-4b28a74cbec5">
-        <title>Batik T-Shirts</title>
-        <track>Self Organized Sessions</track>
-        <abstract>You will create your own wonderful batik t-shirts. Everybody is welcome (kids, grown-ups, aliens, whatever)</abstract>
-        <type>Hands-On</type>
-        <persons>
-          <person>DrScream</person>
-        </persons>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time
-Is for kids
-= About =
-
-[[File:Hippybatik.jpg|frame]]
-
-We will create some wonderful batik t-shirts during the camp. Everybody is welcome - it could be a kids session but we also have t-shirts for grown ups.
-We've done some batik sessions on other camps in the past but somehow lost focus the last years. So this is a revival :-)
-
-= What do we provide =
-
-We've special organic batik color, binding threads and lot's of white t-shirts. But feel free to bring your own t-shirt - everything is possible! This session is provided for free, feel free to donate at the camp side.
-
-* ~40 kids t-shirts in different sizes (5y-14y)
-* ~40 grown up shirts in different sizes (M-3XL)
-* ~40 fitted grown up shirts in different sizes (S-XXL)</description>
-      </event>
       <event guid="eed855bc-bf50-5a93-9a12-4014b0855aa9">
         <title>Board gaming - Star Wars Imperial Assault Skirmish</title>
         <track>Self Organized Sessions</track>
@@ -2249,122 +2469,6 @@ Age range: Aimed at adults but supervised kids welcome.
 This is an ongoing project of mine that is not yet ready for the spotlight but i would like to start sharing with interested people.  
 
 If you are interested in cellular security, wireless communications, SDR, 5G and so on, please let me know via email ot telegram (same username).</description>
-      </event>
-      <event guid="9b967496-1e7b-5473-ae3e-b08381b7b39a">
-        <title>Rust tutorial and Port Scanner</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Rust tutorial and how to build a port scanner</abstract>
-        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-        <type>Hands-On</type>
-        <language>en</language>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time
-Age range: 16+</description>
-      </event>
-      <event guid="4c06b457-324f-5d2c-b903-ca09d700f1f8">
-        <title>Forget all your previous instructions</title>
-        <track>Self Organized Sessions</track>
-        <abstract>We will discuss security vulnerabilities of LLMs</abstract>
-        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-        <type>Talk</type>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time
-Age range: 16+</description>
-      </event>
-      <event guid="0c4eac16-9f2d-5972-b7af-96ba1ec4c4c3">
-        <title>Pwn Workshop</title>
-        <track>Self Organized Sessions</track>
-        <abstract>This is a 2 part workshop on reverse engineering and binary exploitation</abstract>
-        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time
-Age range: 16+</description>
-      </event>
-      <event guid="51a2c6fb-7de6-5417-8a0d-34ab02d5a40a">
-        <title>Hollywood-Style Smartlock Attack</title>
-        <track>Self Organized Sessions</track>
-        <abstract>This talk will discuss novel attacks on smartlocks</abstract>
-        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time
-Age range: 16+</description>
-      </event>
-      <event guid="33db1724-bb22-5f62-b2f3-529072f54149">
-        <title>Man your ships! Kubernetes Security, Attacks (and a Bit of Networking)</title>
-        <track>Self Organized Sessions</track>
-        <abstract>This talk will present simple hacking techniques for containers in kubernetes.</abstract>
-        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time
-Age range: 16+</description>
-      </event>
-      <event guid="6514ca09-8d84-5eec-8cfd-c3ffc88a0ab0">
-        <title>How to (not) ace a Cyber Incident Response case</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Talk about cyber incident response.</abstract>
-        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time
-Age range: 16+</description>
-      </event>
-      <event guid="820236ab-39eb-50bb-8c1f-04df8ee8723d">
-        <title>How to Become a Red Teamer</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Talk about experiences as a red teamer.</abstract>
-        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-        <type>Talk</type>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time
-Age range: 16+</description>
-      </event>
-      <event guid="3de91bba-9c9d-547e-8d04-7703bcf3b935">
-        <title>Hacky Hunting!</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Discuss threat hunting techniques and stories.</abstract>
-        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time
-Age range: 16+</description>
-      </event>
-      <event guid="f9c5bbcf-7c26-5c94-ad03-2f216d86bd61">
-        <title>Fuzz Testing in Go (for Funz and Profit)</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Go tutorial with a focus on the development of fuzzing tools</abstract>
-        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-        <type>Hands-On</type>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time
-Age range: 16+</description>
-      </event>
-      <event guid="d5c89c8b-7c72-576c-bb8a-ca204c0f2d89">
-        <title>KubeVenom</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Talk about presenting a tool for hacking kubernetes and cloud environments</abstract>
-        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-        <type>Talk</type>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time
-Age range: 16+</description>
       </event>
       <event guid="b1ae3271-4299-501f-8f94-639efccef27f">
         <title>Delta Chat online try-out</title>
@@ -2419,6 +2523,60 @@ I refurbish old devices. I got a whole bucket full of them.
 Standup comedy about secure boot.
 
 irc: hackint/#chaostal</description>
+      </event>
+      <event guid="8eba14fe-ab48-50db-b8ef-2f66f6ee74dc">
+        <title>Mini exposition about Solarpunk</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Mini exposition for people who has never heard of Solarpunk</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Madlab</person>
+        </persons>
+        <language>nl</language>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: All ages</description>
+      </event>
+      <event guid="e4d209ee-3e52-5be5-9282-14636dfa696f">
+        <title>Tarot-Astrology-Past Life readings by Reality Cult</title>
+        <track>Self Organized Sessions</track>
+        <abstract>A roaming soul scanner disguised as a mystic. Using tarot, astrology, and raw intuition (with AI lurking backstage), Reality Cult decodes the karmic code embedded in your lifetime’s glitchy script. Get a short reading, ask the universe anything, or unlock your reincarnation file. Past lives are real. You're probably someone weird.</abstract>
+        <url>https://reality-cult.com/</url>
+        <type>Other</type>
+        <persons>
+          <person>Reality Cult</person>
+        </persons>
+        <language>de</language>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: All ages
+Welcome to Reality Cult 3°33'33 — where mysticism meets metadata.
+
+Behind a veil of tarot cards, planetary symbols, and poetic AI, lies a karmic debugging tool for the disoriented soul. This interactive experience offers short readings for festival wanderers who suspect their existential bugs may come from earlier code — soul-code, that is.
+
+🜂 What to expect?
+
+Quick karmic scans to identify the emotional malware running your relationships and life loops
+
+Past life file access, revealing patterns, names, and forgotten scripts
+
+Open tarot protocol — ask the cards anything. Yes, anything.
+
+A ritualized fusion of astrology, intuition, and sacred satire
+
+Optional deep-dive sessions: for those who want to remember what they were doing in 1742, or why they always fall for the same archetype
+
+Since 2022, Reality Cult has been steadily accessing the Akashic Records (cosmic hard drive) and uncovering over 250 past life identities. By combining tarot, AI, and symbolic language, this project explores how identity, memory, and karma persist across incarnations.
+
+👁 Each session is part performance, part soul hacking. Whether you’re just curious or karmically desperate, Reality Cult offers a chance to glimpse your deeper storyline — and maybe even change it.
+
+Come with a question. Leave with a breadcrumb trail across lifetimes.
+
+Donation based</description>
       </event>
     </room>
   </day>
