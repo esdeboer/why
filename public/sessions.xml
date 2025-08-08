@@ -534,6 +534,20 @@ There are glitters, diamonds, rainbows and much more! Bring your own design or p
         <start>13:00</start>
         <duration>01:00</duration>
       </event>
+      <event guid="6b4b52a6-5e20-58c8-baa5-37d98e85e53e">
+        <title>Make your own Why2025 Map</title>
+        <track>Self Organized Sessions</track>
+        <abstract>MissMaps from team Terrain explains how to style vector tiles and create your own online map, using the WHY data (vector-tiles) as example.</abstract>
+        <url>https://map.why2025.org</url>
+        <type>Workshop</type>
+        <persons>
+          <person>MissMaps</person>
+        </persons>
+        <description>Age range: Aimed at adults but supervised kids welcome.</description>
+        <date>2025-08-09T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:30</duration>
+      </event>
     </room>
     <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
       <event guid="facd9967-eb29-5832-af66-f888d80e5a49">
@@ -595,8 +609,8 @@ From there we will take advantage of a few Starlinks (or your own cubesats) pass
 
 Venue: Be aware that the venue might change to the boat fablab on the Western outskirts of the camp. Just check some 30 minutes before the event here.</description>
         <subtitle>Getting Started with KiCad From Scratch</subtitle>
-        <date>2025-08-09T13:00:00+02:00</date>
-        <start>13:00</start>
+        <date>2025-08-09T19:00:00+02:00</date>
+        <start>19:00</start>
         <duration>01:30</duration>
       </event>
     </room>
@@ -1473,8 +1487,8 @@ From there we will take advantage of a few Starlinks (or your own cubesats) pass
 
 Venue: Be aware that the venue might change to the boat fablab on the Western outskirts of the camp. Just check some 30 minutes before the event here.</description>
         <subtitle>Installing and Using the KiCad FabLib</subtitle>
-        <date>2025-08-10T13:00:00+02:00</date>
-        <start>13:00</start>
+        <date>2025-08-10T19:00:00+02:00</date>
+        <start>19:00</start>
         <duration>01:30</duration>
       </event>
     </room>
@@ -1996,8 +2010,8 @@ Trailer: https://www.youtube.com/watch?v=fes329l6d6U</description>
 
 In this session we will cover a rapid way of designing a thing based on several years of experience instructing the Fab Academy and solving CAD problems for other people. Join in and maybe some of that could be useful for you.</description>
         <subtitle>FreeCAD Is There For You</subtitle>
-        <date>2025-08-11T13:00:00+02:00</date>
-        <start>13:00</start>
+        <date>2025-08-11T19:00:00+02:00</date>
+        <start>19:00</start>
         <duration>01:30</duration>
       </event>
     </room>

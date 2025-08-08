@@ -250,6 +250,16 @@
     "type": "Talk"
   },
   {
+    "id": "6b4b52a6-5e20-58c8-baa5-37d98e85e53e",
+    "title": "Make your own Why2025 Map",
+    "description": "Age range: Aimed at adults but supervised kids welcome.",
+    "start": "2025-08-09T14:00:00+02:00",
+    "end": "2025-08-09T15:30:00+02:00",
+    "room": "Village:Back to the 80s Party",
+    "url": "https://map.why2025.org",
+    "type": "Workshop"
+  },
+  {
     "id": "facd9967-eb29-5832-af66-f888d80e5a49",
     "title": "How to get a new TV without paying. Phishing panels for the win!",
     "description": "This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. \nThe second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75\" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.",
@@ -273,8 +283,8 @@
     "id": "e27daea4-ae7b-562c-83b9-e63c676b8177",
     "title": "KiCad workshop featuring the Fab lib",
     "description": "KiCad is the preferred choice when it comes to electronics design in fablabs and Fab Academy. \n\nSession 1 (9 Aug 13:00-14:30)\nDuring first session we will cover what to do when you just installed KiCad without libraries (because you want it to be fast) and you somehow ended up in a desert with no internet connection, but with a datasheet...\n\nSession 2 (10 Aug 13:00-14:30)\nFrom there we will take advantage of a few Starlinks (or your own cubesats) passing by, just enough to be able to download the Fab Lib, which is a KiCad electronics component library based on the Fab Lab / Fab Academy electronics component inventory...\n\nVenue: Be aware that the venue might change to the boat fablab on the Western outskirts of the camp. Just check some 30 minutes before the event here.",
-    "start": "2025-08-09T13:00:00+02:00",
-    "end": "2025-08-09T14:30:00+02:00",
+    "start": "2025-08-09T19:00:00+02:00",
+    "end": "2025-08-09T20:30:00+02:00",
     "room": "Village:Fablab/Fabacademy",
     "url": "https://gitlab.fabcloud.org/pub/libraries/electronics/kicad",
     "type": "Workshop"
@@ -663,8 +673,8 @@
     "id": "b16b6e3f-9d4c-517f-9963-c63d2a892528",
     "title": "KiCad workshop featuring the Fab lib",
     "description": "KiCad is the preferred choice when it comes to electronics design in fablabs and Fab Academy. \n\nSession 1 (9 Aug 13:00-14:30)\nDuring first session we will cover what to do when you just installed KiCad without libraries (because you want it to be fast) and you somehow ended up in a desert with no internet connection, but with a datasheet...\n\nSession 2 (10 Aug 13:00-14:30)\nFrom there we will take advantage of a few Starlinks (or your own cubesats) passing by, just enough to be able to download the Fab Lib, which is a KiCad electronics component library based on the Fab Lab / Fab Academy electronics component inventory...\n\nVenue: Be aware that the venue might change to the boat fablab on the Western outskirts of the camp. Just check some 30 minutes before the event here.",
-    "start": "2025-08-10T13:00:00+02:00",
-    "end": "2025-08-10T14:30:00+02:00",
+    "start": "2025-08-10T19:00:00+02:00",
+    "end": "2025-08-10T20:30:00+02:00",
     "room": "Village:Fablab/Fabacademy",
     "url": "https://gitlab.fabcloud.org/pub/libraries/electronics/kicad",
     "type": "Workshop"
@@ -923,8 +933,8 @@
     "id": "0cfdc2ca-67dd-57ff-b912-fd3b285ad9fa",
     "title": "FreeCAD Is All You Need",
     "description": "FreeCAD is getting better every year and there are more reasons to use it for your CAD needs than you could possibly imagine. Some people have the prejudice that it is complicated, cumbersome, buggy, but in fact, all CAD packages have a learning curve. The way FreeCAD is different is that it does not lock you in a subscription model, it does not require to log in or make any kind of account, it works and behaves the same on all OS platforms. \n\nIn this session we will cover a rapid way of designing a thing based on several years of experience instructing the Fab Academy and solving CAD problems for other people. Join in and maybe some of that could be useful for you.",
-    "start": "2025-08-11T13:00:00+02:00",
-    "end": "2025-08-11T14:30:00+02:00",
+    "start": "2025-08-11T19:00:00+02:00",
+    "end": "2025-08-11T20:30:00+02:00",
     "room": "Village:Fablab/Fabacademy",
     "url": "https://www.freecad.org/",
     "type": "Workshop"

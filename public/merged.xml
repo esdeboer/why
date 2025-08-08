@@ -374,14 +374,18 @@ This talk will provide a technically grounded exploration of the current capabil
                 <date>2025-08-08T22:00:00+02:00</date>
                 <start>22:00</start>
                 <duration>00:50</duration>
-                <abstract>This is a first introduction to quantum computers. We will discuss what makes quantum mechanics so special, and how it allows building fundamentally different algorithms. I’ll do a short live demo of how you can program a quantum computer yourself using the Python package *Qiskit*. Then, we will look at one of the most impactful applications: breaking widely used public-key cryptography like RSA, and how this will impact the cybersecurity sector.</abstract>
+                <abstract>This is a first introduction to quantum computers. 
+
+-----&gt; **If regular talks are cancelled, then this talk will be given at Quantum Village (between Food Court and Cassiopeia)**</abstract>
                 <slug>why2025-154-quantum-computers-the-ultimate-hacking-machines</slug>
                 <track>The square hole</track>
                 <persons>
                     <person id="171">Koen Groenland</person>
                 </persons>
                 <language>en</language>
-                <description>This is a first introduction to quantum computers: no prior background needed. We will discuss how quantum mechanics, a theory of microscopic particles, contains counter-intuitive effects like superposition and entanglement. Schrödinger’s cat is an iconic example, where the poor animal is both dead and alive at the same. Interestingly, the same laws of nature make it possible to build an extended set of algorithms, with speedups beyond what we can achieve ‘classically’. 
+                <description>*(Alternative now that talks are cancelled: visit the Quantum Village at 22:00 on Friday for an informal version of this talk!)*
+
+This is a first introduction to quantum computers: no prior background needed. We will discuss how quantum mechanics, a theory of microscopic particles, contains counter-intuitive effects like superposition and entanglement. Schrödinger’s cat is an iconic example, where the poor animal is both dead and alive at the same. Interestingly, the same laws of nature make it possible to build an extended set of algorithms, with speedups beyond what we can achieve ‘classically’. 
 
 I’ll show how we can program today’s quantum computers and show a short live demonstration of the Python package Qiskit. We will learn how to write code that creates something equivalent to Schrödinger’s cat. 
 
@@ -754,7 +758,7 @@ There could be a prize for the most active participant :)</description>
                 <date>2025-08-08T20:00:00+02:00</date>
                 <start>20:00</start>
                 <duration>02:00</duration>
-                <abstract>Due to official schedule cancellation. This workshop is moved to RopeLabs village in limited numbers only at 8pm. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs) for latest information.
+                <abstract>Due to official schedule cancellation. This workshop is likely moving location, but it still going ahead at 8pm. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs) for the latest information.
 
 Instructor @DoodleMe, @KnottyLola and team will take you through some of the most basic concepts of Japanese rope bondage (Shibari). This is an 18+ workshop. Bring blanket &amp; rope if you have it.</abstract>
                 <slug>why2025-69-shibari-101-rope-bondage-for-beginners</slug>
@@ -765,7 +769,7 @@ Instructor @DoodleMe, @KnottyLola and team will take you through some of the mos
                     <person id="377">KnottyLola</person>
                 </persons>
                 <language>en</language>
-                <description>Due to the official schedule cancellation. The workshop will be taught at RopeLabs village still at 8pm on Friday in limited numbers. First come first serve. For latest info, please check our wiki: https://wiki.why2025.org/Village:RopeLabs
+                <description>Due to official schedule cancellation. This workshop is likely moving location, but it still going ahead at 8pm. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs) for the latest information.
 
 Instructor @DoodleMe, @KnottyLola, and team will take you through some of the most basic concepts of Japanese rope bondage (Shibari). You'll learn some theory, and a few beginner friendly knots that you can use at home and that lay the foundations to more advanced ties.
 
@@ -4491,6 +4495,20 @@ There are glitters, diamonds, rainbows and much more! Bring your own design or p
                 <start>13:00</start>
                 <duration>01:00</duration>
             </event>
+            <event guid="6b4b52a6-5e20-58c8-baa5-37d98e85e53e">
+                <title>Make your own Why2025 Map</title>
+                <track>Self Organized Sessions</track>
+                <abstract>MissMaps from team Terrain explains how to style vector tiles and create your own online map, using the WHY data (vector-tiles) as example.</abstract>
+                <url>https://map.why2025.org</url>
+                <type>Workshop</type>
+                <persons>
+                    <person>MissMaps</person>
+                </persons>
+                <description>Age range: Aimed at adults but supervised kids welcome.</description>
+                <date>2025-08-09T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>01:30</duration>
+            </event>
         </room>
         <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
             <event guid="facd9967-eb29-5832-af66-f888d80e5a49">
@@ -4552,8 +4570,8 @@ From there we will take advantage of a few Starlinks (or your own cubesats) pass
 
 Venue: Be aware that the venue might change to the boat fablab on the Western outskirts of the camp. Just check some 30 minutes before the event here.</description>
                 <subtitle>Getting Started with KiCad From Scratch</subtitle>
-                <date>2025-08-09T13:00:00+02:00</date>
-                <start>13:00</start>
+                <date>2025-08-09T19:00:00+02:00</date>
+                <start>19:00</start>
                 <duration>01:30</duration>
             </event>
         </room>
@@ -8041,8 +8059,8 @@ From there we will take advantage of a few Starlinks (or your own cubesats) pass
 
 Venue: Be aware that the venue might change to the boat fablab on the Western outskirts of the camp. Just check some 30 minutes before the event here.</description>
                 <subtitle>Installing and Using the KiCad FabLib</subtitle>
-                <date>2025-08-10T13:00:00+02:00</date>
-                <start>13:00</start>
+                <date>2025-08-10T19:00:00+02:00</date>
+                <start>19:00</start>
                 <duration>01:30</duration>
             </event>
         </room>
@@ -11177,8 +11195,8 @@ Trailer: https://www.youtube.com/watch?v=fes329l6d6U</description>
 
 In this session we will cover a rapid way of designing a thing based on several years of experience instructing the Fab Academy and solving CAD problems for other people. Join in and maybe some of that could be useful for you.</description>
                 <subtitle>FreeCAD Is There For You</subtitle>
-                <date>2025-08-11T13:00:00+02:00</date>
-                <start>13:00</start>
+                <date>2025-08-11T19:00:00+02:00</date>
+                <start>19:00</start>
                 <duration>01:30</duration>
             </event>
         </room>
