@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>2.0 - WHY2025</version>
+    <version>Apocalypse</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -149,8 +149,8 @@ ONLY BANGERS</description>
                 <title>Opening</title>
                 <subtitle />
                 <type>Talk (50 minutes)</type>
-                <date>2025-08-08T17:00:00+02:00</date>
-                <start>17:00</start>
+                <date>2025-08-08T18:00:00+02:00</date>
+                <start>18:00</start>
                 <duration>00:50</duration>
                 <abstract>Welcome at WHY2025!</abstract>
                 <slug>why2025-77-opening</slug>
@@ -169,40 +169,6 @@ ONLY BANGERS</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/BAU8GH/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/BAU8GH/feedback/</feedback_url>
-            </event>
-            <event guid="a26bfab3-c79e-5fd7-a20c-5f9c930e6ceb" id="249">
-                <room>Andromeda</room>
-                <title>The Only Podcast about a Hacker Camp in the UNIVERSE! WHY?</title>
-                <subtitle />
-                <type>Talk (50 minutes)</type>
-                <date>2025-08-08T18:00:00+02:00</date>
-                <start>18:00</start>
-                <duration>00:50</duration>
-                <abstract>Some well meant amateurs got together and started creating a new way to get WHY2025 info out; we created the WHYcast!
-Here's the story and of course all the beautiful blunders we've made.</abstract>
-                <slug>why2025-249-the-only-podcast-about-a-hacker-camp-in-the-universe-why</slug>
-                <track>Wonderful creations</track>
-                <logo>/media/why2025/submissions/RT9ZHN/WHYcast_logo_5f7PULm.png</logo>
-                <persons>
-                    <person id="243">Nancy Beers</person>
-                    <person id="258">Ad</person>
-                    <person id="167">Chantal Stekelenburg</person>
-                </persons>
-                <language>en</language>
-                <description>We would love to share the story about the only podcast about a hackercamp in the UNIVERSE!
- We've made a s**tload of mistakes, learned a lot and would love to share:
-1. The origin story. 3 people and a google doc. 
-2. What we did to make it happen in the technical sense, but also putting a spotlight on all the AMAZING volunteers pulling this camp off
-3. AI use to make the podcast more accessible
-4. Lessons learned; what did we learn in creating 42 podcasts in 42 weeks?</description>
-                <recording>
-                    <license />
-                    <optout>false</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/RT9ZHN/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/RT9ZHN/feedback/</feedback_url>
             </event>
             <event guid="3377f6aa-4668-5aa4-a3c0-4a2d7dea0cff" id="268">
                 <room>Andromeda</room>
@@ -8204,6 +8170,23 @@ The prices in the yellow boxes are the materials costs for participating in the 
                 <duration>03:00</duration>
             </event>
         </room>
+        <room name="Village:NXDOMAIN" guid="6fc3930b-a09b-5166-9bca-31fe23a754b2">
+            <event guid="c3dff469-0316-5247-8b99-b8bd2183fef8">
+                <title>AT Protocol and Bluesky Meetup</title>
+                <track>Self Organized Sessions</track>
+                <abstract>For people interested in or already building cool decentralized apps with the AT Protocol</abstract>
+                <url>https://en.wikipedia.org/wiki/AT_Protocol</url>
+                <type>Meeting</type>
+                <persons>
+                    <person>Red</person>
+                </persons>
+                <language>en</language>
+                <description />
+                <date>2025-08-10T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
         <room name="Village:Nlgov hackers" guid="414ca1ef-ace9-598f-a61c-88780b23312d">
             <event guid="61d01c3b-f0cd-5cf2-a524-0fbd4f8a042c">
                 <title>Build you own geospatial service using node.js, using Open Standards</title>
@@ -8264,6 +8247,23 @@ The Pancake village will be right next to the (main) Andromeda track.
                 <description>Age range: All ages</description>
                 <date>2025-08-10T17:00:00+02:00</date>
                 <start>17:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
+        <room name="Village:SHA512" guid="f7d8b13a-ae85-54a6-b249-53fc7e86460c">
+            <event guid="079cc4d5-c8e8-5313-9235-cc69ed303847">
+                <title>NAND Flash Finder Revealed</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Finding connections of NAND flash chips by a exhaustive search method</abstract>
+                <type>Talk</type>
+                <persons>
+                    <person>Ojad, Mr.N.and.Flash</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: All ages
+In this demonstration we are going to show how to find the signals of a NAND flash chip (i.e. CLE, ALE, RE, WE, CE etc). This can be used in for example a broken SD-card. An SD-Card has a controller and an internal connection to a NAND Flash chip. If the controller is broken it might be possible to access the NAND flash to get to the raw data. But in some cases the connections are unknown. This method demonstrates how to find these NAND flash signals by using an FPGA and do an exhaustive search by sending commands to the chip in all possible combinations until a response is received from the chip.</description>
+                <date>2025-08-10T11:00:00+02:00</date>
+                <start>11:00</start>
                 <duration>01:00</duration>
             </event>
         </room>
@@ -8398,6 +8398,25 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
                 <date>2025-08-10T15:00:00+02:00</date>
                 <start>15:00</start>
                 <duration>00:30</duration>
+            </event>
+            <event guid="8b6783e0-56f2-5ecf-a044-3fadefb30ed3">
+                <title>Kein Palantir in Baden Württemberg</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Meet Up zum Aktionsbündnis.</abstract>
+                <type>Meeting</type>
+                <persons>
+                    <person>Steffen</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: 16+
+Wir sind ein zu diesem Zweck zusammengefundenes Aktionsbündnis aus dem Umfeld des Chaos Computer Clubs.
+
+In unserm Team sind Menschen aus Stuttgart, Karlsruhe, Freiburg, Heilbronn, Ulm, Tübingen u.v.m.
+
+Uns macht die aktuelle politische Entwicklung große Sorgen. Daher organisieren und engagieren wir uns.</description>
+                <date>2025-08-10T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>00:45</duration>
             </event>
         </room>
     </day>
@@ -11084,6 +11103,22 @@ Trailer: https://www.youtube.com/watch?v=fes329l6d6U</description>
                 <date>2025-08-11T18:00:00+02:00</date>
                 <start>18:00</start>
                 <duration>02:00</duration>
+            </event>
+        </room>
+        <room name="Village:Back to the 80s Party" guid="62564f9a-530f-5d06-baa9-6cf3691119b3">
+            <event guid="74956561-044b-5c6b-b48a-cea197e1c078">
+                <title>AI Adoption and Accreditation Institute</title>
+                <track>Self Organized Sessions</track>
+                <abstract>The Dutch Ministry of Foreign Affairs is exploring the launch of an AI Adoption and Accreditation Institute for the Netherlands and Europe. This workshop introduces the initiative and invites critical feedback from the hacker community. How can such an institute effectively support AI safety? What should it do—or avoid? Join the conversation and help shape a trusted, open, and resilient AI ecosystem.</abstract>
+                <type>Workshop</type>
+                <persons>
+                    <person>FrieseWoudloper</person>
+                </persons>
+                <language>en</language>
+                <description>The Dutch Ministry of Foreign Affairs is exploring the launch of an AI Adoption and Accreditation Institute for the Netherlands and Europe. This workshop introduces the initiative and invites critical feedback from the hacker community. How can such an institute effectively support AI safety? What should it do—or avoid? Join the conversation and help shape a trusted, open, and resilient AI ecosystem.</description>
+                <date>2025-08-11T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>01:30</duration>
             </event>
         </room>
         <room name="Village:Fablab/Fabacademy" guid="01113e6f-6aa5-5e6f-9b6b-64b3a6b3a7e3">

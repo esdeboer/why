@@ -1606,6 +1606,23 @@ The prices in the yellow boxes are the materials costs for participating in the 
         <duration>03:00</duration>
       </event>
     </room>
+    <room name="Village:NXDOMAIN" guid="6fc3930b-a09b-5166-9bca-31fe23a754b2">
+      <event guid="c3dff469-0316-5247-8b99-b8bd2183fef8">
+        <title>AT Protocol and Bluesky Meetup</title>
+        <track>Self Organized Sessions</track>
+        <abstract>For people interested in or already building cool decentralized apps with the AT Protocol</abstract>
+        <url>https://en.wikipedia.org/wiki/AT_Protocol</url>
+        <type>Meeting</type>
+        <persons>
+          <person>Red</person>
+        </persons>
+        <language>en</language>
+        <description />
+        <date>2025-08-10T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
     <room name="Village:Nlgov hackers" guid="414ca1ef-ace9-598f-a61c-88780b23312d">
       <event guid="61d01c3b-f0cd-5cf2-a524-0fbd4f8a042c">
         <title>Build you own geospatial service using node.js, using Open Standards</title>
@@ -1666,6 +1683,23 @@ The Pancake village will be right next to the (main) Andromeda track.
         <description>Age range: All ages</description>
         <date>2025-08-10T17:00:00+02:00</date>
         <start>17:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
+    <room name="Village:SHA512" guid="f7d8b13a-ae85-54a6-b249-53fc7e86460c">
+      <event guid="079cc4d5-c8e8-5313-9235-cc69ed303847">
+        <title>NAND Flash Finder Revealed</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Finding connections of NAND flash chips by a exhaustive search method</abstract>
+        <type>Talk</type>
+        <persons>
+          <person>Ojad, Mr.N.and.Flash</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+In this demonstration we are going to show how to find the signals of a NAND flash chip (i.e. CLE, ALE, RE, WE, CE etc). This can be used in for example a broken SD-card. An SD-Card has a controller and an internal connection to a NAND Flash chip. If the controller is broken it might be possible to access the NAND flash to get to the raw data. But in some cases the connections are unknown. This method demonstrates how to find these NAND flash signals by using an FPGA and do an exhaustive search by sending commands to the chip in all possible combinations until a response is received from the chip.</description>
+        <date>2025-08-10T11:00:00+02:00</date>
+        <start>11:00</start>
         <duration>01:00</duration>
       </event>
     </room>
@@ -1801,6 +1835,25 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
         <start>15:00</start>
         <duration>00:30</duration>
       </event>
+      <event guid="8b6783e0-56f2-5ecf-a044-3fadefb30ed3">
+        <title>Kein Palantir in Baden Württemberg</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Meet Up zum Aktionsbündnis.</abstract>
+        <type>Meeting</type>
+        <persons>
+          <person>Steffen</person>
+        </persons>
+        <language>de</language>
+        <description>Age range: 16+
+Wir sind ein zu diesem Zweck zusammengefundenes Aktionsbündnis aus dem Umfeld des Chaos Computer Clubs.
+
+In unserm Team sind Menschen aus Stuttgart, Karlsruhe, Freiburg, Heilbronn, Ulm, Tübingen u.v.m.
+
+Uns macht die aktuelle politische Entwicklung große Sorgen. Daher organisieren und engagieren wir uns.</description>
+        <date>2025-08-10T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>00:45</duration>
+      </event>
     </room>
   </day>
   <day date="2025-08-11">
@@ -1873,6 +1926,22 @@ Trailer: https://www.youtube.com/watch?v=fes329l6d6U</description>
         <date>2025-08-11T18:00:00+02:00</date>
         <start>18:00</start>
         <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:Back to the 80s Party" guid="62564f9a-530f-5d06-baa9-6cf3691119b3">
+      <event guid="74956561-044b-5c6b-b48a-cea197e1c078">
+        <title>AI Adoption and Accreditation Institute</title>
+        <track>Self Organized Sessions</track>
+        <abstract>The Dutch Ministry of Foreign Affairs is exploring the launch of an AI Adoption and Accreditation Institute for the Netherlands and Europe. This workshop introduces the initiative and invites critical feedback from the hacker community. How can such an institute effectively support AI safety? What should it do—or avoid? Join the conversation and help shape a trusted, open, and resilient AI ecosystem.</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>FrieseWoudloper</person>
+        </persons>
+        <language>en</language>
+        <description>The Dutch Ministry of Foreign Affairs is exploring the launch of an AI Adoption and Accreditation Institute for the Netherlands and Europe. This workshop introduces the initiative and invites critical feedback from the hacker community. How can such an institute effectively support AI safety? What should it do—or avoid? Join the conversation and help shape a trusted, open, and resilient AI ecosystem.</description>
+        <date>2025-08-11T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:30</duration>
       </event>
     </room>
     <room name="Village:Fablab/Fabacademy" guid="01113e6f-6aa5-5e6f-9b6b-64b3a6b3a7e3">

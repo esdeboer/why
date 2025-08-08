@@ -720,6 +720,16 @@
     "type": ""
   },
   {
+    "id": "c3dff469-0316-5247-8b99-b8bd2183fef8",
+    "title": "AT Protocol and Bluesky Meetup",
+    "description": "",
+    "start": "2025-08-10T15:00:00+02:00",
+    "end": "2025-08-10T16:00:00+02:00",
+    "room": "Village:NXDOMAIN",
+    "url": "https://en.wikipedia.org/wiki/AT_Protocol",
+    "type": "Meeting"
+  },
+  {
     "id": "61d01c3b-f0cd-5cf2-a524-0fbd4f8a042c",
     "title": "Build you own geospatial service using node.js, using Open Standards",
     "description": "Sound complex? Nah! Starting with a blank node.js project, step-by-step we\u2019ll gradually build up a fully compliant OGC\u2019s API Feature service to share your spatial information (Are you familiar with GeoJSON? Cool, that is what we\u2019ll be using \u2013 is not, also cool: we\u2019ll explain it with simple examples!).\nAll code and example reside on GitHub.\nPrior knowledge: node.js (javascript) is a plus, but not strictly necessary, a basic understand of programming is enough.\nBring your own computer",
@@ -756,6 +766,16 @@
     "start": "2025-08-10T17:00:00+02:00",
     "end": "2025-08-10T18:00:00+02:00",
     "room": "Village:Quantum",
+    "url": "",
+    "type": "Talk"
+  },
+  {
+    "id": "079cc4d5-c8e8-5313-9235-cc69ed303847",
+    "title": "NAND Flash Finder Revealed",
+    "description": "Age range: All ages\nIn this demonstration we are going to show how to find the signals of a NAND flash chip (i.e. CLE, ALE, RE, WE, CE etc). This can be used in for example a broken SD-card. An SD-Card has a controller and an internal connection to a NAND Flash chip. If the controller is broken it might be possible to access the NAND flash to get to the raw data. But in some cases the connections are unknown. This method demonstrates how to find these NAND flash signals by using an FPGA and do an exhaustive search by sending commands to the chip in all possible combinations until a response is received from the chip.",
+    "start": "2025-08-10T11:00:00+02:00",
+    "end": "2025-08-10T12:00:00+02:00",
+    "room": "Village:SHA512",
     "url": "",
     "type": "Talk"
   },
@@ -840,6 +860,16 @@
     "type": "Hands-On"
   },
   {
+    "id": "8b6783e0-56f2-5ecf-a044-3fadefb30ed3",
+    "title": "Kein Palantir in Baden W\u00fcrttemberg",
+    "description": "Age range: 16+\nWir sind ein zu diesem Zweck zusammengefundenes Aktionsb\u00fcndnis aus dem Umfeld des Chaos Computer Clubs.\n\nIn unserm Team sind Menschen aus Stuttgart, Karlsruhe, Freiburg, Heilbronn, Ulm, T\u00fcbingen u.v.m.\n\nUns macht die aktuelle politische Entwicklung gro\u00dfe Sorgen. Daher organisieren und engagieren wir uns.",
+    "start": "2025-08-10T12:00:00+02:00",
+    "end": "2025-08-10T12:45:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Meeting"
+  },
+  {
     "id": "b004701b-7fdf-5225-974a-3b121ab88718",
     "title": "Stop the Bleed @ Aid to Ukraine",
     "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
@@ -858,6 +888,16 @@
     "room": "Village:Aid to Ukraine",
     "url": "https://moviesthatmatter.nl/en/film/my-dear-theo/",
     "type": "Movie"
+  },
+  {
+    "id": "74956561-044b-5c6b-b48a-cea197e1c078",
+    "title": "AI Adoption and Accreditation Institute",
+    "description": "The Dutch Ministry of Foreign Affairs is exploring the launch of an AI Adoption and Accreditation Institute for the Netherlands and Europe. This workshop introduces the initiative and invites critical feedback from the hacker community. How can such an institute effectively support AI safety? What should it do\u2014or avoid? Join the conversation and help shape a trusted, open, and resilient AI ecosystem.",
+    "start": "2025-08-11T14:00:00+02:00",
+    "end": "2025-08-11T15:30:00+02:00",
+    "room": "Village:Back to the 80s Party",
+    "url": "",
+    "type": "Workshop"
   },
   {
     "id": "0cfdc2ca-67dd-57ff-b912-fd3b285ad9fa",
