@@ -1164,7 +1164,7 @@ Mobile phone display and battery replacement hand-on workshop:
           <person>Pauloba</person>
         </persons>
         <language>en</language>
-        <description>Age range: All ages, 18+
+        <description>Age range: 18+
 ⚠️⚠️ We do not own a lot of chairs, if you want to join and be comfortable: bring your own chair.
 
 ⚠️⚠️ I'm bringing 2kg of kernel corns, popcorn delivery will be FIFO (no refills, be mindful of other campers opportunity too).
@@ -1243,7 +1243,16 @@ More timeslots will be added.</description>
         </persons>
         <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406
 
-[[file:transmasc-meetup.jpg.jpg|thumb]]</description>
+
+update: I've inserted some images to help you find the techinc village, where the meetup is. of course we meet near the big flags. if you recognize me somewhere else, feel free to say hi to me as well. I have a yellow hat and a lion tail.
+
+[[file:transmasc-meetup.jpg.jpg|thumb]]
+
+[[File:Techinc-2.png|thumb]]
+
+[[File:Techinc-lion.jpg|thumb]]
+
+[[File:Techinc-3.jpg|thumb]]</description>
         <subtitle>day 2 meetup</subtitle>
         <date>2025-08-09T17:00:00+02:00</date>
         <start>17:00</start>
@@ -1855,6 +1864,20 @@ A talk of a researcher of NCSC-NL on WHY babytv was broadcasting propaganda.</de
         <start>15:00</start>
         <duration>00:30</duration>
       </event>
+      <event guid="10582504-d6ae-50f1-aecc-e60a0a2b9486">
+        <title>AI in Healthcare</title>
+        <track>Self Organized Sessions</track>
+        <abstract>A talk about the challenges and tools for using AI in healthcare</abstract>
+        <type>Talk</type>
+        <persons>
+          <person>Nelusthenerd</person>
+        </persons>
+        <language>en</language>
+        <description>What are the tools and challenges of AI in a clinical situation? This talk will give some guidelines on what to watch out for.</description>
+        <date>2025-08-10T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+      </event>
     </room>
     <room name="Village:Hardware Hacking Area" guid="2358bed6-9a09-5a7c-898a-ded151f3398a">
       <event guid="24332a0d-f302-53c1-80ef-0e5aac9189c7">
@@ -2066,7 +2089,16 @@ More timeslots will be added.</description>
         </persons>
         <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406
 
-[[file:transmasc-meetup.jpg.jpg|thumb]]</description>
+
+update: I've inserted some images to help you find the techinc village, where the meetup is. of course we meet near the big flags. if you recognize me somewhere else, feel free to say hi to me as well. I have a yellow hat and a lion tail.
+
+[[file:transmasc-meetup.jpg.jpg|thumb]]
+
+[[File:Techinc-2.png|thumb]]
+
+[[File:Techinc-lion.jpg|thumb]]
+
+[[File:Techinc-3.jpg|thumb]]</description>
         <subtitle>day 3 meetup</subtitle>
         <date>2025-08-10T17:00:00+02:00</date>
         <start>17:00</start>
