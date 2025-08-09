@@ -1631,6 +1631,23 @@ How we designed our disability cards to make daily life easier.
         <duration>00:30</duration>
       </event>
     </room>
+    <room name="Village:ChurchOfCryptography" guid="04af8057-d19b-5370-b596-933101cdcfd8">
+      <event guid="b06eb41b-a001-53c4-acfe-6a719dc336a5">
+        <title>Turn your Raspberry Pi into a Passkey</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Learn how to turn your Raspberry Pi into a Passkey.</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Sylvain</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+Come and learn how the SecureBoot and OTP memory of your Raspberry Pi Pico 2 allows you to turn it into a FIDO2 compliant Passkey device.</description>
+        <date>2025-08-10T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
     <room name="Village:Cyber Saiyan" guid="75b22f81-5315-5708-bc13-88aa1dd38fb4">
       <event guid="bec4af29-7911-5a46-a8a0-ce7b18248d56">
         <title>Python3-based editors in Burp Suite</title>
@@ -1761,6 +1778,25 @@ To add your own cheese, add it to the wiki below
         <date>2025-08-10T19:00:00+02:00</date>
         <start>19:00</start>
         <duration>02:00</duration>
+      </event>
+      <event guid="6b43f9cf-2dcf-56e8-b2c8-ab41b7358f79">
+        <title>FHB:Vla Party</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Let's taste all of the flavours of vla!</abstract>
+        <type>Tasting</type>
+        <persons>
+          <person>Packslash</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+Vla is the Dutch version of what Germans know as "pudding", or in English might be close to custard... There are sooo many tastes - from classical vanilla &amp; chocolate to blanke vla and one with additional, sweet flavours. 
+We will buy a lot of them and let you taste them. If you want, bring your own bowl and spoon - but there's also cutlery in place.
+If you want to bring your own favourite thing, you can do so, but it is not expected. 
+
+[https://dud-poll.inf.tu-dresden.de/vlaparty/ To secure spot on the Session. (Day 3, 17h00) please sign in here.]</description>
+        <date>2025-08-10T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
       </event>
     </room>
     <room name="Village:Frubar" guid="6acbf8b8-ded5-5f6f-b218-b466625596bd">
@@ -2818,6 +2854,23 @@ https://aidtoukraine.nl</description>
         <date>2025-08-12T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
+      </event>
+    </room>
+    <room name="Village:ChurchOfCryptography" guid="04af8057-d19b-5370-b596-933101cdcfd8">
+      <event guid="fd43eb49-5522-516e-8ff4-9caf685f7775">
+        <title>Turn your Raspberry Pi into a Passkey</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Learn how to turn your Raspberry Pi into a Passkey.</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Sylvain</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+Come and learn how the SecureBoot and OTP memory of your Raspberry Pi Pico 2 allows you to turn it into a FIDO2 compliant Passkey device.</description>
+        <date>2025-08-12T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
       </event>
     </room>
     <room name="Village:Hardware Hacking Area" guid="2358bed6-9a09-5a7c-898a-ded151f3398a">
