@@ -280,6 +280,16 @@
     "type": "Hands-On"
   },
   {
+    "id": "5a8a247c-524f-588f-9856-d99ec78d4237",
+    "title": "Who Wants To Be A Hacker Millionaire",
+    "description": "Age range: 16+\nIt's like Who Wants to be a Hacker Millionaire, but the questions are all hard questions about programming, networking, and hacker culture. \n\n...and the lifelines are all silly:\n\n- Call a DECT friend\n\n- Ask a shitty local LLM\n\n- Ask the audience (must answer in unison)\n\n- Drink a shot to eliminate an option (infinite re-uses)",
+    "start": "2025-08-09T23:59:59+02:00",
+    "end": "2025-08-10T01:59:59+02:00",
+    "room": "Village:BornHack",
+    "url": "",
+    "type": "Game"
+  },
+  {
     "id": "1936a291-fcec-5eac-b0fc-8a2dbc00b1ce",
     "title": "The take-down process",
     "description": "Age range: 16+\nWe all speak high about privacy and safety of internet use. The EU also has extensive legislation to protect people, businesses, and copyright holders.  However, in my experience, projects have very successful ways to make it difficult to execute your rights.  To name a few tricks: it's hard to find the source data collection, there are many data collections, you are required to deliver a difficult proof you have legal rights, and all processes are different.\n\nHere, I generalize various kinds of \"execute my right\" processes under the name \"take-down requests\".  It could be the wish to take down a physical server, all virtual servers of a certain company, a webpage with proclaimed defamation or other illegal content.\n\nThe very good reason to make submission of take-down requests hard, is that handling them is a labor intensive ad-hoc process. Some requests are clear, but sometimes many different laws and local society feelings have to be considered.  Very certainly, different data maintainers will decide different about the same request.\n\nThe Lethe project tries to simplify the submission of take-down requests to many data collectors at the same time.  It defines a clear template and collects various proofs about the claim by the submitter.  Then, it does not only distribute the request, but also shares the effort that participating data maintainers put in handling the claim.  For instance, NCSC-NL might report: \"server shutdown\", so the search engine index maintainer does not have to handle the request anymore, simply remove the pages from the index.\n\nWe will present the first steps towards this standardization, looking for contributors and funding.  Hopefully, this workshop starts a healthy debate.",
@@ -522,7 +532,7 @@
   {
     "id": "a877aa49-6782-593f-9f27-5ff6cdf95581",
     "title": "Transmasc meetup",
-    "description": "Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406",
+    "description": "Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406\n\n[[file:transmasc-meetup.jpg.jpg|thumb]]",
     "start": "2025-08-09T17:00:00+02:00",
     "end": "2025-08-09T18:00:00+02:00",
     "room": "Village:TechInc",
@@ -688,6 +698,16 @@
     "room": "Village:Back to the 80s Party",
     "url": "",
     "type": "Other"
+  },
+  {
+    "id": "859b0cc4-72d3-5739-89d2-c5935b95ee28",
+    "title": "AI Unchained",
+    "description": "Age range: 16+\nExplore the limits of large language models by probing, jailbreaking, stress-testing, and creatively bypassing their guardrails. You will learn how safety filters work, identifying vulnerabilities, and experiment with prompt engineering or adversarial inputs. The aim is both fun and discovering ways to harden AI systems against misuse. The workshop is a mix of technical stuff, ethical discussion, and a touch of cat-and-mouse play.\n\nBring your laptop and subscriptions to your favorite LLMs or LMstudio installed for local action. \n\nThis session is the hands-on counter part of the self-organized session on the AI Adoption and Accreditation Institute on Monday\n\nhttps://wiki.why2025.org/Session:AI_Adoption_and_Accreditation_Institute",
+    "start": "2025-08-10T13:00:00+02:00",
+    "end": "2025-08-10T14:30:00+02:00",
+    "room": "Village:Back to the 80s Party",
+    "url": "",
+    "type": "Hands-On"
   },
   {
     "id": "2be61ca3-52a9-5d21-816f-e44866d0f59f",
@@ -912,7 +932,7 @@
   {
     "id": "53edd6ac-b620-5ead-af31-0aafbfd9b53a",
     "title": "Transmasc meetup",
-    "description": "Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406",
+    "description": "Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406\n\n[[file:transmasc-meetup.jpg.jpg|thumb]]",
     "start": "2025-08-10T17:00:00+02:00",
     "end": "2025-08-10T18:00:00+02:00",
     "room": "Village:TechInc",

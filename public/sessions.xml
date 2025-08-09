@@ -579,6 +579,31 @@ The known BornHack party with all the usual hijinks.</description>
         <start>21:00</start>
         <duration>05:00</duration>
       </event>
+      <event guid="5a8a247c-524f-588f-9856-d99ec78d4237">
+        <title>Who Wants To Be A Hacker Millionaire</title>
+        <track>Self Organized Sessions</track>
+        <abstract>It's a silly and technical version of "Who Wants to be a Millionaire"</abstract>
+        <type>Game</type>
+        <persons>
+          <person>A2</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: 16+
+It's like Who Wants to be a Hacker Millionaire, but the questions are all hard questions about programming, networking, and hacker culture. 
+
+...and the lifelines are all silly:
+
+- Call a DECT friend
+
+- Ask a shitty local LLM
+
+- Ask the audience (must answer in unison)
+
+- Drink a shot to eliminate an option (infinite re-uses)</description>
+        <date>2025-08-09T23:59:59+02:00</date>
+        <start>23:59</start>
+        <duration>02:00</duration>
+      </event>
     </room>
     <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
       <event guid="1936a291-fcec-5eac-b0fc-8a2dbc00b1ce">
@@ -1200,7 +1225,9 @@ More timeslots will be added.</description>
         <persons>
           <person>Li0n</person>
         </persons>
-        <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406</description>
+        <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406
+
+[[file:transmasc-meetup.jpg.jpg|thumb]]</description>
         <subtitle>day 2 meetup</subtitle>
         <date>2025-08-09T17:00:00+02:00</date>
         <start>17:00</start>
@@ -1527,6 +1554,27 @@ There are glitters, diamonds, rainbows and much more! Bring your own design or p
         <date>2025-08-10T19:00:00+02:00</date>
         <start>19:00</start>
         <duration>01:00</duration>
+      </event>
+      <event guid="859b0cc4-72d3-5739-89d2-c5935b95ee28">
+        <title>AI Unchained</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Jailbreak your favorite GenAI</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>Pieterpost</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: 16+
+Explore the limits of large language models by probing, jailbreaking, stress-testing, and creatively bypassing their guardrails. You will learn how safety filters work, identifying vulnerabilities, and experiment with prompt engineering or adversarial inputs. The aim is both fun and discovering ways to harden AI systems against misuse. The workshop is a mix of technical stuff, ethical discussion, and a touch of cat-and-mouse play.
+
+Bring your laptop and subscriptions to your favorite LLMs or LMstudio installed for local action. 
+
+This session is the hands-on counter part of the self-organized session on the AI Adoption and Accreditation Institute on Monday
+
+https://wiki.why2025.org/Session:AI_Adoption_and_Accreditation_Institute</description>
+        <date>2025-08-10T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>01:30</duration>
       </event>
     </room>
     <room name="Village:Brittany Fairies" guid="1ac8b50c-bcfd-5f14-8571-c0149f9a09e6">
@@ -1972,7 +2020,9 @@ More timeslots will be added.</description>
         <persons>
           <person>Li0n</person>
         </persons>
-        <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406</description>
+        <description>Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406
+
+[[file:transmasc-meetup.jpg.jpg|thumb]]</description>
         <subtitle>day 3 meetup</subtitle>
         <date>2025-08-10T17:00:00+02:00</date>
         <start>17:00</start>
