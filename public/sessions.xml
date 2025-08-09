@@ -443,6 +443,16 @@ A: I'm not using it anymore and need to make space for other things.</descriptio
         <start>00:00</start>
         <duration>00:00</duration>
       </event>
+      <event guid="e0e56109-f65b-5fe4-b161-e33f4a291ce2">
+        <title>Failure - Unbreakable security by breaking things</title>
+        <track>Self Organized Sessions</track>
+        <type>Talk</type>
+        <description>Age range: 16+
+Security teams want to prevent incidents - but what if controlled breaking prevents catastrophic failures? Drawing from aviation safety, chaos engineering, and resilience design, discover why 'unbreakable' security comes from breaking things on purpose. Learn to transform incident culture from blame to learning, implement controlled failure practices, and build psychological safety that turns near-misses into competitive advantages.</description>
+        <date>2025-08-08T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>00:50</duration>
+      </event>
     </room>
   </day>
   <day date="2025-08-09">
@@ -543,27 +553,16 @@ There are glitters, diamonds, rainbows and much more! Bring your own design or p
         <persons>
           <person>MissMaps</person>
         </persons>
-        <description>Age range: Aimed at adults but supervised kids welcome.</description>
+        <description>Age range: Aimed at adults but supervised kids welcome.
+We will start with a short introduction on how web maps work and how the Why25 map is set up. 
+
+Then we can go set up our own little web page with a map! Bring your laptop if you want to try: HTML, CSS and JS experience comes in handy.</description>
         <date>2025-08-09T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>01:30</duration>
       </event>
     </room>
     <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
-      <event guid="facd9967-eb29-5832-af66-f888d80e5a49">
-        <title>How to get a new TV without paying. Phishing panels for the win!</title>
-        <track>Self Organized Sessions</track>
-        <abstract>How to get a new TV without paying. Phishing panels for the win!</abstract>
-        <type>Talk</type>
-        <persons>
-          <person>Cyb0rg42</person>
-        </persons>
-        <description>This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. 
-The second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.</description>
-        <date>2025-08-09T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>01:00</duration>
-      </event>
       <event guid="1936a291-fcec-5eac-b0fc-8a2dbc00b1ce">
         <title>The take-down process</title>
         <track>Self Organized Sessions</track>
@@ -573,7 +572,7 @@ The second part of the presentation includes a live demo of a phishing panel. Us
         <persons>
           <person>Markov</person>
         </persons>
-        <language>en</language>
+        <language>nl</language>
         <description>Age range: 16+
 We all speak high about privacy and safety of internet use. The EU also has extensive legislation to protect people, businesses, and copyright holders.  However, in my experience, projects have very successful ways to make it difficult to execute your rights.  To name a few tricks: it's hard to find the source data collection, there are many data collections, you are required to deliver a difficult proof you have legal rights, and all processes are different.
 
@@ -584,8 +583,8 @@ The very good reason to make submission of take-down requests hard, is that hand
 The Lethe project tries to simplify the submission of take-down requests to many data collectors at the same time.  It defines a clear template and collects various proofs about the claim by the submitter.  Then, it does not only distribute the request, but also shares the effort that participating data maintainers put in handling the claim.  For instance, NCSC-NL might report: "server shutdown", so the search engine index maintainer does not have to handle the request anymore, simply remove the pages from the index.
 
 We will present the first steps towards this standardization, looking for contributors and funding.  Hopefully, this workshop starts a healthy debate.</description>
-        <date>2025-08-09T13:30:00+02:00</date>
-        <start>13:30</start>
+        <date>2025-08-09T21:00:00+02:00</date>
+        <start>21:00</start>
         <duration>00:30</duration>
       </event>
     </room>
@@ -771,6 +770,24 @@ morse-code-led-blinker
         <duration>01:00</duration>
       </event>
     </room>
+    <room name="Village:Gadget Friday" guid="3171b226-6187-55df-bdbe-68fbd6743858">
+      <event guid="01339610-31ca-54f2-8bad-067129e5957d">
+        <title>Personalized Velcro Patches</title>
+        <track>Self Organized Sessions</track>
+        <abstract>I can make you a personalized velcro patch for your WHY hoody or t-shirt.</abstract>
+        <type>Other</type>
+        <persons>
+          <person>RHL</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+I've got patches, a bunch of colored vinyl, a small plotter and a mini-heat press. With these, I can make a personalized velcro patches to jazz up your festival hoody or t-shirt, which has a spot for this on the sleeve. I ask a small fee to cover the materials.</description>
+        <subtitle>Drop by in this time-frame - making patch takes 10 minutes</subtitle>
+        <date>2025-08-09T13:00:00+02:00</date>
+        <start>13:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
     <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
       <event guid="80836f77-2119-59d9-93a7-bacfa5419fd3">
         <title>Past Presentation Cinema</title>
@@ -879,6 +896,7 @@ It costs €25 for a kit to take home.
 
 Requirements:
 Bring your laptop, we will be installing Arduino Cloud Agent and a USB-C Data cable ( Two cables would be better). 
+If you do not have a USB C cable, you can buy one in the supermarket. 
 
 If you have time, install this before the workshop https://cloud.arduino.cc/download-agent/
 
@@ -886,7 +904,7 @@ Workshop given by [https://chaos.social/@tdr112 Jeffrey Roe].
 
 Materials cost: €25
 
-[https://events.ccc.de/congress/2024/hub/de/dereferrer/https://docs.google.com/presentation/d/1wtO9P6p4a-CL3omzcWdf-vDEWegklzHMaalzUt9Qii8/edit%3Fusp=sharing Link To Slides]
+[https://docs.google.com/presentation/d/1wtO9P6p4a-CL3omzcWdf-vDEWegklzHMaalzUt9Qii8/edit?usp=sharing Link To Slides]
 
 You can find me around the Hacking Area Village if you want to pre-buy the parts for the workshop.
 I can take payment via PayPal, Revolut, IBAN, or cash
@@ -1129,8 +1147,8 @@ Let’s share stories, flavors, and maybe even organize a casual tasting session
 This is your chance to discover beers you'd never find outside your region — unless you're here, at this Camp.
 
 ---- Timeslots will follow ----</description>
-        <date>2025-08-09T16:00:00+02:00</date>
-        <start>16:00</start>
+        <date>2025-08-09T14:30:00+02:00</date>
+        <start>14:30</start>
         <duration>01:30</duration>
       </event>
     </room>
@@ -1233,6 +1251,39 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
       </event>
     </room>
     <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
+      <event guid="2cfecc93-5986-50ee-8c24-4b28a74cbec5">
+        <title>Batik T-Shirts</title>
+        <track>Self Organized Sessions</track>
+        <abstract>You will create your own wonderful batik t-shirts. Everybody is welcome (kids, grown-ups, aliens, whatever)</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>DrScream</person>
+        </persons>
+        <language>de</language>
+        <description>Is for kids
+Age range: All ages
+= About =
+
+[[File:Hippybatik.jpg|frame]]
+
+We will create some wonderful batik t-shirts during the camp. Everybody is welcome - it could be a kids session but we also have t-shirts for grown ups.
+We've done some batik sessions on other camps in the past but somehow lost focus the last years. So this is a revival :-)
+
+= Location =
+
+Kid's Space
+
+= What do we provide =
+
+We've special organic batik color, binding threads and lot's of white t-shirts. But feel free to bring your own t-shirt - everything is possible! This session is provided for free, feel free to donate at the camp side.
+
+* ~40 kids t-shirts in different sizes (5y-14y)
+* ~40 grown up shirts in different sizes (M-3XL)
+* ~40 fitted grown up shirts in different sizes (S-XXL)</description>
+        <date>2025-08-09T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:30</duration>
+      </event>
       <event guid="9b967496-1e7b-5473-ae3e-b08381b7b39a">
         <title>Rust tutorial and Port Scanner</title>
         <track>Self Organized Sessions</track>
@@ -1248,9 +1299,13 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
       <event guid="4c06b457-324f-5d2c-b903-ca09d700f1f8">
         <title>Forget all your previous instructions</title>
         <track>Self Organized Sessions</track>
-        <abstract>We will discuss security vulnerabilities of LLMs</abstract>
+        <abstract>Noob to hero guide in Prompt Injection.</abstract>
         <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-        <type>Talk</type>
+        <type>Hands-On</type>
+        <persons>
+          <person>Fizzy</person>
+        </persons>
+        <language>en</language>
         <description>Age range: 16+</description>
         <date>2025-08-09T13:00:00+02:00</date>
         <start>13:00</start>
@@ -1307,6 +1362,20 @@ Interzonal Garden Retreat : A soft space for rest, play, and gentle recalibratio
         <date>2025-08-09T00:00:00+02:00</date>
         <start>00:00</start>
         <duration>00:10</duration>
+      </event>
+      <event guid="dbbb4187-16a1-5388-ae65-70b76231f9a9">
+        <title>Elixir (embedded) programming language</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Introduction to everything related to Elixir, and we'll dive into Nerves Project (embedded Elixir)</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Noegip</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages</description>
+        <date>2025-08-09T15:00:00+02:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
       </event>
     </room>
   </day>
@@ -1488,6 +1557,22 @@ How we designed our disability cards to make daily life easier.
         <duration>00:30</duration>
       </event>
     </room>
+    <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
+      <event guid="facd9967-eb29-5832-af66-f888d80e5a49">
+        <title>How to get a new TV without paying. Phishing panels for the win!</title>
+        <track>Self Organized Sessions</track>
+        <abstract>How to get a new TV without paying. Phishing panels for the win!</abstract>
+        <type>Talk</type>
+        <persons>
+          <person>Cyb0rg42</person>
+        </persons>
+        <description>This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. 
+The second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.</description>
+        <date>2025-08-10T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
     <room name="Village:Fablab/Fabacademy" guid="01113e6f-6aa5-5e6f-9b6b-64b3a6b3a7e3">
       <event guid="b16b6e3f-9d4c-517f-9963-c63d2a892528">
         <title>KiCad workshop featuring the Fab lib</title>
@@ -1570,35 +1655,22 @@ To add your own cheese, add it to the wiki below
         <duration>02:00</duration>
       </event>
     </room>
-    <room name="Village:Frubar" guid="6acbf8b8-ded5-5f6f-b218-b466625596bd">
-      <event guid="2cfecc93-5986-50ee-8c24-4b28a74cbec5">
-        <title>Batik T-Shirts</title>
+    <room name="Village:Gadget Friday" guid="3171b226-6187-55df-bdbe-68fbd6743858">
+      <event guid="17894be1-749c-592f-9a21-bda65b8ad668">
+        <title>Personalized Velcro Patches</title>
         <track>Self Organized Sessions</track>
-        <abstract>You will create your own wonderful batik t-shirts. Everybody is welcome (kids, grown-ups, aliens, whatever)</abstract>
-        <type>Hands-On</type>
+        <abstract>I can make you a personalized velcro patch for your WHY hoody or t-shirt.</abstract>
+        <type>Other</type>
         <persons>
-          <person>DrScream</person>
+          <person>RHL</person>
         </persons>
-        <language>de</language>
-        <description>Is for kids
-Age range: All ages
-= About =
-
-[[File:Hippybatik.jpg|frame]]
-
-We will create some wonderful batik t-shirts during the camp. Everybody is welcome - it could be a kids session but we also have t-shirts for grown ups.
-We've done some batik sessions on other camps in the past but somehow lost focus the last years. So this is a revival :-)
-
-= What do we provide =
-
-We've special organic batik color, binding threads and lot's of white t-shirts. But feel free to bring your own t-shirt - everything is possible! This session is provided for free, feel free to donate at the camp side.
-
-* ~40 kids t-shirts in different sizes (5y-14y)
-* ~40 grown up shirts in different sizes (M-3XL)
-* ~40 fitted grown up shirts in different sizes (S-XXL)</description>
+        <language>en</language>
+        <description>Age range: All ages
+I've got patches, a bunch of colored vinyl, a small plotter and a mini-heat press. With these, I can make a personalized velcro patches to jazz up your festival hoody or t-shirt, which has a spot for this on the sleeve. I ask a small fee to cover the materials.</description>
+        <subtitle>Drop by in this time-frame - making patch takes 10 minutes</subtitle>
         <date>2025-08-10T14:00:00+02:00</date>
         <start>14:00</start>
-        <duration>01:30</duration>
+        <duration>02:00</duration>
       </event>
     </room>
     <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
@@ -1770,8 +1842,8 @@ The Pancake village will be right next to the (main) Andromeda track.
         <language>en</language>
         <description>Age range: All ages
 In this demonstration we are going to show how to find the signals of a NAND flash chip (i.e. CLE, ALE, RE, WE, CE etc). This can be used in for example a broken SD-card. An SD-Card has a controller and an internal connection to a NAND Flash chip. If the controller is broken it might be possible to access the NAND flash to get to the raw data. But in some cases the connections are unknown. This method demonstrates how to find these NAND flash signals by using an FPGA and do an exhaustive search by sending commands to the chip in all possible combinations until a response is received from the chip.</description>
-        <date>2025-08-10T11:00:00+02:00</date>
-        <start>11:00</start>
+        <date>2025-08-10T17:00:00+02:00</date>
+        <start>17:00</start>
         <duration>01:00</duration>
       </event>
     </room>
@@ -1946,6 +2018,35 @@ Uns macht die aktuelle politische Entwicklung große Sorgen. Daher organisieren 
         <date>2025-08-10T12:00:00+02:00</date>
         <start>12:00</start>
         <duration>00:45</duration>
+      </event>
+      <event guid="1d4e2ac9-76fe-5e46-8cfb-f86e273ca071">
+        <title>Tor Operators Meetup</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Meet other Tor Operators, or come to learn and become one!</abstract>
+        <url>https://wiki.why2025.org/Project:Tor_Relays</url>
+        <type>Discussion</type>
+        <persons>
+          <person>Ahf</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+Hey folks,
+
+Let's meet in 2 days, on Sunday, 2025-08-10, from 17:00 to 18:00, at the 
+BornHack star tent in the Loud North cluster[1]. Both BornHack and 
+ANDERSTORPSFESTIVALEN won't be blasting out music during this time, so 
+we'll hopefully have a meeting where we can hear each other.
+
+Remember, Morgan has a talk[2] tomorrow on their work on Gosling and 
+Ricochet-Refresh at 19:00 in Brachium.
+
+Hope you have a joyful festival!
+
+Cheers,
+Alex</description>
+        <date>2025-08-10T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
       </event>
     </room>
   </day>
@@ -2124,6 +2225,24 @@ Want to learn to make tasty vegan sausages? Experiment with your own flavorings?
         <duration>02:00</duration>
       </event>
     </room>
+    <room name="Village:Gadget Friday" guid="3171b226-6187-55df-bdbe-68fbd6743858">
+      <event guid="a4fa9900-9a36-5257-9f30-50ff32236846">
+        <title>Personalized Velcro Patches</title>
+        <track>Self Organized Sessions</track>
+        <abstract>I can make you a personalized velcro patch for your WHY hoody or t-shirt.</abstract>
+        <type>Other</type>
+        <persons>
+          <person>RHL</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+I've got patches, a bunch of colored vinyl, a small plotter and a mini-heat press. With these, I can make a personalized velcro patches to jazz up your festival hoody or t-shirt, which has a spot for this on the sleeve. I ask a small fee to cover the materials.</description>
+        <subtitle>Drop by in this time-frame - making patch takes 10 minutes</subtitle>
+        <date>2025-08-11T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+      </event>
+    </room>
     <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
       <event guid="ffbedd9d-737c-544c-8b6c-2343d9fe93c8">
         <title>Past Presentation Cinema</title>
@@ -2210,39 +2329,6 @@ The prices in the yellow boxes are the materials costs for participating in the 
         <date>2025-08-11T14:00:00+02:00</date>
         <start>14:00</start>
         <duration>01:00</duration>
-      </event>
-      <event guid="3c52004f-c34a-5701-80ae-a1027aca3c91">
-        <title>Build Your Own Satellite Ground Station</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Build and program your ground station and antenna to receive data from space.  For beginners.</abstract>
-        <type>Workshop</type>
-        <persons>
-          <person>Tdr112</person>
-        </persons>
-        <language>en</language>
-        <description>Age range: All ages
-== Workshop Description ==
-Are you fascinated by space and want to learn how to receive data from satellites and weather probes? In this TinyGS station workshop, you’ll build and program your ground station and antenna to receive data from space. This hands-on, beginner-friendly workshop is perfect for anyone interested in radio, electronics, IOT, antenna design, and space exploration.
-TinyGS is an open community-run network of ground stations distributed around the world to receive and operate LoRa satellites, weather probes, and other flying objects, using cheap and versatile modules. With a TinyGS ground station, you can receive data from a variety of sources, such as CubeSats.
-During the workshop, you’ll learn how to build and program a TinyGS ground station and a quarter-wave ground plane antenna. No prior experience is required.  
-  
-Workshop given by Jeffrey Roe.  
-
-Materials cost: €80
-&lt;br&gt;
-&lt;br&gt;
-[[File:HHA_WHY_logo.png|center|300px]]  
-  
-== Complete Hardware Hacking Area Village Schedule == 
-Workshops are all free to attend.&lt;br&gt;
-The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
-[[File:WHY_HHA_schedule.png|720px]]
-  
-== Location of Hardware Hacking Area Village == 
-[[File:HHA_map_WHY.jpg|720px]]</description>
-        <date>2025-08-11T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>02:00</duration>
       </event>
       <event guid="2b1e61ee-eabf-5e27-b11d-35aeefe8993c">
         <title>Solder a Pathlighter Badge</title>
@@ -2433,9 +2519,12 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
       <event guid="d5c89c8b-7c72-576c-bb8a-ca204c0f2d89">
         <title>KubeVenom</title>
         <track>Self Organized Sessions</track>
-        <abstract>Talk about building a tool for hacking kubernetes and other cloud environments</abstract>
+        <abstract>Talk about building a C2 framework for attacking kubernetes, pipelines and cloud environments</abstract>
         <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
         <type>Talk</type>
+        <persons>
+          <person>War3nd0z</person>
+        </persons>
         <language>en</language>
         <description>Age range: 16+</description>
         <date>2025-08-11T16:00:00+02:00</date>
@@ -2883,6 +2972,19 @@ Since 2022, Reality Cult has been steadily accessing the Akashic Records (cosmic
 Come with a question. Leave with a breadcrumb trail across lifetimes.
 
 Donation based</description>
+      </event>
+      <event guid="40dd7c6c-3487-51df-883c-cb47f438dc45">
+        <title>Sleeping Hackers &amp; Overnight Fun</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Tune in for GR.A.P.P.A. &amp; fun eveny evening</abstract>
+        <type>Hands-On</type>
+        <language>en</language>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 18+
+Tune in every evening near the GR.A.P.P.A. cluster for some drinks and fun, every evening starting from 20:00</description>
       </event>
     </room>
   </day>

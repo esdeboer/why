@@ -210,6 +210,16 @@
     "type": "Other"
   },
   {
+    "id": "e0e56109-f65b-5fe4-b161-e33f4a291ce2",
+    "title": "Failure - Unbreakable security by breaking things",
+    "description": "Age range: 16+\nSecurity teams want to prevent incidents - but what if controlled breaking prevents catastrophic failures? Drawing from aviation safety, chaos engineering, and resilience design, discover why 'unbreakable' security comes from breaking things on purpose. Learn to transform incident culture from blame to learning, implement controlled failure practices, and build psychological safety that turns near-misses into competitive advantages.",
+    "start": "2025-08-08T20:00:00+02:00",
+    "end": "2025-08-08T20:50:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Talk"
+  },
+  {
     "id": "b6072481-e486-5c6e-bfed-945ed8cb7160",
     "title": "Stop the Bleed @ Aid to Ukraine",
     "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
@@ -252,7 +262,7 @@
   {
     "id": "6b4b52a6-5e20-58c8-baa5-37d98e85e53e",
     "title": "Make your own Why2025 Map",
-    "description": "Age range: Aimed at adults but supervised kids welcome.",
+    "description": "Age range: Aimed at adults but supervised kids welcome.\nWe will start with a short introduction on how web maps work and how the Why25 map is set up. \n\nThen we can go set up our own little web page with a map! Bring your laptop if you want to try: HTML, CSS and JS experience comes in handy.",
     "start": "2025-08-09T14:00:00+02:00",
     "end": "2025-08-09T15:30:00+02:00",
     "room": "Village:Back to the 80s Party",
@@ -260,21 +270,11 @@
     "type": "Workshop"
   },
   {
-    "id": "facd9967-eb29-5832-af66-f888d80e5a49",
-    "title": "How to get a new TV without paying. Phishing panels for the win!",
-    "description": "This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. \nThe second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75\" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.",
-    "start": "2025-08-09T14:00:00+02:00",
-    "end": "2025-08-09T15:00:00+02:00",
-    "room": "Village:Dutch Picknick",
-    "url": "",
-    "type": "Talk"
-  },
-  {
     "id": "1936a291-fcec-5eac-b0fc-8a2dbc00b1ce",
     "title": "The take-down process",
     "description": "Age range: 16+\nWe all speak high about privacy and safety of internet use. The EU also has extensive legislation to protect people, businesses, and copyright holders.  However, in my experience, projects have very successful ways to make it difficult to execute your rights.  To name a few tricks: it's hard to find the source data collection, there are many data collections, you are required to deliver a difficult proof you have legal rights, and all processes are different.\n\nHere, I generalize various kinds of \"execute my right\" processes under the name \"take-down requests\".  It could be the wish to take down a physical server, all virtual servers of a certain company, a webpage with proclaimed defamation or other illegal content.\n\nThe very good reason to make submission of take-down requests hard, is that handling them is a labor intensive ad-hoc process. Some requests are clear, but sometimes many different laws and local society feelings have to be considered.  Very certainly, different data maintainers will decide different about the same request.\n\nThe Lethe project tries to simplify the submission of take-down requests to many data collectors at the same time.  It defines a clear template and collects various proofs about the claim by the submitter.  Then, it does not only distribute the request, but also shares the effort that participating data maintainers put in handling the claim.  For instance, NCSC-NL might report: \"server shutdown\", so the search engine index maintainer does not have to handle the request anymore, simply remove the pages from the index.\n\nWe will present the first steps towards this standardization, looking for contributors and funding.  Hopefully, this workshop starts a healthy debate.",
-    "start": "2025-08-09T13:30:00+02:00",
-    "end": "2025-08-09T14:00:00+02:00",
+    "start": "2025-08-09T21:00:00+02:00",
+    "end": "2025-08-09T21:30:00+02:00",
     "room": "Village:Dutch Picknick",
     "url": "https://github.com/Skrodon/Lethe",
     "type": "Workshop"
@@ -340,6 +340,16 @@
     "type": "Workshop"
   },
   {
+    "id": "01339610-31ca-54f2-8bad-067129e5957d",
+    "title": "Personalized Velcro Patches",
+    "description": "Age range: All ages\nI've got patches, a bunch of colored vinyl, a small plotter and a mini-heat press. With these, I can make a personalized velcro patches to jazz up your festival hoody or t-shirt, which has a spot for this on the sleeve. I ask a small fee to cover the materials.",
+    "start": "2025-08-09T13:00:00+02:00",
+    "end": "2025-08-09T15:00:00+02:00",
+    "room": "Village:Gadget Friday",
+    "url": "",
+    "type": "Other"
+  },
+  {
     "id": "80836f77-2119-59d9-93a7-bacfa5419fd3",
     "title": "Past Presentation Cinema",
     "description": "",
@@ -372,7 +382,7 @@
   {
     "id": "5ccbf243-6e97-54ac-8e13-8a54d61ab85b",
     "title": "IoT with Arduino Cloud: Beginner-Friendly Workshop",
-    "description": "Age range: All ages\n== Workshop Description ==\n[[File:C452b758-eabc-4770-a7d9-047aa1339c9d.jpg|thumb]]\n<br>\nIoT with Arduino Cloud. For total beginners.  \n\nJoin us for a 2-hour, hands-on workshop that introduces you to the exciting world of the Internet of Things (IoT) through Arduino Cloud. This beginner-friendly session will teach you how to connect your projects to the Internet, visualise data in real-time, and manage your devices remotely using Wi-Fi. What You\u2019ll Learn: * Soldering, wiring, and programming sensors. * Using Arduino Cloud to monitor data online. * Setting up and managing IoT projects with ease.\n\nMaterials: You\u2019ll work with: * Two ESP32 boards * BME280 sensor for temperature, humidity, and air pressure measurements * A small screen to display data locally\n\nMaterials Costs:\nIt costs \u20ac25 for a kit to take home.\n\nRequirements:\nBring your laptop, we will be installing Arduino Cloud Agent and a USB-C Data cable ( Two cables would be better). \n\nIf you have time, install this before the workshop https://cloud.arduino.cc/download-agent/\n\nWorkshop given by [https://chaos.social/@tdr112 Jeffrey Roe].  \n\nMaterials cost: \u20ac25\n\n[https://events.ccc.de/congress/2024/hub/de/dereferrer/https://docs.google.com/presentation/d/1wtO9P6p4a-CL3omzcWdf-vDEWegklzHMaalzUt9Qii8/edit%3Fusp=sharing Link To Slides]\n\nYou can find me around the Hacking Area Village if you want to pre-buy the parts for the workshop.\nI can take payment via PayPal, Revolut, IBAN, or cash\n\n<br>\n<br>\n[[File:HHA_WHY_logo.png|center|300px]]  \n  \n== Complete Hardware Hacking Area Village Schedule == \nWorkshops are all free to attend.<br>\nThe prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.<br><br>\n[[File:WHY_HHA_schedule.png|720px]]\n  \n== Location of Hardware Hacking Area Village == \n[[File:HHA_map_WHY.jpg|720px]]",
+    "description": "Age range: All ages\n== Workshop Description ==\n[[File:C452b758-eabc-4770-a7d9-047aa1339c9d.jpg|thumb]]\n<br>\nIoT with Arduino Cloud. For total beginners.  \n\nJoin us for a 2-hour, hands-on workshop that introduces you to the exciting world of the Internet of Things (IoT) through Arduino Cloud. This beginner-friendly session will teach you how to connect your projects to the Internet, visualise data in real-time, and manage your devices remotely using Wi-Fi. What You\u2019ll Learn: * Soldering, wiring, and programming sensors. * Using Arduino Cloud to monitor data online. * Setting up and managing IoT projects with ease.\n\nMaterials: You\u2019ll work with: * Two ESP32 boards * BME280 sensor for temperature, humidity, and air pressure measurements * A small screen to display data locally\n\nMaterials Costs:\nIt costs \u20ac25 for a kit to take home.\n\nRequirements:\nBring your laptop, we will be installing Arduino Cloud Agent and a USB-C Data cable ( Two cables would be better). \nIf you do not have a USB C cable, you can buy one in the supermarket. \n\nIf you have time, install this before the workshop https://cloud.arduino.cc/download-agent/\n\nWorkshop given by [https://chaos.social/@tdr112 Jeffrey Roe].  \n\nMaterials cost: \u20ac25\n\n[https://docs.google.com/presentation/d/1wtO9P6p4a-CL3omzcWdf-vDEWegklzHMaalzUt9Qii8/edit?usp=sharing Link To Slides]\n\nYou can find me around the Hacking Area Village if you want to pre-buy the parts for the workshop.\nI can take payment via PayPal, Revolut, IBAN, or cash\n\n<br>\n<br>\n[[File:HHA_WHY_logo.png|center|300px]]  \n  \n== Complete Hardware Hacking Area Village Schedule == \nWorkshops are all free to attend.<br>\nThe prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.<br><br>\n[[File:WHY_HHA_schedule.png|720px]]\n  \n== Location of Hardware Hacking Area Village == \n[[File:HHA_map_WHY.jpg|720px]]",
     "start": "2025-08-09T17:30:00+02:00",
     "end": "2025-08-09T19:30:00+02:00",
     "room": "Village:Hardware Hacking Area",
@@ -483,8 +493,8 @@
     "id": "1256d744-6061-5744-859e-a13abc747e36",
     "title": "Beer exchange",
     "description": "Age range: 18+\nBeer Exchange at Our Village \u2013 Share What You Love!\n\nAt the Camp, people from all over the world come together \u2014 and many of us share a passion for great beer.\nLocal brews often reflect the character of a place, but some are so small-scale you\u2019ll never find them online or in shops.\n\nThat\u2019s why we\u2019re hosting a beer exchange in our village!\n\nBring a few special beers from your hometown \u2014 the quirky, the rare, the traditional \u2014 and swap them with fellow enthusiasts.\nLet\u2019s share stories, flavors, and maybe even organize a casual tasting session together.\n\nThis is your chance to discover beers you'd never find outside your region \u2014 unless you're here, at this Camp.\n\n---- Timeslots will follow ----",
-    "start": "2025-08-09T16:00:00+02:00",
-    "end": "2025-08-09T17:30:00+02:00",
+    "start": "2025-08-09T14:30:00+02:00",
+    "end": "2025-08-09T16:00:00+02:00",
     "room": "Village:Schrottkompott",
     "url": "",
     "type": "Meeting"
@@ -540,6 +550,16 @@
     "type": "Outside"
   },
   {
+    "id": "2cfecc93-5986-50ee-8c24-4b28a74cbec5",
+    "title": "Batik T-Shirts",
+    "description": "Is for kids\nAge range: All ages\n= About =\n\n[[File:Hippybatik.jpg|frame]]\n\nWe will create some wonderful batik t-shirts during the camp. Everybody is welcome - it could be a kids session but we also have t-shirts for grown ups.\nWe've done some batik sessions on other camps in the past but somehow lost focus the last years. So this is a revival :-)\n\n= Location =\n\nKid's Space\n\n= What do we provide =\n\nWe've special organic batik color, binding threads and lot's of white t-shirts. But feel free to bring your own t-shirt - everything is possible! This session is provided for free, feel free to donate at the camp side.\n\n* ~40 kids t-shirts in different sizes (5y-14y)\n* ~40 grown up shirts in different sizes (M-3XL)\n* ~40 fitted grown up shirts in different sizes (S-XXL)",
+    "start": "2025-08-09T11:30:00+02:00",
+    "end": "2025-08-09T13:00:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
     "id": "9b967496-1e7b-5473-ae3e-b08381b7b39a",
     "title": "Rust tutorial and Port Scanner",
     "description": "Age range: 16+",
@@ -557,7 +577,7 @@
     "end": "2025-08-09T14:00:00+02:00",
     "room": "undetermined",
     "url": "https://wiki.why2025.org/Village:Green_Ninjas",
-    "type": "Talk"
+    "type": "Hands-On"
   },
   {
     "id": "0c4eac16-9f2d-5972-b7af-96ba1ec4c4c3",
@@ -598,6 +618,16 @@
     "room": "undetermined",
     "url": "",
     "type": "Outside"
+  },
+  {
+    "id": "dbbb4187-16a1-5388-ae65-70b76231f9a9",
+    "title": "Elixir (embedded) programming language",
+    "description": "Age range: All ages",
+    "start": "2025-08-09T15:00:00+02:00",
+    "end": "2025-08-09T16:00:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Workshop"
   },
   {
     "id": "d842e35e-7bdd-58e6-be15-379cd1f08ce6",
@@ -680,6 +710,16 @@
     "type": "Talk"
   },
   {
+    "id": "facd9967-eb29-5832-af66-f888d80e5a49",
+    "title": "How to get a new TV without paying. Phishing panels for the win!",
+    "description": "This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. \nThe second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75\" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.",
+    "start": "2025-08-10T14:00:00+02:00",
+    "end": "2025-08-10T15:00:00+02:00",
+    "room": "Village:Dutch Picknick",
+    "url": "",
+    "type": "Talk"
+  },
+  {
     "id": "b16b6e3f-9d4c-517f-9963-c63d2a892528",
     "title": "KiCad workshop featuring the Fab lib",
     "description": "KiCad is the preferred choice when it comes to electronics design in fablabs and Fab Academy. \n\nSession 1 (9 Aug 13:00-14:30)\nDuring first session we will cover what to do when you just installed KiCad without libraries (because you want it to be fast) and you somehow ended up in a desert with no internet connection, but with a datasheet...\n\nSession 2 (10 Aug 13:00-14:30)\nFrom there we will take advantage of a few Starlinks (or your own cubesats) passing by, just enough to be able to download the Fab Lib, which is a KiCad electronics component library based on the Fab Lab / Fab Academy electronics component inventory...\n\nVenue: Be aware that the venue might change to the boat fablab on the Western outskirts of the camp. Just check some 30 minutes before the event here.",
@@ -710,14 +750,14 @@
     "type": "Tasting"
   },
   {
-    "id": "2cfecc93-5986-50ee-8c24-4b28a74cbec5",
-    "title": "Batik T-Shirts",
-    "description": "Is for kids\nAge range: All ages\n= About =\n\n[[File:Hippybatik.jpg|frame]]\n\nWe will create some wonderful batik t-shirts during the camp. Everybody is welcome - it could be a kids session but we also have t-shirts for grown ups.\nWe've done some batik sessions on other camps in the past but somehow lost focus the last years. So this is a revival :-)\n\n= What do we provide =\n\nWe've special organic batik color, binding threads and lot's of white t-shirts. But feel free to bring your own t-shirt - everything is possible! This session is provided for free, feel free to donate at the camp side.\n\n* ~40 kids t-shirts in different sizes (5y-14y)\n* ~40 grown up shirts in different sizes (M-3XL)\n* ~40 fitted grown up shirts in different sizes (S-XXL)",
+    "id": "17894be1-749c-592f-9a21-bda65b8ad668",
+    "title": "Personalized Velcro Patches",
+    "description": "Age range: All ages\nI've got patches, a bunch of colored vinyl, a small plotter and a mini-heat press. With these, I can make a personalized velcro patches to jazz up your festival hoody or t-shirt, which has a spot for this on the sleeve. I ask a small fee to cover the materials.",
     "start": "2025-08-10T14:00:00+02:00",
-    "end": "2025-08-10T15:30:00+02:00",
-    "room": "Village:Frubar",
+    "end": "2025-08-10T16:00:00+02:00",
+    "room": "Village:Gadget Friday",
     "url": "",
-    "type": "Hands-On"
+    "type": "Other"
   },
   {
     "id": "3f7c933f-dfde-5599-b30a-50dd7d8c469f",
@@ -813,8 +853,8 @@
     "id": "079cc4d5-c8e8-5313-9235-cc69ed303847",
     "title": "NAND Flash Finder Revealed",
     "description": "Age range: All ages\nIn this demonstration we are going to show how to find the signals of a NAND flash chip (i.e. CLE, ALE, RE, WE, CE etc). This can be used in for example a broken SD-card. An SD-Card has a controller and an internal connection to a NAND Flash chip. If the controller is broken it might be possible to access the NAND flash to get to the raw data. But in some cases the connections are unknown. This method demonstrates how to find these NAND flash signals by using an FPGA and do an exhaustive search by sending commands to the chip in all possible combinations until a response is received from the chip.",
-    "start": "2025-08-10T11:00:00+02:00",
-    "end": "2025-08-10T12:00:00+02:00",
+    "start": "2025-08-10T17:00:00+02:00",
+    "end": "2025-08-10T18:00:00+02:00",
     "room": "Village:SHA512",
     "url": "",
     "type": "Talk"
@@ -920,6 +960,16 @@
     "type": "Meeting"
   },
   {
+    "id": "1d4e2ac9-76fe-5e46-8cfb-f86e273ca071",
+    "title": "Tor Operators Meetup",
+    "description": "Age range: All ages\nHey folks,\n\nLet's meet in 2 days, on Sunday, 2025-08-10, from 17:00 to 18:00, at the \nBornHack star tent in the Loud North cluster[1]. Both BornHack and \nANDERSTORPSFESTIVALEN won't be blasting out music during this time, so \nwe'll hopefully have a meeting where we can hear each other.\n\nRemember, Morgan has a talk[2] tomorrow on their work on Gosling and \nRicochet-Refresh at 19:00 in Brachium.\n\nHope you have a joyful festival!\n\nCheers,\nAlex",
+    "start": "2025-08-10T17:00:00+02:00",
+    "end": "2025-08-10T18:00:00+02:00",
+    "room": "undetermined",
+    "url": "https://wiki.why2025.org/Project:Tor_Relays",
+    "type": "Discussion"
+  },
+  {
     "id": "b004701b-7fdf-5225-974a-3b121ab88718",
     "title": "Stop the Bleed @ Aid to Ukraine",
     "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
@@ -990,6 +1040,16 @@
     "type": "Workshop"
   },
   {
+    "id": "a4fa9900-9a36-5257-9f30-50ff32236846",
+    "title": "Personalized Velcro Patches",
+    "description": "Age range: All ages\nI've got patches, a bunch of colored vinyl, a small plotter and a mini-heat press. With these, I can make a personalized velcro patches to jazz up your festival hoody or t-shirt, which has a spot for this on the sleeve. I ask a small fee to cover the materials.",
+    "start": "2025-08-11T16:00:00+02:00",
+    "end": "2025-08-11T18:00:00+02:00",
+    "room": "Village:Gadget Friday",
+    "url": "",
+    "type": "Other"
+  },
+  {
     "id": "ffbedd9d-737c-544c-8b6c-2343d9fe93c8",
     "title": "Past Presentation Cinema",
     "description": "",
@@ -1015,16 +1075,6 @@
     "description": "Age range: All ages\n== Workshop Description ==\n[[File:IKEA-LANESPELARE-Controller-PCB-825x510.jpg|thumb]]\n<br>\n'''Learn to repair and rework circuits!'''\n* We will practice to un-solder and re-solder components\n* Both SMD- and conventional Through-Hole-Components\n** You will notice that - contrary to popular belief - SMD components are easier to work with\n* Please bring your own ~~trash~~board to practice on\n** I will bring some broken PCBs as well\n* If you prefer your own tools, bring them (soldering iron, tweezers, flux, ...)\n* If you got time, watch/skip through this video before: https://media.ccc.de/v/gpn22-317-42-tricks-frs-smd-lten-nummer-23-wird-sie-berraschen-\n\n<br>\n<hr>\n[[File:HHA_WHY_logo.png|center|300px]]  \n  \n== Complete Hardware Hacking Area Village Schedule == \nWorkshops are all free to attend.<br>\nThe prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.<br><br>\n[[File:WHY_HHA_schedule.png|720px]]\n  \n== Location of Hardware Hacking Area Village == \n[[File:HHA_map_WHY.jpg|720px]]",
     "start": "2025-08-11T14:00:00+02:00",
     "end": "2025-08-11T15:00:00+02:00",
-    "room": "Village:Hardware Hacking Area",
-    "url": "",
-    "type": "Workshop"
-  },
-  {
-    "id": "3c52004f-c34a-5701-80ae-a1027aca3c91",
-    "title": "Build Your Own Satellite Ground Station",
-    "description": "Age range: All ages\n== Workshop Description ==\nAre you fascinated by space and want to learn how to receive data from satellites and weather probes? In this TinyGS station workshop, you\u2019ll build and program your ground station and antenna to receive data from space. This hands-on, beginner-friendly workshop is perfect for anyone interested in radio, electronics, IOT, antenna design, and space exploration.\nTinyGS is an open community-run network of ground stations distributed around the world to receive and operate LoRa satellites, weather probes, and other flying objects, using cheap and versatile modules. With a TinyGS ground station, you can receive data from a variety of sources, such as CubeSats.\nDuring the workshop, you\u2019ll learn how to build and program a TinyGS ground station and a quarter-wave ground plane antenna. No prior experience is required.  \n  \nWorkshop given by Jeffrey Roe.  \n\nMaterials cost: \u20ac80\n<br>\n<br>\n[[File:HHA_WHY_logo.png|center|300px]]  \n  \n== Complete Hardware Hacking Area Village Schedule == \nWorkshops are all free to attend.<br>\nThe prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.<br><br>\n[[File:WHY_HHA_schedule.png|720px]]\n  \n== Location of Hardware Hacking Area Village == \n[[File:HHA_map_WHY.jpg|720px]]",
-    "start": "2025-08-11T16:00:00+02:00",
-    "end": "2025-08-11T18:00:00+02:00",
     "room": "Village:Hardware Hacking Area",
     "url": "",
     "type": "Workshop"
@@ -1348,5 +1398,15 @@
     "room": "undetermined",
     "url": "https://reality-cult.com/",
     "type": "Other"
+  },
+  {
+    "id": "40dd7c6c-3487-51df-883c-cb47f438dc45",
+    "title": "Sleeping Hackers & Overnight Fun",
+    "description": "Generated time to make session visible, might need an actual date and time\nAge range: 18+\nTune in every evening near the GR.A.P.P.A. cluster for some drinks and fun, every evening starting from 20:00",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T01:00:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Hands-On"
   }
 ]

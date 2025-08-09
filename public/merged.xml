@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>Apocalypse Again: Acceptance of Inheritance</version>
+    <version>Version "day1 is day2", well version 2</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -248,31 +248,6 @@ Workshop given by DRC.</abstract>
             </event>
         </room>
         <room name="Party Stage" guid="561b70ba-f1d5-5f92-bcde-7f056905df90">
-            <event guid="27dfba3e-09a7-5aec-be10-5a23adc92e6f" id="70">
-                <room>Party Stage</room>
-                <title>Gasman's ZX Spectrum Chiptune Phenomenon</title>
-                <subtitle />
-                <type>Entertainment</type>
-                <date>2025-08-08T15:00:00+02:00</date>
-                <start>15:00</start>
-                <duration>01:00</duration>
-                <abstract>Demo scene legend and ZX Spectrum rockstar Gasman transports you back to the 1980s with uplifting chiptune melodies, electrifying keytar solos, and quirky songs about robots, love and jetpacks.</abstract>
-                <slug>why2025-70-gasman-s-zx-spectrum-chiptune-phenomenon</slug>
-                <track>Entertainment</track>
-                <logo>/media/why2025/submissions/PZPWXF/gasman-diggerdiggerbee-comp_bcZ70gw.jpg</logo>
-                <persons>
-                    <person id="96">Gasman</person>
-                </persons>
-                <language>en</language>
-                <recording>
-                    <license />
-                    <optout>false</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/PZPWXF/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/PZPWXF/feedback/</feedback_url>
-            </event>
             <event guid="3549c492-902b-5a2a-b157-bd9168fbad43" id="290">
                 <room>Party Stage</room>
                 <title>Sad But Tribute — The Ultimate Metallica Experience</title>
@@ -1157,6 +1132,16 @@ A: I'm not using it anymore and need to make space for other things.</descriptio
                 <start>00:00</start>
                 <duration>00:00</duration>
             </event>
+            <event guid="e0e56109-f65b-5fe4-b161-e33f4a291ce2">
+                <title>Failure - Unbreakable security by breaking things</title>
+                <track>Self Organized Sessions</track>
+                <type>Talk</type>
+                <description>Age range: 16+
+Security teams want to prevent incidents - but what if controlled breaking prevents catastrophic failures? Drawing from aviation safety, chaos engineering, and resilience design, discover why 'unbreakable' security comes from breaking things on purpose. Learn to transform incident culture from blame to learning, implement controlled failure practices, and build psychological safety that turns near-misses into competitive advantages.</description>
+                <date>2025-08-08T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>00:50</duration>
+            </event>
         </room>
     </day>
     <day index="3" date="2025-08-09" start="2025-08-09T04:00:00+02:00" end="2025-08-10T03:59:00+02:00">
@@ -2023,7 +2008,7 @@ Checkout https://github.com/gappuser/qryptr and https://qryptr.com</description>
                 <date>2025-08-09T12:35:00+02:00</date>
                 <start>12:35</start>
                 <duration>00:25</duration>
-                <abstract>Let's learn about L2 isolation with VLANs and dive into basic network architecture with OPNsense. After playing a bit with IPv4, let's discuss unicorn-issues IPv6 for your homelab-ing. Then expanding with WireGuard for simple inter-machine networks. Finally, we will take a look into a few tricks you can do with your systems to bypass "security"(-by-obscurity) and also how to defend against it.</abstract>
+                <abstract>Let's learn about L2 isolation with VLANs and dive into basic network architecture with OPNsense. After playing a bit with IPv4, let's discuss unicorn-issues IPv6 for your homelab-ing. Then expanding with WireGuard for simple inter-machine networks. Finally, we will take a look into a fail of my own via "security"(-by-obscurity) and a few words of how to defend against it.</abstract>
                 <slug>why2025-193-networking-your-linux-machines</slug>
                 <track>The square hole</track>
                 <persons>
@@ -2200,30 +2185,51 @@ Finally, we'll have a look at the frameworks and tools that allow you to get you
                 <url>https://program.why2025.org/why2025/talk/CVDBWH/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/CVDBWH/feedback/</feedback_url>
             </event>
-            <event guid="6326a0f1-c5ca-53de-9817-5c7fb5dbd727" id="275">
+            <event guid="cac0b163-c806-508a-a0c9-75fa95e19513" id="131">
                 <room>Cassiopeia</room>
-                <title>Lightning Talks</title>
+                <title>Stealth Web Scraping Techniques for OSINT</title>
                 <subtitle />
                 <type>Talk (50 minutes)</type>
                 <date>2025-08-09T19:00:00+02:00</date>
                 <start>19:00</start>
                 <duration>00:50</duration>
-                <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
-                <slug>why2025-275-0-lightning-talks</slug>
-                <track>The square hole</track>
+                <abstract>Web scraping continues to be a cornerstone of OSINT operations, particularly during Red Team engagements and external attack surface reconnaissance. Yet, as anti-bot technologies grow more sophisticated, traditional scraping methods based on direct HTTP requests are increasingly ineffective.
+This talk takes a technical dive into browser-based scraping techniques that closely mimic real user behavior to evade detection, inspired by real-world mechanisms observed across major web platforms.</abstract>
+                <slug>why2025-131-stealth-web-scraping-techniques-for-osint</slug>
+                <track>Hacking</track>
                 <persons>
-                    
+                    <person id="156">Soukaina Cherrabi</person>
+                    <person id="321">François GRANIER</person>
                 </persons>
                 <language>en</language>
-                <description>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki.Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</description>
+                <description>In Red Team operations and external attack surface assessments, open-source intelligence (OSINT) is a critical step for identifying internet-exposed assets and assessing the associated risks. One of the most common techniques in this phase is web scraping, which automates the collection of publicly available data—often without relying on official APIs that are frequently rate-limited, monitored, or entirely unavailable.
+
+In previous conferences, such as Fabien Vauchelles’s talk "Cracking the Code: Decoding Anti-Bot Systems", the focus was on detecting scraping activities at the network layer using TCP/IP fingerprinting and IP intelligence. This presentation builds on that work by shifting the focus to client-side techniques—specifically, browser-based approaches that mimic legitimate user behavior to evade detection.
+
+The objective of this session is to explore modern strategies for conducting stealthy web scraping by avoiding API usage and minimizing anomalies detectable at both the network and application layers. Based on real-world use cases, the talk aims to provide actionable insights for security professionals involved in scraping—whether performing it or defending against it.The talk will present concrete methods for data collection, including:
+
+- Making direct HTTP/HTTPS requests to web servers—such as websites or HTTP-based services—using libraries that handle protocol-level communication. This method allows efficient data retrieval by bypassing the need to render the page or load additional resources like images, videos, stylesheets, or scripts. It’s fast and lightweight, especially suited for static or partially dynamic content.
+
+- Leveraging headless browsers to simulate real browser behavior without a graphical interface. These tools embed full HTML, CSS, and JavaScript engines, enabling interaction with modern, dynamic web applications. This technique is essential when scraping content that relies on client-side rendering or asynchronous JavaScript operations.
+
+- Using browser-side scripting tools, such as TamperMonkey, within standard browsers. These tools allow custom JavaScript code to be injected and executed directly on the page, offering a practical and discreet way to automate data collection from within the browsing environment itself. This technique has been successfully applied in large-scale scraping operations, including on major social networks where traditional approaches are often ineffective due to advanced client-side defenses.
+
+Beyond the scraping techniques themselves, the presentation will also cover the current detection methods employed by websites to identify automated behavior and how these can be bypassed, including:
+
+- Detection of automation environments via specific JavaScript variables (e.g., navigator.webdriver) or discrepancies in the DOM.
+- Behavioral detection mechanisms such as mouse movements, keyboard activity, or interaction timing.
+- Identification of scraping-specific browser extensions or content injection tools.
+- Detection of headless execution environments using debugging interfaces or timing-based heuristics.
+
+This talk will provide a technically grounded exploration of the current capabilities and limitations of stealth web scraping from both offensive and defensive perspectives.</description>
                 <recording>
                     <license />
                     <optout>false</optout>
                 </recording>
                 <links />
                 <attachments />
-                <url>https://program.why2025.org/why2025/talk/EFJTHQ/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/EFJTHQ/feedback/</feedback_url>
+                <url>https://program.why2025.org/why2025/talk/7DMBVR/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/7DMBVR/feedback/</feedback_url>
             </event>
             <event guid="1767d550-ff6b-5c51-824b-b67616d29e27" id="219">
                 <room>Cassiopeia</room>
@@ -2267,7 +2273,7 @@ This isn't just a rant (though there will be rants). It's a call to stop playing
                 <type>Workshop (120 minutes)</type>
                 <date>2025-08-09T21:00:00+02:00</date>
                 <start>21:00</start>
-                <duration>02:00</duration>
+                <duration>01:50</duration>
                 <abstract>The classic Jeopardy! game show format, but now with hacker answers... can you give the right questions to them? You can join as a team or enjoy it from the audience!
 
 Sign your team up (max 3 people) at jeopardy@why2025.org</abstract>
@@ -2285,6 +2291,34 @@ Sign your team up (max 3 people) at jeopardy@why2025.org</abstract>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/KXSLSR/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/KXSLSR/feedback/</feedback_url>
+            </event>
+            <event guid="2e506ff8-3846-5943-848b-53d29a8212fd" id="56">
+                <room>Cassiopeia</room>
+                <title>9001 ways to break out of a container</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-09T23:00:00+02:00</date>
+                <start>23:00</start>
+                <duration>00:50</duration>
+                <abstract>Container security is essential, but what happens when the bad guys get creative? In “9001 ways to break out of a container,” we’ll explore hackers' fascinating and terrifying techniques to escape containers. this talk will cover:
+
+- Learn how attackers slip through the cracks to take over the Linux kernel by bypassing the eBPF validator
+- Understand why “you want stars in the sky, not in your RBAC.”
+- See the most common and overlooked weaknesses that make containers vulnerable.</abstract>
+                <slug>why2025-56-9001-ways-to-break-out-of-a-container</slug>
+                <track>Hacking</track>
+                <persons>
+                    <person id="78">Josie</person>
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/GVCTEP/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/GVCTEP/feedback/</feedback_url>
             </event>
         </room>
         <room name="Delphinus" guid="fec936b1-677b-5651-ab21-30727f668d08">
@@ -2672,11 +2706,13 @@ Your workshop leader is a professional trainer and an advanced member of Toastma
                 <language>en</language>
                 <description>There is a Battlesnake Tournament today. You can compete with other Battlesnakes, but what if you don't have one? Lets dive into the basics and get you a Battlesnake for the tournament!
 
-This workshop is from level 0 to how far we get. What you need to know to participate, is some JavaScript or Python (the workshop is not about learning these languages, but guidance on the Python route will be given). You only need a laptop with internet and an account at 2 websites (steps will be provided upfront to give us more time to battle snakes!).
+This workshop is from level 0 to how far we get. What you need to know to participate, is some JavaScript or Python (the workshop is not about learning these languages, but guidance on the Python route will be given). You only need a laptop with internet. We will create a local environment to host your Battlesnake code and create games.
 
 During the workshop we will build together a basic Battlesnake which is able to complete some levels of achievements. At the end of the workshop, you will be able to bring your Battlesnake to the tournament, which is in the same tent, right after the workshop!
 
-After WHY2025, you can keep programming your Battlesnake to complete more levels. There are even online competitions you can participate in.</description>
+After WHY2025, you can keep programming your Battlesnake to complete more levels. There are even online competitions you can participate in.
+
+The presentation can be found here, handy to have this open as we need to copy some command line codes and URLs during the workshop: https://docs.google.com/presentation/d/1X9k_HOxaj7kuv9qr-zu_ZHfN0qTf6fr99LmDa4riH1Q/edit?usp=sharing</description>
                 <recording>
                     <license />
                     <optout>false</optout>
@@ -2797,6 +2833,74 @@ This is still to be defined.</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/JVAJSK/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/JVAJSK/feedback/</feedback_url>
+            </event>
+            <event guid="ceec9a8e-3522-520f-9b07-0b0c1965c332" id="24">
+                <room>Workshop Giotto</room>
+                <title>TIC-80 workshop &amp; introduction demoscene</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-09T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>01:30</duration>
+                <abstract>Introduction workshop TIC-80 fantasy console &amp; demoscene</abstract>
+                <slug>why2025-24-tic-80-workshop-introduction-demoscene</slug>
+                <track>Wonderful creations</track>
+                <persons>
+                    <person id="45">Dave Borghuis</person>
+                </persons>
+                <language>en</language>
+                <description>In this workshop, you will receive an introduction to the demoscene, a digital art community that emerged in the 1980s and 1990s with the advent of affordable home computers like the Commodore 64 and Amiga. The demoscene, still thriving today, brings enthusiasts together at "demoparties" to create "retro" demos on these vintage systems. Meanwhile, modern hardware enables the use of fantasy consoles like the TIC-80, which offer a retro aesthetic with modern programming languages such as Lua, Python, and JavaScript.
+
+During the hands-on session, attendees will focus on programming the TIC-80 with Lua, gaining practical experience in creating basic demos. By the end of the workshop, participants should be able to craft their first simple TIC-80 demo or be ready to join creative events like the "byte jam." To make the most of this session, please bring a laptop with TIC-80 pre-installed.
+
+Workshop Agenda
+- Introduction to the demoscene and competitions, such as "byte jams"
+- Hands-on session with TIC-80, programming in Lua
+- Guidance on creating simple demos for TIC-80</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/8TBPA7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/8TBPA7/feedback/</feedback_url>
+            </event>
+            <event guid="ca9c566c-a802-5eb0-97a5-d1f7d58f91b6" id="155">
+                <room>Workshop Giotto</room>
+                <title>How to accept digital payments with GNU Taler</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-09T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>01:30</duration>
+                <abstract>ADVICE: It will much fun if you bring your computer and WORK with us :)
+
+GNU Taler is an open protocol implementing digital cash in FOSS. The system is developed by a global community about to be deployed in Europe and beyond
+
+In our workshop YOU will install software and setup a merchant. We will also explain how
+to integrate GNU Taler into new applications and show some highlights of
+ongoing developments and how you can participate.</abstract>
+                <slug>why2025-155-how-to-accept-digital-payments-with-gnu-taler</slug>
+                <track>Wonderful creations</track>
+                <logo>/media/why2025/submissions/7UJWMU/logo-NGI_TALER_Bold_mqTNGdW.png</logo>
+                <persons>
+                    <person id="154">sebasjm</person>
+                </persons>
+                <language>en</language>
+                <description>We will use this repository https://git.taler.net/taler-deployment.git/ You can already clone it and play around. And read the `regional-currency/container/README` setup.
+
+Podman is required to run the setup. https://wiki.debian.org/Podman
+
+There could be a prize for the most active participant :)</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/7UJWMU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/7UJWMU/feedback/</feedback_url>
             </event>
             <event guid="7c64ffd1-4f79-5264-938d-00ff930278f3" id="69">
                 <room>Workshop Giotto</room>
@@ -2920,15 +3024,44 @@ The workshop is free, but if you would like to partake in the hands-on aspects o
                 <date>2025-08-09T15:00:00+02:00</date>
                 <start>15:00</start>
                 <duration>02:00</duration>
-                <abstract>Learn to make your own PCBs with KiCad, a free and open source tool that anyone can learn. For total beginners.
-
-Workshop given by crpesser</abstract>
+                <abstract>Learn to make your own PCBs with **KiCad**, a free and open source tool that anyone can learn.
+    Bring your own computer, ideally also a mouse
+    Please install KiCad9 before the workshop
+        KiCad8 or even KiCad7 are also acceptable if your distro does not have KiCad9</abstract>
                 <slug>why2025-323-kicad-for-beginners</slug>
                 <track>Villages</track>
                 <persons>
                     
                 </persons>
                 <language>en</language>
+                <description>Bring your own computer, ideally also a mouse
+Please install KiCad9 before the workshop
+
+KiCad8 or even KiCad7 are also acceptable if your distro does not have KiCad9
+Linux users can also go for a FlatPak install of KiCad
+Most distros have extra packages for the library, sometimes they are not installed automatically. Make sure you have them as well (does not apply to Windows or Mac users)
+- kicad-symbols
+- kicad-footprints
+- kicad-packages3D
+
+The workshop consist of 15-20 minutes introduction and demo, then you will replicate the demo
+
+ A handout will help you to remember all the steps
+ Experienced KiCad users will be there to answer all your questions
+ At the end of the workshop you will have designed a functional PCB
+
+It will teach you how to
+       - create a schematic drawing
+       - assign physical components (footprints)
+       - place them on the board
+       - layout (routing) of the board
+       - ordering
+       - and various bit and tricks
+    It will not include electronics design stuff. We focus on the usage of the software
+
+The handout for the workshop can be found here: https://gitlab.com/evils/kicad-workshop/-/blob/main/handout.pdf (you don't need to prepare it, I will bring plenty of copies)
+
+Workshop given by cpresser</description>
                 <recording>
                     <license />
                     <optout>true</optout>
@@ -3170,8 +3303,82 @@ This CTF is being developed by Stichting Cyberbrein.
                 <url>https://program.why2025.org/why2025/talk/MRSEAE/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/MRSEAE/feedback/</feedback_url>
             </event>
+            <event guid="d77d4abb-5e9a-5065-a068-cfcec42b03f1" id="371">
+                <room>Family Zone</room>
+                <title>Paper planes</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-09T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>01:00</duration>
+                <abstract>One book with plenty of paper plane models to choose from. I bring some experience in how to fold them and 500 sheet of paper.</abstract>
+                <slug>why2025-371-paper-planes</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/VWBWBG/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/VWBWBG/feedback/</feedback_url>
+            </event>
+            <event guid="e3146228-caab-5d1a-9ddd-b05806e629f6" id="357">
+                <room>Family Zone</room>
+                <title>Black-light-painting</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-09T22:00:00+02:00</date>
+                <start>22:00</start>
+                <duration>01:30</duration>
+                <abstract>This night-time workshop involves working with fluorescent colors under black light. Participants paint in a darkened room in which only the colors and contours are visible through UV light.</abstract>
+                <slug>why2025-357-1-black-light-painting</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>[https://wiki.why2025.org/Team:Family/black-light-painting](https://wiki.why2025.org/Team:Family/black-light-painting)</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/KZBAQU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/KZBAQU/feedback/</feedback_url>
+            </event>
         </room>
         <room name="Party Stage" guid="561b70ba-f1d5-5f92-bcde-7f056905df90">
+            <event guid="27dfba3e-09a7-5aec-be10-5a23adc92e6f" id="70">
+                <room>Party Stage</room>
+                <title>Gasman's ZX Spectrum Chiptune Phenomenon</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-09T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>01:00</duration>
+                <abstract>Demo scene legend and ZX Spectrum rockstar Gasman transports you back to the 1980s with uplifting chiptune melodies, electrifying keytar solos, and quirky songs about robots, love and jetpacks.</abstract>
+                <slug>why2025-70-gasman-s-zx-spectrum-chiptune-phenomenon</slug>
+                <track>Entertainment</track>
+                <logo>/media/why2025/submissions/PZPWXF/gasman-diggerdiggerbee-comp_bcZ70gw.jpg</logo>
+                <persons>
+                    <person id="96">Gasman</person>
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/PZPWXF/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/PZPWXF/feedback/</feedback_url>
+            </event>
             <event guid="9734da3f-d807-518f-b7b8-680ac2568d84" id="91">
                 <room>Party Stage</room>
                 <title>Synthercise, the chiptune dance fitness experience</title>
@@ -3855,27 +4062,16 @@ There are glitters, diamonds, rainbows and much more! Bring your own design or p
                 <persons>
                     <person>MissMaps</person>
                 </persons>
-                <description>Age range: Aimed at adults but supervised kids welcome.</description>
+                <description>Age range: Aimed at adults but supervised kids welcome.
+We will start with a short introduction on how web maps work and how the Why25 map is set up. 
+
+Then we can go set up our own little web page with a map! Bring your laptop if you want to try: HTML, CSS and JS experience comes in handy.</description>
                 <date>2025-08-09T14:00:00+02:00</date>
                 <start>14:00</start>
                 <duration>01:30</duration>
             </event>
         </room>
         <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
-            <event guid="facd9967-eb29-5832-af66-f888d80e5a49">
-                <title>How to get a new TV without paying. Phishing panels for the win!</title>
-                <track>Self Organized Sessions</track>
-                <abstract>How to get a new TV without paying. Phishing panels for the win!</abstract>
-                <type>Talk</type>
-                <persons>
-                    <person>Cyb0rg42</person>
-                </persons>
-                <description>This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. 
-The second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.</description>
-                <date>2025-08-09T14:00:00+02:00</date>
-                <start>14:00</start>
-                <duration>01:00</duration>
-            </event>
             <event guid="1936a291-fcec-5eac-b0fc-8a2dbc00b1ce">
                 <title>The take-down process</title>
                 <track>Self Organized Sessions</track>
@@ -3885,7 +4081,7 @@ The second part of the presentation includes a live demo of a phishing panel. Us
                 <persons>
                     <person>Markov</person>
                 </persons>
-                <language>en</language>
+                <language>nl</language>
                 <description>Age range: 16+
 We all speak high about privacy and safety of internet use. The EU also has extensive legislation to protect people, businesses, and copyright holders.  However, in my experience, projects have very successful ways to make it difficult to execute your rights.  To name a few tricks: it's hard to find the source data collection, there are many data collections, you are required to deliver a difficult proof you have legal rights, and all processes are different.
 
@@ -3896,8 +4092,8 @@ The very good reason to make submission of take-down requests hard, is that hand
 The Lethe project tries to simplify the submission of take-down requests to many data collectors at the same time.  It defines a clear template and collects various proofs about the claim by the submitter.  Then, it does not only distribute the request, but also shares the effort that participating data maintainers put in handling the claim.  For instance, NCSC-NL might report: "server shutdown", so the search engine index maintainer does not have to handle the request anymore, simply remove the pages from the index.
 
 We will present the first steps towards this standardization, looking for contributors and funding.  Hopefully, this workshop starts a healthy debate.</description>
-                <date>2025-08-09T13:30:00+02:00</date>
-                <start>13:30</start>
+                <date>2025-08-09T21:00:00+02:00</date>
+                <start>21:00</start>
                 <duration>00:30</duration>
             </event>
         </room>
@@ -4083,6 +4279,24 @@ morse-code-led-blinker
                 <duration>01:00</duration>
             </event>
         </room>
+        <room name="Village:Gadget Friday" guid="3171b226-6187-55df-bdbe-68fbd6743858">
+            <event guid="01339610-31ca-54f2-8bad-067129e5957d">
+                <title>Personalized Velcro Patches</title>
+                <track>Self Organized Sessions</track>
+                <abstract>I can make you a personalized velcro patch for your WHY hoody or t-shirt.</abstract>
+                <type>Other</type>
+                <persons>
+                    <person>RHL</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: All ages
+I've got patches, a bunch of colored vinyl, a small plotter and a mini-heat press. With these, I can make a personalized velcro patches to jazz up your festival hoody or t-shirt, which has a spot for this on the sleeve. I ask a small fee to cover the materials.</description>
+                <subtitle>Drop by in this time-frame - making patch takes 10 minutes</subtitle>
+                <date>2025-08-09T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>02:00</duration>
+            </event>
+        </room>
         <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
             <event guid="80836f77-2119-59d9-93a7-bacfa5419fd3">
                 <title>Past Presentation Cinema</title>
@@ -4191,6 +4405,7 @@ It costs €25 for a kit to take home.
 
 Requirements:
 Bring your laptop, we will be installing Arduino Cloud Agent and a USB-C Data cable ( Two cables would be better). 
+If you do not have a USB C cable, you can buy one in the supermarket. 
 
 If you have time, install this before the workshop https://cloud.arduino.cc/download-agent/
 
@@ -4198,7 +4413,7 @@ Workshop given by [https://chaos.social/@tdr112 Jeffrey Roe].
 
 Materials cost: €25
 
-[https://events.ccc.de/congress/2024/hub/de/dereferrer/https://docs.google.com/presentation/d/1wtO9P6p4a-CL3omzcWdf-vDEWegklzHMaalzUt9Qii8/edit%3Fusp=sharing Link To Slides]
+[https://docs.google.com/presentation/d/1wtO9P6p4a-CL3omzcWdf-vDEWegklzHMaalzUt9Qii8/edit?usp=sharing Link To Slides]
 
 You can find me around the Hacking Area Village if you want to pre-buy the parts for the workshop.
 I can take payment via PayPal, Revolut, IBAN, or cash
@@ -4441,8 +4656,8 @@ Let’s share stories, flavors, and maybe even organize a casual tasting session
 This is your chance to discover beers you'd never find outside your region — unless you're here, at this Camp.
 
 ---- Timeslots will follow ----</description>
-                <date>2025-08-09T16:00:00+02:00</date>
-                <start>16:00</start>
+                <date>2025-08-09T14:30:00+02:00</date>
+                <start>14:30</start>
                 <duration>01:30</duration>
             </event>
         </room>
@@ -4545,6 +4760,39 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
             </event>
         </room>
         <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
+            <event guid="2cfecc93-5986-50ee-8c24-4b28a74cbec5">
+                <title>Batik T-Shirts</title>
+                <track>Self Organized Sessions</track>
+                <abstract>You will create your own wonderful batik t-shirts. Everybody is welcome (kids, grown-ups, aliens, whatever)</abstract>
+                <type>Hands-On</type>
+                <persons>
+                    <person>DrScream</person>
+                </persons>
+                <language>de</language>
+                <description>Is for kids
+Age range: All ages
+= About =
+
+[[File:Hippybatik.jpg|frame]]
+
+We will create some wonderful batik t-shirts during the camp. Everybody is welcome - it could be a kids session but we also have t-shirts for grown ups.
+We've done some batik sessions on other camps in the past but somehow lost focus the last years. So this is a revival :-)
+
+= Location =
+
+Kid's Space
+
+= What do we provide =
+
+We've special organic batik color, binding threads and lot's of white t-shirts. But feel free to bring your own t-shirt - everything is possible! This session is provided for free, feel free to donate at the camp side.
+
+* ~40 kids t-shirts in different sizes (5y-14y)
+* ~40 grown up shirts in different sizes (M-3XL)
+* ~40 fitted grown up shirts in different sizes (S-XXL)</description>
+                <date>2025-08-09T11:30:00+02:00</date>
+                <start>11:30</start>
+                <duration>01:30</duration>
+            </event>
             <event guid="9b967496-1e7b-5473-ae3e-b08381b7b39a">
                 <title>Rust tutorial and Port Scanner</title>
                 <track>Self Organized Sessions</track>
@@ -4560,9 +4808,13 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
             <event guid="4c06b457-324f-5d2c-b903-ca09d700f1f8">
                 <title>Forget all your previous instructions</title>
                 <track>Self Organized Sessions</track>
-                <abstract>We will discuss security vulnerabilities of LLMs</abstract>
+                <abstract>Noob to hero guide in Prompt Injection.</abstract>
                 <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-                <type>Talk</type>
+                <type>Hands-On</type>
+                <persons>
+                    <person>Fizzy</person>
+                </persons>
+                <language>en</language>
                 <description>Age range: 16+</description>
                 <date>2025-08-09T13:00:00+02:00</date>
                 <start>13:00</start>
@@ -4619,6 +4871,20 @@ Interzonal Garden Retreat : A soft space for rest, play, and gentle recalibratio
                 <date>2025-08-09T00:00:00+02:00</date>
                 <start>00:00</start>
                 <duration>00:10</duration>
+            </event>
+            <event guid="dbbb4187-16a1-5388-ae65-70b76231f9a9">
+                <title>Elixir (embedded) programming language</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Introduction to everything related to Elixir, and we'll dive into Nerves Project (embedded Elixir)</abstract>
+                <type>Workshop</type>
+                <persons>
+                    <person>Noegip</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: All ages</description>
+                <date>2025-08-09T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>01:00</duration>
             </event>
         </room>
     </day>
@@ -4968,6 +5234,31 @@ The goal is simple: to take back control from black-box devices and start design
                 <url>https://program.why2025.org/why2025/talk/8VGLJQ/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/8VGLJQ/feedback/</feedback_url>
             </event>
+            <event guid="cb4c1ad1-eecf-5c82-ba50-c3f521caadd5" id="156">
+                <room>Andromeda</room>
+                <title>EntrySign: create your own x86 microcode for fun and profit</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-10T23:00:00+02:00</date>
+                <start>23:00</start>
+                <duration>00:50</duration>
+                <abstract>We present EntrySign, a cryptographic flaw in AMD’s microcode patch verification logic, including how we discovered the bug and how you can extend our results. EntrySign lets us execute arbitrary microcode on all AMD CPUs from Zen to Zen 5 and modify the behavior of x86 instructions. We will delve into the format of AMD microcode, how their patches are verified, how we were able to reverse engineer this process, and how we were able to access the key information required to defeat it.</abstract>
+                <slug>why2025-156-entrysign-create-your-own-x86-microcode-for-fun-and-profit</slug>
+                <track>Hacking</track>
+                <persons>
+                    <person id="173">Nspace</person>
+                    <person id="266">spq</person>
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/9WTQU3/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/9WTQU3/feedback/</feedback_url>
+            </event>
         </room>
         <room name="Brachium" guid="25593d36-9931-5732-ad11-30590e097400">
             <event guid="1cd09fc0-ed65-5761-95b3-4086ec51b8af" id="18">
@@ -5269,6 +5560,35 @@ This will include
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/BVSMJZ/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/BVSMJZ/feedback/</feedback_url>
+            </event>
+            <event guid="46a10a4c-8ba7-55a9-a226-81a20b437364" id="154">
+                <room>Brachium</room>
+                <title>Quantum computers: the ultimate hacking machines</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-10T23:00:00+02:00</date>
+                <start>23:00</start>
+                <duration>00:50</duration>
+                <abstract>This is a first introduction to quantum computers.</abstract>
+                <slug>why2025-154-quantum-computers-the-ultimate-hacking-machines</slug>
+                <track>The square hole</track>
+                <persons>
+                    <person id="171">Koen Groenland</person>
+                </persons>
+                <language>en</language>
+                <description>This is a first introduction to quantum computers: no prior background needed. We will discuss how quantum mechanics, a theory of microscopic particles, contains counter-intuitive effects like superposition and entanglement. Schrödinger’s cat is an iconic example, where the poor animal is both dead and alive at the same. Interestingly, the same laws of nature make it possible to build an extended set of algorithms, with speedups beyond what we can achieve ‘classically’. 
+
+I’ll show how we can program today’s quantum computers and show a short live demonstration of the Python package Qiskit. We will learn how to write code that creates something equivalent to Schrödinger’s cat. 
+
+Then, we will look at one of the most impactful applications. Quantum computers turn out to be incredible hacking machines, making it straightforward to crack widely-used encryption schemes such as RSA and Elliptic Curve Cryptography. We will discuss how long it will take until we have sufficiently large devices, and what alternative cryptography we can fall back to.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CDGWTU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CDGWTU/feedback/</feedback_url>
             </event>
         </room>
         <room name="Cassiopeia" guid="297e6ee2-da82-5d43-9b79-d4b0493b8a3a">
@@ -5603,7 +5923,7 @@ In this talk, I’ll explain what a DSL is and is made up of, and why you‘d wa
                 <type>Workshop (120 minutes)</type>
                 <date>2025-08-10T21:00:00+02:00</date>
                 <start>21:00</start>
-                <duration>02:00</duration>
+                <duration>01:50</duration>
                 <abstract>The classic Jeopardy! game show format, but now with hacker answers... can you give the right questions to them? You can join as a team or enjoy it from the audience!
 
 Sign your team up (max 3 people) at jeopardy@why2025.org
@@ -5623,6 +5943,34 @@ If you were one of the winning teams of the first round, make sure to attend! :)
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/HKMELA/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/HKMELA/feedback/</feedback_url>
+            </event>
+            <event guid="5abbc550-1e4f-575f-a6f6-89dd6abf8303" id="239">
+                <room>Cassiopeia</room>
+                <title>I donated a kidney (and maybe you can too)</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-10T23:00:00+02:00</date>
+                <start>23:00</start>
+                <duration>00:50</duration>
+                <abstract>*WHY* did I donate a kidney?
+*H*ow did I donate a kidney?
+*Y*ou might want to donate a kidney!</abstract>
+                <slug>why2025-239-i-donated-a-kidney-and-maybe-you-can-too</slug>
+                <track>Hacking</track>
+                <logo>/media/why2025/submissions/WJQNXZ/web-img_33HmZVG.png</logo>
+                <persons>
+                    <person id="207">Peetz0r</person>
+                </persons>
+                <language>en</language>
+                <description>Donating a kidney is quite a thing. But it also isn't. But mostly, it is. I will talk about all the aspects (personal, technical, logistical, ethical) of the process. Lots of related but entirely different things. How does it affect me? How long did it take? What does everything look like? What do the numbers mean? What does it feel like? Can you do the same? Should you do the same? Who shouldn't do it? WHY?</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/WJQNXZ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/WJQNXZ/feedback/</feedback_url>
             </event>
         </room>
         <room name="Delphinus" guid="fec936b1-677b-5651-ab21-30727f668d08">
@@ -5931,6 +6279,45 @@ The workshop slot is around 2 hours, if you aren't done in that time you'll be a
                 <url>https://program.why2025.org/why2025/talk/QH8SS9/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/QH8SS9/feedback/</feedback_url>
             </event>
+            <event guid="dedcf2e5-e8d4-5a2f-8a68-c6e5129a3a16" id="123">
+                <room>Workshop Euclid</room>
+                <title>Shibari 102 - Rope Bondage for Beginners</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-10T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>02:00</duration>
+                <abstract>We are likely replacing this workshop with the 101, which was cancelled on Friday. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs) for the latest information.
+
+@DoodleMe, @KnottyLola and team will take you through some further concepts of Japanese rope bondage (Shibari). This is an 18+ workshop. Bring blanket &amp; rope if you have it. Follow up to Shibari 101, but having attended 101 is not required.</abstract>
+                <slug>why2025-123-shibari-102-rope-bondage-for-beginners</slug>
+                <track>The square hole</track>
+                <logo>/media/why2025/submissions/JDL3HF/ChatGPT_Image_Jul_28_2025_at_08_15_50_AM_DXVsmVV.png</logo>
+                <persons>
+                    <person id="95">DoodleMe</person>
+                    <person id="377">KnottyLola</person>
+                </persons>
+                <language>en</language>
+                <description>We are likely replacing this workshop with the 101, which was cancelled on Friday. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs) for the latest information.
+
+Instructor @DoodleMe, @KnottyLola, and team will take you through some more of the concepts of Japanese rope bondage (Shibari). You'll build on the theory and knots covered in the first class.
+
+This peer based workshop is aimed at those with some experience or who attended the 101 class. It is not necessary to have attended the 101 class, but we will be moving at a fast pace over what we already covered.
+
+Singles, pairs and groups are welcome. Spots are limited based on the size of the workshop space. First come first serve. No dress code, but it's suggested you avoid loose clothing as this makes it harder to tie. 
+
+Please bring your own (non-stretchy) rope if you have it. A bring a blanket or something else comfy to sit on the floor without shoes is useful too. Workshop will be taught in English.
+
+The workshop is entirely "lab mode" and there is no sexual content, but it remains for over 18's only.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/JDL3HF/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/JDL3HF/feedback/</feedback_url>
+            </event>
             <event guid="7254bc0f-e729-5db9-97fa-17692bfd5e90" id="282">
                 <room>Workshop Euclid</room>
                 <title>Build up for Dijkstra &amp; Evenblij - Ter Plekke</title>
@@ -6084,6 +6471,35 @@ _/ ____\____ |  |    __| _/|__| ____
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/WQ7BK8/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/WQ7BK8/feedback/</feedback_url>
+            </event>
+            <event guid="ecf2e57d-a56c-5d73-a8a1-4e8e344fe90f" id="261">
+                <room>Workshop Giotto</room>
+                <title>Energizer for brains and bones</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-10T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>01:00</duration>
+                <abstract>energizer for body and mind: hand-eye-coordination, left-and-right-side-of-the-brain-training, socializing, playing ... and lots of laughs :o)</abstract>
+                <slug>why2025-261-0-energizer-for-brains-and-bones</slug>
+                <track>Yearn for a better future</track>
+                <persons>
+                    <person id="250">Dana</person>
+                </persons>
+                <language>en</language>
+                <description>Hi, I am Dana and work as a teamtrainer / outdoor guide. I work with kids, teens, adults - and I am ever so often amazed how easy and fast we are connecting with each other while moving and laughing and trying to do more or less ridiculous tasks. We do a lot of playing and trying out stuff. I am very looking forward to having fun and inspiring (a bit of) our muscles and minds together :o)
+Most of the games and exercises are suitable for persons in wheelchairs or otherwise bodily constricted; we will take whatever challenge it takes to find adaptions for the tasks at hand, so everyone can join in.
+HOW MANY: min 8, max 30 persons.
+HOW OLD: min. 6 years old, only when accompanied by an adult.
+HOW LONG: max 50 minutes, so that you will have time to reach the next thing in time - the smaller the group, the earlier the end.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/AVK8PL/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/AVK8PL/feedback/</feedback_url>
             </event>
             <event guid="e6b51788-49ef-51d1-bb15-526c033bca73" id="221">
                 <room>Workshop Giotto</room>
@@ -6530,31 +6946,6 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/XX97KC/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/XX97KC/feedback/</feedback_url>
-            </event>
-            <event guid="e3146228-caab-5d1a-9ddd-b05806e629f6" id="357">
-                <room>Family Zone</room>
-                <title>Black-light-painting</title>
-                <subtitle />
-                <type>Workshops (90 minutes)</type>
-                <date>2025-08-10T22:00:00+02:00</date>
-                <start>22:00</start>
-                <duration>01:30</duration>
-                <abstract>This night-time workshop involves working with fluorescent colors under black light. Participants paint in a darkened room in which only the colors and contours are visible through UV light.</abstract>
-                <slug>why2025-357-1-black-light-painting</slug>
-                <track>Villages</track>
-                <persons>
-                    
-                </persons>
-                <language>en</language>
-                <description>[https://wiki.why2025.org/Team:Family/black-light-painting](https://wiki.why2025.org/Team:Family/black-light-painting)</description>
-                <recording>
-                    <license />
-                    <optout>true</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/KZBAQU/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/KZBAQU/feedback/</feedback_url>
             </event>
         </room>
         <room name="Party Stage" guid="561b70ba-f1d5-5f92-bcde-7f056905df90">
@@ -7413,6 +7804,22 @@ How we designed our disability cards to make daily life easier.
                 <duration>00:30</duration>
             </event>
         </room>
+        <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
+            <event guid="facd9967-eb29-5832-af66-f888d80e5a49">
+                <title>How to get a new TV without paying. Phishing panels for the win!</title>
+                <track>Self Organized Sessions</track>
+                <abstract>How to get a new TV without paying. Phishing panels for the win!</abstract>
+                <type>Talk</type>
+                <persons>
+                    <person>Cyb0rg42</person>
+                </persons>
+                <description>This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. 
+The second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.</description>
+                <date>2025-08-10T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
         <room name="Village:Fablab/Fabacademy" guid="01113e6f-6aa5-5e6f-9b6b-64b3a6b3a7e3">
             <event guid="b16b6e3f-9d4c-517f-9963-c63d2a892528">
                 <title>KiCad workshop featuring the Fab lib</title>
@@ -7495,35 +7902,22 @@ To add your own cheese, add it to the wiki below
                 <duration>02:00</duration>
             </event>
         </room>
-        <room name="Village:Frubar" guid="6acbf8b8-ded5-5f6f-b218-b466625596bd">
-            <event guid="2cfecc93-5986-50ee-8c24-4b28a74cbec5">
-                <title>Batik T-Shirts</title>
+        <room name="Village:Gadget Friday" guid="3171b226-6187-55df-bdbe-68fbd6743858">
+            <event guid="17894be1-749c-592f-9a21-bda65b8ad668">
+                <title>Personalized Velcro Patches</title>
                 <track>Self Organized Sessions</track>
-                <abstract>You will create your own wonderful batik t-shirts. Everybody is welcome (kids, grown-ups, aliens, whatever)</abstract>
-                <type>Hands-On</type>
+                <abstract>I can make you a personalized velcro patch for your WHY hoody or t-shirt.</abstract>
+                <type>Other</type>
                 <persons>
-                    <person>DrScream</person>
+                    <person>RHL</person>
                 </persons>
-                <language>de</language>
-                <description>Is for kids
-Age range: All ages
-= About =
-
-[[File:Hippybatik.jpg|frame]]
-
-We will create some wonderful batik t-shirts during the camp. Everybody is welcome - it could be a kids session but we also have t-shirts for grown ups.
-We've done some batik sessions on other camps in the past but somehow lost focus the last years. So this is a revival :-)
-
-= What do we provide =
-
-We've special organic batik color, binding threads and lot's of white t-shirts. But feel free to bring your own t-shirt - everything is possible! This session is provided for free, feel free to donate at the camp side.
-
-* ~40 kids t-shirts in different sizes (5y-14y)
-* ~40 grown up shirts in different sizes (M-3XL)
-* ~40 fitted grown up shirts in different sizes (S-XXL)</description>
+                <language>en</language>
+                <description>Age range: All ages
+I've got patches, a bunch of colored vinyl, a small plotter and a mini-heat press. With these, I can make a personalized velcro patches to jazz up your festival hoody or t-shirt, which has a spot for this on the sleeve. I ask a small fee to cover the materials.</description>
+                <subtitle>Drop by in this time-frame - making patch takes 10 minutes</subtitle>
                 <date>2025-08-10T14:00:00+02:00</date>
                 <start>14:00</start>
-                <duration>01:30</duration>
+                <duration>02:00</duration>
             </event>
         </room>
         <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
@@ -7695,8 +8089,8 @@ The Pancake village will be right next to the (main) Andromeda track.
                 <language>en</language>
                 <description>Age range: All ages
 In this demonstration we are going to show how to find the signals of a NAND flash chip (i.e. CLE, ALE, RE, WE, CE etc). This can be used in for example a broken SD-card. An SD-Card has a controller and an internal connection to a NAND Flash chip. If the controller is broken it might be possible to access the NAND flash to get to the raw data. But in some cases the connections are unknown. This method demonstrates how to find these NAND flash signals by using an FPGA and do an exhaustive search by sending commands to the chip in all possible combinations until a response is received from the chip.</description>
-                <date>2025-08-10T11:00:00+02:00</date>
-                <start>11:00</start>
+                <date>2025-08-10T17:00:00+02:00</date>
+                <start>17:00</start>
                 <duration>01:00</duration>
             </event>
         </room>
@@ -7872,6 +8266,35 @@ Uns macht die aktuelle politische Entwicklung große Sorgen. Daher organisieren 
                 <start>12:00</start>
                 <duration>00:45</duration>
             </event>
+            <event guid="1d4e2ac9-76fe-5e46-8cfb-f86e273ca071">
+                <title>Tor Operators Meetup</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Meet other Tor Operators, or come to learn and become one!</abstract>
+                <url>https://wiki.why2025.org/Project:Tor_Relays</url>
+                <type>Discussion</type>
+                <persons>
+                    <person>Ahf</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: All ages
+Hey folks,
+
+Let's meet in 2 days, on Sunday, 2025-08-10, from 17:00 to 18:00, at the 
+BornHack star tent in the Loud North cluster[1]. Both BornHack and 
+ANDERSTORPSFESTIVALEN won't be blasting out music during this time, so 
+we'll hopefully have a meeting where we can hear each other.
+
+Remember, Morgan has a talk[2] tomorrow on their work on Gosling and 
+Ricochet-Refresh at 19:00 in Brachium.
+
+Hope you have a joyful festival!
+
+Cheers,
+Alex</description>
+                <date>2025-08-10T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>01:00</duration>
+            </event>
         </room>
     </day>
     <day index="5" date="2025-08-11" start="2025-08-11T04:00:00+02:00" end="2025-08-12T03:59:00+02:00">
@@ -7926,6 +8349,39 @@ Uns macht die aktuelle politische Entwicklung große Sorgen. Daher organisieren 
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/EHZBQB/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/EHZBQB/feedback/</feedback_url>
+            </event>
+            <event guid="6a6e798c-7614-54de-a525-cd3626fd6ef4" id="222">
+                <room>Andromeda</room>
+                <title>Decoding RFID: A comprehensive overview of security, attacks, and the latest innovations</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-11T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>00:50</duration>
+                <abstract>RFID reverse engineering has seen significant advancements, yet a comprehensive overview of the field remains scattered across research and practitioner communities. 
+Here the authors presents a structured survey of existing RFID technologies, encryption protocols, and known attack methodologies.  Take the opportunity to listen to both Kirils' practical experiences and the deep insights of Iceman when it comes to RFID hacking.</abstract>
+                <slug>why2025-222-decoding-rfid-a-comprehensive-overview-of-security-attacks-and-the-latest-innovations</slug>
+                <track>Hacking</track>
+                <persons>
+                    <person id="220">Kirils Solovjovs</person>
+                    <person id="244">Iceman</person>
+                </persons>
+                <language>en</language>
+                <description>The talk will cover:
+1) An overview of RFID types, including both low-frequency (LF) and high-frequency (HF) cards, briefly touching upon ultra-high-frequency (UHF) systems as well.
+2) A breakdown of encryption protocols used in RFID security, highlighting their strengths and weaknesses.
+3) A review of documented attacks, including cloning, sniffing, relay, cryptographic, and side-channel techniques.  
+
+Additionally, analysis of the latest developments in magic RFID cards will be presented.
+Findings are based on an aggregation of academic research, industry reports, and hands-on testing of RFID systems in real-world environments.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/MWLGZB/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/MWLGZB/feedback/</feedback_url>
             </event>
             <event guid="66bc881e-64d4-5511-96eb-73549f777880" id="274">
                 <room>Andromeda</room>
@@ -8249,6 +8705,36 @@ Want to join this ByteJ am as coder? Check with Dave / zeno4ever for the possibi
                 <url>https://program.why2025.org/why2025/talk/ZRBZAC/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/ZRBZAC/feedback/</feedback_url>
             </event>
+            <event guid="3377f6aa-4668-5aa4-a3c0-4a2d7dea0cff" id="268">
+                <room>Andromeda</room>
+                <title>Flipping Bits: Your Credentials Are Certainly Mine</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-11T23:00:00+02:00</date>
+                <start>23:00</start>
+                <duration>00:50</duration>
+                <abstract>Did you know that if you change a single bit from 1 to 0 (or vice versa) in the first 'g' of the domain name google.com (which is 01100111 in binary) you will end up with variety of valid "bitflip" domains like coogle.com, oogle.com, &amp; woogle.com
+
+So what happens if you generate and register a bunch of cheap bitfliped versions of popular cloud / Saas provider domains, point them to your VPS, log all incoming requests &amp; then forget about the whole thing for two years?</abstract>
+                <slug>why2025-268-flipping-bits-your-credentials-are-certainly-mine</slug>
+                <track>Hacking</track>
+                <persons>
+                    <person id="284">STÖK</person>
+                    <person id="289">joohoi</person>
+                </persons>
+                <language>en</language>
+                <description>Well you will in fact receive a stiff bill, generate huge log files and eventually run out of disk space. But on the upside, you will also have collected a treasure trove of legit credentials &amp; interesting stuff like valid OAuth refresh tokens, JWT tokens, bearers, cookies, emails, meeting invites with passwords &amp; truckloads of internet scanner noise.
+
+In this session we will revisit bitflip research from the last decade and weponize it. Showcase 'Certainly' a pioneering offensive / defensive tool that employs Wildcard DNS matching &amp; on-the-fly generated SSL certificates and custom payloads for incoming requests across various protocols. All with the intention to downgrade security, harvest credentials, capture emails and replacing dependencies with custom "malicious" payloads</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/WQEGCU/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/WQEGCU/feedback/</feedback_url>
+            </event>
         </room>
         <room name="Brachium" guid="25593d36-9931-5732-ad11-30590e097400">
             <event guid="7ae8963d-9c00-51b7-86bd-d3231e8f3d55" id="255">
@@ -8567,6 +9053,30 @@ This talk isn’t just about what’s possible—it’s about what we must deman
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/WDPPRA/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/WDPPRA/feedback/</feedback_url>
+            </event>
+            <event guid="693de6c7-02ab-5e78-a98a-43bb3ba969ae" id="187">
+                <room>Brachium</room>
+                <title>❤️ Failure - Unbreakable security by breaking things</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-11T23:00:00+02:00</date>
+                <start>23:00</start>
+                <duration>00:50</duration>
+                <abstract>Security teams want to prevent incidents - but what if controlled breaking prevents catastrophic failures? Drawing from aviation safety, chaos engineering, and resilience design, discover why 'unbreakable' security comes from breaking things on purpose. Learn to transform incident culture from blame to learning, implement controlled failure practices, and build psychological safety that turns near-misses into competitive advantages.</abstract>
+                <slug>why2025-187-failure-unbreakable-security-by-breaking-things</slug>
+                <track>Yearn for a better future</track>
+                <persons>
+                    <person id="204">Jelle Niemantsverdriet</person>
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/AATCT7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/AATCT7/feedback/</feedback_url>
             </event>
         </room>
         <room name="Cassiopeia" guid="297e6ee2-da82-5d43-9b79-d4b0493b8a3a">
@@ -8916,6 +9426,60 @@ https://www.youtube.com/watch?v=_j19nTYNWv4</description>
                 <url>https://program.why2025.org/why2025/talk/M3GWAJ/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/M3GWAJ/feedback/</feedback_url>
             </event>
+            <event guid="0b06619e-dfcb-5410-ada9-716b629e995f" id="59">
+                <room>Cassiopeia</room>
+                <title>A journey into reverse engineering arcade PCBs for video game preservation via FPGA emulation</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-11T23:00:00+02:00</date>
+                <start>23:00</start>
+                <duration>00:50</duration>
+                <abstract>Sometimes ago, I embarked on a journey into the world of electronics and FPGA technology with no 
+prior knowledge. What began as passion for retro gaming evolved into a quest for preservation via reverse engineering and FPGA-based emulation. This presentation will share my journey, highlighting the challenges of learning Verilog, the tools, the  resources, and the lessons I learned along the way. By sharing my experiences I hope to inspire others to contribute to preservation of video games.</abstract>
+                <slug>why2025-59-a-journey-into-reverse-engineering-arcade-pcbs-for-video-game-preservation-via-fpga-emulation</slug>
+                <track>Hacking</track>
+                <persons>
+                    <person id="55">Solal Jacob</person>
+                </persons>
+                <language>en</language>
+                <description>**Abstract:**
+
+In an era where classic arcade games risk becoming obsolete, preserving them is  crucial. This presentation chronicles a journey from curiosity to creation, demonstrating how FPGAs can be used to create accurate emulator.
+
+**Introduction to FPGAs:**  
+
+FPGAs are versatile integrated circuits that offer unparalleled flexibility for hardware design. 
+Unlike fixed CPUs or GPUs, FPGAs allow for reconfiguration, making them ideal for creating custom 
+solutions like game emulators. This section will explore the advantages of FPGA-based emulation over 
+traditional software emulators, and the existing plateform like the MiSTeR FPGA.
+
+**Verilog Programming:**  
+
+Verilog is a hardware description language used for defining digital circuits in FPGAs. This 
+part introduces Verilog's role in designing these circuits, and how it differ to traditional 
+programming languages. 
+
+**Reverse Engineering PCBs:**  
+
+This segment breaks down the process of reverse engineering an arcade PCB. From 
+identifying components and they're connections, to reverse custom IC and schematics creation.
+
+**Creating an arcade games core**  
+
+A case study on the creation of an arcade game FPGA core. Challenges faced during development, and specifities of arcade games emulation. 
+
+**Conclusion :** 
+
+The presentation concludes by encouraging attendees to embark on their own journey, offering practical advice and resources tofacilitate their exploration into FPGA-based gaming preservation. The goal is to inspire and equip newcomers with the knowledge and tools to preserve classic arcade games through FPGA emulation.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/3AKXN7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/3AKXN7/feedback/</feedback_url>
+            </event>
         </room>
         <room name="Delphinus" guid="fec936b1-677b-5651-ab21-30727f668d08">
             <event guid="161195d0-46af-573d-a17d-71b0cea49231" id="224">
@@ -9216,7 +9780,7 @@ Future plans for the project include the development of pressurized facilities a
             </event>
         </room>
         <room name="Workshop Euclid" guid="9ccda66b-ad22-535b-be0b-986061963bed">
-            <event guid="ecf2e57d-a56c-5d73-a8a1-4e8e344fe90f" id="261">
+            <event guid="f7386aab-5d34-5193-9e7d-9b38d4d63750" id="261">
                 <room>Workshop Euclid</room>
                 <title>Energizer for brains and bones</title>
                 <subtitle />
@@ -9225,7 +9789,7 @@ Future plans for the project include the development of pressurized facilities a
                 <start>10:30</start>
                 <duration>01:00</duration>
                 <abstract>energizer for body and mind: hand-eye-coordination, left-and-right-side-of-the-brain-training, socializing, playing ... and lots of laughs :o)</abstract>
-                <slug>why2025-261-0-energizer-for-brains-and-bones</slug>
+                <slug>why2025-261-1-energizer-for-brains-and-bones</slug>
                 <track>Yearn for a better future</track>
                 <persons>
                     <person id="250">Dana</person>
@@ -9439,6 +10003,32 @@ Session will be given in english but we talk dutch, french and spanish as well.<
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/TBGDLB/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/TBGDLB/feedback/</feedback_url>
+            </event>
+            <event guid="d802edd0-f394-547f-bf24-4a6e47f1ecaa" id="158">
+                <room>Workshop Giotto</room>
+                <title>Developing harmonized CRA standards</title>
+                <subtitle />
+                <type>Workshop (120 minutes)</type>
+                <date>2025-08-11T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>02:00</duration>
+                <abstract>Workshop on the state of the development of harmonized standards for the CRA, especially those with a strong open source connection.</abstract>
+                <slug>why2025-158-developing-harmonized-cra-standards</slug>
+                <track>The square hole</track>
+                <logo>/media/why2025/submissions/KHGEYX/m606_IL1pNXH.png</logo>
+                <persons>
+                    <person id="107">fukami</person>
+                </persons>
+                <language>en</language>
+                <description>The workshop aims to provide updates on the ongoing work at [ETSI](https://www.etsi.org/) and [CEN-CENELEC](https://www.cencenelec.eu/) regarding [harmonized European standards for the Cyber Resilience Act (CRA)](https://ec.europa.eu/growth/tools-databases/enorm/mandate/606_en), share information on how to participate or just follow the development, and gather questions.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/KHGEYX/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/KHGEYX/feedback/</feedback_url>
             </event>
         </room>
         <room name="Electronics (Hardware Hacking Village)" guid="f34b47c5-4fd1-5f07-bc6f-b9a576b1338a">
@@ -10632,6 +11222,24 @@ Want to learn to make tasty vegan sausages? Experiment with your own flavorings?
                 <duration>02:00</duration>
             </event>
         </room>
+        <room name="Village:Gadget Friday" guid="3171b226-6187-55df-bdbe-68fbd6743858">
+            <event guid="a4fa9900-9a36-5257-9f30-50ff32236846">
+                <title>Personalized Velcro Patches</title>
+                <track>Self Organized Sessions</track>
+                <abstract>I can make you a personalized velcro patch for your WHY hoody or t-shirt.</abstract>
+                <type>Other</type>
+                <persons>
+                    <person>RHL</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: All ages
+I've got patches, a bunch of colored vinyl, a small plotter and a mini-heat press. With these, I can make a personalized velcro patches to jazz up your festival hoody or t-shirt, which has a spot for this on the sleeve. I ask a small fee to cover the materials.</description>
+                <subtitle>Drop by in this time-frame - making patch takes 10 minutes</subtitle>
+                <date>2025-08-11T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>02:00</duration>
+            </event>
+        </room>
         <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
             <event guid="ffbedd9d-737c-544c-8b6c-2343d9fe93c8">
                 <title>Past Presentation Cinema</title>
@@ -10718,39 +11326,6 @@ The prices in the yellow boxes are the materials costs for participating in the 
                 <date>2025-08-11T14:00:00+02:00</date>
                 <start>14:00</start>
                 <duration>01:00</duration>
-            </event>
-            <event guid="3c52004f-c34a-5701-80ae-a1027aca3c91">
-                <title>Build Your Own Satellite Ground Station</title>
-                <track>Self Organized Sessions</track>
-                <abstract>Build and program your ground station and antenna to receive data from space.  For beginners.</abstract>
-                <type>Workshop</type>
-                <persons>
-                    <person>Tdr112</person>
-                </persons>
-                <language>en</language>
-                <description>Age range: All ages
-== Workshop Description ==
-Are you fascinated by space and want to learn how to receive data from satellites and weather probes? In this TinyGS station workshop, you’ll build and program your ground station and antenna to receive data from space. This hands-on, beginner-friendly workshop is perfect for anyone interested in radio, electronics, IOT, antenna design, and space exploration.
-TinyGS is an open community-run network of ground stations distributed around the world to receive and operate LoRa satellites, weather probes, and other flying objects, using cheap and versatile modules. With a TinyGS ground station, you can receive data from a variety of sources, such as CubeSats.
-During the workshop, you’ll learn how to build and program a TinyGS ground station and a quarter-wave ground plane antenna. No prior experience is required.  
-  
-Workshop given by Jeffrey Roe.  
-
-Materials cost: €80
-&lt;br&gt;
-&lt;br&gt;
-[[File:HHA_WHY_logo.png|center|300px]]  
-  
-== Complete Hardware Hacking Area Village Schedule == 
-Workshops are all free to attend.&lt;br&gt;
-The prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.&lt;br&gt;&lt;br&gt;
-[[File:WHY_HHA_schedule.png|720px]]
-  
-== Location of Hardware Hacking Area Village == 
-[[File:HHA_map_WHY.jpg|720px]]</description>
-                <date>2025-08-11T16:00:00+02:00</date>
-                <start>16:00</start>
-                <duration>02:00</duration>
             </event>
             <event guid="2b1e61ee-eabf-5e27-b11d-35aeefe8993c">
                 <title>Solder a Pathlighter Badge</title>
@@ -10941,9 +11516,12 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
             <event guid="d5c89c8b-7c72-576c-bb8a-ca204c0f2d89">
                 <title>KubeVenom</title>
                 <track>Self Organized Sessions</track>
-                <abstract>Talk about building a tool for hacking kubernetes and other cloud environments</abstract>
+                <abstract>Talk about building a C2 framework for attacking kubernetes, pipelines and cloud environments</abstract>
                 <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
                 <type>Talk</type>
+                <persons>
+                    <person>War3nd0z</person>
+                </persons>
                 <language>en</language>
                 <description>Age range: 16+</description>
                 <date>2025-08-11T16:00:00+02:00</date>
@@ -10954,6 +11532,31 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
     </day>
     <day index="6" date="2025-08-12" start="2025-08-12T04:00:00+02:00" end="2025-08-13T03:59:00+02:00">
         <room name="Andromeda" guid="d046f302-efcc-5cea-b2e4-e4f4f8a9c6ba">
+            <event guid="76e0699f-8f15-5c26-8708-6766ffdfea23" id="275">
+                <room>Andromeda</room>
+                <title>Lightning Talks</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-12T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>00:50</duration>
+                <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
+                <slug>why2025-275-lightning-talks</slug>
+                <track>The square hole</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki.Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/EFJTHQ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/EFJTHQ/feedback/</feedback_url>
+            </event>
             <event guid="1b99e296-a39a-5122-91a8-d59e52881f8d" id="241">
                 <room>Andromeda</room>
                 <title>The Well Is Poisoned — Now What Shall We Drink?</title>
@@ -11298,8 +11901,72 @@ The speakers, Nina &amp; Jay, will be based in the Quantum.Amsterdam village ten
                 <url>https://program.why2025.org/why2025/talk/SUCW9S/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/SUCW9S/feedback/</feedback_url>
             </event>
+            <event guid="883e3cf0-7d81-5397-8f18-70ee890e8e9f" id="81">
+                <room>Cassiopeia</room>
+                <title>About Time</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-12T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>00:50</duration>
+                <abstract>A shared understanding of what time it is and the rate at which time progresses is essential in many areas of technology from industrial control to broadcast. There are two main ways of synchronizing time between multiple computers, Network Time Protocol (NTP) and Precision Time Protocol (PTP). NTP is sufficient for certificate validation, but when timing is crucial we need PTP.  In this talk we will take a deep dive into PTP: what it is, how it works, and various ways to abuse it.</abstract>
+                <slug>why2025-81-about-time</slug>
+                <track>Hacking</track>
+                <persons>
+                    <person id="106">pcwizz</person>
+                </persons>
+                <language>en</language>
+                <description>In my previous talks about Audio over IP and AV technologies the Precision Time Protocol has come up repeatedly as something that deserves its own talk. PTP has a wider use case which makes it interesting as a target for shenanigans. The talk aims to consolidate several years of experience and research into a concise understanding of this fundamental technology.
+
+No prior knowledge about PTP or network time will be assumed. Some familiarity with networking basics will be helpful, but not essential.
+
+Warning may contain hacker humor.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/LJ9879/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/LJ9879/feedback/</feedback_url>
+            </event>
         </room>
         <room name="Delphinus" guid="fec936b1-677b-5651-ab21-30727f668d08">
+            <event guid="b44b4648-9fbe-5212-bc81-23bc04e97460" id="157">
+                <room>Delphinus</room>
+                <title>My journey into cloud security</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-12T11:00:00+02:00</date>
+                <start>11:00</start>
+                <duration>00:50</duration>
+                <abstract>An inside look at the challenges I faced while establishing security in a cloud-native environment within a fast-growing fintech company.</abstract>
+                <slug>why2025-157-my-journey-into-cloud-security</slug>
+                <track>The square hole</track>
+                <persons>
+                    <person id="175">Merlos</person>
+                </persons>
+                <language>en</language>
+                <description>The talk is about four years of hands-on experience as a CISO in a fast growing fintech company. During this time, I've had the unique opportunity to build an effective and operational security structure from the ground up within a completely cloud-based setup.
+
+My experience provides a practical roadmap for understanding the critical nuances of approaching security in a full-cloud, product-driven organization. 
+
+We'll delve into topics like:
+* The initial complexities: What happens when you're securing infrastructure that's always changing?
+* Navigating DevSecOps: How do you embed security seamlessly into a fast-paced development culture?
+* Real-world pitfalls: Concrete examples of challenges faced and how we overcame them.
+* Building an effective security posture: Practical insights into creating an operational security framework that actually works in the cloud.
+
+The goal is to share actionable takeaways and lessons learned, helping others anticipate and navigate similar challenges in their own cloud security journeys.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/VJVMV9/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/VJVMV9/feedback/</feedback_url>
+            </event>
             <event guid="22910224-8795-5a06-9b48-c0eeb352decf" id="80">
                 <room>Delphinus</room>
                 <title>The Neuroscience of Psychedelics</title>
@@ -12294,6 +12961,19 @@ Since 2022, Reality Cult has been steadily accessing the Akashic Records (cosmic
 Come with a question. Leave with a breadcrumb trail across lifetimes.
 
 Donation based</description>
+            </event>
+            <event guid="40dd7c6c-3487-51df-883c-cb47f438dc45">
+                <title>Sleeping Hackers &amp; Overnight Fun</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Tune in for GR.A.P.P.A. &amp; fun eveny evening</abstract>
+                <type>Hands-On</type>
+                <language>en</language>
+                <date>2025-08-13T00:00:00+02:00</date>
+                <time>00:00</time>
+                <duration>01:00</duration>
+                <description>Generated time to make session visible, might need an actual date and time
+Age range: 18+
+Tune in every evening near the GR.A.P.P.A. cluster for some drinks and fun, every evening starting from 20:00</description>
             </event>
         </room>
     </day>
