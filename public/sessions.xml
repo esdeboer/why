@@ -562,6 +562,24 @@ Then we can go set up our own little web page with a map! Bring your laptop if y
         <duration>01:30</duration>
       </event>
     </room>
+    <room name="Village:BornHack" guid="68bfdb01-17e6-552d-9850-3f7ad930f5b2">
+      <event guid="cd9e8ab8-51e1-531a-8cca-078f522db8cc">
+        <title>BornHack Party</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Hulu bulu</abstract>
+        <url>https:bornhack.dk</url>
+        <type>Hands-On</type>
+        <persons>
+          <person>Jagenau, Tykling</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: Aimed at adults but supervised kids welcome.
+The known BornHack party with all the usual hijinks.</description>
+        <date>2025-08-09T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>05:00</duration>
+      </event>
+    </room>
     <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
       <event guid="1936a291-fcec-5eac-b0fc-8a2dbc00b1ce">
         <title>The take-down process</title>
@@ -1332,17 +1350,6 @@ We've special organic batik color, binding threads and lot's of white t-shirts. 
         <start>16:00</start>
         <duration>01:00</duration>
       </event>
-      <event guid="820236ab-39eb-50bb-8c1f-04df8ee8723d">
-        <title>How to Become a Red Teamer</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Talk about experiences as a red teamer.</abstract>
-        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-        <type>Talk</type>
-        <description>Age range: 16+</description>
-        <date>2025-08-09T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>01:00</duration>
-      </event>
       <event guid="ace91900-1323-5a05-8fd9-8ad111c1ae63">
         <title>Interz0n3:curated entity, display of entangled fragments</title>
         <track>Self Organized Sessions</track>
@@ -2042,6 +2049,17 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
         <description>Age range: 16+</description>
         <date>2025-08-10T13:00:00+02:00</date>
         <start>13:00</start>
+        <duration>01:00</duration>
+      </event>
+      <event guid="820236ab-39eb-50bb-8c1f-04df8ee8723d">
+        <title>How to Become a Red Teamer</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Talk about experiences as a red teamer.</abstract>
+        <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+        <type>Talk</type>
+        <description>Age range: 16+</description>
+        <date>2025-08-10T16:00:00+02:00</date>
+        <start>16:00</start>
         <duration>01:00</duration>
       </event>
       <event guid="c4bc4514-bf3a-59fd-af8a-199e140b770e">

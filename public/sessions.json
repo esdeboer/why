@@ -270,6 +270,16 @@
     "type": "Workshop"
   },
   {
+    "id": "cd9e8ab8-51e1-531a-8cca-078f522db8cc",
+    "title": "BornHack Party",
+    "description": "Age range: Aimed at adults but supervised kids welcome.\nThe known BornHack party with all the usual hijinks.",
+    "start": "2025-08-09T21:00:00+02:00",
+    "end": "2025-08-10T02:00:00+02:00",
+    "room": "Village:BornHack",
+    "url": "https:bornhack.dk",
+    "type": "Hands-On"
+  },
+  {
     "id": "1936a291-fcec-5eac-b0fc-8a2dbc00b1ce",
     "title": "The take-down process",
     "description": "Age range: 16+\nWe all speak high about privacy and safety of internet use. The EU also has extensive legislation to protect people, businesses, and copyright holders.  However, in my experience, projects have very successful ways to make it difficult to execute your rights.  To name a few tricks: it's hard to find the source data collection, there are many data collections, you are required to deliver a difficult proof you have legal rights, and all processes are different.\n\nHere, I generalize various kinds of \"execute my right\" processes under the name \"take-down requests\".  It could be the wish to take down a physical server, all virtual servers of a certain company, a webpage with proclaimed defamation or other illegal content.\n\nThe very good reason to make submission of take-down requests hard, is that handling them is a labor intensive ad-hoc process. Some requests are clear, but sometimes many different laws and local society feelings have to be considered.  Very certainly, different data maintainers will decide different about the same request.\n\nThe Lethe project tries to simplify the submission of take-down requests to many data collectors at the same time.  It defines a clear template and collects various proofs about the claim by the submitter.  Then, it does not only distribute the request, but also shares the effort that participating data maintainers put in handling the claim.  For instance, NCSC-NL might report: \"server shutdown\", so the search engine index maintainer does not have to handle the request anymore, simply remove the pages from the index.\n\nWe will present the first steps towards this standardization, looking for contributors and funding.  Hopefully, this workshop starts a healthy debate.",
@@ -598,16 +608,6 @@
     "room": "undetermined",
     "url": "https://wiki.why2025.org/Village:Green_Ninjas",
     "type": ""
-  },
-  {
-    "id": "820236ab-39eb-50bb-8c1f-04df8ee8723d",
-    "title": "How to Become a Red Teamer",
-    "description": "Age range: 16+",
-    "start": "2025-08-09T16:00:00+02:00",
-    "end": "2025-08-09T17:00:00+02:00",
-    "room": "undetermined",
-    "url": "https://wiki.why2025.org/Village:Green_Ninjas",
-    "type": "Talk"
   },
   {
     "id": "ace91900-1323-5a05-8fd9-8ad111c1ae63",
@@ -968,6 +968,16 @@
     "room": "undetermined",
     "url": "https://wiki.why2025.org/Village:Green_Ninjas",
     "type": ""
+  },
+  {
+    "id": "820236ab-39eb-50bb-8c1f-04df8ee8723d",
+    "title": "How to Become a Red Teamer",
+    "description": "Age range: 16+",
+    "start": "2025-08-10T16:00:00+02:00",
+    "end": "2025-08-10T17:00:00+02:00",
+    "room": "undetermined",
+    "url": "https://wiki.why2025.org/Village:Green_Ninjas",
+    "type": "Talk"
   },
   {
     "id": "c4bc4514-bf3a-59fd-af8a-199e140b770e",
