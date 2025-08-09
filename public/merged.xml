@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>Day 2 update</version>
+    <version>Another Day 2 update</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -1903,6 +1903,7 @@ After that, we go into all the technical details and difficult decisions that we
                 <persons>
                     <person id="213">Francis Duvivier</person>
                     <person id="381">Edwin Martin</person>
+                    <person id="600">pitastrudl</person>
                 </persons>
                 <language>en</language>
                 <recording>
@@ -2170,8 +2171,8 @@ During the talk we will present the hardware design and the firmware so anyone c
                 <slug>why2025-177-summoning-shenron-building-the-cyber-saiyan-badge</slug>
                 <track>Wonderful creations</track>
                 <persons>
-                    <person id="189">Dario Mas</person>
                     <person id="175">Merlos</person>
+                    <person id="189">Dario Mas</person>
                 </persons>
                 <language>en</language>
                 <recording>
@@ -5552,8 +5553,8 @@ This talk is based on joint research with Peizhou Chen (University of Twente).</
                 <slug>why2025-179-cybersecurity-rant-a-safe-space-to-talk-about-what-annoys-you-in-cybersecurity</slug>
                 <track>Yearn for a better future</track>
                 <persons>
-                    <person id="193">Kseniia Ignatovych</person>
                     <person id="7">Nicolas</person>
+                    <person id="193">Kseniia Ignatovych</person>
                 </persons>
                 <language>en</language>
                 <description>Security-minded people have been raising awareness, setting up processes, creating standards and protocols, finding, fixing and exploiting vulnerabilities for years, cybersecurity industry has hundreds of vendors solving all kinds of security problems, and yet there are more risks uncovered and more breaches happening.
@@ -7670,6 +7671,111 @@ https://wiki.why2025.org/Village:Aid_to_Ukraine</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/C9YYJC/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/C9YYJC/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Quantum Village" guid="4211081b-6f54-571b-8408-1c903438235f">
+            <event guid="1ddd2d72-de44-5c43-ab05-26c1ef07a8e8" id="376">
+                <room>Quantum Village</room>
+                <title>Quantum programming workshop</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-10T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>01:00</duration>
+                <abstract>Quantum programming for all, learn to develop your first quantum circuit and try it out on real quantum computers if possible</abstract>
+                <slug>why2025-376-0-quantum-programming-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>https://wiki.why2025.org/Session:Quantum_programming</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/NAB3PT/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/NAB3PT/feedback/</feedback_url>
+            </event>
+            <event guid="5fb5094f-7e73-5d17-ac9e-3094b9b51bcc" id="377">
+                <room>Quantum Village</room>
+                <title>Talk + AMA: Quantum Computers and Cryptography</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-10T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>01:00</duration>
+                <abstract>Talk + AMA: Quantum Computers and (Quantum) Cryptography, what is BB84 and more . . .</abstract>
+                <slug>why2025-377-talk-ama-quantum-computers-and-cryptography</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>https://wiki.why2025.org/Session:Talk_%2B_AMA:_Quantum_Computers_and_Cryptography</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CQLEVT/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CQLEVT/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Back to the 80s Party Village" guid="c5d30f16-086c-50fc-989a-a7491d4b4e25">
+            <event guid="7c03906d-fe36-57f2-866f-67a5f3debf78" id="372">
+                <room>Back to the 80s Party Village</room>
+                <title>Kraftwerk and Craftwork</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-10T15:30:00+02:00</date>
+                <start>15:30</start>
+                <duration>01:30</duration>
+                <abstract>Come and join us at the Back to the 80s party village for some Kraftwerk and Craftwork! This workshop consists of two parts. First we'll dive into the interesting lyrics of the German music group "Kraftwerk".</abstract>
+                <slug>why2025-372-kraftwerk-and-craftwork</slug>
+                <track>Wonderful creations</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Already in the 1980s, they were working on data ethics. What can we, 45 years later, learn from them? Let's discuss that together (even if you're not familiar with Kraftwerk yet)! Inspired by this band, we'll then continue with the second part: craftwork! We will provide the materials so you can create your own album cover art, for your own imaginary (techno-critical?) band! :)
+https://wiki.why2025.org/Session:Kraftwerk_and_Craftwork</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/VGQKTW/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/VGQKTW/feedback/</feedback_url>
+            </event>
+            <event guid="9f45ba98-5eb7-534a-bbe8-d8b86443b946" id="373">
+                <room>Back to the 80s Party Village</room>
+                <title>The mechanics of the Pinball machine</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-10T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>01:00</duration>
+                <abstract>Live demo: how does a pinball machine actually work?</abstract>
+                <slug>why2025-373-the-mechanics-of-the-pinball-machine</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Follow up from : https://program.why2025.org/why2025/talk/WMXPYU/</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/ZFNMTD/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/ZFNMTD/feedback/</feedback_url>
             </event>
         </room>
         <room name="Village:/media" guid="457f3023-28aa-58de-a844-a9bb82558e38">
@@ -9925,8 +10031,8 @@ But managing access to files and devices from the users perspective is just one 
                 <slug>why2025-244-from-barking-to-meow-mature-pentesting</slug>
                 <track>Hacking</track>
                 <persons>
-                    <person id="184">Brenno de Winter</person>
                     <person id="90">Mischa Rick van Geelen</person>
+                    <person id="184">Brenno de Winter</person>
                 </persons>
                 <language>en</language>
                 <description>This talk introduces MIAUW — Methodology for Information Security Assessment with Audit Value — a structured approach to penetration testing that goes beyond technical exploits to deliver legal defensibility, governance value, and repeatable insight.
@@ -11306,6 +11412,134 @@ https://wiki.why2025.org/Village:Aid_to_Ukraine</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/C9YYJC/feedback/</feedback_url>
             </event>
         </room>
+        <room name="Quantum Village" guid="4211081b-6f54-571b-8408-1c903438235f">
+            <event guid="e97d932b-86a9-50b4-bba5-63fe80fb33e8" id="378">
+                <room>Quantum Village</room>
+                <title>Yiquan training</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-11T10:00:00+02:00</date>
+                <start>10:00</start>
+                <duration>01:00</duration>
+                <abstract>Yiquan training</abstract>
+                <slug>why2025-378-yiquan-training</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>https://wiki.why2025.org/Session:Yiquan_training</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/DXZUTM/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/DXZUTM/feedback/</feedback_url>
+            </event>
+            <event guid="360990a8-d6fb-5db1-b335-477ffd1ed2f4" id="379">
+                <room>Quantum Village</room>
+                <title>WIQD</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>01:00</duration>
+                <abstract>WIQD</abstract>
+                <slug>why2025-379-wiqd</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>https://wiki.why2025.org/Session:WIQD</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/B9CTCQ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/B9CTCQ/feedback/</feedback_url>
+            </event>
+            <event guid="fae71c2d-5e6e-5b6f-9204-a766d957f6b0" id="380">
+                <room>Quantum Village</room>
+                <title>Talk + AMA: Intro to Quantum Computing</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-11T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>01:00</duration>
+                <abstract>Introduction to Quantum computing, beginners level, and the possibility to ask-us-anything</abstract>
+                <slug>why2025-380-talk-ama-intro-to-quantum-computing</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>https://wiki.why2025.org/Session:Introduction_to_Quantum</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/DY7T3T/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/DY7T3T/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Back to the 80s Party Village" guid="c5d30f16-086c-50fc-989a-a7491d4b4e25">
+            <event guid="243e1524-0e56-5d2a-b225-a1139e1accb6" id="374">
+                <room>Back to the 80s Party Village</room>
+                <title>Radio fox hunting</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T11:00:00+02:00</date>
+                <start>11:00</start>
+                <duration>02:00</duration>
+                <abstract>A traditional (radio orienteering) fox hunt. We'll make a few teams that can collaborate in finding our foxy fox!</abstract>
+                <slug>why2025-374-radio-fox-hunting</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/D9CHZZ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/D9CHZZ/feedback/</feedback_url>
+            </event>
+            <event guid="b8b91893-2cc1-5d9c-8969-1fedc30de495" id="375">
+                <room>Back to the 80s Party Village</room>
+                <title>AI Adoption and Accreditation Institute</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-11T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>01:30</duration>
+                <abstract>by Marloes Pomp (European AI Forum), Alban Bastiaan (University of Amsterdam)</abstract>
+                <slug>why2025-375-ai-adoption-and-accreditation-institute</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>The Dutch Ministry of Foreign Affairs is exploring the launch of an AI Adoption and Accreditation Institute for the Netherlands and Europe. This workshop introduces the initiative and invites critical feedback from the hacker community. How can such an institute effectively support AI safety? What should it do—or avoid? Join the conversation and help shape a trusted, open, and resilient AI ecosystem.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/VGKCDH/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/VGKCDH/feedback/</feedback_url>
+            </event>
+        </room>
         <room name="Village:Aid to Ukraine" guid="30153654-380f-5aa4-a9e0-64d27307d22b">
             <event guid="b004701b-7fdf-5225-974a-3b121ab88718">
                 <title>Stop the Bleed @ Aid to Ukraine</title>
@@ -11391,6 +11625,23 @@ Trailer: https://www.youtube.com/watch?v=fes329l6d6U</description>
                 <date>2025-08-11T14:00:00+02:00</date>
                 <start>14:00</start>
                 <duration>01:30</duration>
+            </event>
+        </room>
+        <room name="Village:ChurchOfCryptography" guid="04af8057-d19b-5370-b596-933101cdcfd8">
+            <event guid="b0ba41cd-8fe4-53b4-9f75-a24cf7dfc8fe">
+                <title>Espresso 101</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Learn how to brew delicious espresso, from coffee science to practice.</abstract>
+                <type>Tasting</type>
+                <persons>
+                    <person>Lery</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: All ages
+Come and learn how to make a good espresso, taste a variety of beans, understand what extraction is, and the various parameters you can tweak. We will see how these will change the taste of your shot, and what you can do to do good espressos in a reproducible manner. Are you brewing espresso that is too sour? Too bitter? You'd like tips and tricks, or want to ask your questions about how to improve your favorite morning drink? Look no further, come and join us for a tasty workshop that will leave you caffeinated for the day.</description>
+                <date>2025-08-11T11:30:00+02:00</date>
+                <start>11:30</start>
+                <duration>01:00</duration>
             </event>
         </room>
         <room name="Village:Fablab/Fabacademy" guid="01113e6f-6aa5-5e6f-9b6b-64b3a6b3a7e3">
@@ -12786,6 +13037,33 @@ https://wiki.why2025.org/Village:Aid_to_Ukraine</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/RTDUD7/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/RTDUD7/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="Quantum Village" guid="4211081b-6f54-571b-8408-1c903438235f">
+            <event guid="75784748-932f-5a78-ad08-0507e548d5f6" id="376">
+                <room>Quantum Village</room>
+                <title>Quantum programming workshop</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-12T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>01:00</duration>
+                <abstract>Quantum programming for all, learn to develop your first quantum circuit and try it out on real quantum computers if possible</abstract>
+                <slug>why2025-376-1-quantum-programming-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>https://wiki.why2025.org/Session:Quantum_programming</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/NAB3PT/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/NAB3PT/feedback/</feedback_url>
             </event>
         </room>
         <room name="Village:Aid to Ukraine" guid="30153654-380f-5aa4-a9e0-64d27307d22b">

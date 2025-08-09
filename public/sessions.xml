@@ -2391,6 +2391,23 @@ Trailer: https://www.youtube.com/watch?v=fes329l6d6U</description>
         <duration>01:30</duration>
       </event>
     </room>
+    <room name="Village:ChurchOfCryptography" guid="04af8057-d19b-5370-b596-933101cdcfd8">
+      <event guid="b0ba41cd-8fe4-53b4-9f75-a24cf7dfc8fe">
+        <title>Espresso 101</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Learn how to brew delicious espresso, from coffee science to practice.</abstract>
+        <type>Tasting</type>
+        <persons>
+          <person>Lery</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+Come and learn how to make a good espresso, taste a variety of beans, understand what extraction is, and the various parameters you can tweak. We will see how these will change the taste of your shot, and what you can do to do good espressos in a reproducible manner. Are you brewing espresso that is too sour? Too bitter? You'd like tips and tricks, or want to ask your questions about how to improve your favorite morning drink? Look no further, come and join us for a tasty workshop that will leave you caffeinated for the day.</description>
+        <date>2025-08-11T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
     <room name="Village:Fablab/Fabacademy" guid="01113e6f-6aa5-5e6f-9b6b-64b3a6b3a7e3">
       <event guid="0cfdc2ca-67dd-57ff-b912-fd3b285ad9fa">
         <title>FreeCAD Is All You Need</title>

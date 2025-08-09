@@ -1120,6 +1120,16 @@
     "type": "Workshop"
   },
   {
+    "id": "b0ba41cd-8fe4-53b4-9f75-a24cf7dfc8fe",
+    "title": "Espresso 101",
+    "description": "Age range: All ages\nCome and learn how to make a good espresso, taste a variety of beans, understand what extraction is, and the various parameters you can tweak. We will see how these will change the taste of your shot, and what you can do to do good espressos in a reproducible manner. Are you brewing espresso that is too sour? Too bitter? You'd like tips and tricks, or want to ask your questions about how to improve your favorite morning drink? Look no further, come and join us for a tasty workshop that will leave you caffeinated for the day.",
+    "start": "2025-08-11T11:30:00+02:00",
+    "end": "2025-08-11T12:30:00+02:00",
+    "room": "Village:ChurchOfCryptography",
+    "url": "",
+    "type": "Tasting"
+  },
+  {
     "id": "0cfdc2ca-67dd-57ff-b912-fd3b285ad9fa",
     "title": "FreeCAD Is All You Need",
     "description": "FreeCAD is getting better every year and there are more reasons to use it for your CAD needs than you could possibly imagine. Some people have the prejudice that it is complicated, cumbersome, buggy, but in fact, all CAD packages have a learning curve. The way FreeCAD is different is that it does not lock you in a subscription model, it does not require to log in or make any kind of account, it works and behaves the same on all OS platforms. \n\nIn this session we will cover a rapid way of designing a thing based on several years of experience instructing the Fab Academy and solving CAD problems for other people. Join in and maybe some of that could be useful for you.",
