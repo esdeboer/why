@@ -780,6 +780,16 @@
     "type": "Other"
   },
   {
+    "id": "67fe87c9-14cd-5de6-a84b-9caa1862688b",
+    "title": "Medieval Woodturning",
+    "description": "Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.",
+    "start": "2025-08-10T14:00:00+02:00",
+    "end": "2025-08-10T14:30:00+02:00",
+    "room": "Village:HSNL",
+    "url": "",
+    "type": "Hands-On"
+  },
+  {
     "id": "3f7c933f-dfde-5599-b30a-50dd7d8c469f",
     "title": "Past Presentation Cinema",
     "description": "",
@@ -802,7 +812,7 @@
   {
     "id": "24332a0d-f302-53c1-80ef-0e5aac9189c7",
     "title": "Build Your Own Air Quality Sensor",
-    "description": "Age range: All ages\n== Workshop Description ==\nBuild Your Own Air Quality Sensor  \n\nWorkshop given by Jeffrey Roe  \n\nMaterials cost: \u20ac60\n<br>\n<br>\n[[File:HHA_WHY_logo.png|center|300px]]  \n  \n== Complete Hardware Hacking Area Village Schedule == \nWorkshops are all free to attend.<br>\nThe prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.<br><br>\n[[File:WHY_HHA_schedule.png|720px]]\n  \n== Location of Hardware Hacking Area Village == \n[[File:HHA_map_WHY.jpg|720px]]",
+    "description": "Age range: All ages\n== Workshop Description ==\nBuild Your Own Air Quality Sensor  \n\n\n'''This workshop is now sold out.'''\n\nWorkshop given by Jeffrey Roe  \n\nMaterials cost: \u20ac60\n<br>\n<br>\n[[File:HHA_WHY_logo.png|center|300px]]  \n  \n== Complete Hardware Hacking Area Village Schedule == \nWorkshops are all free to attend.<br>\nThe prices in the yellow boxes are the materials costs for participating in the hands-on part of the workshop.<br><br>\n[[File:WHY_HHA_schedule.png|720px]]\n  \n== Location of Hardware Hacking Area Village == \n[[File:HHA_map_WHY.jpg|720px]]",
     "start": "2025-08-10T19:00:00+02:00",
     "end": "2025-08-10T21:00:00+02:00",
     "room": "Village:Hardware Hacking Area",
@@ -1428,5 +1438,15 @@
     "room": "undetermined",
     "url": "https://6120.eu/posts/workshop-hydra/",
     "type": "Hands-On"
+  },
+  {
+    "id": "5246ddb2-aeb9-5cde-8b19-ae7229fd59f7",
+    "title": "Ping-Pong Arcade (Scotto Inspired)",
+    "description": "Generated time to make session visible, might need an actual date and time\nAge range: 9-12, 12-16, 16+, 18+",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T01:00:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Game"
   }
 ]

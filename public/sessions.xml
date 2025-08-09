@@ -1712,6 +1712,22 @@ I've got patches, a bunch of colored vinyl, a small plotter and a mini-heat pres
         <duration>02:00</duration>
       </event>
     </room>
+    <room name="Village:HSNL" guid="72a7ab53-f034-54c0-a518-2ffde0100b23">
+      <event guid="67fe87c9-14cd-5de6-a84b-9caa1862688b">
+        <title>Medieval Woodturning</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Learn how to turn wood into glorious objects like they did in medieval times</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>Molenaar</person>
+        </persons>
+        <language>de</language>
+        <description>Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.</description>
+        <date>2025-08-10T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+      </event>
+    </room>
     <room name="Village:HackTheHealth" guid="01d8cf4a-2184-59a5-ae6b-8bd39729fa6a">
       <event guid="3f7c933f-dfde-5599-b30a-50dd7d8c469f">
         <title>Past Presentation Cinema</title>
@@ -1754,6 +1770,9 @@ A talk of a researcher of NCSC-NL on WHY babytv was broadcasting propaganda.</de
         <description>Age range: All ages
 == Workshop Description ==
 Build Your Own Air Quality Sensor  
+
+
+'''This workshop is now sold out.'''
 
 Workshop given by Jeffrey Roe  
 
@@ -3032,6 +3051,20 @@ There's no sitting so don't hesitate to bring yours !
 You will learn something !
 
 Timeslots will be added by end of 2025-08-09</description>
+      </event>
+      <event guid="5246ddb2-aeb9-5cde-8b19-ae7229fd59f7">
+        <title>Ping-Pong Arcade (Scotto Inspired)</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Come over and play a self-made skill game with table tennis balls inspired by Scotto.</abstract>
+        <type>Game</type>
+        <persons>
+          <person>Fischi</person>
+        </persons>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Age range: 9-12, 12-16, 16+, 18+</description>
       </event>
     </room>
   </day>
