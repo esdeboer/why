@@ -640,6 +640,16 @@
     "type": "Game"
   },
   {
+    "id": "9959cffa-3fc7-55bd-bb0b-55c9489232cd",
+    "title": "FREE BIRD HOUR",
+    "description": "Age range: 18+\nWe are listening to to \"Lynyrd Skynyrd - Free Bird\" for one hour on loop, which is about 6.7 times.\n\nThat's it.\n\nBring a camping chair, get your drink of choice and enjoy one hour of peak dad rock.\n\n# 14:00 ON SUNDAY",
+    "start": "2025-08-10T14:00:00+02:00",
+    "end": "2025-08-10T15:00:00+02:00",
+    "room": "Village:ANDERSTORPSFESTIVALEN",
+    "url": "",
+    "type": "Other"
+  },
+  {
     "id": "a715e8a8-0370-51e8-9b1c-4e0320d87946",
     "title": "Stop the Bleed @ Aid to Ukraine",
     "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
@@ -1348,16 +1358,6 @@
     "room": "undetermined",
     "url": "",
     "type": "Game"
-  },
-  {
-    "id": "9959cffa-3fc7-55bd-bb0b-55c9489232cd",
-    "title": "FREE BIRD HOUR",
-    "description": "Generated time to make session visible, might need an actual date and time\nAge range: 18+\nWe are listening to to \"Lynyrd Skynyrd - Free Bird\" for one hour on loop, which is about 6.7 times.\n\nThat's it.\n\nBring a camping chair, get your drink of choice and enjoy one hour of peak dad rock.",
-    "start": "2025-08-13T00:00:00+02:00",
-    "end": "2025-08-13T01:00:00+02:00",
-    "room": "undetermined",
-    "url": "",
-    "type": "Other"
   },
   {
     "id": "eba30b51-a7b4-5964-9c9f-80efccbfea9b",

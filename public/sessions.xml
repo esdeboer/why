@@ -1400,6 +1400,28 @@ Feel free to add me in pokemon go: 4362 1289 5651</description>
         <duration>01:00</duration>
       </event>
     </room>
+    <room name="Village:ANDERSTORPSFESTIVALEN" guid="443fbdd5-ed1d-5adc-ab8c-cf54d281c311">
+      <event guid="9959cffa-3fc7-55bd-bb0b-55c9489232cd">
+        <title>FREE BIRD HOUR</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Listen to "Lynyrd Skynyrd - Free Bird" for one hour.</abstract>
+        <type>Other</type>
+        <persons>
+          <person>Coral</person>
+        </persons>
+        <description>Age range: 18+
+We are listening to to "Lynyrd Skynyrd - Free Bird" for one hour on loop, which is about 6.7 times.
+
+That's it.
+
+Bring a camping chair, get your drink of choice and enjoy one hour of peak dad rock.
+
+# 14:00 ON SUNDAY</description>
+        <date>2025-08-10T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
     <room name="Village:Aid to Ukraine" guid="30153654-380f-5aa4-a9e0-64d27307d22b">
       <event guid="a715e8a8-0370-51e8-9b1c-4e0320d87946">
         <title>Stop the Bleed @ Aid to Ukraine</title>
@@ -2843,25 +2865,6 @@ Fun 1v1 game sessions for new and experienced players. Hands-on guidance for pla
         <date>2025-08-13T00:00:00+02:00</date>
         <start>00:00</start>
         <duration>01:00</duration>
-      </event>
-      <event guid="9959cffa-3fc7-55bd-bb0b-55c9489232cd">
-        <title>FREE BIRD HOUR</title>
-        <track>Self Organized Sessions</track>
-        <abstract>Listen to "Lynyrd Skynyrd - Free Bird" for one hour.</abstract>
-        <type>Other</type>
-        <persons>
-          <person>Coral</person>
-        </persons>
-        <date>2025-08-13T00:00:00+02:00</date>
-        <time>00:00</time>
-        <duration>01:00</duration>
-        <description>Generated time to make session visible, might need an actual date and time
-Age range: 18+
-We are listening to to "Lynyrd Skynyrd - Free Bird" for one hour on loop, which is about 6.7 times.
-
-That's it.
-
-Bring a camping chair, get your drink of choice and enjoy one hour of peak dad rock.</description>
       </event>
       <event guid="eba30b51-a7b4-5964-9c9f-80efccbfea9b">
         <title>Fuzzing 5G NR FTW!</title>

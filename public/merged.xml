@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>Version "day1 is day2", well version 2</version>
+    <version>Version Version Final "Day1 is Day2"</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -1886,6 +1886,34 @@ But above all, we’ll ask: how can hackers help open up the government?</descri
                 <url>https://program.why2025.org/why2025/talk/TJJR3W/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/TJJR3W/feedback/</feedback_url>
             </event>
+            <event guid="b0814748-7bb2-5ad5-82d7-a8a27b558c04" id="206">
+                <room>Brachium</room>
+                <title>All about BadgeHub</title>
+                <subtitle />
+                <type>Talk (25 minutes)</type>
+                <date>2025-08-09T23:10:00+02:00</date>
+                <start>23:10</start>
+                <duration>00:25</duration>
+                <abstract>BadgeHub is a Badge Application Website that enables Badge Enthousiasts to share Badge Apps.
+In this talk, we first explain what BadgeHub is and what you can do with it.
+After that, we go into all the technical details and difficult decisions that went into building BadgeHub with PostgreSQL, Node.js and Vite. We will talk about Infra, Frameworks, Databases, Backend and Frontend.</abstract>
+                <slug>why2025-206-all-about-badgehub</slug>
+                <track>Wonderful creations</track>
+                <logo>/media/why2025/submissions/CMMUH8/Gemini_Generated_Image_GIyyWC5.jpeg</logo>
+                <persons>
+                    <person id="213">Francis Duvivier</person>
+                    <person id="381">Edwin Martin</person>
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CMMUH8/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CMMUH8/feedback/</feedback_url>
+            </event>
         </room>
         <room name="Cassiopeia" guid="297e6ee2-da82-5d43-9b79-d4b0493b8a3a">
             <event guid="977f5595-c945-592d-9349-370cbcd5f3bc" id="202">
@@ -2596,33 +2624,6 @@ The industry has no real solution for fixing this. Prompt injection is not anoth
                 <url>https://program.why2025.org/why2025/talk/SELH79/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/SELH79/feedback/</feedback_url>
             </event>
-            <event guid="b0814748-7bb2-5ad5-82d7-a8a27b558c04" id="206">
-                <room>Delphinus</room>
-                <title>All about BadgeHub</title>
-                <subtitle />
-                <type>Talk (25 minutes)</type>
-                <date>2025-08-09T20:00:00+02:00</date>
-                <start>20:00</start>
-                <duration>00:50</duration>
-                <abstract>BadgeHub is a Badge Application Website that enables Badge Enthousiasts to share Badge Apps.
-In this talk, we first explain what BadgeHub is and what you can do with it.
-After that, we go into all the technical details and difficult decisions that went into building BadgeHub with PostgreSQL, Node.js and Vite. We will talk about Infra, Frameworks, Databases, Backend and Frontend.</abstract>
-                <slug>why2025-206-all-about-badgehub</slug>
-                <track>Wonderful creations</track>
-                <logo>/media/why2025/submissions/CMMUH8/Gemini_Generated_Image_GIyyWC5.jpeg</logo>
-                <persons>
-                    <person id="213">Francis Duvivier</person>
-                </persons>
-                <language>en</language>
-                <recording>
-                    <license />
-                    <optout>false</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/CMMUH8/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/CMMUH8/feedback/</feedback_url>
-            </event>
             <event guid="b00ccf3a-f1b3-58d8-aeaa-f1a0e0de5a91" id="225">
                 <room>Delphinus</room>
                 <title>Documentary screening: Hacking Hate (2024)</title>
@@ -2910,9 +2911,7 @@ There could be a prize for the most active participant :)</description>
                 <date>2025-08-09T19:00:00+02:00</date>
                 <start>19:00</start>
                 <duration>02:00</duration>
-                <abstract>Due to official schedule cancellation. We're re-scheduling this workshop to *Saturday at 7pm* instead of the 102. It will also run in *extremely limited numbers* in RopeLabs village at 8pm Friday. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs). This is a *sober workshop*.
-
-Instructor @DoodleMe, @KnottyLola and team will take you through some of the most basic concepts of Japanese rope bondage (Shibari). This is an 18+ workshop. Bring blanket &amp; rope if you have it.</abstract>
+                <abstract>Instructor @DoodleMe, @KnottyLola and team will take you through some of the most basic concepts of Japanese rope bondage (Shibari). This is an 18+ workshop. Bring blanket &amp; rope if you have it.</abstract>
                 <slug>why2025-69-shibari-101-rope-bondage-for-beginners</slug>
                 <track>The square hole</track>
                 <logo>/media/why2025/submissions/BPD8GN/ChatGPT_Image_Jul_28_2025_at_08_15_50_AM_ddxwEcB.png</logo>
@@ -2921,9 +2920,7 @@ Instructor @DoodleMe, @KnottyLola and team will take you through some of the mos
                     <person id="377">KnottyLola</person>
                 </persons>
                 <language>en</language>
-                <description>Due to official schedule cancellation. We're re-scheduling this workshop to *Saturday at 7pm* instead of the 102. It will also run in *extremely limited numbers* in RopeLabs village at 8pm Friday. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs) for the latest information. This is a *sober workshop*.
-
-Instructor @DoodleMe, @KnottyLola, and team will take you through some of the most basic concepts of Japanese rope bondage (Shibari). You'll learn some theory, and a few beginner friendly knots that you can use at home and that lay the foundations to more advanced ties.
+                <description>Instructor @DoodleMe, @KnottyLola, and team will take you through some of the most basic concepts of Japanese rope bondage (Shibari). You'll learn some theory, and a few beginner friendly knots that you can use at home and that lay the foundations to more advanced ties.
 
 This peer based workshop is aimed at complete beginners. Singles, pairs and groups are welcome. Spots are limited based on the size of the workshop space. First come first serve. No dress code, but it's suggested you avoid loose clothing as this makes it harder to tie. 
 
@@ -3407,6 +3404,43 @@ If you've never tried dance fitness, it's a workout you don't notice you're doin
                 <url>https://program.why2025.org/why2025/talk/F7DHJK/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/F7DHJK/feedback/</feedback_url>
             </event>
+            <event guid="66a4ed8d-cbac-55d6-a509-acd9d4575b2f" id="229">
+                <room>Party Stage</room>
+                <title>Evolution and history of 35 years of hardcore/gabber music [XXL edition]</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-09T16:30:00+02:00</date>
+                <start>16:30</start>
+                <duration>03:00</duration>
+                <abstract>This talk is a "no clip" deep dive through a genre of music. We'll start in 1990 and discover the genre as it was discovered by its creators. While traveling through time we'll try to answer the question: what is hardcore?
+There will clips and mixes of revolutions and sub-genres. We'll learn how it's made and how to win the loudness war. Hardcore spawned a youth culture with lasting international adoption. From art to cheese, we'll cover it all. We'll learn the dance and end with a live set.</abstract>
+                <slug>why2025-229-evolution-and-history-of-35-years-of-hardcore-gabber-music-xxl-edition</slug>
+                <track>Entertainment</track>
+                <logo>/media/why2025/submissions/MEGUP3/Screenshot_2025-05-25_at_14.23.20_kC6Fq5L.png</logo>
+                <persons>
+                    <person id="228">Elger "Stitch" Jonker</person>
+                </persons>
+                <language>en</language>
+                <description>This talk has it all: licensing, content, audience and noise problems in just one comfortable session.
+
+During the talk we'll listen to the evolution of this genre using samples, short mixes and video clips. We'll touch upon the politics of resistance and adoption, politicization of nice people and the death and renaissance of the genre. There is a lot to talk about and to listen to. The "one hour" version of the talk was a hit at Hacker Hotel 2025, and immediately had a two hour sequel in the off-the-record room.
+
+While going down this rabbit hole, and to expand on the "one hour" version, we'll take some more time to dive into audio engineering and how to win the loudness war. It will ruin some things some for some people, while opening doors for others.
+
+The central question throughout the session will be: "what is hardcore?".
+
+This talk mostly focusing on fun and interesting stuff, but due to the inherent nature of hardcore music there might (=guarantee) be references to sex, drugs, violence, profanity, recklessness and spooky scary skeletons in the first ten seconds. This talk is not for all ages and minds.
+
+The plan is to have about one to two hours diving into this rabbit hole. After that we'll try to teach you the dance called "hakkuh" and end off with a super varied one hour live set (if time and noise curfew allows) touching multiple genres with different types of hardcore at its center.</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/MEGUP3/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/MEGUP3/feedback/</feedback_url>
+            </event>
             <event guid="762583a9-80d0-5d2b-8103-04d1bf871a87" id="291">
                 <room>Party Stage</room>
                 <title>Permission to Land - The Ultimate ‘80s Rock Tribute</title>
@@ -3524,9 +3558,9 @@ Location: next to Party Area Terrace</description>
                 <title>Karaoke</title>
                 <subtitle />
                 <type>Entertainment</type>
-                <date>2025-08-09T18:00:00+02:00</date>
-                <start>18:00</start>
-                <duration>05:00</duration>
+                <date>2025-08-09T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>03:00</duration>
                 <abstract>Join us for a chaotic, joy-filled session of Karaoke where your inner rockstar, pop icon, or metalhead gets the stage.</abstract>
                 <slug>why2025-328-1-karaoke</slug>
                 <track>Entertainment</track>
@@ -6287,9 +6321,7 @@ The workshop slot is around 2 hours, if you aren't done in that time you'll be a
                 <date>2025-08-10T12:00:00+02:00</date>
                 <start>12:00</start>
                 <duration>02:00</duration>
-                <abstract>We are likely replacing this workshop with the 101, which was cancelled on Friday. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs) for the latest information.
-
-@DoodleMe, @KnottyLola and team will take you through some further concepts of Japanese rope bondage (Shibari). This is an 18+ workshop. Bring blanket &amp; rope if you have it. Follow up to Shibari 101, but having attended 101 is not required.</abstract>
+                <abstract>@DoodleMe, @KnottyLola and team will take you through some further concepts of Japanese rope bondage (Shibari). This is an 18+ workshop. Bring blanket &amp; rope if you have it. Follow up to Shibari 101, but having attended 101 is not required.</abstract>
                 <slug>why2025-123-shibari-102-rope-bondage-for-beginners</slug>
                 <track>The square hole</track>
                 <logo>/media/why2025/submissions/JDL3HF/ChatGPT_Image_Jul_28_2025_at_08_15_50_AM_DXVsmVV.png</logo>
@@ -6298,9 +6330,7 @@ The workshop slot is around 2 hours, if you aren't done in that time you'll be a
                     <person id="377">KnottyLola</person>
                 </persons>
                 <language>en</language>
-                <description>We are likely replacing this workshop with the 101, which was cancelled on Friday. Please check [our wiki](https://wiki.why2025.org/Village:RopeLabs) for the latest information.
-
-Instructor @DoodleMe, @KnottyLola, and team will take you through some more of the concepts of Japanese rope bondage (Shibari). You'll build on the theory and knots covered in the first class.
+                <description>Instructor @DoodleMe, @KnottyLola, and team will take you through some more of the concepts of Japanese rope bondage (Shibari). You'll build on the theory and knots covered in the first class.
 
 This peer based workshop is aimed at those with some experience or who attended the 101 class. It is not necessary to have attended the 101 class, but we will be moving at a fast pace over what we already covered.
 
@@ -6479,7 +6509,7 @@ _/ ____\____ |  |    __| _/|__| ____
                 <type>Workshops (90 minutes)</type>
                 <date>2025-08-10T14:00:00+02:00</date>
                 <start>14:00</start>
-                <duration>01:00</duration>
+                <duration>00:45</duration>
                 <abstract>energizer for body and mind: hand-eye-coordination, left-and-right-side-of-the-brain-training, socializing, playing ... and lots of laughs :o)</abstract>
                 <slug>why2025-261-0-energizer-for-brains-and-bones</slug>
                 <track>Yearn for a better future</track>
@@ -7644,6 +7674,28 @@ Once it is known where the most gyms are close to eachother a location will be a
 Feel free to add me in pokemon go: 4362 1289 5651</description>
                 <date>2025-08-10T11:00:00+02:00</date>
                 <start>11:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
+        <room name="Village:ANDERSTORPSFESTIVALEN" guid="443fbdd5-ed1d-5adc-ab8c-cf54d281c311">
+            <event guid="9959cffa-3fc7-55bd-bb0b-55c9489232cd">
+                <title>FREE BIRD HOUR</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Listen to "Lynyrd Skynyrd - Free Bird" for one hour.</abstract>
+                <type>Other</type>
+                <persons>
+                    <person>Coral</person>
+                </persons>
+                <description>Age range: 18+
+We are listening to to "Lynyrd Skynyrd - Free Bird" for one hour on loop, which is about 6.7 times.
+
+That's it.
+
+Bring a camping chair, get your drink of choice and enjoy one hour of peak dad rock.
+
+# 14:00 ON SUNDAY</description>
+                <date>2025-08-10T14:00:00+02:00</date>
+                <start>14:00</start>
                 <duration>01:00</duration>
             </event>
         </room>
@@ -12832,25 +12884,6 @@ Fun 1v1 game sessions for new and experienced players. Hands-on guidance for pla
                 <date>2025-08-13T00:00:00+02:00</date>
                 <start>00:00</start>
                 <duration>01:00</duration>
-            </event>
-            <event guid="9959cffa-3fc7-55bd-bb0b-55c9489232cd">
-                <title>FREE BIRD HOUR</title>
-                <track>Self Organized Sessions</track>
-                <abstract>Listen to "Lynyrd Skynyrd - Free Bird" for one hour.</abstract>
-                <type>Other</type>
-                <persons>
-                    <person>Coral</person>
-                </persons>
-                <date>2025-08-13T00:00:00+02:00</date>
-                <time>00:00</time>
-                <duration>01:00</duration>
-                <description>Generated time to make session visible, might need an actual date and time
-Age range: 18+
-We are listening to to "Lynyrd Skynyrd - Free Bird" for one hour on loop, which is about 6.7 times.
-
-That's it.
-
-Bring a camping chair, get your drink of choice and enjoy one hour of peak dad rock.</description>
             </event>
             <event guid="eba30b51-a7b4-5964-9c9f-80efccbfea9b">
                 <title>Fuzzing 5G NR FTW!</title>
