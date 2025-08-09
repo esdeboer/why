@@ -1572,6 +1572,23 @@ The second part of the presentation includes a live demo of a phishing panel. Us
         <start>14:00</start>
         <duration>01:00</duration>
       </event>
+      <event guid="99b885cb-32ba-5b63-8911-cc48382a32c0">
+        <title>OpenWebSearch and Open Console</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Provide a Google Search for Open Source</abstract>
+        <url>https://openwebsearch.eu,https://open-console.eu</url>
+        <type>Talk</type>
+        <language>en</language>
+        <description>Age range: 16+
+When you live in Google, MicroSoft or Apple space, then you can easily move between applications: their programs offer a SSO (Single Sign-On) and share user data between their services as if they are one. Independent service providers have organize registration by themselves, and may use "Login via Google" (etc) simplifications. This uses Oauth2 and often OpenID Connect. The related shared information is really limited and of poor quality, however.
+
+The EU NGI project OpenWebSearch.EU tries to create shared web search facilities under EU laws. This has many challenges: it's simply not known how to interpret the GDPR on freely crawled webpages. But my sub-project focused on creating a single sign-on to get access to the many other sub-projects. A kind of "Google Search Console" front-end. Also designed for a Google scale.
+
+Open Console simplifies service connection authorization to a level never implemented before.</description>
+        <date>2025-08-10T21:00:00+02:00</date>
+        <start>21:00</start>
+        <duration>00:45</duration>
+      </event>
     </room>
     <room name="Village:Fablab/Fabacademy" guid="01113e6f-6aa5-5e6f-9b6b-64b3a6b3a7e3">
       <event guid="b16b6e3f-9d4c-517f-9963-c63d2a892528">
@@ -2985,6 +3002,33 @@ Donation based</description>
         <description>Generated time to make session visible, might need an actual date and time
 Age range: 18+
 Tune in every evening near the GR.A.P.P.A. cluster for some drinks and fun, every evening starting from 20:00</description>
+      </event>
+      <event guid="9df266e9-0409-584d-95f2-e0f4c59ffeca">
+        <title>Hydra Livecoding Video Synthesis 101 Workshop</title>
+        <track>Self Organized Sessions</track>
+        <url>https://6120.eu/posts/workshop-hydra/</url>
+        <type>Hands-On</type>
+        <persons>
+          <person>Magic</person>
+        </persons>
+        <language>en</language>
+        <date>2025-08-13T00:00:00+02:00</date>
+        <time>00:00</time>
+        <duration>01:00</duration>
+        <description>Generated time to make session visible, might need an actual date and time
+Hydra https://hydra.ojack.xyz/ video synth workshop.
+
+We will follow 1 or multiples courses from https://6120.eu/posts/workshop-hydra/
+
+We will make visuals, observe how to navigate within patches of codes and have a quick overview of Hydra the video synth software.
+
+Bring your laptop !
+
+There's no sitting so don't hesitate to bring yours !
+
+You will learn something !
+
+Timeslots will be added by end of 2025-08-09</description>
       </event>
     </room>
   </day>

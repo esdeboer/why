@@ -720,6 +720,16 @@
     "type": "Talk"
   },
   {
+    "id": "99b885cb-32ba-5b63-8911-cc48382a32c0",
+    "title": "OpenWebSearch and Open Console",
+    "description": "Age range: 16+\nWhen you live in Google, MicroSoft or Apple space, then you can easily move between applications: their programs offer a SSO (Single Sign-On) and share user data between their services as if they are one. Independent service providers have organize registration by themselves, and may use \"Login via Google\" (etc) simplifications. This uses Oauth2 and often OpenID Connect. The related shared information is really limited and of poor quality, however.\n\nThe EU NGI project OpenWebSearch.EU tries to create shared web search facilities under EU laws. This has many challenges: it's simply not known how to interpret the GDPR on freely crawled webpages. But my sub-project focused on creating a single sign-on to get access to the many other sub-projects. A kind of \"Google Search Console\" front-end. Also designed for a Google scale.\n\nOpen Console simplifies service connection authorization to a level never implemented before.",
+    "start": "2025-08-10T21:00:00+02:00",
+    "end": "2025-08-10T21:45:00+02:00",
+    "room": "Village:Dutch Picknick",
+    "url": "https://openwebsearch.eu,https://open-console.eu",
+    "type": "Talk"
+  },
+  {
     "id": "b16b6e3f-9d4c-517f-9963-c63d2a892528",
     "title": "KiCad workshop featuring the Fab lib",
     "description": "KiCad is the preferred choice when it comes to electronics design in fablabs and Fab Academy. \n\nSession 1 (9 Aug 13:00-14:30)\nDuring first session we will cover what to do when you just installed KiCad without libraries (because you want it to be fast) and you somehow ended up in a desert with no internet connection, but with a datasheet...\n\nSession 2 (10 Aug 13:00-14:30)\nFrom there we will take advantage of a few Starlinks (or your own cubesats) passing by, just enough to be able to download the Fab Lib, which is a KiCad electronics component library based on the Fab Lab / Fab Academy electronics component inventory...\n\nVenue: Be aware that the venue might change to the boat fablab on the Western outskirts of the camp. Just check some 30 minutes before the event here.",
@@ -1407,6 +1417,16 @@
     "end": "2025-08-13T01:00:00+02:00",
     "room": "undetermined",
     "url": "",
+    "type": "Hands-On"
+  },
+  {
+    "id": "9df266e9-0409-584d-95f2-e0f4c59ffeca",
+    "title": "Hydra Livecoding Video Synthesis 101 Workshop",
+    "description": "Generated time to make session visible, might need an actual date and time\nHydra https://hydra.ojack.xyz/ video synth workshop.\n\nWe will follow 1 or multiples courses from https://6120.eu/posts/workshop-hydra/\n\nWe will make visuals, observe how to navigate within patches of codes and have a quick overview of Hydra the video synth software.\n\nBring your laptop !\n\nThere's no sitting so don't hesitate to bring yours !\n\nYou will learn something !\n\nTimeslots will be added by end of 2025-08-09",
+    "start": "2025-08-13T00:00:00+02:00",
+    "end": "2025-08-13T01:00:00+02:00",
+    "room": "undetermined",
+    "url": "https://6120.eu/posts/workshop-hydra/",
     "type": "Hands-On"
   }
 ]
