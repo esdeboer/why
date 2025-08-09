@@ -270,6 +270,16 @@
     "type": "Workshop"
   },
   {
+    "id": "89535040-74ad-51e0-babc-9978ef7e7d8e",
+    "title": "Latino Dance 1980",
+    "description": "Age range: All ages\nWe will dance together to Cuban music back from the 80s up until now.\nJoin if you like music, danceing, Cuba, move to hot Latin rhythms",
+    "start": "2025-08-09T20:30:00+02:00",
+    "end": "2025-08-09T21:15:00+02:00",
+    "room": "Village:Back to the 80s Party",
+    "url": "https://yrdance.com",
+    "type": "Workshop"
+  },
+  {
     "id": "cd9e8ab8-51e1-531a-8cca-078f522db8cc",
     "title": "BornHack Party",
     "description": "Age range: Aimed at adults but supervised kids welcome.\nThe known BornHack party with all the usual hijinks.",
@@ -502,9 +512,9 @@
   {
     "id": "895c1116-247d-5ad3-bf52-ff2a2ede2d75",
     "title": "Movie-night",
-    "description": "Age range: All ages\n\u26a0\ufe0f\u26a0\ufe0f We do not own a lot of chairs, if you want to join and be comfortable: bring your own chair.\n\n\u26a0\ufe0f\u26a0\ufe0f I'm bringing 2kg of kernel corns, popcorn delivery will be FIFO (no refills, be mindful of other campers opportunity too).\n\n\ud83c\udf7f WHAT: We will project one film with English subtitles and make popcorn kernels explode applying heat to make them edible and delicious.\n\n\ud83c\udf7f WHERE: SSH village.\n\n\ud83c\udf7f WHEN: https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Schedule\n\n\ud83c\udf7f WHY: Yes, WHY 2025",
-    "start": "2025-08-09T21:00:00+02:00",
-    "end": "2025-08-09T23:00:00+02:00",
+    "description": "Age range: All ages, 18+\n\u26a0\ufe0f\u26a0\ufe0f We do not own a lot of chairs, if you want to join and be comfortable: bring your own chair.\n\n\u26a0\ufe0f\u26a0\ufe0f I'm bringing 2kg of kernel corns, popcorn delivery will be FIFO (no refills, be mindful of other campers opportunity too).\n\n\ud83c\udf7f WHAT: We will project one film with English subtitles and make popcorn kernels explode applying heat to make them edible and delicious.\n\n\ud83c\udf7f WHERE: SSH village.\n\n\ud83c\udf7f WHEN: https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Schedule\n\n\ud83c\udf7f WHY: Yes, WHY 2025",
+    "start": "2025-08-09T23:00:00+02:00",
+    "end": "2025-08-10T01:00:00+02:00",
     "room": "Village:SSH (Spanish Speaking Hackers)",
     "url": "https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Schedule",
     "type": "Movie"
@@ -570,16 +580,6 @@
     "type": "Outside"
   },
   {
-    "id": "2cfecc93-5986-50ee-8c24-4b28a74cbec5",
-    "title": "Batik T-Shirts",
-    "description": "Is for kids\nAge range: All ages\n= About =\n\n[[File:Hippybatik.jpg|frame]]\n\nWe will create some wonderful batik t-shirts during the camp. Everybody is welcome - it could be a kids session but we also have t-shirts for grown ups.\nWe've done some batik sessions on other camps in the past but somehow lost focus the last years. So this is a revival :-)\n\n= Location =\n\nKid's Space\n\n= What do we provide =\n\nWe've special organic batik color, binding threads and lot's of white t-shirts. But feel free to bring your own t-shirt - everything is possible! This session is provided for free, feel free to donate at the camp side.\n\n* ~40 kids t-shirts in different sizes (5y-14y)\n* ~40 grown up shirts in different sizes (M-3XL)\n* ~40 fitted grown up shirts in different sizes (S-XXL)",
-    "start": "2025-08-09T11:30:00+02:00",
-    "end": "2025-08-09T13:00:00+02:00",
-    "room": "undetermined",
-    "url": "",
-    "type": "Hands-On"
-  },
-  {
     "id": "9b967496-1e7b-5473-ae3e-b08381b7b39a",
     "title": "Rust tutorial and Port Scanner",
     "description": "Age range: 16+",
@@ -638,6 +638,16 @@
     "room": "undetermined",
     "url": "",
     "type": "Workshop"
+  },
+  {
+    "id": "54961481-5ff3-525a-8fb5-7e6c4fa33648",
+    "title": "Real analog meme slide show",
+    "description": "Age range: All ages",
+    "start": "2025-08-09T23:00:00+02:00",
+    "end": "2025-08-09T23:20:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Other"
   },
   {
     "id": "d842e35e-7bdd-58e6-be15-379cd1f08ce6",
@@ -702,7 +712,7 @@
   {
     "id": "859b0cc4-72d3-5739-89d2-c5935b95ee28",
     "title": "AI Unchained",
-    "description": "Age range: 16+\nExplore the limits of large language models by probing, jailbreaking, stress-testing, and creatively bypassing their guardrails. You will learn how safety filters work, identifying vulnerabilities, and experiment with prompt engineering or adversarial inputs. The aim is both fun and discovering ways to harden AI systems against misuse. The workshop is a mix of technical stuff, ethical discussion, and a touch of cat-and-mouse play.\n\nBring your laptop and subscriptions to your favorite LLMs or LMstudio installed for local action. \n\nThis session is the hands-on counter part of the self-organized session on the AI Adoption and Accreditation Institute on Monday\n\nhttps://wiki.why2025.org/Session:AI_Adoption_and_Accreditation_Institute",
+    "description": "Age range: 16+\nDo you enjoy breaking the rules? Violating guidelines and proprietary policies? Than this session is for you. \n\nExplore the limits of large language models by probing, jailbreaking, stress-testing, and bypassing their guardrails. \n\nYou will learn how safety filters work, identifying vulnerabilities, and experiment with prompt engineering or adversarial inputs. \n\nThe aim is fun, sharing skills and discovering ways to harden AI systems against misuse. \n\nThe workshop is a mix of technical stuff, ethical discussion, and a touch of cat-and-mouse play.\n\nBring your laptop and subscriptions to your favorite LLMs or LMstudio installed for local action. \n\nThis session is the hands-on counter part of the self-organized session on the AI Adoption and Accreditation Institute on Monday\n\nhttps://wiki.why2025.org/Session:AI_Adoption_and_Accreditation_Institute",
     "start": "2025-08-10T13:00:00+02:00",
     "end": "2025-08-10T14:30:00+02:00",
     "room": "Village:Back to the 80s Party",
@@ -788,6 +798,16 @@
     "room": "Village:Food Hacking Base",
     "url": "https://foodhackingbase.org/wiki/FHB@WHY2025/Cheese_Rendezvous",
     "type": "Tasting"
+  },
+  {
+    "id": "2cfecc93-5986-50ee-8c24-4b28a74cbec5",
+    "title": "Batik T-Shirts",
+    "description": "Is for kids\nAge range: All ages\n= About =\n\n[[File:Hippybatik.jpg|frame]]\n\nWe will create some wonderful batik t-shirts during the camp. Everybody is welcome - it could be a kids session but we also have t-shirts for grown ups.\nWe've done some batik sessions on other camps in the past but somehow lost focus the last years. So this is a revival :-)\n\n= Location =\n\nKid's Space\n\n--- \n\nAnd on Sunday at Frubar!\n\n= What do we provide =\n\nWe've special organic batik color, binding threads and lot's of white t-shirts. But feel free to bring your own t-shirt - everything is possible! This session is provided for free, feel free to donate at the camp side.\n\n* ~40 kids t-shirts in different sizes (5y-14y)\n* ~40 grown up shirts in different sizes (M-3XL)\n* ~40 fitted grown up shirts in different sizes (S-XXL)",
+    "start": "2025-08-10T14:00:00+02:00",
+    "end": "2025-08-10T15:30:00+02:00",
+    "room": "Village:Frubar",
+    "url": "",
+    "type": "Hands-On"
   },
   {
     "id": "17894be1-749c-592f-9a21-bda65b8ad668",
@@ -1030,6 +1050,16 @@
     "type": "Discussion"
   },
   {
+    "id": "4530fed5-da4f-554b-a38c-120e2fcb8c1b",
+    "title": "How to build a pinball machine",
+    "description": "Age range: All ages\nThis project began with a broken mechanical pinball machine from the 1981s. I completely stripped it down, repaired the structure, and replaced the mechanical scoring and control systems with modern electronics and custom software. The result is a fully digital pinball experience housed inside the original cabinet, combining classic design with modern gameplay.",
+    "start": "2025-08-10T20:30:00+02:00",
+    "end": "2025-08-10T21:30:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Talk"
+  },
+  {
     "id": "b004701b-7fdf-5225-974a-3b121ab88718",
     "title": "Stop the Bleed @ Aid to Ukraine",
     "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
@@ -1250,6 +1280,16 @@
     "type": "Talk"
   },
   {
+    "id": "9df266e9-0409-584d-95f2-e0f4c59ffeca",
+    "title": "Hydra Livecoding Video Synthesis 101 Workshop",
+    "description": "Hydra https://hydra.ojack.xyz/ video synth workshop.\n\nWe will follow 1 or multiples courses from https://6120.eu/posts/workshop-hydra/\n\nWe will make visuals, observe how to navigate within patches of codes and have a quick overview of Hydra the video synth software.\n\nBring your laptop !\n\nThere's no sitting so don't hesitate to bring yours !\n\nYou will learn something !\n\nTimeslots will be added by end of 2025-08-09",
+    "start": "2025-08-11T16:00:00+02:00",
+    "end": "2025-08-11T18:00:00+02:00",
+    "room": "undetermined",
+    "url": "https://6120.eu/posts/workshop-hydra/",
+    "type": "Hands-On"
+  },
+  {
     "id": "20e7c0cc-fb48-57a5-b3e2-fb1d7c18d3b9",
     "title": "Stop the Bleed @ Aid to Ukraine",
     "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
@@ -1457,16 +1497,6 @@
     "end": "2025-08-13T01:00:00+02:00",
     "room": "undetermined",
     "url": "",
-    "type": "Hands-On"
-  },
-  {
-    "id": "9df266e9-0409-584d-95f2-e0f4c59ffeca",
-    "title": "Hydra Livecoding Video Synthesis 101 Workshop",
-    "description": "Generated time to make session visible, might need an actual date and time\nHydra https://hydra.ojack.xyz/ video synth workshop.\n\nWe will follow 1 or multiples courses from https://6120.eu/posts/workshop-hydra/\n\nWe will make visuals, observe how to navigate within patches of codes and have a quick overview of Hydra the video synth software.\n\nBring your laptop !\n\nThere's no sitting so don't hesitate to bring yours !\n\nYou will learn something !\n\nTimeslots will be added by end of 2025-08-09",
-    "start": "2025-08-13T00:00:00+02:00",
-    "end": "2025-08-13T01:00:00+02:00",
-    "room": "undetermined",
-    "url": "https://6120.eu/posts/workshop-hydra/",
     "type": "Hands-On"
   },
   {

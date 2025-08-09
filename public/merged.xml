@@ -1802,18 +1802,18 @@ In this talk I'll explain how rasterization (the process of turning triangles in
                 <date>2025-08-09T21:00:00+02:00</date>
                 <start>21:00</start>
                 <duration>00:50</duration>
-                <abstract>A showcase of creative Web of Things use cases - hoping to combat reliance on cloud services and "Works with Alexa" in the realm of Internet of Things</abstract>
+                <abstract>A showcase of creative Web of Things use cases – fun prototypes that are nothing like light bulbs.</abstract>
                 <slug>why2025-254-shenanigans-with-web-of-things</slug>
                 <track>Wonderful creations</track>
                 <persons>
                     <person id="248">Christian Paul</person>
                 </persons>
                 <language>en</language>
-                <description>"Works with (Amazon) Alexa" or "Works with Hey Google" are expressions of how fragmented the market of Internet of Things is. Those who want to automate their devices, are often faced with complicated compatibility matrices, cloud services and short-lived support cycles.
+                <description>The W3C seeks to counter fragmentation of the Internet of Things, finding common ground and enabling long-term support. That's the goal of the Web of Things (WoT) ecosystem.
 
-The W3C seeks to counter fragmentation of the Internet of Things, finding common ground and enabling long-term support.
+Alongside an introduction to Web of Things, I'll show off my collection of WoT prototypes that cover unusual use cases – like note taking or browsing maps.
 
-As a hobbyist, I've been developing the Web of Things standards for many years. I've developed a server and a client which I will showcase along with a general introduction to the standards.
+As a hobbyist, I've been implementing the Web of Things standards for many years. I've developed a server and a client which power the prototypes.
 
 About Web of Things: https://www.w3.org/WoT/
 My server: https://gitlab.com/jaller94/wot-anything
@@ -4079,6 +4079,23 @@ Then we can go set up our own little web page with a map! Bring your laptop if y
                 <start>14:00</start>
                 <duration>01:30</duration>
             </event>
+            <event guid="89535040-74ad-51e0-babc-9978ef7e7d8e">
+                <title>Latino Dance 1980</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Dance in Cuba of the 80s</abstract>
+                <url>https://yrdance.com</url>
+                <type>Workshop</type>
+                <persons>
+                    <person>Yadira, Felix</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: All ages
+We will dance together to Cuban music back from the 80s up until now.
+Join if you like music, danceing, Cuba, move to hot Latin rhythms</description>
+                <date>2025-08-09T20:30:00+02:00</date>
+                <start>20:30</start>
+                <duration>00:45</duration>
+            </event>
         </room>
         <room name="Village:BornHack" guid="68bfdb01-17e6-552d-9850-3f7ad930f5b2">
             <event guid="cd9e8ab8-51e1-531a-8cca-078f522db8cc">
@@ -4658,15 +4675,14 @@ Mobile phone display and battery replacement hand-on workshop:
             <event guid="895c1116-247d-5ad3-bf52-ff2a2ede2d75">
                 <title>Movie-night</title>
                 <track>Self Organized Sessions</track>
-                <language>ES</language>
-                <abstract>Film projection with English subs + free popcorn. FIFO: if you arrive and there's no popcorn, best luck next camp.</abstract>
-                <type>Movie</type>
+                <abstract>V for vendetta with English subs + free popcorn. FIFO: if you arrive and there's no popcorn, best luck next camp.r</abstract>
                 <url>https://wiki.why2025.org/Village:SSH_(Spanish_Speaking_Hackers)#Schedule</url>
+                <type>Movie</type>
                 <persons>
                     <person>Pauloba</person>
                 </persons>
-                <type>Movie</type>
-                <description>Age range: All ages
+                <language>en</language>
+                <description>Age range: All ages, 18+
 ⚠️⚠️ We do not own a lot of chairs, if you want to join and be comfortable: bring your own chair.
 
 ⚠️⚠️ I'm bringing 2kg of kernel corns, popcorn delivery will be FIFO (no refills, be mindful of other campers opportunity too).
@@ -4679,8 +4695,8 @@ Mobile phone display and battery replacement hand-on workshop:
 
 🍿 WHY: Yes, WHY 2025</description>
                 <subtitle>Movie night</subtitle>
-                <date>2025-08-09T21:00:00+02:00</date>
-                <start>21:00</start>
+                <date>2025-08-09T23:00:00+02:00</date>
+                <start>23:00</start>
                 <duration>02:00</duration>
             </event>
         </room>
@@ -4814,39 +4830,6 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
             </event>
         </room>
         <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
-            <event guid="2cfecc93-5986-50ee-8c24-4b28a74cbec5">
-                <title>Batik T-Shirts</title>
-                <track>Self Organized Sessions</track>
-                <abstract>You will create your own wonderful batik t-shirts. Everybody is welcome (kids, grown-ups, aliens, whatever)</abstract>
-                <type>Hands-On</type>
-                <persons>
-                    <person>DrScream</person>
-                </persons>
-                <language>de</language>
-                <description>Is for kids
-Age range: All ages
-= About =
-
-[[File:Hippybatik.jpg|frame]]
-
-We will create some wonderful batik t-shirts during the camp. Everybody is welcome - it could be a kids session but we also have t-shirts for grown ups.
-We've done some batik sessions on other camps in the past but somehow lost focus the last years. So this is a revival :-)
-
-= Location =
-
-Kid's Space
-
-= What do we provide =
-
-We've special organic batik color, binding threads and lot's of white t-shirts. But feel free to bring your own t-shirt - everything is possible! This session is provided for free, feel free to donate at the camp side.
-
-* ~40 kids t-shirts in different sizes (5y-14y)
-* ~40 grown up shirts in different sizes (M-3XL)
-* ~40 fitted grown up shirts in different sizes (S-XXL)</description>
-                <date>2025-08-09T11:30:00+02:00</date>
-                <start>11:30</start>
-                <duration>01:30</duration>
-            </event>
             <event guid="9b967496-1e7b-5473-ae3e-b08381b7b39a">
                 <title>Rust tutorial and Port Scanner</title>
                 <track>Self Organized Sessions</track>
@@ -4928,6 +4911,20 @@ Interzonal Garden Retreat : A soft space for rest, play, and gentle recalibratio
                 <date>2025-08-09T15:00:00+02:00</date>
                 <start>15:00</start>
                 <duration>01:00</duration>
+            </event>
+            <event guid="54961481-5ff3-525a-8fb5-7e6c4fa33648">
+                <title>Real analog meme slide show</title>
+                <track>Self Organized Sessions</track>
+                <abstract>We are projecting classic memes with an old Soviet Era slide projector</abstract>
+                <type>Other</type>
+                <persons>
+                    <person>Spacehuhn</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: All ages</description>
+                <date>2025-08-09T23:00:00+02:00</date>
+                <start>23:00</start>
+                <duration>00:20</duration>
             </event>
         </room>
     </day>
@@ -7817,7 +7814,15 @@ There are glitters, diamonds, rainbows and much more! Bring your own design or p
                 </persons>
                 <language>en</language>
                 <description>Age range: 16+
-Explore the limits of large language models by probing, jailbreaking, stress-testing, and creatively bypassing their guardrails. You will learn how safety filters work, identifying vulnerabilities, and experiment with prompt engineering or adversarial inputs. The aim is both fun and discovering ways to harden AI systems against misuse. The workshop is a mix of technical stuff, ethical discussion, and a touch of cat-and-mouse play.
+Do you enjoy breaking the rules? Violating guidelines and proprietary policies? Than this session is for you. 
+
+Explore the limits of large language models by probing, jailbreaking, stress-testing, and bypassing their guardrails. 
+
+You will learn how safety filters work, identifying vulnerabilities, and experiment with prompt engineering or adversarial inputs. 
+
+The aim is fun, sharing skills and discovering ways to harden AI systems against misuse. 
+
+The workshop is a mix of technical stuff, ethical discussion, and a touch of cat-and-mouse play.
 
 Bring your laptop and subscriptions to your favorite LLMs or LMstudio installed for local action. 
 
@@ -7999,6 +8004,45 @@ To add your own cheese, add it to the wiki below
                 <date>2025-08-10T19:00:00+02:00</date>
                 <start>19:00</start>
                 <duration>02:00</duration>
+            </event>
+        </room>
+        <room name="Village:Frubar" guid="6acbf8b8-ded5-5f6f-b218-b466625596bd">
+            <event guid="2cfecc93-5986-50ee-8c24-4b28a74cbec5">
+                <title>Batik T-Shirts</title>
+                <track>Self Organized Sessions</track>
+                <abstract>You will create your own wonderful batik t-shirts. Everybody is welcome (kids, grown-ups, aliens, whatever)</abstract>
+                <type>Hands-On</type>
+                <persons>
+                    <person>DrScream</person>
+                </persons>
+                <language>de</language>
+                <description>Is for kids
+Age range: All ages
+= About =
+
+[[File:Hippybatik.jpg|frame]]
+
+We will create some wonderful batik t-shirts during the camp. Everybody is welcome - it could be a kids session but we also have t-shirts for grown ups.
+We've done some batik sessions on other camps in the past but somehow lost focus the last years. So this is a revival :-)
+
+= Location =
+
+Kid's Space
+
+--- 
+
+And on Sunday at Frubar!
+
+= What do we provide =
+
+We've special organic batik color, binding threads and lot's of white t-shirts. But feel free to bring your own t-shirt - everything is possible! This session is provided for free, feel free to donate at the camp side.
+
+* ~40 kids t-shirts in different sizes (5y-14y)
+* ~40 grown up shirts in different sizes (M-3XL)
+* ~40 fitted grown up shirts in different sizes (S-XXL)</description>
+                <date>2025-08-10T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>01:30</duration>
             </event>
         </room>
         <room name="Village:Gadget Friday" guid="3171b226-6187-55df-bdbe-68fbd6743858">
@@ -8424,6 +8468,21 @@ Cheers,
 Alex</description>
                 <date>2025-08-10T17:00:00+02:00</date>
                 <start>17:00</start>
+                <duration>01:00</duration>
+            </event>
+            <event guid="4530fed5-da4f-554b-a38c-120e2fcb8c1b">
+                <title>How to build a pinball machine</title>
+                <track>Self Organized Sessions</track>
+                <abstract>How I rebuilt a classic mechanical pinball machine</abstract>
+                <type>Talk</type>
+                <persons>
+                    <person>Midway</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: All ages
+This project began with a broken mechanical pinball machine from the 1981s. I completely stripped it down, repaired the structure, and replaced the mechanical scoring and control systems with modern electronics and custom software. The result is a fully digital pinball experience housed inside the original cabinet, combining classic design with modern gameplay.</description>
+                <date>2025-08-10T20:30:00+02:00</date>
+                <start>20:30</start>
                 <duration>01:00</duration>
             </event>
         </room>
@@ -11659,6 +11718,32 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
                 <start>16:00</start>
                 <duration>00:30</duration>
             </event>
+            <event guid="9df266e9-0409-584d-95f2-e0f4c59ffeca">
+                <title>Hydra Livecoding Video Synthesis 101 Workshop</title>
+                <track>Self Organized Sessions</track>
+                <url>https://6120.eu/posts/workshop-hydra/</url>
+                <type>Hands-On</type>
+                <persons>
+                    <person>Magic</person>
+                </persons>
+                <language>en</language>
+                <description>Hydra https://hydra.ojack.xyz/ video synth workshop.
+
+We will follow 1 or multiples courses from https://6120.eu/posts/workshop-hydra/
+
+We will make visuals, observe how to navigate within patches of codes and have a quick overview of Hydra the video synth software.
+
+Bring your laptop !
+
+There's no sitting so don't hesitate to bring yours !
+
+You will learn something !
+
+Timeslots will be added by end of 2025-08-09</description>
+                <date>2025-08-11T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>02:00</duration>
+            </event>
         </room>
     </day>
     <day index="6" date="2025-08-12" start="2025-08-12T04:00:00+02:00" end="2025-08-13T03:59:00+02:00">
@@ -13086,33 +13171,6 @@ Donation based</description>
                 <description>Generated time to make session visible, might need an actual date and time
 Age range: 18+
 Tune in every evening near the GR.A.P.P.A. cluster for some drinks and fun, every evening starting from 20:00</description>
-            </event>
-            <event guid="9df266e9-0409-584d-95f2-e0f4c59ffeca">
-                <title>Hydra Livecoding Video Synthesis 101 Workshop</title>
-                <track>Self Organized Sessions</track>
-                <url>https://6120.eu/posts/workshop-hydra/</url>
-                <type>Hands-On</type>
-                <persons>
-                    <person>Magic</person>
-                </persons>
-                <language>en</language>
-                <date>2025-08-13T00:00:00+02:00</date>
-                <time>00:00</time>
-                <duration>01:00</duration>
-                <description>Generated time to make session visible, might need an actual date and time
-Hydra https://hydra.ojack.xyz/ video synth workshop.
-
-We will follow 1 or multiples courses from https://6120.eu/posts/workshop-hydra/
-
-We will make visuals, observe how to navigate within patches of codes and have a quick overview of Hydra the video synth software.
-
-Bring your laptop !
-
-There's no sitting so don't hesitate to bring yours !
-
-You will learn something !
-
-Timeslots will be added by end of 2025-08-09</description>
             </event>
             <event guid="5246ddb2-aeb9-5cde-8b19-ae7229fd59f7">
                 <title>Ping-Pong Arcade (Scotto Inspired)</title>
