@@ -1180,6 +1180,16 @@
     "type": "Workshop"
   },
   {
+    "id": "9c10ab99-0740-5058-9a7c-3ca76f26c4ab",
+    "title": "FHB:Probiotic beverages making",
+    "description": "Needs signup\n[https://dud-poll.inf.tu-dresden.de/probioticbeverages/ To secure spot on the Session. please sign in here.]\n\nDuring this workshop we will focus on brewing with milk kefir, water kefir and kombucha cultures. We will go through different tricks how to achieve delicious drinks. Primary and secondary fermentation will be discussed in detail, flavouring and so on. We will have some drinks to taste and culture to share. This workshop is donation based, no one turned away for lack of funds. However please note, that on the way to WHY 2025 when bringing Food Hacking Base (fhb) stuff, my car broke and I need somehow to get home with all the stuff and buy some second hand alternative so I can continue earn my living. Any help in this caseappreciated.",
+    "start": "2025-08-11T14:00:00+02:00",
+    "end": "2025-08-11T16:00:00+02:00",
+    "room": "Village:Food Hacking Base",
+    "url": "",
+    "type": "Workshop"
+  },
+  {
     "id": "a4fa9900-9a36-5257-9f30-50ff32236846",
     "title": "Personalized Velcro Patches",
     "description": "Age range: All ages\nI've got patches, a bunch of colored vinyl, a small plotter and a mini-heat press. With these, I can make a personalized velcro patches to jazz up your festival hoody or t-shirt, which has a spot for this on the sleeve. I ask a small fee to cover the materials.",
@@ -1328,6 +1338,16 @@
     "room": "Village:\u00d8l Telecom",
     "url": "",
     "type": "Outside"
+  },
+  {
+    "id": "b7a09954-e7d3-5ea6-ae88-3e8c6bd25c3e",
+    "title": "Man your ships! Kubernetes Security, Attacks (and a Bit of Networking)",
+    "description": "Age range: 16+",
+    "start": "2025-08-11T18:00:00+02:00",
+    "end": "2025-08-11T19:00:00+02:00",
+    "room": "undetermined",
+    "url": "https://wiki.why2025.org/Village:Green_Ninjas",
+    "type": ""
   },
   {
     "id": "3de91bba-9c9d-547e-8d04-7703bcf3b935",
