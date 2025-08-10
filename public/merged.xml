@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>DanceDanceRevolution</version>
+    <version>Sunday Village Update</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -3738,7 +3738,7 @@ On WHY 2025 we will give 5 hack shield lessons of about 55 minutes in which you 
                 <date>2025-08-09T15:00:00+02:00</date>
                 <start>15:00</start>
                 <duration>00:30</duration>
-                <abstract>Make your own paracord keyring or bracelet. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord bracelet or keyring.</abstract>
+                <abstract>Make your own paracord keyring. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord keyring.</abstract>
                 <slug>why2025-339-0-paracord-workshop</slug>
                 <track>Villages</track>
                 <persons>
@@ -6967,8 +6967,8 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <title>LEGO Letterpress</title>
                 <subtitle />
                 <type>Workshops (90 minutes)</type>
-                <date>2025-08-10T17:00:00+02:00</date>
-                <start>17:00</start>
+                <date>2025-08-10T18:00:00+02:00</date>
+                <start>18:00</start>
                 <duration>02:00</duration>
                 <abstract>Experience 600-year-old printing technology with a modern twist! Build
 your own designs using LEGO bricks to create pixel art, then print them
@@ -7158,9 +7158,9 @@ In addition to his classical experience with orchestras, Reyn is also a producer
                 <title>Movie: Photophobia</title>
                 <subtitle />
                 <type>Entertainment</type>
-                <date>2025-08-10T18:00:00+02:00</date>
-                <start>18:00</start>
-                <duration>02:00</duration>
+                <date>2025-08-10T21:00:00+02:00</date>
+                <start>21:00</start>
+                <duration>01:30</duration>
                 <abstract>Deeply touching fiction-documentary hybrid, looking at the war in Ukraine through the eyes of two children in search of a ray of light. Niki (12) and Vika (11) meet in the underground subway tunnels where their families hide from Russian bombs. ‘A positive attitude can help you forget everything.’</abstract>
                 <slug>why2025-365-movie-photophobia</slug>
                 <track>Entertainment</track>
@@ -7352,7 +7352,7 @@ Location: next to Party Area Terrace</description>
                 <date>2025-08-10T10:00:00+02:00</date>
                 <start>10:00</start>
                 <duration>00:30</duration>
-                <abstract>Make your own paracord keyring or bracelet. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord bracelet or keyring.</abstract>
+                <abstract>Make your own paracord keyring. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord keyring.</abstract>
                 <slug>why2025-339-1-paracord-workshop</slug>
                 <track>Villages</track>
                 <persons>
@@ -7482,7 +7482,7 @@ On WHY 2025 we will give 5 hack shield lessons of about 55 minutes in which you 
                 <date>2025-08-10T18:00:00+02:00</date>
                 <start>18:00</start>
                 <duration>00:30</duration>
-                <abstract>Make your own paracord keyring or bracelet. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord bracelet or keyring.</abstract>
+                <abstract>Make your own paracord keyring. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord keyring.</abstract>
                 <slug>why2025-339-2-paracord-workshop</slug>
                 <track>Villages</track>
                 <persons>
@@ -10739,6 +10739,35 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <url>https://program.why2025.org/why2025/talk/ZVKWUM/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/ZVKWUM/feedback/</feedback_url>
             </event>
+            <event guid="dc588f63-6190-506d-bf55-b9671a49c1fc" id="384">
+                <room>Family Zone</room>
+                <title>BattleBots</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>01:00</duration>
+                <abstract>First contact with combat robotics.
+
+We'll teach you how to drive a combat robot and you get to experience
+driving it in an arena. If there is interest we'll setup a competition.
+
+There are several combat robots at Why2025, we would love to show them off!</abstract>
+                <slug>why2025-384-battlebots</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/V7EHXS/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/V7EHXS/feedback/</feedback_url>
+            </event>
             <event guid="6e2fdf91-f792-518c-8f23-62d66203a407" id="382">
                 <room>Family Zone</room>
                 <title>How to tie a knot</title>
@@ -11093,7 +11122,7 @@ Location: next to Party Area Terrace</description>
                 <date>2025-08-11T10:00:00+02:00</date>
                 <start>10:00</start>
                 <duration>00:30</duration>
-                <abstract>Make your own paracord keyring or bracelet. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord bracelet or keyring.</abstract>
+                <abstract>Make your own paracord keyring. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord keyring.</abstract>
                 <slug>why2025-339-3-paracord-workshop</slug>
                 <track>Villages</track>
                 <persons>
@@ -11252,6 +11281,32 @@ By: Bianca Kremer and Annet Bronsema</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/7HMAJX/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/7HMAJX/feedback/</feedback_url>
+            </event>
+            <event guid="db53aa66-4ae7-5fb4-b759-df31632420d9" id="339">
+                <room>D42D Workshop Tent</room>
+                <title>Paracord workshop</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-11T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>00:30</duration>
+                <abstract>Make your own paracord keyring. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord keyring.</abstract>
+                <slug>why2025-339-4-paracord-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Bernard Edelenbos (offered by Falco Networks)
+There are approximately 8 sets of material available per workshop, please register for the workshop on the flipover sheet in/near the D42D workshop tent.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/TEZJH7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/TEZJH7/feedback/</feedback_url>
             </event>
             <event guid="25c001f2-ddf0-5c38-a11a-b3478b96454f" id="346">
                 <room>D42D Workshop Tent</room>
@@ -11678,6 +11733,32 @@ Ever wondered how stage lights know when to blink dramatically during a DJ's bas
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/VGKCDH/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/VGKCDH/feedback/</feedback_url>
+            </event>
+            <event guid="237065be-1001-542d-b854-9a0f687debe1" id="383">
+                <room>Back to the 80s Party Village</room>
+                <title>Ghettoblaster with an (un)ethical twist</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>00:30</duration>
+                <abstract>In the Back to the 80s Party village we have our own 80s playlist running on a Ghettoblaster. But what you don't see right away, is that it scans your presence to adjust the sound output. Is that ethical, did you give your consent for that? How far can we go without your approval?
+
+Using this as a discussion starter. I will also show how this scanning happens by opening up the Ghettoblaster/CRT television, and how to revive old technology with many ESP32 devices for scanning.</abstract>
+                <slug>why2025-383-ghettoblaster-with-an-un-ethical-twist</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/7H7TDF/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/7H7TDF/feedback/</feedback_url>
             </event>
         </room>
         <room name="HackTheHealth" guid="ee9c0686-211c-53f9-bfb1-29b2af890bdd">
@@ -13114,35 +13195,6 @@ On WHY 2025 we will give 5 hack shield lessons of about 55 minutes in which you 
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/T3WKWQ/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/T3WKWQ/feedback/</feedback_url>
-            </event>
-            <event guid="25939442-48da-57be-9e52-a752381a2a67" id="345">
-                <room>D42D Workshop Tent</room>
-                <title>Build Your Own Meshtastic Pager (One That Doesn’t Explode)</title>
-                <subtitle />
-                <type>Workshop (120 minutes)</type>
-                <date>2025-08-12T14:00:00+02:00</date>
-                <start>14:00</start>
-                <duration>02:00</duration>
-                <abstract>Meshtastic (https://meshtastic.org/) is "An open source, off-grid, decentralized, mesh network built to run on affordable, low-power devices” you can use for your IoT or other connected devices or, e.g. to build a pager that will work even when all other communication networks are down.</abstract>
-                <slug>why2025-345-2-build-your-own-meshtastic-pager-one-that-doesn-t-explode</slug>
-                <track>Villages</track>
-                <persons>
-                    
-                </persons>
-                <language>en</language>
-                <description>By: Jeroen Ellermeijer
-In this workshop, sponsored by DIVD, you will be building your own Mashtastic pager with decent components that, unlike some devices from certain dubious sources from certain countries, will not explode (we hope, but won't guarantee).
- 
-All parts will be available in limited supply in the tent at a pay what you want/can policy, if there are any proceeds they will go to DIVD.
-Please bring your own laptop if you can to flash and configure the device.</description>
-                <recording>
-                    <license />
-                    <optout>true</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/WALGW9/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/WALGW9/feedback/</feedback_url>
             </event>
         </room>
         <room name="Serendiep" guid="9b897dbb-9ccc-533a-9406-3a037ed2534c">
