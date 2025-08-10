@@ -1032,7 +1032,8 @@ The Pancake village will be right next to the (main) Andromeda track.
                     <person>Karotte</person>
                 </persons>
                 <language>de</language>
-                <description>Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.
+                <description>Missing duration, check with organiser, dummy 10 minutes added
+Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.
 First you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.
 
 Splicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9µm, which is smaller than a human hair.
@@ -4743,7 +4744,8 @@ This is your chance to discover beers you'd never find outside your region — u
                     <person>Karotte</person>
                 </persons>
                 <language>de</language>
-                <description>Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.
+                <description>Missing duration, check with organiser, dummy 10 minutes added
+Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.
 First you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.
 
 Splicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9µm, which is smaller than a human hair.
@@ -8068,6 +8070,22 @@ Come and learn how the SecureBoot and OTP memory of your Raspberry Pi Pico 2 all
                 <duration>00:30</duration>
             </event>
         </room>
+        <room name="Village:Demoscene" guid="b8b3868c-6ea5-54c7-b721-2a6c30fa4a0b">
+            <event guid="10c45f46-3b23-5258-a6ae-be9f2d0bfca5">
+                <title>Demoparty</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Demoparty at WHY</abstract>
+                <type>Other</type>
+                <persons>
+                    <person>Zeno4ever</person>
+                </persons>
+                <language>en</language>
+                <description>Registration for your (badge) demos can be submitted via [https://field-fx.party Wuhu] (scene ID needed)</description>
+                <date>2025-08-10T21:30:00+02:00</date>
+                <start>21:30</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
         <room name="Village:Dutch Picknick" guid="79168e77-2fd6-56a2-b951-b03edaf0722f">
             <event guid="facd9967-eb29-5832-af66-f888d80e5a49">
                 <title>How to get a new TV without paying. Phishing panels for the win!</title>
@@ -8257,6 +8275,22 @@ I've got patches, a bunch of colored vinyl, a small plotter and a mini-heat pres
                 <date>2025-08-10T14:00:00+02:00</date>
                 <start>14:00</start>
                 <duration>02:00</duration>
+            </event>
+        </room>
+        <room name="Village:Green Ninjas" guid="da0e0124-3cf6-5996-b29c-53f35db3a2a9">
+            <event guid="820236ab-39eb-50bb-8c1f-04df8ee8723d">
+                <title>How to Become a Red Teamer</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Talk about experiences as a red teamer.</abstract>
+                <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
+                <type>Talk</type>
+                <persons>
+                    <person>Jellever</person>
+                </persons>
+                <description>Age range: 16+</description>
+                <date>2025-08-10T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>01:00</duration>
             </event>
         </room>
         <room name="Village:HSNL" guid="72a7ab53-f034-54c0-a518-2ffde0100b23">
@@ -8509,7 +8543,8 @@ tags:videogames
                     <person>Karotte</person>
                 </persons>
                 <language>de</language>
-                <description>Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.
+                <description>Missing duration, check with organiser, dummy 10 minutes added
+Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.
 First you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.
 
 Splicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9µm, which is smaller than a human hair.
@@ -8620,17 +8655,6 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
                 <description>Age range: 16+</description>
                 <date>2025-08-10T13:00:00+02:00</date>
                 <start>13:00</start>
-                <duration>01:00</duration>
-            </event>
-            <event guid="820236ab-39eb-50bb-8c1f-04df8ee8723d">
-                <title>How to Become a Red Teamer</title>
-                <track>Self Organized Sessions</track>
-                <abstract>Talk about experiences as a red teamer.</abstract>
-                <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
-                <type>Talk</type>
-                <description>Age range: 16+</description>
-                <date>2025-08-10T16:00:00+02:00</date>
-                <start>16:00</start>
                 <duration>01:00</duration>
             </event>
             <event guid="c4bc4514-bf3a-59fd-af8a-199e140b770e">
@@ -11498,7 +11522,7 @@ https://wiki.why2025.org/Village:Aid_to_Ukraine</description>
         <room name="Xyberfoort" guid="772ecaf2-1400-5c33-afdf-002f989cc8e9">
             <event guid="ab615c92-0519-5b70-a4a4-a1224aaa94cb" id="369">
                 <room>Xyberfoort</room>
-                <title>(Cancelled) 💡 DMX: Not Your Average Dance Mix</title>
+                <title>💡 DMX: Not Your Average Dance Mix</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
                 <date>2025-08-11T12:00:00+02:00</date>
@@ -11507,7 +11531,7 @@ https://wiki.why2025.org/Village:Aid_to_Ukraine</description>
                 <abstract>This event is cancelled.
 
 Ever wondered how stage lights know when to blink dramatically during a DJ's bass drop?</abstract>
-                <slug>why2025-369-0-cancelled-dmx-not-your-average-dance-mix</slug>
+                <slug>why2025-369-0-dmx-not-your-average-dance-mix</slug>
                 <track>Villages</track>
                 <persons>
                     
@@ -12097,13 +12121,17 @@ The Pancake village will be right next to the (main) Andromeda track.
             <event guid="47409f40-3997-5404-befe-1d8fb88cb949">
                 <title>Tiq Taq Toe Finale</title>
                 <track>Self Organized Sessions</track>
-                <abstract>Tiq Taq Toe Finale, win one of the physical tia taq toe games by beating all others and play against the current National TTT champion</abstract>
+                <abstract>Tiq Taq Toe Tournament including grand finale, win one of the physical tia taq toe games by beating all others and play against the current National TTT champion</abstract>
                 <type>Game</type>
+                <persons>
+                    <person>Dvesch</person>
+                </persons>
                 <description>Age range: All ages
-Tiq Taq Toe Finale, win one of the physical tia taq toe games by beating all others and play against the current National TTT champion</description>
-                <date>2025-08-11T19:00:00+02:00</date>
-                <start>19:00</start>
-                <duration>01:00</duration>
+Tiq Taq Toe Tournament &amp; Finale, win one of the physical tia taq toe games by beating all others and play against the current National TTT champion</description>
+                <subtitle>Tiq Taq Teo Tournament</subtitle>
+                <date>2025-08-11T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>02:00</duration>
             </event>
             <event guid="b5b89561-8776-56ca-ba94-53a7709e03bb">
                 <title>Yiquan training</title>
@@ -12114,6 +12142,46 @@ Tiq Taq Toe Finale, win one of the physical tia taq toe games by beating all oth
                 <date>2025-08-11T10:00:00+02:00</date>
                 <start>10:00</start>
                 <duration>01:00</duration>
+            </event>
+        </room>
+        <room name="Village:SHA512" guid="f7d8b13a-ae85-54a6-b249-53fc7e86460c">
+            <event guid="98658ebb-e9db-55ed-8b12-370a467a1a2f">
+                <title>Solving the "We've got TPM at home" CTF challenge together</title>
+                <track>Self Organized Sessions</track>
+                <abstract>We will walk through the "We've got TPM at home" challenge and solve it together, with the goal of learning something about kernel hardening in the process. The bonus is getting the flag for free of course...</abstract>
+                <url>ctf.4n6lab.nl</url>
+                <type>Workshop</type>
+                <persons>
+                    <person>JeffmeisterJ</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.
+If you're bring a Linux laptop or VM, you should be able to do the challenges yourself with a little guidance. The session will be in English, but German speakers will be present, if you have questions.</description>
+                <date>2025-08-11T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
+        <room name="Village:Selfnet" guid="09063e4a-e3a4-5b14-910d-7998b3dfbbae">
+            <event guid="d0f54932-9367-56d7-b7ee-277c949d5ab6">
+                <title>Fiber splicing workshop</title>
+                <track>Self Organized Sessions</track>
+                <abstract>In this workshop you can join fiber-optic cables using a fusion splicer</abstract>
+                <type>Workshop</type>
+                <persons>
+                    <person>Karotte</person>
+                </persons>
+                <language>de</language>
+                <description>Missing duration, check with organiser, dummy 10 minutes added
+Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.
+First you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.
+
+Splicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9µm, which is smaller than a human hair.
+
+More timeslots will be added.</description>
+                <date>2025-08-11T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>00:10</duration>
             </event>
         </room>
         <room name="Village:Worldclass" guid="5acb15aa-2a02-5428-a74a-2a1762dca445">

@@ -162,7 +162,7 @@
   {
     "id": "0a1531eb-7326-5526-8ea6-e0bdcb8e199c",
     "title": "Fiber splicing workshop",
-    "description": "Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.\nFirst you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.\n\nSplicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9\u00b5m, which is smaller than a human hair.\n\nMore timeslots will be added.",
+    "description": "Missing duration, check with organiser, dummy 10 minutes added\nAge range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.\nFirst you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.\n\nSplicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9\u00b5m, which is smaller than a human hair.\n\nMore timeslots will be added.",
     "start": "2025-08-08T15:00:00+02:00",
     "end": "2025-08-08T16:00:00+02:00",
     "room": "Village:Selfnet",
@@ -532,7 +532,7 @@
   {
     "id": "ab1e5347-a8a6-5b0c-b76c-2842f15233d3",
     "title": "Fiber splicing workshop",
-    "description": "Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.\nFirst you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.\n\nSplicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9\u00b5m, which is smaller than a human hair.\n\nMore timeslots will be added.",
+    "description": "Missing duration, check with organiser, dummy 10 minutes added\nAge range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.\nFirst you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.\n\nSplicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9\u00b5m, which is smaller than a human hair.\n\nMore timeslots will be added.",
     "start": "2025-08-09T15:00:00+02:00",
     "end": "2025-08-09T16:00:00+02:00",
     "room": "Village:Selfnet",
@@ -760,6 +760,16 @@
     "type": "Talk"
   },
   {
+    "id": "10c45f46-3b23-5258-a6ae-be9f2d0bfca5",
+    "title": "Demoparty",
+    "description": "Registration for your (badge) demos can be submitted via [https://field-fx.party Wuhu] (scene ID needed)",
+    "start": "2025-08-10T21:30:00+02:00",
+    "end": "2025-08-10T22:30:00+02:00",
+    "room": "Village:Demoscene",
+    "url": "",
+    "type": "Other"
+  },
+  {
     "id": "facd9967-eb29-5832-af66-f888d80e5a49",
     "title": "How to get a new TV without paying. Phishing panels for the win!",
     "description": "This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. \nThe second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75\" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.",
@@ -838,6 +848,16 @@
     "room": "Village:Gadget Friday",
     "url": "",
     "type": "Other"
+  },
+  {
+    "id": "820236ab-39eb-50bb-8c1f-04df8ee8723d",
+    "title": "How to Become a Red Teamer",
+    "description": "Age range: 16+",
+    "start": "2025-08-10T16:00:00+02:00",
+    "end": "2025-08-10T17:00:00+02:00",
+    "room": "Village:Green Ninjas",
+    "url": "https://wiki.why2025.org/Village:Green_Ninjas",
+    "type": "Talk"
   },
   {
     "id": "67fe87c9-14cd-5de6-a84b-9caa1862688b",
@@ -972,7 +992,7 @@
   {
     "id": "fccd69d1-a2d5-5c6f-b163-8b5d6da3690c",
     "title": "Fiber splicing workshop",
-    "description": "Age range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.\nFirst you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.\n\nSplicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9\u00b5m, which is smaller than a human hair.\n\nMore timeslots will be added.",
+    "description": "Missing duration, check with organiser, dummy 10 minutes added\nAge range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.\nFirst you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.\n\nSplicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9\u00b5m, which is smaller than a human hair.\n\nMore timeslots will be added.",
     "start": "2025-08-10T15:00:00+02:00",
     "end": "2025-08-10T16:00:00+02:00",
     "room": "Village:Selfnet",
@@ -1038,16 +1058,6 @@
     "room": "undetermined",
     "url": "https://wiki.why2025.org/Village:Green_Ninjas",
     "type": ""
-  },
-  {
-    "id": "820236ab-39eb-50bb-8c1f-04df8ee8723d",
-    "title": "How to Become a Red Teamer",
-    "description": "Age range: 16+",
-    "start": "2025-08-10T16:00:00+02:00",
-    "end": "2025-08-10T17:00:00+02:00",
-    "room": "undetermined",
-    "url": "https://wiki.why2025.org/Village:Green_Ninjas",
-    "type": "Talk"
   },
   {
     "id": "c4bc4514-bf3a-59fd-af8a-199e140b770e",
@@ -1262,9 +1272,9 @@
   {
     "id": "47409f40-3997-5404-befe-1d8fb88cb949",
     "title": "Tiq Taq Toe Finale",
-    "description": "Age range: All ages\nTiq Taq Toe Finale, win one of the physical tia taq toe games by beating all others and play against the current National TTT champion",
-    "start": "2025-08-11T19:00:00+02:00",
-    "end": "2025-08-11T20:00:00+02:00",
+    "description": "Age range: All ages\nTiq Taq Toe Tournament & Finale, win one of the physical tia taq toe games by beating all others and play against the current National TTT champion",
+    "start": "2025-08-11T14:00:00+02:00",
+    "end": "2025-08-11T16:00:00+02:00",
     "room": "Village:Quantum",
     "url": "",
     "type": "Game"
@@ -1278,6 +1288,26 @@
     "room": "Village:Quantum",
     "url": "",
     "type": "Other"
+  },
+  {
+    "id": "98658ebb-e9db-55ed-8b12-370a467a1a2f",
+    "title": "Solving the \"We've got TPM at home\" CTF challenge together",
+    "description": "Age range: 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.\nIf you're bring a Linux laptop or VM, you should be able to do the challenges yourself with a little guidance. The session will be in English, but German speakers will be present, if you have questions.",
+    "start": "2025-08-11T15:00:00+02:00",
+    "end": "2025-08-11T16:00:00+02:00",
+    "room": "Village:SHA512",
+    "url": "ctf.4n6lab.nl",
+    "type": "Workshop"
+  },
+  {
+    "id": "d0f54932-9367-56d7-b7ee-277c949d5ab6",
+    "title": "Fiber splicing workshop",
+    "description": "Missing duration, check with organiser, dummy 10 minutes added\nAge range: 9-12, 12-16, 16+, 18+, Aimed at adults but supervised kids welcome.\nFirst you will receive a short general introduction of how a splice works, what is important and what else happens around it. Then you can try fiber optic splicing yourself. Please cancel the appointment if you don't have time so that others can take over. You should have a basic interest in the topic, a little patience and a steady hand.\n\nSplicing is the process to connect fiber ends of a fiber optic cables. With single-mode glass fibers, the core diameter of the actual glass fiber is 9\u00b5m, which is smaller than a human hair.\n\nMore timeslots will be added.",
+    "start": "2025-08-11T15:00:00+02:00",
+    "end": "2025-08-11T15:10:00+02:00",
+    "room": "Village:Selfnet",
+    "url": "",
+    "type": "Workshop"
   },
   {
     "id": "8bff75c1-f4ec-550f-ae66-ffc421f3ec64",
