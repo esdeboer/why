@@ -813,10 +813,10 @@ university
 arduino-ide
 pcb
 morse-code
-attiny85
 kicad
-oshw
+oshw 
 soldering
+attiny13a
 rwu
 iki
 microcontroller-programming
@@ -2751,6 +2751,27 @@ Tiq Taq Toe Finale, win one of the physical tia taq toe games by beating all oth
         <duration>01:00</duration>
       </event>
     </room>
+    <room name="Village:Worldclass" guid="5acb15aa-2a02-5428-a74a-2a1762dca445">
+      <event guid="8bff75c1-f4ec-550f-ae66-ffc421f3ec64">
+        <title>Pin Badge &amp; Bottle Opener Creation</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Bring your own design and make a badge or bottle opener</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Trikkitt</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+Make your own pin badge or bottle opener.  Create your design before you come to the session.
+
+Either create a digital design of your choice or draw it on paper with the media of your choice, be aware the badges and bottle openers are round and ideally need a blead-over area around the edge, so include some extra design that will go around the egdes of the badge.  If you're making a paper design, be aware the badge core is 58mm diameter so make sure it will fit!  If you have a digital design you can also make smaller badges as we can scale them.
+
+Badges are free, the bottle openers are €3 to cover the cost.</description>
+        <date>2025-08-11T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
     <room name="Village:Øl Telecom" guid="9d7f244c-7f35-5948-b0fd-2f8c5e9537dd">
       <event guid="555cd6ce-7342-5e7c-bc76-9d3711b5ad7f">
         <title>Stargazing</title>
@@ -2836,6 +2857,22 @@ Timeslots will be added by end of 2025-08-09</description>
         <date>2025-08-11T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>02:00</duration>
+      </event>
+      <event guid="88c71053-f166-551a-bb6f-07afd71aec51">
+        <title>Chaos Cycling Club Meetup</title>
+        <track>Self Organized Sessions</track>
+        <abstract>We will talk about all stuff bicycle</abstract>
+        <type>Meeting</type>
+        <persons>
+          <person>Madonius</person>
+        </persons>
+        <language>de</language>
+        <description>Age range: All ages
+The meetup will happen at the big white Tent, part of the Mauldasch Cluster.
+https://map.why2025.org/?building=12&amp;building_table=villages#maphash=19/52.692037/4.748078/-20</description>
+        <date>2025-08-11T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:09</duration>
       </event>
     </room>
   </day>
@@ -2992,6 +3029,27 @@ The prices in the yellow boxes are the materials costs for participating in the 
         <description />
         <date>2025-08-12T12:00:00+02:00</date>
         <start>12:00</start>
+        <duration>01:00</duration>
+      </event>
+    </room>
+    <room name="Village:Worldclass" guid="5acb15aa-2a02-5428-a74a-2a1762dca445">
+      <event guid="52b9c633-268e-540a-9980-4644c1aa54db">
+        <title>Pin Badge &amp; Bottle Opener Creation</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Bring your own design and make a badge or bottle opener</abstract>
+        <type>Workshop</type>
+        <persons>
+          <person>Trikkitt</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: All ages
+Make your own pin badge or bottle opener.  Create your design before you come to the session.
+
+Either create a digital design of your choice or draw it on paper with the media of your choice, be aware the badges and bottle openers are round and ideally need a blead-over area around the edge, so include some extra design that will go around the egdes of the badge.  If you're making a paper design, be aware the badge core is 58mm diameter so make sure it will fit!  If you have a digital design you can also make smaller badges as we can scale them.
+
+Badges are free, the bottle openers are €3 to cover the cost.</description>
+        <date>2025-08-12T13:00:00+02:00</date>
+        <start>13:00</start>
         <duration>01:00</duration>
       </event>
     </room>

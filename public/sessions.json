@@ -362,7 +362,7 @@
   {
     "id": "3d3a9546-d65f-5a3e-a8d0-4bd9d0ada19e",
     "title": "Morse Code LED Blinker",
-    "description": "Age range: Aimed at adults but supervised kids welcome.\nBored of talks? Burnt out on pixels? Swing by and solder.\n\nParticipants can assemble and program their very own blinky PCB \u2014 a tiny circuit that flashes their name in Morse Code. Whether you're new to electronics or just need a break from abstract systems talk, this project hits the sweet spot: tactile, nerdy, and unique. And yes, you get to take it home.\n\nDepending on your experience, you will find yourself spending about ~30min with us for soldering and flashing pre-made code. In case you want to dig deeper into the programming part and create your own blink code and customize it, feel invited to stay a little longer.\n\n+++IMPORTANT NOTICE+++\n\nDue to logistical restrictions, the number of soldering irons is _very_ limited at our session. If you can and have a soldering iron available, please take it with you. You might also ask around your village or nearby neighbors to borrow one, many hackers carry small USB or DC powered irons with them. Thank you for your understanding! All other materials are available in sufficient amounts.\n\n+++Contact+++\n\nDECT: 2002 (+31 85 234 2002) or contact (Leandro | DM8LE)[https://wiki.why2025.org/User:DM8LE]\n\n\n\n\n\nTags:\n( \neducation\narduino\navr\nattiny\nmicrocontroller\nworkshop\nuniversity\narduino-ide\npcb\nmorse-code\nattiny85\nkicad\noshw\nsoldering\nrwu\niki\nmicrocontroller-programming\nled-blinker\nravensburg-weingarten-university\nmorse-code-led-blinker\n)",
+    "description": "Age range: Aimed at adults but supervised kids welcome.\nBored of talks? Burnt out on pixels? Swing by and solder.\n\nParticipants can assemble and program their very own blinky PCB \u2014 a tiny circuit that flashes their name in Morse Code. Whether you're new to electronics or just need a break from abstract systems talk, this project hits the sweet spot: tactile, nerdy, and unique. And yes, you get to take it home.\n\nDepending on your experience, you will find yourself spending about ~30min with us for soldering and flashing pre-made code. In case you want to dig deeper into the programming part and create your own blink code and customize it, feel invited to stay a little longer.\n\n+++IMPORTANT NOTICE+++\n\nDue to logistical restrictions, the number of soldering irons is _very_ limited at our session. If you can and have a soldering iron available, please take it with you. You might also ask around your village or nearby neighbors to borrow one, many hackers carry small USB or DC powered irons with them. Thank you for your understanding! All other materials are available in sufficient amounts.\n\n+++Contact+++\n\nDECT: 2002 (+31 85 234 2002) or contact (Leandro | DM8LE)[https://wiki.why2025.org/User:DM8LE]\n\n\n\n\n\nTags:\n( \neducation\narduino\navr\nattiny\nmicrocontroller\nworkshop\nuniversity\narduino-ide\npcb\nmorse-code\nkicad\noshw \nsoldering\nattiny13a\nrwu\niki\nmicrocontroller-programming\nled-blinker\nravensburg-weingarten-university\nmorse-code-led-blinker\n)",
     "start": "2025-08-09T13:00:00+02:00",
     "end": "2025-08-09T14:00:00+02:00",
     "room": "Village:Frubar",
@@ -1280,6 +1280,16 @@
     "type": "Other"
   },
   {
+    "id": "8bff75c1-f4ec-550f-ae66-ffc421f3ec64",
+    "title": "Pin Badge & Bottle Opener Creation",
+    "description": "Age range: All ages\nMake your own pin badge or bottle opener.  Create your design before you come to the session.\n\nEither create a digital design of your choice or draw it on paper with the media of your choice, be aware the badges and bottle openers are round and ideally need a blead-over area around the edge, so include some extra design that will go around the egdes of the badge.  If you're making a paper design, be aware the badge core is 58mm diameter so make sure it will fit!  If you have a digital design you can also make smaller badges as we can scale them.\n\nBadges are free, the bottle openers are \u20ac3 to cover the cost.",
+    "start": "2025-08-11T17:00:00+02:00",
+    "end": "2025-08-11T18:00:00+02:00",
+    "room": "Village:Worldclass",
+    "url": "",
+    "type": "Workshop"
+  },
+  {
     "id": "555cd6ce-7342-5e7c-bc76-9d3711b5ad7f",
     "title": "Stargazing",
     "description": "Age range: Aimed at adults but supervised kids welcome.\nLet's go stargazing! \nOn good nights I'll have two telescopes and a pair of binoculars set up, as well as some books about stargazing. \n\nThe moon phase is full or near full. It's a nice sight. \nOther than that we can look at some nice clusters or Saturn which is rising relatively early in the night now. \n\nIf you have your own telescope, bring it too! Let's check out each other's gear.",
@@ -1330,6 +1340,16 @@
     "type": "Hands-On"
   },
   {
+    "id": "88c71053-f166-551a-bb6f-07afd71aec51",
+    "title": "Chaos Cycling Club Meetup",
+    "description": "Age range: All ages\nThe meetup will happen at the big white Tent, part of the Mauldasch Cluster.\nhttps://map.why2025.org/?building=12&building_table=villages#maphash=19/52.692037/4.748078/-20",
+    "start": "2025-08-11T17:00:00+02:00",
+    "end": "2025-08-11T18:09:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Meeting"
+  },
+  {
     "id": "20e7c0cc-fb48-57a5-b3e2-fb1d7c18d3b9",
     "title": "Stop the Bleed @ Aid to Ukraine",
     "description": "Needs signup\nAge range: 16+\n= Stop the Bleed - practical skills for daily life in Ukraine =\n\nIn Ukraine, instead of reanimation, most people learn how to stop the bleed, to deal with the aftermath of attacks. \n\nEven though it is not the first thing you might need, learning this skill gives you a good feel for the situation in cities like Kyiv and Kharkiv. \n\n=== Registration ===\n\nRegistration is at the Village! We have about 10-15 places for each session\n\n=== What will I learn? ===\n\nTatiana and her assistant Niels will show you to apply a tourniquet, how to apply hemostatic gauzes in bleeding wounds and how to apply pressure bandage. \n\nAnd you can try all of it yourself with training tourniquets, rubber fake wounds with red fluid and training pressure bandages!\n\n=== How should I prepare? ===\n\nDon't put on your most expensive dress. We have suits to keep your clothes kinda clean, but no warranty. For sure it will be messy, but it will be fun! \n\n=== Can I support this? ===\n\nYes for sure! If you want to support our foundation Aid to Ukraine, you can donate towards stop the bleed-kits which we will bring to Kharkiv. \n\nhttps://aidtoukraine.nl",
@@ -1378,6 +1398,16 @@
     "room": "Village:Quantum",
     "url": "",
     "type": "Hands-On"
+  },
+  {
+    "id": "52b9c633-268e-540a-9980-4644c1aa54db",
+    "title": "Pin Badge & Bottle Opener Creation",
+    "description": "Age range: All ages\nMake your own pin badge or bottle opener.  Create your design before you come to the session.\n\nEither create a digital design of your choice or draw it on paper with the media of your choice, be aware the badges and bottle openers are round and ideally need a blead-over area around the edge, so include some extra design that will go around the egdes of the badge.  If you're making a paper design, be aware the badge core is 58mm diameter so make sure it will fit!  If you have a digital design you can also make smaller badges as we can scale them.\n\nBadges are free, the bottle openers are \u20ac3 to cover the cost.",
+    "start": "2025-08-12T13:00:00+02:00",
+    "end": "2025-08-12T14:00:00+02:00",
+    "room": "Village:Worldclass",
+    "url": "",
+    "type": "Workshop"
   },
   {
     "id": "d3955452-461d-5b0f-96e0-3e3ac7dbad7a",
