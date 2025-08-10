@@ -12449,6 +12449,24 @@ https://map.why2025.org/?building=12&amp;building_table=villages#maphash=19/52.6
                 <start>17:00</start>
                 <duration>01:09</duration>
             </event>
+            <event guid="daec6b1d-c026-56b3-8a61-2c406e5b8bd1">
+                <title>Matrix Upgrade Party</title>
+                <track>Self Organized Sessions</track>
+                <abstract>On Tuesday at 1900 the Room v12 coordinated security release will happen. In this session we upgrade our Matrix servers, discuss at what time a room upgrade makes the most sense for your community, and help each other with all other Matrix problems.</abstract>
+                <url>https://matrix.org/blog/2025/07/security-predisclosure/</url>
+                <type>Hands-On</type>
+                <persons>
+                    <person>Davebloggt</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: All ages
+On Tuesday at 1900 the Room v12 coordinated security release will happen. In this session we upgrade our Matrix servers, discuss at what time a room upgrade makes the most sense for your community, and help each other with all other Matrix problems.
+
+This session will take place in the hackcenter of the [https://map.why2025.org/?building=9&amp;building_table=cluster#maphash=19.63/52.692503/4.7493689/-20 Chaos Norden Westen Osten + Austria cluster], located at the "Chaosdorf" assembly on the map.</description>
+                <date>2025-08-11T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>01:30</duration>
+            </event>
         </room>
     </day>
     <day index="6" date="2025-08-12" start="2025-08-12T04:00:00+02:00" end="2025-08-13T03:59:00+02:00">
