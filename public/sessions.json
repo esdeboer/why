@@ -542,7 +542,7 @@
   {
     "id": "a877aa49-6782-593f-9f27-5ff6cdf95581",
     "title": "Transmasc meetup",
-    "description": "Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406\n\n\nupdate: I've inserted some images to help you find the techinc village, where the meetup is. of course we meet near the big flags. if you recognize me somewhere else, feel free to say hi to me as well. I have a yellow hat and a lion tail.\n\n[[file:transmasc-meetup.jpg.jpg|thumb]]\n\n[[File:Techinc-2.png|thumb]]\n\n[[File:Techinc-lion.jpg|thumb]]\n\n[[File:Techinc-3.jpg|thumb]]",
+    "description": "Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406\n\n\nupdate: I've inserted some images to help you find the techinc village, where the meetup is. of course we meet near the big flags. if you recognize me somewhere else, feel free to say hi to me as well. I have a yellow hat and a lion tail.\n\n\nsecond update: I want to go to the vla tasting at the food hacking base at 17:00 today (august 10), so I'm moving the meetup to 16:45. if you show up at 17:00 you can find me at the foodhackingbase.\n\n[[file:transmasc-meetup.jpg.jpg|thumb]]\n\n[[File:Techinc-2.png|thumb]]\n\n[[File:Techinc-lion.jpg|thumb]]\n\n[[File:Techinc-3.jpg|thumb]]",
     "start": "2025-08-09T17:00:00+02:00",
     "end": "2025-08-09T18:00:00+02:00",
     "room": "Village:TechInc",
@@ -763,8 +763,8 @@
     "id": "facd9967-eb29-5832-af66-f888d80e5a49",
     "title": "How to get a new TV without paying. Phishing panels for the win!",
     "description": "This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. \nThe second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75\" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.",
-    "start": "2025-08-10T14:00:00+02:00",
-    "end": "2025-08-10T15:00:00+02:00",
+    "start": "2025-08-10T20:00:00+02:00",
+    "end": "2025-08-10T21:00:00+02:00",
     "room": "Village:Dutch Picknick",
     "url": "",
     "type": "Talk"
@@ -872,9 +872,9 @@
   {
     "id": "10582504-d6ae-50f1-aecc-e60a0a2b9486",
     "title": "AI in Healthcare",
-    "description": "What are the tools and challenges of AI in a clinical situation? This talk will give some guidelines on what to watch out for.",
+    "description": "Age range: 16+\n<b>Description:</b>  Frans will explain what AI and ML is, and the use of this in health care and life sciences. Professionals have to understand the risks in applying AI when patients may be affected. These systems have to be validated, and guidelines and standards are available. <br>\nDuring this presentation some interesting and important guidelines will be presented. <br>\nParticipants will get a basic understanding of AI and ML, what risks are related, and know about EU regulations and other guidelines that are available. The determinants for the Quality of Data will be discussed and how this can be measured.",
     "start": "2025-08-10T16:00:00+02:00",
-    "end": "2025-08-10T16:30:00+02:00",
+    "end": "2025-08-10T16:45:00+02:00",
     "room": "Village:HackTheHealth",
     "url": "",
     "type": "Talk"
@@ -982,9 +982,9 @@
   {
     "id": "53edd6ac-b620-5ead-af31-0aafbfd9b53a",
     "title": "Transmasc meetup",
-    "description": "Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406\n\n\nupdate: I've inserted some images to help you find the techinc village, where the meetup is. of course we meet near the big flags. if you recognize me somewhere else, feel free to say hi to me as well. I have a yellow hat and a lion tail.\n\n[[file:transmasc-meetup.jpg.jpg|thumb]]\n\n[[File:Techinc-2.png|thumb]]\n\n[[File:Techinc-lion.jpg|thumb]]\n\n[[File:Techinc-3.jpg|thumb]]",
-    "start": "2025-08-10T17:00:00+02:00",
-    "end": "2025-08-10T18:00:00+02:00",
+    "description": "Hi, I'm Li0n. I'm transmasc, and I'd really like to meet more nerdy transmascs. if you feel the same way, please come say hi at techinc village :) I might change the exact time and date, so please check again later. if you want to meet me at a different time or place, you can also reach me during the event with DECT 5406\n\n\nupdate: I've inserted some images to help you find the techinc village, where the meetup is. of course we meet near the big flags. if you recognize me somewhere else, feel free to say hi to me as well. I have a yellow hat and a lion tail.\n\n\nsecond update: I want to go to the vla tasting at the food hacking base at 17:00 today (august 10), so I'm moving the meetup to 16:45. if you show up at 17:00 you can find me at the foodhackingbase.\n\n[[file:transmasc-meetup.jpg.jpg|thumb]]\n\n[[File:Techinc-2.png|thumb]]\n\n[[File:Techinc-lion.jpg|thumb]]\n\n[[File:Techinc-3.jpg|thumb]]",
+    "start": "2025-08-10T16:45:00+02:00",
+    "end": "2025-08-10T17:45:00+02:00",
     "room": "Village:TechInc",
     "url": "",
     "type": "Meeting"

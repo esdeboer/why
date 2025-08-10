@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>Another Day 2 update</version>
+    <version>With Lightning Talks</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -4725,6 +4725,7 @@ Let’s share stories, flavors, and maybe even organize a casual tasting session
 This is your chance to discover beers you'd never find outside your region — unless you're here, at this Camp.
 
 ---- Timeslots will follow ----</description>
+                <subtitle>Although the timeslot is over, come any time and you find a table with beers to exchange</subtitle>
                 <date>2025-08-09T14:30:00+02:00</date>
                 <start>14:30</start>
                 <duration>01:30</duration>
@@ -4764,6 +4765,9 @@ More timeslots will be added.</description>
 
 
 update: I've inserted some images to help you find the techinc village, where the meetup is. of course we meet near the big flags. if you recognize me somewhere else, feel free to say hi to me as well. I have a yellow hat and a lion tail.
+
+
+second update: I want to go to the vla tasting at the food hacking base at 17:00 today (august 10), so I'm moving the meetup to 16:45. if you show up at 17:00 you can find me at the foodhackingbase.
 
 [[file:transmasc-meetup.jpg.jpg|thumb]]
 
@@ -7008,6 +7012,30 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
             </event>
         </room>
         <room name="Party Stage" guid="561b70ba-f1d5-5f92-bcde-7f056905df90">
+            <event guid="2b2aeac6-8e65-5f31-a43e-62d0b0c496d6" id="381">
+                <room>Party Stage</room>
+                <title>Kids Disco</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-10T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>01:00</duration>
+                <abstract>Kids Disco! Come and dance to the tunes of the DJ!</abstract>
+                <slug>why2025-381-kids-disco</slug>
+                <track>Entertainment</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/CNHGHM/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/CNHGHM/feedback/</feedback_url>
+            </event>
             <event guid="9490e7be-534b-5f22-b592-9e04775a4cbc" id="310">
                 <room>Party Stage</room>
                 <title>REYN</title>
@@ -7659,33 +7687,6 @@ https://wiki.why2025.org/Village:Aid_to_Ukraine</description>
                 <feedback_url>https://program.why2025.org/why2025/talk/RTDUD7/feedback/</feedback_url>
             </event>
         </room>
-        <room name="Xyberfoort" guid="772ecaf2-1400-5c33-afdf-002f989cc8e9">
-            <event guid="ab615c92-0519-5b70-a4a4-a1224aaa94cb" id="369">
-                <room>Xyberfoort</room>
-                <title>💡 DMX: Not Your Average Dance Mix</title>
-                <subtitle />
-                <type>Workshop (120 minutes)</type>
-                <date>2025-08-10T12:00:00+02:00</date>
-                <start>12:00</start>
-                <duration>02:00</duration>
-                <abstract>Ever wondered how stage lights know when to blink dramatically during a DJ's bass drop?</abstract>
-                <slug>why2025-369-0-dmx-not-your-average-dance-mix</slug>
-                <track>Villages</track>
-                <persons>
-                    
-                </persons>
-                <language>en</language>
-                <description>Enter DMX512, the protocol that makes lights dance better than your uncle at a wedding! Join us for a crash course in Digital Multiplex where we'll turn boring old ones and zeros into a rave-worthy light show. This workshop also comes with an exclusive behind-the-scenes tour of the partystage—see where the magic (and the cables) really happen! Warning: Side effects may include sudden urges to say "Check, check, 1-2-3" into microphones and an inexplicable desire to wear all black like a proper theater tech. No previous experience required, just bring your inner disco ball! 🕺💃</description>
-                <recording>
-                    <license />
-                    <optout>true</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/C9YYJC/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/C9YYJC/feedback/</feedback_url>
-            </event>
-        </room>
         <room name="Quantum Village" guid="4211081b-6f54-571b-8408-1c903438235f">
             <event guid="1ddd2d72-de44-5c43-ab05-26c1ef07a8e8" id="376">
                 <room>Quantum Village</room>
@@ -7789,6 +7790,33 @@ https://wiki.why2025.org/Session:Kraftwerk_and_Craftwork</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/ZFNMTD/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/ZFNMTD/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="HackTheHealth" guid="ee9c0686-211c-53f9-bfb1-29b2af890bdd">
+            <event guid="6326a0f1-c5ca-53de-9817-5c7fb5dbd727" id="275">
+                <room>HackTheHealth</room>
+                <title>Lightning Talks</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-10T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>00:50</duration>
+                <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
+                <slug>why2025-275-0-lightning-talks</slug>
+                <track>The square hole</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki.Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/EFJTHQ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/EFJTHQ/feedback/</feedback_url>
             </event>
         </room>
         <room name="Village:/media" guid="457f3023-28aa-58de-a844-a9bb82558e38">
@@ -8047,8 +8075,8 @@ Come and learn how the SecureBoot and OTP memory of your Raspberry Pi Pico 2 all
                 </persons>
                 <description>This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. 
 The second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.</description>
-                <date>2025-08-10T14:00:00+02:00</date>
-                <start>14:00</start>
+                <date>2025-08-10T20:00:00+02:00</date>
+                <start>20:00</start>
                 <duration>01:00</duration>
             </event>
             <event guid="99b885cb-32ba-5b63-8911-cc48382a32c0">
@@ -8274,16 +8302,19 @@ A talk of a researcher of NCSC-NL on WHY babytv was broadcasting propaganda.</de
             <event guid="10582504-d6ae-50f1-aecc-e60a0a2b9486">
                 <title>AI in Healthcare</title>
                 <track>Self Organized Sessions</track>
-                <abstract>A talk about the challenges and tools for using AI in healthcare</abstract>
+                <abstract>Artificial Intelligence and Machine Learning in Healthcare Quality</abstract>
                 <type>Talk</type>
                 <persons>
-                    <person>Nelusthenerd</person>
+                    <person>Nelusthenerd, Frabo</person>
                 </persons>
                 <language>en</language>
-                <description>What are the tools and challenges of AI in a clinical situation? This talk will give some guidelines on what to watch out for.</description>
+                <description>Age range: 16+
+&lt;b&gt;Description:&lt;/b&gt;  Frans will explain what AI and ML is, and the use of this in health care and life sciences. Professionals have to understand the risks in applying AI when patients may be affected. These systems have to be validated, and guidelines and standards are available. &lt;br&gt;
+During this presentation some interesting and important guidelines will be presented. &lt;br&gt;
+Participants will get a basic understanding of AI and ML, what risks are related, and know about EU regulations and other guidelines that are available. The determinants for the Quality of Data will be discussed and how this can be measured.</description>
                 <date>2025-08-10T16:00:00+02:00</date>
                 <start>16:00</start>
-                <duration>00:30</duration>
+                <duration>00:45</duration>
             </event>
         </room>
         <room name="Village:Hardware Hacking Area" guid="2358bed6-9a09-5a7c-898a-ded151f3398a">
@@ -8499,6 +8530,9 @@ More timeslots will be added.</description>
 
 update: I've inserted some images to help you find the techinc village, where the meetup is. of course we meet near the big flags. if you recognize me somewhere else, feel free to say hi to me as well. I have a yellow hat and a lion tail.
 
+
+second update: I want to go to the vla tasting at the food hacking base at 17:00 today (august 10), so I'm moving the meetup to 16:45. if you show up at 17:00 you can find me at the foodhackingbase.
+
 [[file:transmasc-meetup.jpg.jpg|thumb]]
 
 [[File:Techinc-2.png|thumb]]
@@ -8507,8 +8541,8 @@ update: I've inserted some images to help you find the techinc village, where th
 
 [[File:Techinc-3.jpg|thumb]]</description>
                 <subtitle>day 3 meetup</subtitle>
-                <date>2025-08-10T17:00:00+02:00</date>
-                <start>17:00</start>
+                <date>2025-08-10T16:45:00+02:00</date>
+                <start>16:45</start>
                 <duration>01:00</duration>
             </event>
         </room>
@@ -11399,16 +11433,18 @@ https://wiki.why2025.org/Village:Aid_to_Ukraine</description>
             </event>
         </room>
         <room name="Xyberfoort" guid="772ecaf2-1400-5c33-afdf-002f989cc8e9">
-            <event guid="d67dc157-9dea-5b2f-a0b7-ef58ceb78056" id="369">
+            <event guid="ab615c92-0519-5b70-a4a4-a1224aaa94cb" id="369">
                 <room>Xyberfoort</room>
-                <title>💡 DMX: Not Your Average Dance Mix</title>
+                <title>(Cancelled) 💡 DMX: Not Your Average Dance Mix</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
                 <date>2025-08-11T12:00:00+02:00</date>
                 <start>12:00</start>
                 <duration>02:00</duration>
-                <abstract>Ever wondered how stage lights know when to blink dramatically during a DJ's bass drop?</abstract>
-                <slug>why2025-369-1-dmx-not-your-average-dance-mix</slug>
+                <abstract>This event is cancelled.
+
+Ever wondered how stage lights know when to blink dramatically during a DJ's bass drop?</abstract>
+                <slug>why2025-369-0-cancelled-dmx-not-your-average-dance-mix</slug>
                 <track>Villages</track>
                 <persons>
                     
@@ -11551,6 +11587,33 @@ https://wiki.why2025.org/Village:Aid_to_Ukraine</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/VGKCDH/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/VGKCDH/feedback/</feedback_url>
+            </event>
+        </room>
+        <room name="HackTheHealth" guid="ee9c0686-211c-53f9-bfb1-29b2af890bdd">
+            <event guid="6028dc49-e3ea-54a1-9325-6b1a65aaa013" id="275">
+                <room>HackTheHealth</room>
+                <title>Lightning Talks</title>
+                <subtitle />
+                <type>Talk (50 minutes)</type>
+                <date>2025-08-11T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>00:50</duration>
+                <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
+                <slug>why2025-275-1-lightning-talks</slug>
+                <track>The square hole</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki.Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</description>
+                <recording>
+                    <license />
+                    <optout>false</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/EFJTHQ/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/EFJTHQ/feedback/</feedback_url>
             </event>
         </room>
         <room name="Village:Aid to Ukraine" guid="30153654-380f-5aa4-a9e0-64d27307d22b">
@@ -12080,7 +12143,7 @@ Timeslots will be added by end of 2025-08-09</description>
     </day>
     <day index="6" date="2025-08-12" start="2025-08-12T04:00:00+02:00" end="2025-08-13T03:59:00+02:00">
         <room name="Andromeda" guid="d046f302-efcc-5cea-b2e4-e4f4f8a9c6ba">
-            <event guid="76e0699f-8f15-5c26-8708-6766ffdfea23" id="275">
+            <event guid="5674cf4a-b6a6-5911-9b01-7643a26f8371" id="275">
                 <room>Andromeda</room>
                 <title>Lightning Talks</title>
                 <subtitle />
@@ -12089,7 +12152,7 @@ Timeslots will be added by end of 2025-08-09</description>
                 <start>10:00</start>
                 <duration>00:50</duration>
                 <abstract>Lightning talks are a 5 to 10 minute quick talk on an interesting subject. They can be with or without slides, and with or without proper preparation. if you weren't accepted in the main CfP, this is also a great opportunity to give an abridged version of your talk. These sessions will be available to sign up to later on, with details on the wiki: https://wiki.why2025.org/Lightning_Talks</abstract>
-                <slug>why2025-275-lightning-talks</slug>
+                <slug>why2025-275-2-lightning-talks</slug>
                 <track>The square hole</track>
                 <persons>
                     

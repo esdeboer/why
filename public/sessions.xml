@@ -1206,6 +1206,7 @@ Let’s share stories, flavors, and maybe even organize a casual tasting session
 This is your chance to discover beers you'd never find outside your region — unless you're here, at this Camp.
 
 ---- Timeslots will follow ----</description>
+        <subtitle>Although the timeslot is over, come any time and you find a table with beers to exchange</subtitle>
         <date>2025-08-09T14:30:00+02:00</date>
         <start>14:30</start>
         <duration>01:30</duration>
@@ -1245,6 +1246,9 @@ More timeslots will be added.</description>
 
 
 update: I've inserted some images to help you find the techinc village, where the meetup is. of course we meet near the big flags. if you recognize me somewhere else, feel free to say hi to me as well. I have a yellow hat and a lion tail.
+
+
+second update: I want to go to the vla tasting at the food hacking base at 17:00 today (august 10), so I'm moving the meetup to 16:45. if you show up at 17:00 you can find me at the foodhackingbase.
 
 [[file:transmasc-meetup.jpg.jpg|thumb]]
 
@@ -1676,8 +1680,8 @@ Come and learn how the SecureBoot and OTP memory of your Raspberry Pi Pico 2 all
         </persons>
         <description>This presentation will showcase several examples of daily phishing incidents that the Dutch Tax and Customs Administration addresses. The Dutch Tax and Customs Administration receives over 100,000 reports of phishing every year. 
 The second part of the presentation includes a live demo of a phishing panel. Using a phishing panel ensures the phishing victim pays for purchasing a 75" OLED TV without knowing it. The TV is delivered to the cybercriminal's address. All of this is live on stage.</description>
-        <date>2025-08-10T14:00:00+02:00</date>
-        <start>14:00</start>
+        <date>2025-08-10T20:00:00+02:00</date>
+        <start>20:00</start>
         <duration>01:00</duration>
       </event>
       <event guid="99b885cb-32ba-5b63-8911-cc48382a32c0">
@@ -1903,16 +1907,19 @@ A talk of a researcher of NCSC-NL on WHY babytv was broadcasting propaganda.</de
       <event guid="10582504-d6ae-50f1-aecc-e60a0a2b9486">
         <title>AI in Healthcare</title>
         <track>Self Organized Sessions</track>
-        <abstract>A talk about the challenges and tools for using AI in healthcare</abstract>
+        <abstract>Artificial Intelligence and Machine Learning in Healthcare Quality</abstract>
         <type>Talk</type>
         <persons>
-          <person>Nelusthenerd</person>
+          <person>Nelusthenerd, Frabo</person>
         </persons>
         <language>en</language>
-        <description>What are the tools and challenges of AI in a clinical situation? This talk will give some guidelines on what to watch out for.</description>
+        <description>Age range: 16+
+&lt;b&gt;Description:&lt;/b&gt;  Frans will explain what AI and ML is, and the use of this in health care and life sciences. Professionals have to understand the risks in applying AI when patients may be affected. These systems have to be validated, and guidelines and standards are available. &lt;br&gt;
+During this presentation some interesting and important guidelines will be presented. &lt;br&gt;
+Participants will get a basic understanding of AI and ML, what risks are related, and know about EU regulations and other guidelines that are available. The determinants for the Quality of Data will be discussed and how this can be measured.</description>
         <date>2025-08-10T16:00:00+02:00</date>
         <start>16:00</start>
-        <duration>00:30</duration>
+        <duration>00:45</duration>
       </event>
     </room>
     <room name="Village:Hardware Hacking Area" guid="2358bed6-9a09-5a7c-898a-ded151f3398a">
@@ -2128,6 +2135,9 @@ More timeslots will be added.</description>
 
 update: I've inserted some images to help you find the techinc village, where the meetup is. of course we meet near the big flags. if you recognize me somewhere else, feel free to say hi to me as well. I have a yellow hat and a lion tail.
 
+
+second update: I want to go to the vla tasting at the food hacking base at 17:00 today (august 10), so I'm moving the meetup to 16:45. if you show up at 17:00 you can find me at the foodhackingbase.
+
 [[file:transmasc-meetup.jpg.jpg|thumb]]
 
 [[File:Techinc-2.png|thumb]]
@@ -2136,8 +2146,8 @@ update: I've inserted some images to help you find the techinc village, where th
 
 [[File:Techinc-3.jpg|thumb]]</description>
         <subtitle>day 3 meetup</subtitle>
-        <date>2025-08-10T17:00:00+02:00</date>
-        <start>17:00</start>
+        <date>2025-08-10T16:45:00+02:00</date>
+        <start>16:45</start>
         <duration>01:00</duration>
       </event>
     </room>
