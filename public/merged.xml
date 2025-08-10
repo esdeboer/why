@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>Family Village</version>
+    <version>DanceDanceRevolution</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -2934,11 +2934,15 @@ The workshop is entirely "lab mode" and there is no sexual content, but it remai
                     <person id="255">Honghong Lu</person>
                 </persons>
                 <language>en</language>
-                <description>In this workshop, participants will assemble a small LED sculpture using BlinkyTiles (https://blinkinlabs.com/blinkytile). Each participant will get a kit of 14 tiles. During the workshop, we will explain how the BlinkyTiles work, give a quick lesson in soldering, and assist with assembling your BlinkyTike kit. After the assembly is finished, we will show how you can customize the animations with a simple drawing program.
+                <description>In this workshop, participants will assemble a small LED sculpture using [BlinkyTiles](https://blinkinlabs.com/blinkytile). Each participant will get a kit of 14 tiles. During the workshop, we will explain how the BlinkyTiles work, give a quick lesson in soldering, and assist with assembling your BlinkyTike kit. After the assembly is finished, we will show how you can customize the animations with a simple drawing program.
 
 This workshop is suitable for beginners, and no prior experience with soldering or electronics is required. To join the workshop, participants will need to purchase a BlinkyTile kit on site.
 
-Workshop fee: €35 for the BlinkyTile kit, including  14 tiles, an Arduino compatible controller, and a USB cable.</description>
+Workshop fee: €35 for the BlinkyTile kit, including  14 tiles, an Arduino compatible controller, and a USB cable.
+
+Thanks for everyone who participated! If you picked up a kit, check out [the assembly instructions](https://blinkinlabs.com/blinkytile-assembly) .There's also a [Chinese language assembly video](https://www.youtube.com/watch?v=nxdEuFbAj6E).
+
+The controller included in the kit is different than the one in the instructions. It's a [BlinkyTape Controller](https://shop.blinkinlabs.com/products/blinkytape-control-board) The board is Arduino compatible, and was loaded with a [special firmware](https://github.com/Blinkinlabs/BlinkyTape_Arduino/tree/main/examples/ProductionSketch_Blinytile) to allow it to control the BlinkyTile. If you connect the USB cable to your computer, you can also control it using the [BlinkyTape python library](https://github.com/Blinkinlabs/BlinkyTape_Python).</description>
                 <recording>
                     <license />
                     <optout>false</optout>
@@ -11525,8 +11529,8 @@ https://wiki.why2025.org/Village:Aid_to_Ukraine</description>
                 <title>💡 DMX: Not Your Average Dance Mix</title>
                 <subtitle />
                 <type>Workshop (120 minutes)</type>
-                <date>2025-08-11T12:00:00+02:00</date>
-                <start>12:00</start>
+                <date>2025-08-11T16:00:00+02:00</date>
+                <start>16:00</start>
                 <duration>02:00</duration>
                 <abstract>This event is cancelled.
 
