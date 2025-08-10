@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>Sunday Village Update</version>
+    <version>Late Movie Night</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -2315,7 +2315,7 @@ Sign your team up (max 3 people) at jeopardy@why2025.org</abstract>
                 <language>en</language>
                 <recording>
                     <license />
-                    <optout>false</optout>
+                    <optout>true</optout>
                 </recording>
                 <links />
                 <attachments />
@@ -3793,7 +3793,7 @@ Please bring your own laptop if you can to flash and configure the device.</desc
                 <date>2025-08-09T20:00:00+02:00</date>
                 <start>20:00</start>
                 <duration>00:25</duration>
-                <abstract>De VPRO bewaarde krantenknipsels over hacken, hackers en computercriminaliteit en die heb ik uit de prullenbak kunnen redden. Titels als "Veel te veel hitsige nerds of What the Hack", "De eigentijdse misdadiger gebruikt een beeldscherm" en "Koernikova-computervirus komt uit Sneek" inspireerden me om deze "Hacker nostalgie" te geven die toeschouwers gegarandeerd "oud" of "jong" zal laten voelen.</abstract>
+                <abstract>The VPRO kept newspaper clippings about hacking, hackers, and computer crime, and I was able to salvage them from the trash. Titles like "Far too many horny nerds at What the Hack," "The contemporary criminal uses a screen," and "Kurnikova computer virus comes from Sneek" inspired me to create this "Hacker nostalgia” talk that is guaranteed to make viewers feel either "old" or "young.”</abstract>
                 <slug>why2025-346-0-hacker-nostalgia</slug>
                 <track>Villages</track>
                 <persons>
@@ -6012,7 +6012,7 @@ If you were one of the winning teams of the first round, make sure to attend! :)
                 <language>en</language>
                 <recording>
                     <license />
-                    <optout>false</optout>
+                    <optout>true</optout>
                 </recording>
                 <links />
                 <attachments />
@@ -9561,14 +9561,16 @@ I will also talk about my journey hunting for bugs with Autarkie and hopefully c
                 <date>2025-08-11T11:00:00+02:00</date>
                 <start>11:00</start>
                 <duration>00:50</duration>
-                <abstract>When embedded into JavaScript, WebAssembly modules can be "sandboxed" by defining a limited set of _imports_. It turns out that an obscure "feature" allows us to craft an exploit which bypasses this barrier, enabling us to run arbitrary JavaScript code from within a malicious WASM module. All within spec... by accident?</abstract>
+                <abstract>When embedded into JavaScript, WebAssembly modules can be "sandboxed" by defining a limited set of _imports_. It turns out that an obscure "feature" allows us to craft an exploit which bypasses this barrier, enabling us to run arbitrary JavaScript code (pop an alert) from within a malicious WASM module. All within spec... by accident?</abstract>
                 <slug>why2025-226-escaping-a-misleading-sandbox-breaking-the-webassembly-javascript-barrier</slug>
                 <track>Hacking</track>
                 <persons>
                     <person id="224">Thomas Rinsma</person>
                 </persons>
                 <language>en</language>
-                <description>When talking about WebAssembly, the word "sandbox" comes up often: modules are isolated from eachother, and from the host runtime.
+                <description>(Also released as write-up in Phrack #72)
+
+When talking about WebAssembly, the word "sandbox" comes up often: modules are isolated from eachother, and from the host runtime.
 Hence, it is perfectly safe to run untrusted WASM modules (e.g. plugins) in a web-app: the module's interfaces can be limited, making it such that any malicious code has no way of escaping.
 
 ... is what I thought.
@@ -10705,6 +10707,35 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <url>https://program.why2025.org/why2025/talk/JKR3BZ/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/JKR3BZ/feedback/</feedback_url>
             </event>
+            <event guid="dc588f63-6190-506d-bf55-b9671a49c1fc" id="384">
+                <room>Family Zone</room>
+                <title>BattleBots</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>01:00</duration>
+                <abstract>First contact with combat robotics.
+
+We'll teach you how to drive a combat robot and you get to experience
+driving it in an arena. If there is interest we'll setup a competition.
+
+There are several combat robots at Why2025, we would love to show them off!</abstract>
+                <slug>why2025-384-battlebots</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/V7EHXS/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/V7EHXS/feedback/</feedback_url>
+            </event>
             <event guid="a2ceeb30-1644-59bb-a8e8-5ba3fd68ba71" id="364">
                 <room>Family Zone</room>
                 <title>LEGO Letterpress</title>
@@ -10738,35 +10769,6 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/ZVKWUM/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/ZVKWUM/feedback/</feedback_url>
-            </event>
-            <event guid="dc588f63-6190-506d-bf55-b9671a49c1fc" id="384">
-                <room>Family Zone</room>
-                <title>BattleBots</title>
-                <subtitle />
-                <type>Entertainment</type>
-                <date>2025-08-11T15:00:00+02:00</date>
-                <start>15:00</start>
-                <duration>01:00</duration>
-                <abstract>First contact with combat robotics.
-
-We'll teach you how to drive a combat robot and you get to experience
-driving it in an arena. If there is interest we'll setup a competition.
-
-There are several combat robots at Why2025, we would love to show them off!</abstract>
-                <slug>why2025-384-battlebots</slug>
-                <track>Villages</track>
-                <persons>
-                    
-                </persons>
-                <language>en</language>
-                <recording>
-                    <license />
-                    <optout>true</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/V7EHXS/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/V7EHXS/feedback/</feedback_url>
             </event>
             <event guid="6e2fdf91-f792-518c-8f23-62d66203a407" id="382">
                 <room>Family Zone</room>
@@ -10959,8 +10961,8 @@ their knowledge are also welcome.</description>
                 <title>Movie: My Dear Théo</title>
                 <subtitle />
                 <type>Entertainment</type>
-                <date>2025-08-11T18:00:00+02:00</date>
-                <start>18:00</start>
+                <date>2025-08-11T21:00:00+02:00</date>
+                <start>21:00</start>
                 <duration>02:00</duration>
                 <abstract>A moving and personal documentary by filmmaker Alisa Kovalenko, who made a profound choice in 2022: while her partner and their four-year-old son left for France, she joined the Ukrainian army. During four months at the front, she wrote letters to her son Theo and recorded her experiences in a cinematic diary.</abstract>
                 <slug>why2025-366-movie-my-dear-theo</slug>
@@ -11316,7 +11318,7 @@ There are approximately 8 sets of material available per workshop, please regist
                 <date>2025-08-11T20:00:00+02:00</date>
                 <start>20:00</start>
                 <duration>00:25</duration>
-                <abstract>De VPRO bewaarde krantenknipsels over hacken, hackers en computercriminaliteit en die heb ik uit de prullenbak kunnen redden. Titels als "Veel te veel hitsige nerds of What the Hack", "De eigentijdse misdadiger gebruikt een beeldscherm" en "Koernikova-computervirus komt uit Sneek" inspireerden me om deze "Hacker nostalgie" te geven die toeschouwers gegarandeerd "oud" of "jong" zal laten voelen.</abstract>
+                <abstract>The VPRO kept newspaper clippings about hacking, hackers, and computer crime, and I was able to salvage them from the trash. Titles like "Far too many horny nerds at What the Hack," "The contemporary criminal uses a screen," and "Kurnikova computer virus comes from Sneek" inspired me to create this "Hacker nostalgia” talk that is guaranteed to make viewers feel either "old" or "young.”</abstract>
                 <slug>why2025-346-1-hacker-nostalgia</slug>
                 <track>Villages</track>
                 <persons>
