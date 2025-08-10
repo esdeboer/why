@@ -3081,7 +3081,7 @@ The prices in the yellow boxes are the materials costs for participating in the 
         <language>en</language>
         <description>Age range: All ages
 == Workshop Description ==
-[[File:Stonehenge.png]]
+[[File:Stonehenge render.png]]
 Increase and test your soldering skills with this challenge in the shape of Stonehenge.&lt;br&gt;
 * Prior soldering experience helps, but is not mandatory
 * The components are mounted in an unorthodox way making this a unique challenge
@@ -3096,7 +3096,10 @@ Increase and test your soldering skills with this challenge in the shape of Ston
 ** There is no software yet to actually light up the LEDs (help wanted, will most likely change during the event)
 ** The Microcontroller has not been verified to work yet
 
-  * Materials cost: €5 to €10
+  * Materials cost: €10
+
+  * Documentation https://gitlab.ccc.ac/cpresser/stonehenge
+  * Interactive BOM https://ca.rstenpresser.de/stonehenge.html
 
 Workshop given by cpresser.&lt;br&gt;
 &lt;br&gt;

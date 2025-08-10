@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>Late Movie Night</version>
+    <version>Villages update</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -11196,30 +11196,31 @@ On WHY 2025 we will give 5 hack shield lessons of about 55 minutes in which you 
                 <url>https://program.why2025.org/why2025/talk/T3WKWQ/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/T3WKWQ/feedback/</feedback_url>
             </event>
-            <event guid="7c270329-e9ce-5756-9989-6f42f0ca17a9" id="343">
+            <event guid="db53aa66-4ae7-5fb4-b759-df31632420d9" id="339">
                 <room>D42D Workshop Tent</room>
-                <title>Hacking together an infrastructure in Azure Cloud with Defender, Policy, and Pain</title>
+                <title>Paracord workshop</title>
                 <subtitle />
-                <type>Talk (25 minutes)</type>
+                <type>Workshops (90 minutes)</type>
                 <date>2025-08-11T14:00:00+02:00</date>
                 <start>14:00</start>
-                <duration>00:30</duration>
-                <abstract>Hi, my name is Ahmed and I convert ideas into Azure bills for a living. The environments I put together need to adhere to stringent security and compliance demands. Over the years I have learned a lot (especially how not to do it) and it these session I want to transfer that knowledge to you.</abstract>
-                <slug>why2025-343-3-hacking-together-an-infrastructure-in-azure-cloud-with-defender-policy-and-pain</slug>
+                <duration>01:00</duration>
+                <abstract>Make your own paracord keyring. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord keyring.</abstract>
+                <slug>why2025-339-4-paracord-workshop</slug>
                 <track>Villages</track>
                 <persons>
                     
                 </persons>
                 <language>en</language>
-                <description>By: Ahmed Hussien</description>
+                <description>By: Bernard Edelenbos (offered by Falco Networks)
+There are approximately 8 sets of material available per workshop, please register for the workshop on the flipover sheet in/near the D42D workshop tent.</description>
                 <recording>
                     <license />
                     <optout>true</optout>
                 </recording>
                 <links />
                 <attachments />
-                <url>https://program.why2025.org/why2025/talk/7GGDDF/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/7GGDDF/feedback/</feedback_url>
+                <url>https://program.why2025.org/why2025/talk/TEZJH7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/TEZJH7/feedback/</feedback_url>
             </event>
             <event guid="d74d7dd8-3fec-5e8a-bfe9-b8d41d7a3ca9" id="342">
                 <room>D42D Workshop Tent</room>
@@ -11284,7 +11285,7 @@ By: Bianca Kremer and Annet Bronsema</description>
                 <url>https://program.why2025.org/why2025/talk/7HMAJX/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/7HMAJX/feedback/</feedback_url>
             </event>
-            <event guid="db53aa66-4ae7-5fb4-b759-df31632420d9" id="339">
+            <event guid="fe1cce4e-dfa4-541c-b807-4bf14fd24241" id="339">
                 <room>D42D Workshop Tent</room>
                 <title>Paracord workshop</title>
                 <subtitle />
@@ -11293,7 +11294,7 @@ By: Bianca Kremer and Annet Bronsema</description>
                 <start>19:00</start>
                 <duration>00:30</duration>
                 <abstract>Make your own paracord keyring. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord keyring.</abstract>
-                <slug>why2025-339-4-paracord-workshop</slug>
+                <slug>why2025-339-5-paracord-workshop</slug>
                 <track>Villages</track>
                 <persons>
                     
@@ -11334,6 +11335,32 @@ There are approximately 8 sets of material available per workshop, please regist
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/SVXVWC/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/SVXVWC/feedback/</feedback_url>
+            </event>
+            <event guid="4aded2dc-8a01-5b55-ab2a-c010a6601537" id="339">
+                <room>D42D Workshop Tent</room>
+                <title>Paracord workshop</title>
+                <subtitle />
+                <type>Workshops (90 minutes)</type>
+                <date>2025-08-11T21:00:00+02:00</date>
+                <start>21:00</start>
+                <duration>01:00</duration>
+                <abstract>Make your own paracord keyring. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord keyring.</abstract>
+                <slug>why2025-339-6-paracord-workshop</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>By: Bernard Edelenbos (offered by Falco Networks)
+There are approximately 8 sets of material available per workshop, please register for the workshop on the flipover sheet in/near the D42D workshop tent.</description>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/TEZJH7/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/TEZJH7/feedback/</feedback_url>
             </event>
         </room>
         <room name="Serendiep" guid="9b897dbb-9ccc-533a-9406-3a037ed2534c">
@@ -12861,32 +12888,6 @@ The goal is to share actionable takeaways and lessons learned, helping others an
                 <url>https://program.why2025.org/why2025/talk/VJVMV9/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/VJVMV9/feedback/</feedback_url>
             </event>
-            <event guid="22910224-8795-5a06-9b48-c0eeb352decf" id="80">
-                <room>Delphinus</room>
-                <title>The Neuroscience of Psychedelics</title>
-                <subtitle />
-                <type>Talk (50 minutes)</type>
-                <date>2025-08-12T12:00:00+02:00</date>
-                <start>12:00</start>
-                <duration>00:50</duration>
-                <abstract>This talk hopes to provide listeners with insights into the historical background &amp; current state of scientific understanding of the biological &amp; psychological basics of how psychedelics affect human brains. An outlook of where the 'renaissance of psychedelic science' may take humankind will further be connected to the current state of psychiatric drug approvals &amp; clinical research. This talk will attempt to address every level, from those with no prior experience to seasoned psychonauts.</abstract>
-                <slug>why2025-80-the-neuroscience-of-psychedelics</slug>
-                <track>Yearn for a better future</track>
-                <logo>/media/why2025/submissions/NPLUCC/neural_networks_and_psychedelics_with_more_brain_HJstJec.png</logo>
-                <persons>
-                    <person id="105">Indivisual</person>
-                </persons>
-                <language>en</language>
-                <description>Title got you looking? Good :) Welcome! In this session, I want to endeavor to introduce you to some of the things that really float my boat: Neuroscience (read: the Brain as understood through biology and psychology) and Psychedelics. Listen, as I aim to connect my studied, experiential knowledge to whatever mileage you may pack. Give me a chance to explain why I think Anarchy is a biological state; how drugs have come quite a way; where we are with returning to access to these tools for the 'Betterment of Well People'; and how I think we can take action for even better prognoses of the positive outcomes from this new research. Come out, come out, wherever you are..</description>
-                <recording>
-                    <license />
-                    <optout>false</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/NPLUCC/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/NPLUCC/feedback/</feedback_url>
-            </event>
             <event guid="80939019-18bd-55b7-ad62-6e4e29392553" id="26">
                 <room>Delphinus</room>
                 <title>ISMS-oxide and you (Information-Security-Management-System for hackers)</title>
@@ -13504,7 +13505,7 @@ The prices in the yellow boxes are the materials costs for participating in the 
                 <language>en</language>
                 <description>Age range: All ages
 == Workshop Description ==
-[[File:Stonehenge.png]]
+[[File:Stonehenge render.png]]
 Increase and test your soldering skills with this challenge in the shape of Stonehenge.&lt;br&gt;
 * Prior soldering experience helps, but is not mandatory
 * The components are mounted in an unorthodox way making this a unique challenge
@@ -13519,7 +13520,10 @@ Increase and test your soldering skills with this challenge in the shape of Ston
 ** There is no software yet to actually light up the LEDs (help wanted, will most likely change during the event)
 ** The Microcontroller has not been verified to work yet
 
-  * Materials cost: €5 to €10
+  * Materials cost: €10
+
+  * Documentation https://gitlab.ccc.ac/cpresser/stonehenge
+  * Interactive BOM https://ca.rstenpresser.de/stonehenge.html
 
 Workshop given by cpresser.&lt;br&gt;
 &lt;br&gt;
