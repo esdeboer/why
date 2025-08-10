@@ -2830,6 +2830,8 @@ _MacOS_: install the correct driver on MacOS (you can try https://github.com/WCH
 
 During the hands-on session, attendees will focus on programming the TIC-80 with Lua, gaining practical experience in creating basic demos. By the end of the workshop, participants should be able to craft their first simple TIC-80 demo or be ready to join creative events like the "byte jam." To make the most of this session, please bring a laptop with TIC-80 pre-installed.
 
+Slides can be found [here](https://daveborghuis.nl/wp/maker/demoscene/) 
+
 Workshop Agenda
 - Introduction to the demoscene and competitions, such as "byte jams"
 - Hands-on session with TIC-80, programming in Lua
@@ -6330,7 +6332,9 @@ Expect deep technical insights, practical lessons from years of experimentation,
                     <person id="72">Samw</person>
                 </persons>
                 <language>en</language>
-                <description>A tetrapod is a famous 4-legged geometric shape made of concrete and can be seen protecting coastlines around the world.
+                <description>**there will be stuffing and help available Monday at 1000 at the bridge from deep purple to violet just below accessible camping [(link)](https://map.why2025.org/?building=172&amp;building_table=villages#maphash=19/52.6915367/4.7462917/-20) for those who didn’t finish during the workshop!** call dect 7269 if you get lost. 
+
+A tetrapod is a famous 4-legged geometric shape made of concrete and can be seen protecting coastlines around the world.
 In this workshop you will make your own mini plush tetrapod from felt, wadding and stitches!
 No prior experience required, but we'll be using sewing machines, sharp cutting tools and needles and thread, so you should be comfortable handling them. Younger hackers should have adult supervision.
 
