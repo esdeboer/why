@@ -1140,6 +1140,16 @@
     "type": "Tasting"
   },
   {
+    "id": "9df266e9-0409-584d-95f2-e0f4c59ffeca",
+    "title": "Hydra Livecoding Video Synthesis 101 Workshop",
+    "description": "Hydra https://hydra.ojack.xyz/ video synth workshop.\n\nWe will follow 1 or multiples courses from https://6120.eu/posts/workshop-hydra/\n\nWe will make visuals, observe how to navigate within patches of codes and have a quick overview of Hydra the video synth software.\n\nBring your laptop !\n\nThere's no sitting so don't hesitate to bring yours !\n\nYou will learn something !",
+    "start": "2025-08-11T16:00:00+02:00",
+    "end": "2025-08-11T18:00:00+02:00",
+    "room": "Village:Demoscene",
+    "url": "https://6120.eu/posts/workshop-hydra/",
+    "type": "Hands-On"
+  },
+  {
     "id": "0cfdc2ca-67dd-57ff-b912-fd3b285ad9fa",
     "title": "FreeCAD Is All You Need",
     "description": "FreeCAD is getting better every year and there are more reasons to use it for your CAD needs than you could possibly imagine. Some people have the prejudice that it is complicated, cumbersome, buggy, but in fact, all CAD packages have a learning curve. The way FreeCAD is different is that it does not lock you in a subscription model, it does not require to log in or make any kind of account, it works and behaves the same on all OS platforms. \n\nIn this session we will cover a rapid way of designing a thing based on several years of experience instructing the Fab Academy and solving CAD problems for other people. Join in and maybe some of that could be useful for you.",
@@ -1398,16 +1408,6 @@
     "room": "undetermined",
     "url": "https://wiki.why2025.org/Village:Green_Ninjas",
     "type": "Talk"
-  },
-  {
-    "id": "9df266e9-0409-584d-95f2-e0f4c59ffeca",
-    "title": "Hydra Livecoding Video Synthesis 101 Workshop",
-    "description": "Hydra https://hydra.ojack.xyz/ video synth workshop.\n\nWe will follow 1 or multiples courses from https://6120.eu/posts/workshop-hydra/\n\nWe will make visuals, observe how to navigate within patches of codes and have a quick overview of Hydra the video synth software.\n\nBring your laptop !\n\nThere's no sitting so don't hesitate to bring yours !\n\nYou will learn something !\n\nTimeslots will be added by end of 2025-08-09",
-    "start": "2025-08-11T16:00:00+02:00",
-    "end": "2025-08-11T18:00:00+02:00",
-    "room": "undetermined",
-    "url": "https://6120.eu/posts/workshop-hydra/",
-    "type": "Hands-On"
   },
   {
     "id": "88c71053-f166-551a-bb6f-07afd71aec51",

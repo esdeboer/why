@@ -11901,6 +11901,33 @@ Come and learn how to make a good espresso, taste a variety of beans, understand
                 <duration>01:00</duration>
             </event>
         </room>
+        <room name="Village:Demoscene" guid="b8b3868c-6ea5-54c7-b721-2a6c30fa4a0b">
+            <event guid="9df266e9-0409-584d-95f2-e0f4c59ffeca">
+                <title>Hydra Livecoding Video Synthesis 101 Workshop</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Hydra Livecoding Video Synthesis 101 Workshop</abstract>
+                <url>https://6120.eu/posts/workshop-hydra/</url>
+                <type>Hands-On</type>
+                <persons>
+                    <person>Magic</person>
+                </persons>
+                <language>en</language>
+                <description>Hydra https://hydra.ojack.xyz/ video synth workshop.
+
+We will follow 1 or multiples courses from https://6120.eu/posts/workshop-hydra/
+
+We will make visuals, observe how to navigate within patches of codes and have a quick overview of Hydra the video synth software.
+
+Bring your laptop !
+
+There's no sitting so don't hesitate to bring yours !
+
+You will learn something !</description>
+                <date>2025-08-11T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>02:00</duration>
+            </event>
+        </room>
         <room name="Village:Fablab/Fabacademy" guid="01113e6f-6aa5-5e6f-9b6b-64b3a6b3a7e3">
             <event guid="0cfdc2ca-67dd-57ff-b912-fd3b285ad9fa">
                 <title>FreeCAD Is All You Need</title>
@@ -12428,32 +12455,6 @@ Talk is Canceled</description>
                 <date>2025-08-11T16:00:00+02:00</date>
                 <start>16:00</start>
                 <duration>00:30</duration>
-            </event>
-            <event guid="9df266e9-0409-584d-95f2-e0f4c59ffeca">
-                <title>Hydra Livecoding Video Synthesis 101 Workshop</title>
-                <track>Self Organized Sessions</track>
-                <url>https://6120.eu/posts/workshop-hydra/</url>
-                <type>Hands-On</type>
-                <persons>
-                    <person>Magic</person>
-                </persons>
-                <language>en</language>
-                <description>Hydra https://hydra.ojack.xyz/ video synth workshop.
-
-We will follow 1 or multiples courses from https://6120.eu/posts/workshop-hydra/
-
-We will make visuals, observe how to navigate within patches of codes and have a quick overview of Hydra the video synth software.
-
-Bring your laptop !
-
-There's no sitting so don't hesitate to bring yours !
-
-You will learn something !
-
-Timeslots will be added by end of 2025-08-09</description>
-                <date>2025-08-11T16:00:00+02:00</date>
-                <start>16:00</start>
-                <duration>02:00</duration>
             </event>
             <event guid="88c71053-f166-551a-bb6f-07afd71aec51">
                 <title>Chaos Cycling Club Meetup</title>
