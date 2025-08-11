@@ -192,7 +192,7 @@
   {
     "id": "b08cd997-f4d6-5b99-b217-27176db03f3c",
     "title": "Craft beer brewing!",
-    "description": "Age range: Aimed at adults but supervised kids welcome.\nHave you ever been curious about the process behind this amazing drink called beer or do you just like beer in general? We will be brewing a SMaSH (single malt and single hop) beer on site on Day 1 and then enjoy the product on Day 4 on wards.\n\nBeer is brewed using a brewing system and then later served through a cold tap. Make sure to bring some type of container suitable for beer consumption, as there will be a tap available during the brewing session!\n\nLocation is close to the Sauna/Salmiakki.\n\nUpdate:\n\nThe session is currently on hold due to the current infra issues.\nWe have created a signal group to keep people updated :)\n\nhttps://signal.group/#CjQKIJU9ez16ZxUpvFqjw_7R-DAuio78Xs191i9b1JnOzV03EhDm6hC7LrLU_NO6gXdGJikw",
+    "description": "Age range: Aimed at adults but supervised kids welcome.\nHave you ever been curious about the process behind this amazing drink called beer or do you just like beer in general? We will be brewing a SMaSH (single malt and single hop) beer on site on Day 1 and then enjoy the product on Day 4 on wards.\n\nBeer is brewed using a brewing system and then later served through a cold tap. Make sure to bring some type of container suitable for beer consumption, as there will be a tap available during the brewing session!\n\nLocation is close to the Sauna/Salmiakki.\n\nUpdate:\n\nThe session is currently on hold due to the current infra issues.\nWe have created a signal group to keep people updated :)\n\nUpdate:\n\nWe will cold crash the beer at the foodhacking village over night!\n\nThe tasting will begin 17:00 local time at the Salmiakki village, bring your own glass!\n\nhttps://signal.group/#CjQKIJU9ez16ZxUpvFqjw_7R-DAuio78Xs191i9b1JnOzV03EhDm6hC7LrLU_NO6gXdGJikw",
     "start": "2025-08-08T18:00:00+02:00",
     "end": "2025-08-08T20:00:00+02:00",
     "room": "undetermined",
@@ -1508,6 +1508,16 @@
     "room": "undetermined",
     "url": "",
     "type": "Other"
+  },
+  {
+    "id": "4a5842bb-ddfc-5245-b4a1-f68bd0050671",
+    "title": "Craft beer brewing!",
+    "description": "Age range: Aimed at adults but supervised kids welcome.\nHave you ever been curious about the process behind this amazing drink called beer or do you just like beer in general? We will be brewing a SMaSH (single malt and single hop) beer on site on Day 1 and then enjoy the product on Day 4 on wards.\n\nBeer is brewed using a brewing system and then later served through a cold tap. Make sure to bring some type of container suitable for beer consumption, as there will be a tap available during the brewing session!\n\nLocation is close to the Sauna/Salmiakki.\n\nUpdate:\n\nThe session is currently on hold due to the current infra issues.\nWe have created a signal group to keep people updated :)\n\nUpdate:\n\nWe will cold crash the beer at the foodhacking village over night!\n\nThe tasting will begin 17:00 local time at the Salmiakki village, bring your own glass!\n\nhttps://signal.group/#CjQKIJU9ez16ZxUpvFqjw_7R-DAuio78Xs191i9b1JnOzV03EhDm6hC7LrLU_NO6gXdGJikw",
+    "start": "2025-08-12T17:00:00+02:00",
+    "end": "2025-08-12T18:00:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Hands-On"
   },
   {
     "id": "dcb58d79-2038-53b5-87af-6ae22483941c",

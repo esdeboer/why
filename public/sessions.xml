@@ -415,6 +415,12 @@ Update:
 The session is currently on hold due to the current infra issues.
 We have created a signal group to keep people updated :)
 
+Update:
+
+We will cold crash the beer at the foodhacking village over night!
+
+The tasting will begin 17:00 local time at the Salmiakki village, bring your own glass!
+
 https://signal.group/#CjQKIJU9ez16ZxUpvFqjw_7R-DAuio78Xs191i9b1JnOzV03EhDm6hC7LrLU_NO6gXdGJikw</description>
         <date>2025-08-08T18:00:00+02:00</date>
         <start>18:00</start>
@@ -3263,6 +3269,39 @@ Badges are free, the bottle openers are €3 to cover the cost.</description>
         <date>2025-08-12T19:30:00+02:00</date>
         <start>19:30</start>
         <duration>00:10</duration>
+      </event>
+      <event guid="4a5842bb-ddfc-5245-b4a1-f68bd0050671">
+        <title>Craft beer brewing!</title>
+        <track>Self Organized Sessions</track>
+        <abstract>We brew our own beer the first day and drink it later</abstract>
+        <type>Hands-On</type>
+        <persons>
+          <person>AcL</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: Aimed at adults but supervised kids welcome.
+Have you ever been curious about the process behind this amazing drink called beer or do you just like beer in general? We will be brewing a SMaSH (single malt and single hop) beer on site on Day 1 and then enjoy the product on Day 4 on wards.
+
+Beer is brewed using a brewing system and then later served through a cold tap. Make sure to bring some type of container suitable for beer consumption, as there will be a tap available during the brewing session!
+
+Location is close to the Sauna/Salmiakki.
+
+Update:
+
+The session is currently on hold due to the current infra issues.
+We have created a signal group to keep people updated :)
+
+Update:
+
+We will cold crash the beer at the foodhacking village over night!
+
+The tasting will begin 17:00 local time at the Salmiakki village, bring your own glass!
+
+https://signal.group/#CjQKIJU9ez16ZxUpvFqjw_7R-DAuio78Xs191i9b1JnOzV03EhDm6hC7LrLU_NO6gXdGJikw</description>
+        <subtitle>Tasting session</subtitle>
+        <date>2025-08-12T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
       </event>
     </room>
   </day>

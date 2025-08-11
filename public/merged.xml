@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>Villages update</version>
+    <version>No More Energy Hacking</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -1103,6 +1103,12 @@ Update:
 
 The session is currently on hold due to the current infra issues.
 We have created a signal group to keep people updated :)
+
+Update:
+
+We will cold crash the beer at the foodhacking village over night!
+
+The tasting will begin 17:00 local time at the Salmiakki village, bring your own glass!
 
 https://signal.group/#CjQKIJU9ez16ZxUpvFqjw_7R-DAuio78Xs191i9b1JnOzV03EhDm6hC7LrLU_NO6gXdGJikw</description>
                 <date>2025-08-08T18:00:00+02:00</date>
@@ -11285,32 +11291,6 @@ By: Bianca Kremer and Annet Bronsema</description>
                 <url>https://program.why2025.org/why2025/talk/7HMAJX/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/7HMAJX/feedback/</feedback_url>
             </event>
-            <event guid="fe1cce4e-dfa4-541c-b807-4bf14fd24241" id="339">
-                <room>D42D Workshop Tent</room>
-                <title>Paracord workshop</title>
-                <subtitle />
-                <type>Workshops (90 minutes)</type>
-                <date>2025-08-11T19:00:00+02:00</date>
-                <start>19:00</start>
-                <duration>00:30</duration>
-                <abstract>Make your own paracord keyring. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord keyring.</abstract>
-                <slug>why2025-339-5-paracord-workshop</slug>
-                <track>Villages</track>
-                <persons>
-                    
-                </persons>
-                <language>en</language>
-                <description>By: Bernard Edelenbos (offered by Falco Networks)
-There are approximately 8 sets of material available per workshop, please register for the workshop on the flipover sheet in/near the D42D workshop tent.</description>
-                <recording>
-                    <license />
-                    <optout>true</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/TEZJH7/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/TEZJH7/feedback/</feedback_url>
-            </event>
             <event guid="25c001f2-ddf0-5c38-a11a-b3478b96454f" id="346">
                 <room>D42D Workshop Tent</room>
                 <title>Hacker nostalgia</title>
@@ -11336,7 +11316,7 @@ There are approximately 8 sets of material available per workshop, please regist
                 <url>https://program.why2025.org/why2025/talk/SVXVWC/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/SVXVWC/feedback/</feedback_url>
             </event>
-            <event guid="4aded2dc-8a01-5b55-ab2a-c010a6601537" id="339">
+            <event guid="fe1cce4e-dfa4-541c-b807-4bf14fd24241" id="339">
                 <room>D42D Workshop Tent</room>
                 <title>Paracord workshop</title>
                 <subtitle />
@@ -11345,7 +11325,7 @@ There are approximately 8 sets of material available per workshop, please regist
                 <start>21:00</start>
                 <duration>01:00</duration>
                 <abstract>Make your own paracord keyring. Come to the D42D Workshop tenten and, after a little instruction start tying your own paracord keyring.</abstract>
-                <slug>why2025-339-6-paracord-workshop</slug>
+                <slug>why2025-339-5-paracord-workshop</slug>
                 <track>Villages</track>
                 <persons>
                     
@@ -13271,34 +13251,6 @@ doe-het-zelf opdrachten. Neem je eigen laptop mee.</abstract>
             </event>
         </room>
         <room name="D42D Workshop Tent" guid="22148081-9c0f-59fd-aea5-46a3f97bdecb">
-            <event guid="f677d94f-ce8e-5c7b-b9f9-54abfe4cea62" id="340">
-                <room>D42D Workshop Tent</room>
-                <title>Energy Hacking Demo</title>
-                <subtitle />
-                <type>Talk (50 minutes)</type>
-                <date>2025-08-12T11:00:00+02:00</date>
-                <start>11:00</start>
-                <duration>00:50</duration>
-                <abstract>How to hack smart energy devices? We’ll let you in on a “secret”, they are not that smart, and hacking them isn’t that hard. In this demo, we are going to get our hands on a smart thermostat and a solar inverter WiFi dongle and explore the chips on them for open debug interfaces.</abstract>
-                <slug>why2025-340-4-energy-hacking-demo</slug>
-                <track>Villages</track>
-                <persons>
-                    
-                </persons>
-                <language>en</language>
-                <description>Then we'll work our way towards dumping anything present in non-volatile memory. Afterwards, we are going to explore the binary blobs and see where some reverse engineering can get us. This workshop can serve as your intro to hardware hacking. After the showcase, you can even play around on the chips (we'll do our best to make sure nothing fries).
-
-Making the grid smart is part of the solution, but present its owns set of challenges, because by controlling and manipulating a lot of small consumers or producers at the same time, an attacker can still have a large effect on the grid.
-DIVD currently has a research project (https://www.divd.nl/energie/) devoted to this and Hamza and Alexandros are researchers in this project.</description>
-                <recording>
-                    <license />
-                    <optout>true</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/9QFMN3/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/9QFMN3/feedback/</feedback_url>
-            </event>
             <event guid="d277d277-abf9-5e39-a771-331a89b4de6a" id="341">
                 <room>D42D Workshop Tent</room>
                 <title>Hackshield</title>
@@ -13687,6 +13639,39 @@ Badges are free, the bottle openers are €3 to cover the cost.</description>
                 <date>2025-08-12T19:30:00+02:00</date>
                 <start>19:30</start>
                 <duration>00:10</duration>
+            </event>
+            <event guid="4a5842bb-ddfc-5245-b4a1-f68bd0050671">
+                <title>Craft beer brewing!</title>
+                <track>Self Organized Sessions</track>
+                <abstract>We brew our own beer the first day and drink it later</abstract>
+                <type>Hands-On</type>
+                <persons>
+                    <person>AcL</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: Aimed at adults but supervised kids welcome.
+Have you ever been curious about the process behind this amazing drink called beer or do you just like beer in general? We will be brewing a SMaSH (single malt and single hop) beer on site on Day 1 and then enjoy the product on Day 4 on wards.
+
+Beer is brewed using a brewing system and then later served through a cold tap. Make sure to bring some type of container suitable for beer consumption, as there will be a tap available during the brewing session!
+
+Location is close to the Sauna/Salmiakki.
+
+Update:
+
+The session is currently on hold due to the current infra issues.
+We have created a signal group to keep people updated :)
+
+Update:
+
+We will cold crash the beer at the foodhacking village over night!
+
+The tasting will begin 17:00 local time at the Salmiakki village, bring your own glass!
+
+https://signal.group/#CjQKIJU9ez16ZxUpvFqjw_7R-DAuio78Xs191i9b1JnOzV03EhDm6hC7LrLU_NO6gXdGJikw</description>
+                <subtitle>Tasting session</subtitle>
+                <date>2025-08-12T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>01:00</duration>
             </event>
         </room>
     </day>
