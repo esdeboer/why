@@ -4928,26 +4928,6 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
                 <start>16:00</start>
                 <duration>01:00</duration>
             </event>
-            <event guid="ace91900-1323-5a05-8fd9-8ad111c1ae63">
-                <title>Interz0n3:curated entity, display of entangled fragments</title>
-                <track>Self Organized Sessions</track>
-                <abstract>Suggestive interstructure / ALL TERRAIN / Multipurpose</abstract>
-                <type>Outside</type>
-                <persons>
-                    <person>X0xisnotalone</person>
-                </persons>
-                <language>en</language>
-                <description>Missing duration, check with organiser, dummy 10 minutes added
-Age range: Aimed at adults but supervised kids welcome.
-Interz0n3 has send two representatives (x0x and EURO2000) to WHY2025.
-
-MULTIPLEX OF EVENTS BALANCING ON BETWEEN MEANING AND MATTER
-
-Interzonal Garden Retreat : A soft space for rest, play, and gentle recalibration.</description>
-                <date>2025-08-09T00:00:00+02:00</date>
-                <start>00:00</start>
-                <duration>00:10</duration>
-            </event>
             <event guid="dbbb4187-16a1-5388-ae65-70b76231f9a9">
                 <title>Elixir (embedded) programming language</title>
                 <track>Self Organized Sessions</track>
@@ -9255,7 +9235,14 @@ In this session we will revisit bitflip research from the last decade and weponi
                 <language>en</language>
                 <description>RAdio-frequency Detection And Ranging (RADAR) aims at using electromagnetic signals for detecting target location and motion. Being constantly illuminated with electromagnetic smog, we can benefit from existing radiofrequency emitters meeting RADAR requirements -- strong power and wide bandwidth -- for passive RADAR measurements where no active emitter is needed, using only coherent passive dual-channel Software Defined Radio (SDR) receivers for passive recording of existing signals. If existing signals are unsuitable, we can use the same principle with non-cooperative emitters such as a Wi-Fi dongle in an active RADAR setup. All processing flowcharts are implemented using GNU Radio for real time acquisition, and GNU/Octave or Python for post-processing: generic principles will be demonstrated, applicable to all sorts of receiver hardware. We will conclude with Synthetic Aperture RADAR (SAR) where antenna motion is used to simulate wide aperture receiving antennas, adding azimuth resolution to range resolution.
 
-Supporting documents are found a https://github.com/jmfriedt/SDR-GB-SAR or https://github.com/jmfriedt/passive_radar or https://github.com/jmfriedt/sentinel1_pbr</description>
+Supporting documents are found a https://github.com/jmfriedt/SDR-GB-SAR or https://github.com/jmfriedt/passive_radar or https://github.com/jmfriedt/sentinel1_pbr
+
+Addendum following feedback on the presentation:
+1/ I should have made it clear that the first part of the presentation (pulse, FMCW, FSCW) involved emitting a signal which is often not legal, while the subsequent part involves PASSIVE radar using existing emitters, and hence becoming legal.
+2/ the core parameter determining maximum target range is NOT emitted power but isolation between emitter and receiver (especially on a monostatic setup). Increasing TX power if saturating RX and hence reducing RX gain does not help: this is especially true in the VNA implementation when selecting between S11 measurement (limited by the circulator isolation) and S21 (limited by emitting/receiving antenna coupling)
+3/ the rail system presented in the SAR part of the discussion uses a WiFi dongle broadcasting random signals as illuminating signal, halfway between passive (a WiFi signal can be many other things than for RADAR measurements) and active (we are controlling the WiFi emission)
+
+Thank you for attending or looking at this followup. Reach me (email on the front slide) for more information or corrections.</description>
                 <recording>
                     <license />
                     <optout>false</optout>
@@ -12326,6 +12313,26 @@ Tiq Taq Toe Tournament &amp; Finale, win one of the physical tia taq toe games b
                 <duration>01:00</duration>
             </event>
         </room>
+        <room name="Village:RopeLabs" guid="c719a288-57bb-56aa-8766-be38648f123b">
+            <event guid="cc6edae3-4fed-573f-b85a-1cf0af9e7b4b">
+                <title>Shibari Performance with Fire</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Shibari performance with fire</abstract>
+                <type>Outside</type>
+                <persons>
+                    <person>Pez</person>
+                </persons>
+                <description>Age range: 18+, Aimed at adults but supervised kids welcome.
+Enjoy a short rope art performance combined with fire. Please watch from across the water, on the road near Cold North. The village will be closed to the public during the show.
+Photography is encouraged (please send them to us). The performance contains no sexual or explicit BDSM elements beyond the rope itself, but may not be suitable for all audiences, or children.
+
+Please attend only if you feel comfortable.</description>
+                <subtitle>Shibari with Fire</subtitle>
+                <date>2025-08-11T21:30:00+02:00</date>
+                <start>21:30</start>
+                <duration>00:30</duration>
+            </event>
+        </room>
         <room name="Village:SHA512" guid="f7d8b13a-ae85-54a6-b249-53fc7e86460c">
             <event guid="98658ebb-e9db-55ed-8b12-370a467a1a2f">
                 <title>Solving the "We've got TPM at home" CTF challenge together</title>
@@ -12426,6 +12433,99 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
                 <date>2025-08-11T23:00:00+02:00</date>
                 <start>23:00</start>
                 <duration>02:00</duration>
+            </event>
+        </room>
+        <room name="Village:∧⊥W / Whyshido Dōjō" guid="2d2ca904-cb7e-5e66-8c43-78324b286e41">
+            <event guid="ace91900-1323-5a05-8fd9-8ad111c1ae63">
+                <title>Interz0n3:curated entity, display of entangled fragments</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Suggestive interstructure / ALL TERRAIN / Multipurpose</abstract>
+                <type>Outside</type>
+                <persons>
+                    <person>X0xisnotalone</person>
+                </persons>
+                <language>en</language>
+                <description>Missing duration, check with organiser, dummy 10 minutes added
+Age range: Aimed at adults but supervised kids welcome.
+Interzonal Garden Retreat : A soft space for rest, play, and gentle recalibration.
+
+Interz0n3 has send two representatives (x0x and EURO2000) to WHY2025. Art and maker space from Ghent. 
+
+MULTIPLEX OF EVENTS 
+BALANCING BETWEEN 
+MEANING AND MATTER
+
+Ongoing events 
+
+&gt; init.cybersale()
+
+status: active
+location: [Interzone, garden level]
+date/time: [TBA]
+
+inventory:
+    - mixed electronic hardware
+    - recovered from abandoned buildings
+    - origin/function: unknown
+    - condition: varies
+
+notes:
+    bring curiosity
+    bring cash or trade
+    expect surprises
+
+&gt; end.cybersale()
+
+Interzonal Garden Retreat : 
+A soft space for rest, play, and gentle recalibration.</description>
+                <subtitle>CYBERSALE hardware components recovered from abandoned buildings</subtitle>
+                <date>2025-08-11T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>00:10</duration>
+            </event>
+            <event guid="e64193c4-6bc5-57de-a19b-e4be14b34b75">
+                <title>A Soul's Journey - Decrypting Past Lives &amp; Future Selves</title>
+                <track>Self Organized Sessions</track>
+                <abstract>A Soul’s Journey is a mystical live performance that fuses experimental music, trance storytelling, and zero-waste costume art with “spiritual Easter eggs” hidden throughout. Part sonic ritual, part cosmic debug, it invites you to decrypt the source code of your soul, traverse past lives, and patch your spirit to its highest version.</abstract>
+                <url>https://reality-cult.com/works/a-souls-journey-the-musical</url>
+                <type>Other</type>
+                <persons>
+                    <person>Reality Cult</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: All ages
+A Soul’s Journey is a live, multi-layered rite of passage that blends orchestral and electronic soundscapes, poetic invocations, comedy, and meme culture into an immersive spiritual hackathon. Giek leads audiences through soul memory, death and rebirth, and cosmic healing—embedding “spiritual Easter eggs” in music, movement, and symbolism for those ready to spot them.
+
+This is code-breaking for the inner world: decoding esoteric truths buried in ancient traditions, reverse-engineering the matrix of belief, and compiling the wisdom of past lives into the now. Expect zero-waste mystical costuming and ritual storytelling that bridges ancient symbols with the digital age—inviting participants to debug their fears, jailbreak their creativity, and co-author a new collective reality rooted in soul truth.</description>
+                <date>2025-08-11T21:00:00+02:00</date>
+                <start>21:00</start>
+                <duration>00:30</duration>
+            </event>
+            <event guid="9f13484e-0891-54c2-b2d9-c657d78971d9">
+                <title>Collective Thinking (at Whyshido Dojo)</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Join the workshop in which a group of people algorithmically try to think together as one brain, skirting the intersection of systems theory, emergence and language.  We aim for a group of ~10 participants.</abstract>
+                <persons>
+                    <person>VampireDisco</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: 18+
+== Collective Thinking ==
+
+=== What ===
+Join the workshop in which a group of people algorithmically try to think together as one brain, skirting the intersection of systems theory, emergence and language. 
+
+We aim for a group of ~10 participants.
+
+== Where? ==
+
+=== Whyshido Dojo ===
+
+Pink Field, big tent with a big eyeball.</description>
+                <subtitle>Algorithmic Collective Thinking</subtitle>
+                <date>2025-08-11T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>01:00</duration>
             </event>
         </room>
         <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
@@ -12560,7 +12660,8 @@ Again, and for legal reasons (allegedly):
                     <person>LeoDJ</person>
                 </persons>
                 <language>en</language>
-                <description>Age range: Aimed at adults but supervised kids welcome.</description>
+                <description>Age range: Aimed at adults but supervised kids welcome.
+Location: Aurora (near Main Bar)</description>
                 <subtitle>Location: Aurora (near Main Bar)</subtitle>
                 <date>2025-08-11T22:00:00+02:00</date>
                 <start>22:00</start>
@@ -13665,6 +13766,359 @@ Badges are free, the bottle openers are €3 to cover the cost.</description>
                 <duration>01:00</duration>
             </event>
         </room>
+        <room name="Village:∧⊥W / Whyshido Dōjō" guid="2d2ca904-cb7e-5e66-8c43-78324b286e41">
+            <event guid="e4d209ee-3e52-5be5-9282-14636dfa696f">
+                <title>Tarot-Astrology-Past Life readings by Reality Cult</title>
+                <track>Self Organized Sessions</track>
+                <abstract>A roaming soul scanner disguised as a mystic. Using tarot, astrology, and raw intuition (with AI lurking backstage), Reality Cult decodes the karmic code embedded in your lifetime’s glitchy script. Get a short reading, ask the universe anything, or unlock your reincarnation file. Past lives are real. You're probably someone weird.</abstract>
+                <url>https://reality-cult.com/</url>
+                <type>Other</type>
+                <persons>
+                    <person>Reality Cult</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: All ages
+Welcome to Reality Cult 3°33'33 — where mysticism meets metadata.
+
+Behind a veil of tarot cards, planetary symbols, and poetic AI, lies a karmic debugging tool for the disoriented soul. This interactive experience offers short readings for festival wanderers who suspect their existential bugs may come from earlier code — soul-code, that is.
+
+🜂 What to expect?
+
+Quick karmic scans to identify the emotional malware running your relationships and life loops
+
+Past life file access, revealing patterns, names, and forgotten scripts
+
+Open tarot protocol — ask the cards anything. Yes, anything.
+
+A ritualized fusion of astrology, intuition, and sacred satire
+
+Optional deep-dive sessions: for those who want to remember what they were doing in 1742, or why they always fall for the same archetype
+
+Since 2022, Reality Cult has been steadily accessing the Akashic Records (cosmic hard drive) and uncovering over 250 past life identities. By combining tarot, AI, and symbolic language, this project explores how identity, memory, and karma persist across incarnations.
+
+👁 Each session is part performance, part soul hacking. Whether you’re just curious or karmically desperate, Reality Cult offers a chance to glimpse your deeper storyline — and maybe even change it.
+
+Come with a question. Leave with a breadcrumb trail across lifetimes.
+
+Donation based</description>
+                <subtitle>All day long</subtitle>
+                <date>2025-08-12T12:00:00+02:00</date>
+                <start>12:00</start>
+                <duration>01:00</duration>
+            </event>
+            <event guid="76a48f18-71ad-5737-9adc-056024b8fa1a">
+                <title>Tarot-Astrology-Past Life readings by Reality Cult</title>
+                <track>Self Organized Sessions</track>
+                <abstract>A roaming soul scanner disguised as a mystic. Using tarot, astrology, and raw intuition (with AI lurking backstage), Reality Cult decodes the karmic code embedded in your lifetime’s glitchy script. Get a short reading, ask the universe anything, or unlock your reincarnation file. Past lives are real. You're probably someone weird.</abstract>
+                <url>https://reality-cult.com/</url>
+                <type>Other</type>
+                <persons>
+                    <person>Reality Cult</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: All ages
+Welcome to Reality Cult 3°33'33 — where mysticism meets metadata.
+
+Behind a veil of tarot cards, planetary symbols, and poetic AI, lies a karmic debugging tool for the disoriented soul. This interactive experience offers short readings for festival wanderers who suspect their existential bugs may come from earlier code — soul-code, that is.
+
+🜂 What to expect?
+
+Quick karmic scans to identify the emotional malware running your relationships and life loops
+
+Past life file access, revealing patterns, names, and forgotten scripts
+
+Open tarot protocol — ask the cards anything. Yes, anything.
+
+A ritualized fusion of astrology, intuition, and sacred satire
+
+Optional deep-dive sessions: for those who want to remember what they were doing in 1742, or why they always fall for the same archetype
+
+Since 2022, Reality Cult has been steadily accessing the Akashic Records (cosmic hard drive) and uncovering over 250 past life identities. By combining tarot, AI, and symbolic language, this project explores how identity, memory, and karma persist across incarnations.
+
+👁 Each session is part performance, part soul hacking. Whether you’re just curious or karmically desperate, Reality Cult offers a chance to glimpse your deeper storyline — and maybe even change it.
+
+Come with a question. Leave with a breadcrumb trail across lifetimes.
+
+Donation based</description>
+                <subtitle>All day long</subtitle>
+                <date>2025-08-12T13:00:00+02:00</date>
+                <start>13:00</start>
+                <duration>01:00</duration>
+            </event>
+            <event guid="dcb02f0f-58af-55dd-9f7d-811d78639fb2">
+                <title>Tarot-Astrology-Past Life readings by Reality Cult</title>
+                <track>Self Organized Sessions</track>
+                <abstract>A roaming soul scanner disguised as a mystic. Using tarot, astrology, and raw intuition (with AI lurking backstage), Reality Cult decodes the karmic code embedded in your lifetime’s glitchy script. Get a short reading, ask the universe anything, or unlock your reincarnation file. Past lives are real. You're probably someone weird.</abstract>
+                <url>https://reality-cult.com/</url>
+                <type>Other</type>
+                <persons>
+                    <person>Reality Cult</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: All ages
+Welcome to Reality Cult 3°33'33 — where mysticism meets metadata.
+
+Behind a veil of tarot cards, planetary symbols, and poetic AI, lies a karmic debugging tool for the disoriented soul. This interactive experience offers short readings for festival wanderers who suspect their existential bugs may come from earlier code — soul-code, that is.
+
+🜂 What to expect?
+
+Quick karmic scans to identify the emotional malware running your relationships and life loops
+
+Past life file access, revealing patterns, names, and forgotten scripts
+
+Open tarot protocol — ask the cards anything. Yes, anything.
+
+A ritualized fusion of astrology, intuition, and sacred satire
+
+Optional deep-dive sessions: for those who want to remember what they were doing in 1742, or why they always fall for the same archetype
+
+Since 2022, Reality Cult has been steadily accessing the Akashic Records (cosmic hard drive) and uncovering over 250 past life identities. By combining tarot, AI, and symbolic language, this project explores how identity, memory, and karma persist across incarnations.
+
+👁 Each session is part performance, part soul hacking. Whether you’re just curious or karmically desperate, Reality Cult offers a chance to glimpse your deeper storyline — and maybe even change it.
+
+Come with a question. Leave with a breadcrumb trail across lifetimes.
+
+Donation based</description>
+                <subtitle>All day long</subtitle>
+                <date>2025-08-12T14:00:00+02:00</date>
+                <start>14:00</start>
+                <duration>01:00</duration>
+            </event>
+            <event guid="b8c50fd8-88fd-531a-b149-68b6a93ca5e4">
+                <title>Tarot-Astrology-Past Life readings by Reality Cult</title>
+                <track>Self Organized Sessions</track>
+                <abstract>A roaming soul scanner disguised as a mystic. Using tarot, astrology, and raw intuition (with AI lurking backstage), Reality Cult decodes the karmic code embedded in your lifetime’s glitchy script. Get a short reading, ask the universe anything, or unlock your reincarnation file. Past lives are real. You're probably someone weird.</abstract>
+                <url>https://reality-cult.com/</url>
+                <type>Other</type>
+                <persons>
+                    <person>Reality Cult</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: All ages
+Welcome to Reality Cult 3°33'33 — where mysticism meets metadata.
+
+Behind a veil of tarot cards, planetary symbols, and poetic AI, lies a karmic debugging tool for the disoriented soul. This interactive experience offers short readings for festival wanderers who suspect their existential bugs may come from earlier code — soul-code, that is.
+
+🜂 What to expect?
+
+Quick karmic scans to identify the emotional malware running your relationships and life loops
+
+Past life file access, revealing patterns, names, and forgotten scripts
+
+Open tarot protocol — ask the cards anything. Yes, anything.
+
+A ritualized fusion of astrology, intuition, and sacred satire
+
+Optional deep-dive sessions: for those who want to remember what they were doing in 1742, or why they always fall for the same archetype
+
+Since 2022, Reality Cult has been steadily accessing the Akashic Records (cosmic hard drive) and uncovering over 250 past life identities. By combining tarot, AI, and symbolic language, this project explores how identity, memory, and karma persist across incarnations.
+
+👁 Each session is part performance, part soul hacking. Whether you’re just curious or karmically desperate, Reality Cult offers a chance to glimpse your deeper storyline — and maybe even change it.
+
+Come with a question. Leave with a breadcrumb trail across lifetimes.
+
+Donation based</description>
+                <subtitle>All day long</subtitle>
+                <date>2025-08-12T16:00:00+02:00</date>
+                <start>16:00</start>
+                <duration>01:00</duration>
+            </event>
+            <event guid="a2f68c57-4f63-51a4-8967-8db30a1b9305">
+                <title>Tarot-Astrology-Past Life readings by Reality Cult</title>
+                <track>Self Organized Sessions</track>
+                <abstract>A roaming soul scanner disguised as a mystic. Using tarot, astrology, and raw intuition (with AI lurking backstage), Reality Cult decodes the karmic code embedded in your lifetime’s glitchy script. Get a short reading, ask the universe anything, or unlock your reincarnation file. Past lives are real. You're probably someone weird.</abstract>
+                <url>https://reality-cult.com/</url>
+                <type>Other</type>
+                <persons>
+                    <person>Reality Cult</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: All ages
+Welcome to Reality Cult 3°33'33 — where mysticism meets metadata.
+
+Behind a veil of tarot cards, planetary symbols, and poetic AI, lies a karmic debugging tool for the disoriented soul. This interactive experience offers short readings for festival wanderers who suspect their existential bugs may come from earlier code — soul-code, that is.
+
+🜂 What to expect?
+
+Quick karmic scans to identify the emotional malware running your relationships and life loops
+
+Past life file access, revealing patterns, names, and forgotten scripts
+
+Open tarot protocol — ask the cards anything. Yes, anything.
+
+A ritualized fusion of astrology, intuition, and sacred satire
+
+Optional deep-dive sessions: for those who want to remember what they were doing in 1742, or why they always fall for the same archetype
+
+Since 2022, Reality Cult has been steadily accessing the Akashic Records (cosmic hard drive) and uncovering over 250 past life identities. By combining tarot, AI, and symbolic language, this project explores how identity, memory, and karma persist across incarnations.
+
+👁 Each session is part performance, part soul hacking. Whether you’re just curious or karmically desperate, Reality Cult offers a chance to glimpse your deeper storyline — and maybe even change it.
+
+Come with a question. Leave with a breadcrumb trail across lifetimes.
+
+Donation based</description>
+                <subtitle>All day long</subtitle>
+                <date>2025-08-12T17:00:00+02:00</date>
+                <start>17:00</start>
+                <duration>01:00</duration>
+            </event>
+            <event guid="f0dbad32-36a1-5bfb-afa0-dfb77fa3a22d">
+                <title>Tarot-Astrology-Past Life readings by Reality Cult</title>
+                <track>Self Organized Sessions</track>
+                <abstract>A roaming soul scanner disguised as a mystic. Using tarot, astrology, and raw intuition (with AI lurking backstage), Reality Cult decodes the karmic code embedded in your lifetime’s glitchy script. Get a short reading, ask the universe anything, or unlock your reincarnation file. Past lives are real. You're probably someone weird.</abstract>
+                <url>https://reality-cult.com/</url>
+                <type>Other</type>
+                <persons>
+                    <person>Reality Cult</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: All ages
+Welcome to Reality Cult 3°33'33 — where mysticism meets metadata.
+
+Behind a veil of tarot cards, planetary symbols, and poetic AI, lies a karmic debugging tool for the disoriented soul. This interactive experience offers short readings for festival wanderers who suspect their existential bugs may come from earlier code — soul-code, that is.
+
+🜂 What to expect?
+
+Quick karmic scans to identify the emotional malware running your relationships and life loops
+
+Past life file access, revealing patterns, names, and forgotten scripts
+
+Open tarot protocol — ask the cards anything. Yes, anything.
+
+A ritualized fusion of astrology, intuition, and sacred satire
+
+Optional deep-dive sessions: for those who want to remember what they were doing in 1742, or why they always fall for the same archetype
+
+Since 2022, Reality Cult has been steadily accessing the Akashic Records (cosmic hard drive) and uncovering over 250 past life identities. By combining tarot, AI, and symbolic language, this project explores how identity, memory, and karma persist across incarnations.
+
+👁 Each session is part performance, part soul hacking. Whether you’re just curious or karmically desperate, Reality Cult offers a chance to glimpse your deeper storyline — and maybe even change it.
+
+Come with a question. Leave with a breadcrumb trail across lifetimes.
+
+Donation based</description>
+                <subtitle>All day long</subtitle>
+                <date>2025-08-12T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>01:00</duration>
+            </event>
+            <event guid="32420d06-7866-5a0b-89f1-5c7a15012dcb">
+                <title>Tarot-Astrology-Past Life readings by Reality Cult</title>
+                <track>Self Organized Sessions</track>
+                <abstract>A roaming soul scanner disguised as a mystic. Using tarot, astrology, and raw intuition (with AI lurking backstage), Reality Cult decodes the karmic code embedded in your lifetime’s glitchy script. Get a short reading, ask the universe anything, or unlock your reincarnation file. Past lives are real. You're probably someone weird.</abstract>
+                <url>https://reality-cult.com/</url>
+                <type>Other</type>
+                <persons>
+                    <person>Reality Cult</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: All ages
+Welcome to Reality Cult 3°33'33 — where mysticism meets metadata.
+
+Behind a veil of tarot cards, planetary symbols, and poetic AI, lies a karmic debugging tool for the disoriented soul. This interactive experience offers short readings for festival wanderers who suspect their existential bugs may come from earlier code — soul-code, that is.
+
+🜂 What to expect?
+
+Quick karmic scans to identify the emotional malware running your relationships and life loops
+
+Past life file access, revealing patterns, names, and forgotten scripts
+
+Open tarot protocol — ask the cards anything. Yes, anything.
+
+A ritualized fusion of astrology, intuition, and sacred satire
+
+Optional deep-dive sessions: for those who want to remember what they were doing in 1742, or why they always fall for the same archetype
+
+Since 2022, Reality Cult has been steadily accessing the Akashic Records (cosmic hard drive) and uncovering over 250 past life identities. By combining tarot, AI, and symbolic language, this project explores how identity, memory, and karma persist across incarnations.
+
+👁 Each session is part performance, part soul hacking. Whether you’re just curious or karmically desperate, Reality Cult offers a chance to glimpse your deeper storyline — and maybe even change it.
+
+Come with a question. Leave with a breadcrumb trail across lifetimes.
+
+Donation based</description>
+                <subtitle>All day long</subtitle>
+                <date>2025-08-12T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>01:00</duration>
+            </event>
+            <event guid="e7131c23-5a9b-5233-b0b4-d4024015e8c7">
+                <title>Tarot-Astrology-Past Life readings by Reality Cult</title>
+                <track>Self Organized Sessions</track>
+                <abstract>A roaming soul scanner disguised as a mystic. Using tarot, astrology, and raw intuition (with AI lurking backstage), Reality Cult decodes the karmic code embedded in your lifetime’s glitchy script. Get a short reading, ask the universe anything, or unlock your reincarnation file. Past lives are real. You're probably someone weird.</abstract>
+                <url>https://reality-cult.com/</url>
+                <type>Other</type>
+                <persons>
+                    <person>Reality Cult</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: All ages
+Welcome to Reality Cult 3°33'33 — where mysticism meets metadata.
+
+Behind a veil of tarot cards, planetary symbols, and poetic AI, lies a karmic debugging tool for the disoriented soul. This interactive experience offers short readings for festival wanderers who suspect their existential bugs may come from earlier code — soul-code, that is.
+
+🜂 What to expect?
+
+Quick karmic scans to identify the emotional malware running your relationships and life loops
+
+Past life file access, revealing patterns, names, and forgotten scripts
+
+Open tarot protocol — ask the cards anything. Yes, anything.
+
+A ritualized fusion of astrology, intuition, and sacred satire
+
+Optional deep-dive sessions: for those who want to remember what they were doing in 1742, or why they always fall for the same archetype
+
+Since 2022, Reality Cult has been steadily accessing the Akashic Records (cosmic hard drive) and uncovering over 250 past life identities. By combining tarot, AI, and symbolic language, this project explores how identity, memory, and karma persist across incarnations.
+
+👁 Each session is part performance, part soul hacking. Whether you’re just curious or karmically desperate, Reality Cult offers a chance to glimpse your deeper storyline — and maybe even change it.
+
+Come with a question. Leave with a breadcrumb trail across lifetimes.
+
+Donation based</description>
+                <subtitle>All day long</subtitle>
+                <date>2025-08-12T21:00:00+02:00</date>
+                <start>21:00</start>
+                <duration>01:00</duration>
+            </event>
+            <event guid="399484e5-10da-5a3e-a670-5a00e6942f2b">
+                <title>Tarot-Astrology-Past Life readings by Reality Cult</title>
+                <track>Self Organized Sessions</track>
+                <abstract>A roaming soul scanner disguised as a mystic. Using tarot, astrology, and raw intuition (with AI lurking backstage), Reality Cult decodes the karmic code embedded in your lifetime’s glitchy script. Get a short reading, ask the universe anything, or unlock your reincarnation file. Past lives are real. You're probably someone weird.</abstract>
+                <url>https://reality-cult.com/</url>
+                <type>Other</type>
+                <persons>
+                    <person>Reality Cult</person>
+                </persons>
+                <language>de</language>
+                <description>Age range: All ages
+Welcome to Reality Cult 3°33'33 — where mysticism meets metadata.
+
+Behind a veil of tarot cards, planetary symbols, and poetic AI, lies a karmic debugging tool for the disoriented soul. This interactive experience offers short readings for festival wanderers who suspect their existential bugs may come from earlier code — soul-code, that is.
+
+🜂 What to expect?
+
+Quick karmic scans to identify the emotional malware running your relationships and life loops
+
+Past life file access, revealing patterns, names, and forgotten scripts
+
+Open tarot protocol — ask the cards anything. Yes, anything.
+
+A ritualized fusion of astrology, intuition, and sacred satire
+
+Optional deep-dive sessions: for those who want to remember what they were doing in 1742, or why they always fall for the same archetype
+
+Since 2022, Reality Cult has been steadily accessing the Akashic Records (cosmic hard drive) and uncovering over 250 past life identities. By combining tarot, AI, and symbolic language, this project explores how identity, memory, and karma persist across incarnations.
+
+👁 Each session is part performance, part soul hacking. Whether you’re just curious or karmically desperate, Reality Cult offers a chance to glimpse your deeper storyline — and maybe even change it.
+
+Come with a question. Leave with a breadcrumb trail across lifetimes.
+
+Donation based</description>
+                <subtitle>All day long</subtitle>
+                <date>2025-08-12T22:00:00+02:00</date>
+                <start>22:00</start>
+                <duration>01:00</duration>
+            </event>
+        </room>
         <room name="undetermined" guid="ec5e91be-d46f-5d24-aa7b-7cf8e7742744">
             <event guid="d3955452-461d-5b0f-96e0-3e3ac7dbad7a">
                 <title>Healthcare Meetup: For those working for or in healthcare</title>
@@ -13959,45 +14413,6 @@ irc: hackint/#chaostal</description>
                 <description>Generated time to make session visible, might need an actual date and time
 Age range: All ages
 Just drop by and take a look at the pictures and have a chat if you like</description>
-            </event>
-            <event guid="e4d209ee-3e52-5be5-9282-14636dfa696f">
-                <title>Tarot-Astrology-Past Life readings by Reality Cult</title>
-                <track>Self Organized Sessions</track>
-                <abstract>A roaming soul scanner disguised as a mystic. Using tarot, astrology, and raw intuition (with AI lurking backstage), Reality Cult decodes the karmic code embedded in your lifetime’s glitchy script. Get a short reading, ask the universe anything, or unlock your reincarnation file. Past lives are real. You're probably someone weird.</abstract>
-                <url>https://reality-cult.com/</url>
-                <type>Other</type>
-                <persons>
-                    <person>Reality Cult</person>
-                </persons>
-                <language>de</language>
-                <date>2025-08-13T00:00:00+02:00</date>
-                <time>00:00</time>
-                <duration>01:00</duration>
-                <description>Generated time to make session visible, might need an actual date and time
-Age range: All ages
-Welcome to Reality Cult 3°33'33 — where mysticism meets metadata.
-
-Behind a veil of tarot cards, planetary symbols, and poetic AI, lies a karmic debugging tool for the disoriented soul. This interactive experience offers short readings for festival wanderers who suspect their existential bugs may come from earlier code — soul-code, that is.
-
-🜂 What to expect?
-
-Quick karmic scans to identify the emotional malware running your relationships and life loops
-
-Past life file access, revealing patterns, names, and forgotten scripts
-
-Open tarot protocol — ask the cards anything. Yes, anything.
-
-A ritualized fusion of astrology, intuition, and sacred satire
-
-Optional deep-dive sessions: for those who want to remember what they were doing in 1742, or why they always fall for the same archetype
-
-Since 2022, Reality Cult has been steadily accessing the Akashic Records (cosmic hard drive) and uncovering over 250 past life identities. By combining tarot, AI, and symbolic language, this project explores how identity, memory, and karma persist across incarnations.
-
-👁 Each session is part performance, part soul hacking. Whether you’re just curious or karmically desperate, Reality Cult offers a chance to glimpse your deeper storyline — and maybe even change it.
-
-Come with a question. Leave with a breadcrumb trail across lifetimes.
-
-Donation based</description>
             </event>
             <event guid="40dd7c6c-3487-51df-883c-cb47f438dc45">
                 <title>Sleeping Hackers &amp; Overnight Fun</title>
