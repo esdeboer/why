@@ -2726,6 +2726,28 @@ The prices in the yellow boxes are the materials costs for participating in the 
         <duration>02:00</duration>
       </event>
     </room>
+    <room name="Village:Librarians" guid="265e02d8-bc46-590f-9f8d-e4896973f897">
+      <event guid="b90618ad-8c52-597e-b981-cb0eeba14fb6">
+        <title>Movie showing: The Room</title>
+        <track>Self Organized Sessions</track>
+        <abstract>We're showing the cult masterpiece by Tommy Wiseau tonight at the Library</abstract>
+        <type>Movie</type>
+        <persons>
+          <person>Synon</person>
+        </persons>
+        <language>en</language>
+        <description>Age range: 16+
+Oh hi Mark. Please join us at the Library Village tonight for a showing of the cult classic The Room, the movie so famously terrible you can't help but love it. Bring spoons.
+
+
+'''Audio:''' English
+
+'''Subtitles:''' English</description>
+        <date>2025-08-11T22:30:00+02:00</date>
+        <start>22:30</start>
+        <duration>01:40</duration>
+      </event>
+    </room>
     <room name="Village:Pancake" guid="52612cea-1526-511d-bb5c-7c56b1d19fad">
       <event guid="e4c58c1c-d859-5a8d-8ef7-39e1e1e06b64">
         <title>Eat pancakes, Sleep, Hack, Repeat</title>
@@ -2916,14 +2938,16 @@ If you have your own telescope, bring it too! Let's check out each other's gear.
       <event guid="d5c89c8b-7c72-576c-bb8a-ca204c0f2d89">
         <title>KubeVenom</title>
         <track>Self Organized Sessions</track>
-        <abstract>Talk about building a C2 framework for attacking kubernetes, pipelines and cloud environments</abstract>
+        <abstract>(CANCELED)Talk about building a C2 framework for attacking kubernetes, pipelines and cloud environments</abstract>
         <url>https://wiki.why2025.org/Village:Green_Ninjas</url>
         <type>Talk</type>
         <persons>
           <person>War3nd0z</person>
         </persons>
         <language>en</language>
-        <description>Age range: 16+</description>
+        <description>Age range: 16+
+Talk is Canceled</description>
+        <subtitle>CANCELED</subtitle>
         <date>2025-08-11T16:00:00+02:00</date>
         <start>16:00</start>
         <duration>00:30</duration>
@@ -2987,6 +3011,44 @@ This session will take place in the hackcenter of the [https://map.why2025.org/?
         <date>2025-08-11T19:00:00+02:00</date>
         <start>19:00</start>
         <duration>01:30</duration>
+      </event>
+      <event guid="821803b6-9382-52aa-be96-f7d0189dca53">
+        <title>Goth Party @ λ-village</title>
+        <track>Self Organized Sessions</track>
+        <abstract>Trans woman's gothic party w/ political stuff</abstract>
+        <type>Outside</type>
+        <persons>
+          <person>Meglyne</person>
+        </persons>
+        <language>de</language>
+        <description>Age range: 16+
+Where the goths at? 
+
+Freshly learned how to mix and I'm excited to share the music I love :3
+
+Let the french tranarchist lesbian lead you to party and listen to cool stuff 💜 :3c
+
+You can expect, among others and in no particular order:
+* Post-Punk
+* Darkwave
+* New-Wave
+* Coldwave
+* Techno
+* Hyperpop
+* Girls screaming in a microphone
+* Feminism
+* Trans rights
+* Lesbianism
+* Some French lyrics
+
+This event is open to every soul (especially my fellow LGBTQIA+ people) enjoying darker music! No dress code, obviously, but feel free to dress up to the nines! 
+
+Again, and for legal reasons (allegedly):
+
+&lt;big&gt;'''M'''ay '''C'''ontain '''F'''rench&lt;/big&gt;</description>
+        <date>2025-08-11T20:00:00+02:00</date>
+        <start>20:00</start>
+        <duration>03:00</duration>
       </event>
     </room>
   </day>

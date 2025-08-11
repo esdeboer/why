@@ -1250,6 +1250,16 @@
     "type": "Meeting"
   },
   {
+    "id": "b90618ad-8c52-597e-b981-cb0eeba14fb6",
+    "title": "Movie showing: The Room",
+    "description": "Age range: 16+\nOh hi Mark. Please join us at the Library Village tonight for a showing of the cult classic The Room, the movie so famously terrible you can't help but love it. Bring spoons.\n\n\n'''Audio:''' English\n\n'''Subtitles:''' English",
+    "start": "2025-08-11T22:30:00+02:00",
+    "end": "2025-08-12T00:10:00+02:00",
+    "room": "Village:Librarians",
+    "url": "",
+    "type": "Movie"
+  },
+  {
     "id": "e4c58c1c-d859-5a8d-8ef7-39e1e1e06b64",
     "title": "Eat pancakes, Sleep, Hack, Repeat",
     "description": "Age range: All ages\n==== We'll be baking pancakes every main event day from 16:00 - 18:00, Bring Your Own Plate! ====\n\nPlease drop by and have a pancake! We're providing the camp with as much pancakes we can physically bake, as long as our supplies last ;-)\n\nThe Pancake village will be right next to the (main) Andromeda track.\n\n'''BYOP''' (Bring your own plate) and enjoy some pancakes with us!",
@@ -1372,7 +1382,7 @@
   {
     "id": "d5c89c8b-7c72-576c-bb8a-ca204c0f2d89",
     "title": "KubeVenom",
-    "description": "Age range: 16+",
+    "description": "Age range: 16+\nTalk is Canceled",
     "start": "2025-08-11T16:00:00+02:00",
     "end": "2025-08-11T16:30:00+02:00",
     "room": "undetermined",
@@ -1408,6 +1418,16 @@
     "room": "undetermined",
     "url": "https://matrix.org/blog/2025/07/security-predisclosure/",
     "type": "Hands-On"
+  },
+  {
+    "id": "821803b6-9382-52aa-be96-f7d0189dca53",
+    "title": "Goth Party @ \u03bb-village",
+    "description": "Age range: 16+\nWhere the goths at? \n\nFreshly learned how to mix and I'm excited to share the music I love :3\n\nLet the french tranarchist lesbian lead you to party and listen to cool stuff \ud83d\udc9c :3c\n\nYou can expect, among others and in no particular order:\n* Post-Punk\n* Darkwave\n* New-Wave\n* Coldwave\n* Techno\n* Hyperpop\n* Girls screaming in a microphone\n* Feminism\n* Trans rights\n* Lesbianism\n* Some French lyrics\n\nThis event is open to every soul (especially my fellow LGBTQIA+ people) enjoying darker music! No dress code, obviously, but feel free to dress up to the nines! \n\nAgain, and for legal reasons (allegedly):\n\n<big>'''M'''ay '''C'''ontain '''F'''rench</big>",
+    "start": "2025-08-11T20:00:00+02:00",
+    "end": "2025-08-11T23:00:00+02:00",
+    "room": "undetermined",
+    "url": "",
+    "type": "Outside"
   },
   {
     "id": "20e7c0cc-fb48-57a5-b3e2-fb1d7c18d3b9",
