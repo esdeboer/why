@@ -139,8 +139,11 @@ def createfrabxml(xml):
                     ET.SubElement(event, "date").text =  timewithzone.strftime(formatstring)
                     ET.SubElement(event, "start").text = timewithzone.strftime("%H:%M")
                 elif line.startswith("|Has duration"):
-                    ET.SubElement(event, "duration").text = strftime("%H:%M", gmtime(
-                        int(line.removeprefix("|Has duration=")) * 60))
+                    try:
+                        ET.SubElement(event, "duration").text = strftime("%H:%M", gmtime(
+                            int(line.removeprefix("|Has duration=")) * 60))
+                    except ValueError as e:
+                        print("Invalid event, has wrong duration: " + title + " " + line)
                 elif line.startswith("|Has session location"):
                     room = line.removeprefix("|Has session location=")
                 elif line.startswith("|Has subtitle"):
