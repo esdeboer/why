@@ -12315,6 +12315,24 @@ If you're bring a Linux laptop or VM, you should be able to do the challenges yo
                 <duration>01:00</duration>
             </event>
         </room>
+        <room name="Village:Schaffenburg" guid="601e6620-15f2-503f-878a-6264c23b6ddb">
+            <event guid="26e27489-12fb-51e3-ac5b-ddd91837a6a2">
+                <title>Framework Laptop Meetup</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Knowledge &amp; Experience Exchange for users of and people interested in the popular modular notebook computers</abstract>
+                <type>Meeting</type>
+                <persons>
+                    <person>Fraxinas</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: All ages
+Let's meet up and talk about our frameworks! I brought some stickers and lanyards too.
+Meeting point: behind the white Schaffenburg pavillon in Cluster Mauldasch</description>
+                <date>2025-08-11T17:45:00+02:00</date>
+                <start>17:45</start>
+                <duration>00:30</duration>
+            </event>
+        </room>
         <room name="Village:Selfnet" guid="09063e4a-e3a4-5b14-910d-7998b3dfbbae">
             <event guid="d0f54932-9367-56d7-b7ee-277c949d5ab6">
                 <title>Fiber splicing workshop</title>
