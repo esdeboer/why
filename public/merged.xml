@@ -12550,6 +12550,22 @@ Again, and for legal reasons (allegedly):
                 <start>20:00</start>
                 <duration>03:00</duration>
             </event>
+            <event guid="223deb3d-4018-53d8-9de6-d8cb45368016">
+                <title>Hacky Rides Meetup</title>
+                <track>Self Organized Sessions</track>
+                <abstract>Show off your crazy contraption, exchange some tips &amp; tricks and ride around the camp together.</abstract>
+                <url>https://signal.group/#CjQKINXzUeRgmDiOle-AYGGJgSF_ey2fmTRsDCPJ8t-3whGbEhBUdd72WdlUZce1aa-9yPJ5</url>
+                <type>Meeting</type>
+                <persons>
+                    <person>LeoDJ</person>
+                </persons>
+                <language>en</language>
+                <description>Age range: Aimed at adults but supervised kids welcome.</description>
+                <subtitle>Location: Aurora (near Main Bar)</subtitle>
+                <date>2025-08-11T22:00:00+02:00</date>
+                <start>22:00</start>
+                <duration>01:00</duration>
+            </event>
         </room>
     </day>
     <day index="6" date="2025-08-12" start="2025-08-12T04:00:00+02:00" end="2025-08-13T03:59:00+02:00">
