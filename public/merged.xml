@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <schedule>
     <generator name="pretalx" version="2025.1.0" />
-    <version>No More Energy Hacking</version>
+    <version>LastDayLastMinute</version>
     <conference>
         <title>WHY2025 with Self Organized Sessions</title>
         <acronym>why2025</acronym>
@@ -2678,7 +2678,9 @@ Serious trigger warning. This documentary will show white supremacist content.</
                     <person id="216">Peter van Eijk</person>
                 </persons>
                 <language>en</language>
-                <description>As a technical person, you work with complicated and often important matters. To explain these, get your message across, raise your value and get a better job, it is essential that you can communicate your message to a wider audience. If you cannot effectively explain your solution or your issues to other people you will end up frustrated and unrecognized. Even for educating and training your peers, public speaking skills are very important.
+                <description>Resources at https://digitalinfrastructures.nl/why2025/
+
+As a technical person, you work with complicated and often important matters. To explain these, get your message across, raise your value and get a better job, it is essential that you can communicate your message to a wider audience. If you cannot effectively explain your solution or your issues to other people you will end up frustrated and unrecognized. Even for educating and training your peers, public speaking skills are very important.
 
 In this workshop, you will improve your public speaking skills. We will practice and evaluate and practice some more.
 
@@ -5617,7 +5619,9 @@ In the talk I will show how ZT is the progression of many security ideas that yo
                     <person id="216">Peter van Eijk</person>
                 </persons>
                 <language>en</language>
-                <description>Zero Trust (ZT) is a security paradigm gaining traction, especially in the US defense community. The underlying idea is to reduce implicit trust as much as possible. This makes great sense from a security perspective. 
+                <description>Presentation at https://digitalinfrastructures.nl/why2025/
+
+Zero Trust (ZT) is a security paradigm gaining traction, especially in the US defense community. The underlying idea is to reduce implicit trust as much as possible. This makes great sense from a security perspective. 
 Its implementation is daunting though, because it is not about dropping a new product in the security landscape. Instead, it is more an approach and a process. It is still hard to prioritize ZT and to retrofit it to existing system architectures.
 In the talk I will show how ZT is the progression of many security ideas that you may already be familiar with, and how you can rebrand and review what you are already doing to show that you are making progress.
 
@@ -9808,7 +9812,9 @@ This project concluded in a wide-ranging coordinated vulnerability disclosure in
                     <person id="216">Peter van Eijk</person>
                 </persons>
                 <language>en</language>
-                <description>You have seen many diagrams of computer and information systems in your career. They have been around since the early days of computing. They can be useful, but there are a few typical problems with them:
+                <description>Presentation at https://digitalinfrastructures.nl/why2025/
+
+You have seen many diagrams of computer and information systems in your career. They have been around since the early days of computing. They can be useful, but there are a few typical problems with them:
 •	They are drawn with obscure symbols that are only understood by architects
 •	They are drawn in an inconsistent way
 •	They are not used to their fullest potential.
@@ -10722,35 +10728,6 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <url>https://program.why2025.org/why2025/talk/JKR3BZ/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/JKR3BZ/feedback/</feedback_url>
             </event>
-            <event guid="dc588f63-6190-506d-bf55-b9671a49c1fc" id="384">
-                <room>Family Zone</room>
-                <title>BattleBots</title>
-                <subtitle />
-                <type>Entertainment</type>
-                <date>2025-08-11T15:00:00+02:00</date>
-                <start>15:00</start>
-                <duration>01:00</duration>
-                <abstract>First contact with combat robotics.
-
-We'll teach you how to drive a combat robot and you get to experience
-driving it in an arena. If there is interest we'll setup a competition.
-
-There are several combat robots at Why2025, we would love to show them off!</abstract>
-                <slug>why2025-384-battlebots</slug>
-                <track>Villages</track>
-                <persons>
-                    
-                </persons>
-                <language>en</language>
-                <recording>
-                    <license />
-                    <optout>true</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/V7EHXS/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/V7EHXS/feedback/</feedback_url>
-            </event>
             <event guid="a2ceeb30-1644-59bb-a8e8-5ba3fd68ba71" id="364">
                 <room>Family Zone</room>
                 <title>LEGO Letterpress</title>
@@ -10784,6 +10761,35 @@ aansluiten om je eigen tekst of beeld te zetten en te drukken.</description>
                 <attachments />
                 <url>https://program.why2025.org/why2025/talk/ZVKWUM/</url>
                 <feedback_url>https://program.why2025.org/why2025/talk/ZVKWUM/feedback/</feedback_url>
+            </event>
+            <event guid="dc588f63-6190-506d-bf55-b9671a49c1fc" id="384">
+                <room>Family Zone</room>
+                <title>BattleBots</title>
+                <subtitle />
+                <type>Entertainment</type>
+                <date>2025-08-11T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>01:00</duration>
+                <abstract>First contact with combat robotics.
+
+We'll teach you how to drive a combat robot and you get to experience
+driving it in an arena. If there is interest we'll setup a competition.
+
+There are several combat robots at Why2025, we would love to show them off!</abstract>
+                <slug>why2025-384-battlebots</slug>
+                <track>Villages</track>
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <recording>
+                    <license />
+                    <optout>true</optout>
+                </recording>
+                <links />
+                <attachments />
+                <url>https://program.why2025.org/why2025/talk/V7EHXS/</url>
+                <feedback_url>https://program.why2025.org/why2025/talk/V7EHXS/feedback/</feedback_url>
             </event>
             <event guid="6e2fdf91-f792-518c-8f23-62d66203a407" id="382">
                 <room>Family Zone</room>
@@ -11305,8 +11311,8 @@ By: Bianca Kremer and Annet Bronsema</description>
                 <title>Hacker nostalgia</title>
                 <subtitle />
                 <type>Talk (25 minutes)</type>
-                <date>2025-08-11T20:00:00+02:00</date>
-                <start>20:00</start>
+                <date>2025-08-11T18:00:00+02:00</date>
+                <start>18:00</start>
                 <duration>00:25</duration>
                 <abstract>The VPRO kept newspaper clippings about hacking, hackers, and computer crime, and I was able to salvage them from the trash. Titles like "Far too many horny nerds at What the Hack," "The contemporary criminal uses a screen," and "Kurnikova computer virus comes from Sneek" inspired me to create this "Hacker nostalgia” talk that is guaranteed to make viewers feel either "old" or "young.”</abstract>
                 <slug>why2025-346-1-hacker-nostalgia</slug>
@@ -12130,6 +12136,8 @@ The prices in the yellow boxes are the materials costs for participating in the 
 ** I will bring some broken PCBs as well
 * If you prefer your own tools, bring them (soldering iron, tweezers, flux, ...)
 * If you got time, watch/skip through this video before: https://media.ccc.de/v/gpn22-317-42-tricks-frs-smd-lten-nummer-23-wird-sie-berraschen-
+
+  * Slide:  [[File:WHY2025 rework slides.odp|thumb]]
 
 &lt;br&gt;
 &lt;hr&gt;
@@ -13071,41 +13079,6 @@ Warning may contain hacker humor.</description>
             </event>
         </room>
         <room name="Delphinus" guid="fec936b1-677b-5651-ab21-30727f668d08">
-            <event guid="b44b4648-9fbe-5212-bc81-23bc04e97460" id="157">
-                <room>Delphinus</room>
-                <title>My journey into cloud security</title>
-                <subtitle />
-                <type>Talk (50 minutes)</type>
-                <date>2025-08-12T11:00:00+02:00</date>
-                <start>11:00</start>
-                <duration>00:50</duration>
-                <abstract>An inside look at the challenges I faced while establishing security in a cloud-native environment within a fast-growing fintech company.</abstract>
-                <slug>why2025-157-my-journey-into-cloud-security</slug>
-                <track>The square hole</track>
-                <persons>
-                    <person id="175">Merlos</person>
-                </persons>
-                <language>en</language>
-                <description>The talk is about four years of hands-on experience as a CISO in a fast growing fintech company. During this time, I've had the unique opportunity to build an effective and operational security structure from the ground up within a completely cloud-based setup.
-
-My experience provides a practical roadmap for understanding the critical nuances of approaching security in a full-cloud, product-driven organization. 
-
-We'll delve into topics like:
-* The initial complexities: What happens when you're securing infrastructure that's always changing?
-* Navigating DevSecOps: How do you embed security seamlessly into a fast-paced development culture?
-* Real-world pitfalls: Concrete examples of challenges faced and how we overcame them.
-* Building an effective security posture: Practical insights into creating an operational security framework that actually works in the cloud.
-
-The goal is to share actionable takeaways and lessons learned, helping others anticipate and navigate similar challenges in their own cloud security journeys.</description>
-                <recording>
-                    <license />
-                    <optout>false</optout>
-                </recording>
-                <links />
-                <attachments />
-                <url>https://program.why2025.org/why2025/talk/VJVMV9/</url>
-                <feedback_url>https://program.why2025.org/why2025/talk/VJVMV9/feedback/</feedback_url>
-            </event>
             <event guid="80939019-18bd-55b7-ad62-6e4e29392553" id="26">
                 <room>Delphinus</room>
                 <title>ISMS-oxide and you (Information-Security-Management-System for hackers)</title>
