@@ -5705,7 +5705,7 @@ Then, we will look at one of the most impactful applications. Quantum computers 
 
   * **Sensible Dinosaur.** What if we put a (monetary) value on unexcavated fossil fuels?  Would we then be able to resist digging it up and burning it?  If we created such a money, could it pay for climate debt?  Perhaps to correct the inequalities caused by climate change?  Or maybe to pay for CO₂ recovery measures?
 
-Essential to all these currencies are a few guiding principles, with details in the [Book of Sensible Taler](http://book.sensible-taler.org/):
+Essential to all these currencies are a few guiding principles, with details in the [Book of Sensible Taler](https://taler-energy-2b84b7.gitlab.io/index.html):
 
  1. Currencies must be **fully backed** by an underlying value; this leaves no room for inflation
  2. The underlying value cannot be borrowed, so **no interest** can be charged.  Deep **participation with profit-sharing** offers a substitute investment mechanism.
