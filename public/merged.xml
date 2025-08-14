@@ -9080,7 +9080,17 @@ that they were sued by an animal rights org for facilitating fraud by puppy mill
                     <person id="183">Thijs</person>
                 </persons>
                 <language>en</language>
-                <description>Seven years ago, Spectre and Meltdown were announced. These two vulnerabilities showed that instructions executed by the CPU might accidentally access secret data. This secret data can contain files cached from disk, cryptographic keys, private information, or anything else that might be stored in memory. An attacker can use Spectre to learn the value of that secret data, even though the attacker is not supposed to have access to it. 
+                <description># Additional information after the public disclosure
+This talk was the public disclosure of "L1TF Reloaded", a vulnerability that combines two old hardware vulnerabilities, L1TF and Half-Spectre, to bypass commonly deployed software mitigations. During the talk, we showed a demo of how we were able to leak the private key of on an nginx server in a victim VM under noisy conditions at a real public cloud provider, without detailed knowledge of either host or guest, and without interacting with the victim at all. Google Cloud awarded our research with a $151,515 bug bounty, their highest bounty yet.
+
+We showed that the attack is realistic even in one of today’s biggest commercial clouds. Simultaneous with the this talk, [we released an anonymous pre-print with all the technical details](https://openreview.net/forum?id=4tDNvQe2G0).
+
+Our industry partners, [Google](https://cloud.google.com/compute/docs/security-bulletins#gcp-2025-042) and [Amazon](https://aws.amazon.com/blogs/security/ec2-defenses-against-l1tf-reloaded/), released their responses at the same time.
+
+Unfortunately, the talk has not been recorded to protect the anonymity of the research team.
+
+# Original description
+Seven years ago, Spectre and Meltdown were announced. These two vulnerabilities showed that instructions executed by the CPU might accidentally access secret data. This secret data can contain files cached from disk, cryptographic keys, private information, or anything else that might be stored in memory. An attacker can use Spectre to learn the value of that secret data, even though the attacker is not supposed to have access to it. 
 
 Even though this sounds problematic, there is a reason why these type of vulnerabilities haven't had a significant real-world impact. Mitigations make it much harder to pull off, and an attacker needs a form of remote code execution anyway to trigger the relevant CPU instructions. If an attacker can already execute arbitrary code, then Spectre is probably not what you should be worried about. For regular users, these CPU vulnerabilities are likely not that much of a threat.
 
